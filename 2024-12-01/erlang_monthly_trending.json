@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,181",
+    "fork": "2,246",
+    "timestamp": "2024-12-01T09:30:44.661457",
+    "stars_today": "150 stars this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,372",
+    "fork": "278",
+    "timestamp": "2024-12-01T09:30:44.661767",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "251",
+    "fork": "83",
+    "timestamp": "2024-12-01T09:30:44.662062",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2024-12-01T09:30:44.662391",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,558",
+    "fork": "349",
+    "timestamp": "2024-12-01T09:30:44.662681",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "kafka4beam/brod",
+    "href": "https://github.com/kafka4beam/brod",
+    "about": "Apache Kafka client library for Erlang/Elixir",
+    "star": "667",
+    "fork": "203",
+    "timestamp": "2024-12-01T09:30:44.662968",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "905",
+    "fork": "230",
+    "timestamp": "2024-12-01T09:30:44.663254",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-01T09:30:44.663554",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,425",
+    "fork": "2,956",
+    "timestamp": "2024-12-01T09:30:44.663846",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "421",
+    "fork": "162",
+    "timestamp": "2024-12-01T09:30:44.664136",
+    "stars_today": "5 stars this month"
+  }
+]

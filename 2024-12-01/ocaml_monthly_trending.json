@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "10,728",
+    "fork": "627",
+    "timestamp": "2024-12-01T09:31:00.052649",
+    "stars_today": "166 stars this month"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,003",
+    "fork": "2,017",
+    "timestamp": "2024-12-01T09:31:00.052975",
+    "stars_today": "52 stars this month"
+  },
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,515",
+    "fork": "1,110",
+    "timestamp": "2024-12-01T09:31:00.053273",
+    "stars_today": "62 stars this month"
+  },
+  {
+    "repo": "janestreet/magic-trace",
+    "href": "https://github.com/janestreet/magic-trace",
+    "about": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "star": "4,701",
+    "fork": "93",
+    "timestamp": "2024-12-01T09:31:00.053566",
+    "stars_today": "95 stars this month"
+  },
+  {
+    "repo": "bcpierce00/unison",
+    "href": "https://github.com/bcpierce00/unison",
+    "about": "Unison file synchronizer",
+    "star": "4,210",
+    "fork": "236",
+    "timestamp": "2024-12-01T09:31:00.053856",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "astrada/google-drive-ocamlfuse",
+    "href": "https://github.com/astrada/google-drive-ocamlfuse",
+    "about": "FUSE filesystem over Google Drive",
+    "star": "5,597",
+    "fork": "354",
+    "timestamp": "2024-12-01T09:31:00.054146",
+    "stars_today": "43 stars this month"
+  },
+  {
+    "repo": "semgrep/ocaml-tree-sitter-core",
+    "href": "https://github.com/semgrep/ocaml-tree-sitter-core",
+    "about": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+    "star": "22",
+    "fork": "2",
+    "timestamp": "2024-12-01T09:31:00.054435",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "MinaProtocol/mina",
+    "href": "https://github.com/MinaProtocol/mina",
+    "about": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+    "star": "1,997",
+    "fork": "528",
+    "timestamp": "2024-12-01T09:31:00.054725",
+    "stars_today": "8 stars this month"
+  },
+  {
+    "repo": "ocaml/opam",
+    "href": "https://github.com/ocaml/opam",
+    "about": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+    "star": "1,251",
+    "fork": "365",
+    "timestamp": "2024-12-01T09:31:00.055019",
+    "stars_today": "11 stars this month"
+  }
+]
