@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,393",
+    "fork": "191",
+    "timestamp": "2024-12-02T02:27:55.585749",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "7,290",
+    "fork": "2,658",
+    "timestamp": "2024-12-02T02:27:55.586082",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "10,814",
+    "fork": "2,095",
+    "timestamp": "2024-12-02T02:27:55.586404",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,160",
+    "fork": "407",
+    "timestamp": "2024-12-02T02:27:55.586723",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "17,684",
+    "fork": "1,251",
+    "timestamp": "2024-12-02T02:27:55.587011",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,222",
+    "fork": "191",
+    "timestamp": "2024-12-02T02:27:55.587341",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "7,494",
+    "fork": "279",
+    "timestamp": "2024-12-02T02:27:55.587672",
+    "stars_today": "195 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,804",
+    "fork": "69",
+    "timestamp": "2024-12-02T02:27:55.587993",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "3,938",
+    "fork": "227",
+    "timestamp": "2024-12-02T02:27:55.588278",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,231",
+    "fork": "241",
+    "timestamp": "2024-12-02T02:27:55.588591",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "andrewferrier/debugprint.nvim",
+    "href": "https://github.com/andrewferrier/debugprint.nvim",
+    "about": "Debugging in NeoVim the print() way!",
+    "star": "366",
+    "fork": "23",
+    "timestamp": "2024-12-02T02:27:55.588878",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "akinsho/bufferline.nvim",
+    "href": "https://github.com/akinsho/bufferline.nvim",
+    "about": "A snazzy bufferline for Neovim",
+    "star": "3,561",
+    "fork": "198",
+    "timestamp": "2024-12-02T02:27:55.589193",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "esx-framework/esx_core",
+    "href": "https://github.com/esx-framework/esx_core",
+    "about": "Official Repo For core resources for esx-legacy",
+    "star": "378",
+    "fork": "746",
+    "timestamp": "2024-12-02T02:27:55.589478",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "kevinhwang91/nvim-ufo",
+    "href": "https://github.com/kevinhwang91/nvim-ufo",
+    "about": "Not UFO in the sky, but an ultra fold in Neovim.",
+    "star": "2,386",
+    "fork": "49",
+    "timestamp": "2024-12-02T02:27:55.589761",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "mistweaverco/kulala.nvim",
+    "href": "https://github.com/mistweaverco/kulala.nvim",
+    "about": "A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
+    "star": "695",
+    "fork": "34",
+    "timestamp": "2024-12-02T02:27:55.590046",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "16,119",
+    "fork": "842",
+    "timestamp": "2024-12-02T02:27:55.590334",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-web-devicons",
+    "href": "https://github.com/nvim-tree/nvim-web-devicons",
+    "about": "lua `fork` of vim-web-devicons for neovim",
+    "star": "2,124",
+    "fork": "186",
+    "timestamp": "2024-12-02T02:27:55.590619",
+    "stars_today": "12 stars this week"
+  }
+]

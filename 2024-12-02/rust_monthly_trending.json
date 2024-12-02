@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "cloudflare/pingora",
+    "href": "https://github.com/cloudflare/pingora",
+    "about": "A library for building fast, reliable and evolvable network services.",
+    "star": "22,608",
+    "fork": "1,254",
+    "timestamp": "2024-12-02T02:28:06.456908",
+    "stars_today": "828 stars this month"
+  },
+  {
+    "repo": "solana-labs/solana",
+    "href": "https://github.com/solana-labs/solana",
+    "about": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "star": "13,342",
+    "fork": "4,350",
+    "timestamp": "2024-12-02T02:28:06.457224",
+    "stars_today": "264 stars this month"
+  },
+  {
+    "repo": "zellij-org/zellij",
+    "href": "https://github.com/zellij-org/zellij",
+    "about": "A terminal workspace with batteries included",
+    "star": "22,061",
+    "fork": "674",
+    "timestamp": "2024-12-02T02:28:06.457520",
+    "stars_today": "720 stars this month"
+  },
+  {
+    "repo": "solana-labs/solana-program-library",
+    "href": "https://github.com/solana-labs/solana-program-library",
+    "about": "A collection of Solana programs maintained by Solana Labs",
+    "star": "3,623",
+    "fork": "2,107",
+    "timestamp": "2024-12-02T02:28:06.457812",
+    "stars_today": "97 stars this month"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "76,851",
+    "fork": "10,366",
+    "timestamp": "2024-12-02T02:28:06.458129",
+    "stars_today": "1,855 stars this month"
+  },
+  {
+    "repo": "getzola/zola",
+    "href": "https://github.com/getzola/zola",
+    "about": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "star": "14,247",
+    "fork": "972",
+    "timestamp": "2024-12-02T02:28:06.458419",
+    "stars_today": "538 stars this month"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "26,499",
+    "fork": "1,847",
+    "timestamp": "2024-12-02T02:28:06.458701",
+    "stars_today": "260 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "28,187",
+    "fork": "809",
+    "timestamp": "2024-12-02T02:28:06.458993",
+    "stars_today": "3,324 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "about": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "star": "54,653",
+    "fork": "10,203",
+    "timestamp": "2024-12-02T02:28:06.459296",
+    "stars_today": "896 stars this month"
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "href": "https://github.com/vectordotdev/vector",
+    "about": "A high-performance observability data pipeline.",
+    "star": "18,287",
+    "fork": "1,609",
+    "timestamp": "2024-12-02T02:28:06.459592",
+    "stars_today": "531 stars this month"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "15,320",
+    "fork": "446",
+    "timestamp": "2024-12-02T02:28:06.459916",
+    "stars_today": "460 stars this month"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "href": "https://github.com/chroma-core/chroma",
+    "about": "the AI-native open-source embedding database",
+    "star": "15,634",
+    "fork": "1,311",
+    "timestamp": "2024-12-02T02:28:06.460211",
+    "stars_today": "463 stars this month"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",
+    "star": "47,700",
+    "fork": "1,858",
+    "timestamp": "2024-12-02T02:28:06.460504",
+    "stars_today": "589 stars this month"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "28,095",
+    "fork": "920",
+    "timestamp": "2024-12-02T02:28:06.460799",
+    "stars_today": "779 stars this month"
+  },
+  {
+    "repo": "coral-xyz/anchor",
+    "href": "https://github.com/coral-xyz/anchor",
+    "about": "⚓ Solana Sealevel Framework",
+    "star": "3,759",
+    "fork": "1,369",
+    "timestamp": "2024-12-02T02:28:06.461092",
+    "stars_today": "109 stars this month"
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "href": "https://github.com/openobserve/openobserve",
+    "about": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+    "star": "13,516",
+    "fork": "495",
+    "timestamp": "2024-12-02T02:28:06.461383",
+    "stars_today": "698 stars this month"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "20,803",
+    "fork": "1,424",
+    "timestamp": "2024-12-02T02:28:06.461707",
+    "stars_today": "429 stars this month"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "39,538",
+    "fork": "1,917",
+    "timestamp": "2024-12-02T02:28:06.462026",
+    "stars_today": "1,084 stars this month"
+  },
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "34,740",
+    "fork": "1,047",
+    "timestamp": "2024-12-02T02:28:06.462316",
+    "stars_today": "402 stars this month"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "32,813",
+    "fork": "1,696",
+    "timestamp": "2024-12-02T02:28:06.462605",
+    "stars_today": "707 stars this month"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "href": "https://github.com/TabbyML/tabby",
+    "about": "Self-hosted AI coding assistant",
+    "star": "22,080",
+    "fork": "1,017",
+    "timestamp": "2024-12-02T02:28:06.462896",
+    "stars_today": "483 stars this month"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "33,301",
+    "fork": "1,112",
+    "timestamp": "2024-12-02T02:28:06.463187",
+    "stars_today": "982 stars this month"
+  },
+  {
+    "repo": "sharkdp/hyperfine",
+    "href": "https://github.com/sharkdp/hyperfine",
+    "about": "A command-line benchmarking tool",
+    "star": "22,994",
+    "fork": "368",
+    "timestamp": "2024-12-02T02:28:06.463503",
+    "stars_today": "1,002 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",
+    "star": "858",
+    "fork": "40",
+    "timestamp": "2024-12-02T02:28:06.463804",
+    "stars_today": "415 stars this month"
+  },
+  {
+    "repo": "jtroo/kanata",
+    "href": "https://github.com/jtroo/kanata",
+    "about": "Improve keyboard comfort and usability with advanced customization",
+    "star": "3,203",
+    "fork": "131",
+    "timestamp": "2024-12-02T02:28:06.464089",
+    "stars_today": "711 stars this month"
+  }
+]

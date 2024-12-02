@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,517",
+    "fork": "1,111",
+    "timestamp": "2024-12-02T02:27:57.267211",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "bcpierce00/unison",
+    "href": "https://github.com/bcpierce00/unison",
+    "about": "Unison file synchronizer",
+    "star": "4,211",
+    "fork": "236",
+    "timestamp": "2024-12-02T02:27:57.267526",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "10,731",
+    "fork": "627",
+    "timestamp": "2024-12-02T02:27:57.267837",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,003",
+    "fork": "2,017",
+    "timestamp": "2024-12-02T02:27:57.268134",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "astrada/google-drive-ocamlfuse",
+    "href": "https://github.com/astrada/google-drive-ocamlfuse",
+    "about": "FUSE filesystem over Google Drive",
+    "star": "5,598",
+    "fork": "354",
+    "timestamp": "2024-12-02T02:27:57.268425",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "ocaml/opam",
+    "href": "https://github.com/ocaml/opam",
+    "about": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+    "star": "1,253",
+    "fork": "365",
+    "timestamp": "2024-12-02T02:27:57.268714",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "mattjbray/ocaml-decoders",
+    "href": "https://github.com/mattjbray/ocaml-decoders",
+    "about": "Elm-inspired decoders for Ocaml",
+    "star": "84",
+    "fork": "9",
+    "timestamp": "2024-12-02T02:27:57.269004",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "semgrep/ocaml-tree-sitter-core",
+    "href": "https://github.com/semgrep/ocaml-tree-sitter-core",
+    "about": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+    "star": "22",
+    "fork": "2",
+    "timestamp": "2024-12-02T02:27:57.269300",
+    "stars_today": "0 stars this week"
+  }
+]
