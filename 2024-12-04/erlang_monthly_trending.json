@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,191",
+    "fork": "2,245",
+    "timestamp": "2024-12-04T02:26:22.052264",
+    "stars_today": "151 stars this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,428",
+    "fork": "2,955",
+    "timestamp": "2024-12-04T02:26:22.052571",
+    "stars_today": "64 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "906",
+    "fork": "230",
+    "timestamp": "2024-12-04T02:26:22.052869",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,560",
+    "fork": "349",
+    "timestamp": "2024-12-04T02:26:22.053162",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,372",
+    "fork": "278",
+    "timestamp": "2024-12-04T02:26:22.053454",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2024-12-04T02:26:22.053790",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "251",
+    "fork": "83",
+    "timestamp": "2024-12-04T02:26:22.054080",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,191",
+    "fork": "336",
+    "timestamp": "2024-12-04T02:26:22.054370",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-04T02:26:22.054657",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "kafka4beam/brod",
+    "href": "https://github.com/kafka4beam/brod",
+    "about": "Apache Kafka client library for Erlang/Elixir",
+    "star": "667",
+    "fork": "203",
+    "timestamp": "2024-12-04T02:26:22.054949",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,290",
+    "fork": "1,035",
+    "timestamp": "2024-12-04T02:26:22.055240",
+    "stars_today": "45 stars this month"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "95",
+    "fork": "49",
+    "timestamp": "2024-12-04T02:26:22.055529",
+    "stars_today": "1 star this month"
+  }
+]
