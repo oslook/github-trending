@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,291",
+    "fork": "166",
+    "timestamp": "2024-12-05T02:26:57.112547",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "1,491",
+    "fork": "83",
+    "timestamp": "2024-12-05T02:26:57.112881",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "10,252",
+    "fork": "796",
+    "timestamp": "2024-12-05T02:26:57.113185",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "2,626",
+    "fork": "34",
+    "timestamp": "2024-12-05T02:26:57.113483",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "windwp/nvim-ts-autotag",
+    "href": "https://github.com/windwp/nvim-ts-autotag",
+    "about": "Use treesitter to auto close and auto rename html tag",
+    "star": "1,727",
+    "fork": "92",
+    "timestamp": "2024-12-05T02:26:57.113808",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nvim-neorg/neorg",
+    "href": "https://github.com/nvim-neorg/neorg",
+    "about": "Modernity meets insane extensibility. The future of organizing your life in Neovim.",
+    "star": "6,518",
+    "fork": "214",
+    "timestamp": "2024-12-05T02:26:57.114106",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "MagicDuck/grug-far.nvim",
+    "href": "https://github.com/MagicDuck/grug-far.nvim",
+    "about": "Find And Replace plugin for neovim",
+    "star": "919",
+    "fork": "28",
+    "timestamp": "2024-12-05T02:26:57.114404",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "10,830",
+    "fork": "2,095",
+    "timestamp": "2024-12-05T02:26:57.114727",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,421",
+    "fork": "4,832",
+    "timestamp": "2024-12-05T02:26:57.115021",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "20,255",
+    "fork": "24,847",
+    "timestamp": "2024-12-05T02:26:57.115316",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "kawre/leetcode.nvim",
+    "href": "https://github.com/kawre/leetcode.nvim",
+    "about": "A Neovim plugin enabling you to solve LeetCode problems.",
+    "star": "1,160",
+    "fork": "50",
+    "timestamp": "2024-12-05T02:26:57.115612",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,003",
+    "fork": "1,274",
+    "timestamp": "2024-12-05T02:26:57.115909",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,817",
+    "fork": "68",
+    "timestamp": "2024-12-05T02:26:57.116234",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "2,806",
+    "fork": "89",
+    "timestamp": "2024-12-05T02:26:57.116530",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "epwalsh/obsidian.nvim",
+    "href": "https://github.com/epwalsh/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "4,307",
+    "fork": "197",
+    "timestamp": "2024-12-05T02:26:57.116859",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "935",
+    "fork": "42",
+    "timestamp": "2024-12-05T02:26:57.117153",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,094",
+    "fork": "113",
+    "timestamp": "2024-12-05T02:26:57.117475",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Exafunction/codeium.nvim",
+    "href": "https://github.com/Exafunction/codeium.nvim",
+    "about": "A native neovim extension for Codeium",
+    "star": "843",
+    "fork": "64",
+    "timestamp": "2024-12-05T02:26:57.117766",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nvim-orgmode/orgmode",
+    "href": "https://github.com/nvim-orgmode/orgmode",
+    "about": "Orgmode clone written in Lua for Neovim 0.9+.",
+    "star": "3,100",
+    "fork": "139",
+    "timestamp": "2024-12-05T02:26:57.118059",
+    "stars_today": "2 stars today"
+  }
+]

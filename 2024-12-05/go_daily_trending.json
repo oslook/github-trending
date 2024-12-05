@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "50,894",
+    "fork": "2,669",
+    "timestamp": "2024-12-05T02:26:45.085636",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,368",
+    "fork": "1,086",
+    "timestamp": "2024-12-05T02:26:45.085948",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,073",
+    "fork": "5,528",
+    "timestamp": "2024-12-05T02:26:45.086243",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,077",
+    "fork": "1,417",
+    "timestamp": "2024-12-05T02:26:45.086533",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "3,604",
+    "fork": "485",
+    "timestamp": "2024-12-05T02:26:45.086821",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "fyne-io/fyne",
+    "href": "https://github.com/fyne-io/fyne",
+    "about": "Cross platform GUI toolkit in Go inspired by Material Design",
+    "star": "25,306",
+    "fork": "1,406",
+    "timestamp": "2024-12-05T02:26:45.087138",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,311",
+    "fork": "419",
+    "timestamp": "2024-12-05T02:26:45.087428",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "65,986",
+    "fork": "4,325",
+    "timestamp": "2024-12-05T02:26:45.087744",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "10,912",
+    "fork": "849",
+    "timestamp": "2024-12-05T02:26:45.088031",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,642",
+    "fork": "1,417",
+    "timestamp": "2024-12-05T02:26:45.088320",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "48,657",
+    "fork": "5,551",
+    "timestamp": "2024-12-05T02:26:45.088613",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,383",
+    "fork": "522",
+    "timestamp": "2024-12-05T02:26:45.088949",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,057",
+    "fork": "2,514",
+    "timestamp": "2024-12-05T02:26:45.089239",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,156",
+    "fork": "4,404",
+    "timestamp": "2024-12-05T02:26:45.089526",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "12,416",
+    "fork": "645",
+    "timestamp": "2024-12-05T02:26:45.089814",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "ddev/ddev",
+    "href": "https://github.com/ddev/ddev",
+    "about": "Docker-based local PHP+Node.js web development environments",
+    "star": "2,810",
+    "fork": "613",
+    "timestamp": "2024-12-05T02:26:45.090128",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,113",
+    "fork": "3,986",
+    "timestamp": "2024-12-05T02:26:45.090413",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+    "star": "12,412",
+    "fork": "607",
+    "timestamp": "2024-12-05T02:26:45.090728",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "14,934",
+    "fork": "5,603",
+    "timestamp": "2024-12-05T02:26:45.091016",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,099",
+    "fork": "3,473",
+    "timestamp": "2024-12-05T02:26:45.091301",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,590",
+    "fork": "1,604",
+    "timestamp": "2024-12-05T02:26:45.091586",
+    "stars_today": "6 stars today"
+  }
+]
