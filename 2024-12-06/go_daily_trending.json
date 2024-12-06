@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "9,914",
+    "fork": "9,219",
+    "timestamp": "2024-12-06T02:25:45.826072",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "51,029",
+    "fork": "2,676",
+    "timestamp": "2024-12-06T02:25:45.826416",
+    "stars_today": "220 stars today"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
+    "star": "3,821",
+    "fork": "872",
+    "timestamp": "2024-12-06T02:25:45.826720",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "12,440",
+    "fork": "649",
+    "timestamp": "2024-12-06T02:25:45.827033",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "elastic/cloud-on-k8s",
+    "href": "https://github.com/elastic/cloud-on-k8s",
+    "about": "Elastic Cloud on Kubernetes",
+    "star": "2,629",
+    "fork": "713",
+    "timestamp": "2024-12-06T02:25:45.827329",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "gardener/gardener",
+    "href": "https://github.com/gardener/gardener",
+    "about": "Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.",
+    "star": "2,954",
+    "fork": "488",
+    "timestamp": "2024-12-06T02:25:45.827620",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,175",
+    "fork": "9,582",
+    "timestamp": "2024-12-06T02:25:45.827910",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,051",
+    "fork": "610",
+    "timestamp": "2024-12-06T02:25:45.828201",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,867",
+    "fork": "18,674",
+    "timestamp": "2024-12-06T02:25:45.828491",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,440",
+    "fork": "1,188",
+    "timestamp": "2024-12-06T02:25:45.828781",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,113",
+    "fork": "3,985",
+    "timestamp": "2024-12-06T02:25:45.829072",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "14,941",
+    "fork": "5,602",
+    "timestamp": "2024-12-06T02:25:45.829365",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "5,367",
+    "fork": "564",
+    "timestamp": "2024-12-06T02:25:45.829656",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "14,414",
+    "fork": "859",
+    "timestamp": "2024-12-06T02:25:45.829946",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "dgraph-io/badger",
+    "href": "https://github.com/dgraph-io/badger",
+    "about": "Fast key-value DB in Go.",
+    "star": "14,047",
+    "fork": "1,191",
+    "timestamp": "2024-12-06T02:25:45.830242",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "19,832",
+    "fork": "398",
+    "timestamp": "2024-12-06T02:25:45.830563",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,161",
+    "fork": "4,404",
+    "timestamp": "2024-12-06T02:25:45.830867",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,303",
+    "fork": "2,248",
+    "timestamp": "2024-12-06T02:25:45.831164",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kubernetes/kube-state-metrics",
+    "href": "https://github.com/kubernetes/kube-state-metrics",
+    "about": "Add-on agent to generate and expose cluster-level metrics.",
+    "star": "5,465",
+    "fork": "2,027",
+    "timestamp": "2024-12-06T02:25:45.831457",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "9,963",
+    "fork": "1,615",
+    "timestamp": "2024-12-06T02:25:45.831747",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "1,869",
+    "fork": "488",
+    "timestamp": "2024-12-06T02:25:45.832036",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,136",
+    "fork": "3,211",
+    "timestamp": "2024-12-06T02:25:45.832327",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,704",
+    "fork": "2,169",
+    "timestamp": "2024-12-06T02:25:45.832617",
+    "stars_today": "3 stars today"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "pydantic/pydantic-ai",
+    "href": "https://github.com/pydantic/pydantic-ai",
+    "about": "Agent Framework / shim to use Pydantic with LLMs",
+    "star": "2,458",
+    "fork": "126",
+    "timestamp": "2024-12-06T02:25:58.839053",
+    "stars_today": "826 stars today"
+  },
+  {
+    "repo": "FoundationVision/VAR",
+    "href": "https://github.com/FoundationVision/VAR",
+    "about": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+    "star": "5,395",
+    "fork": "371",
+    "timestamp": "2024-12-06T02:25:58.839369",
+    "stars_today": "292 stars today"
+  },
+  {
+    "repo": "fishaudio/fish-speech",
+    "href": "https://github.com/fishaudio/fish-speech",
+    "about": "SOTA Open Source TTS",
+    "star": "15,303",
+    "fork": "1,174",
+    "timestamp": "2024-12-06T02:25:58.839664",
+    "stars_today": "226 stars today"
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "href": "https://github.com/stanfordnlp/dspy",
+    "about": "DSPy: The framework for programming—not prompting—language models",
+    "star": "19,619",
+    "fork": "1,488",
+    "timestamp": "2024-12-06T02:25:58.839966",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "myhhub/stock",
+    "href": "https://github.com/myhhub/stock",
+    "about": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+    "star": "5,496",
+    "fork": "985",
+    "timestamp": "2024-12-06T02:25:58.840262",
+    "stars_today": "196 stars today"
+  },
+  {
+    "repo": "sqlfluff/sqlfluff",
+    "href": "https://github.com/sqlfluff/sqlfluff",
+    "about": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+    "star": "8,026",
+    "fork": "737",
+    "timestamp": "2024-12-06T02:25:58.840577",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "QuivrHQ/MegaParse",
+    "href": "https://github.com/QuivrHQ/MegaParse",
+    "about": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+    "star": "2,014",
+    "fork": "114",
+    "timestamp": "2024-12-06T02:25:58.840872",
+    "stars_today": "473 stars today"
+  },
+  {
+    "repo": "spack/spack",
+    "href": "https://github.com/spack/spack",
+    "about": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "star": "4,456",
+    "fork": "2,300",
+    "timestamp": "2024-12-06T02:25:58.841166",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "real-stanford/diffusion_policy",
+    "href": "https://github.com/real-stanford/diffusion_policy",
+    "about": "[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion",
+    "star": "1,695",
+    "fork": "333",
+    "timestamp": "2024-12-06T02:25:58.841461",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "wagtail/wagtail",
+    "href": "https://github.com/wagtail/wagtail",
+    "about": "A Django content management system focused on flexibility and user experience",
+    "star": "18,472",
+    "fork": "3,916",
+    "timestamp": "2024-12-06T02:25:58.841747",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "localstack/localstack",
+    "href": "https://github.com/localstack/localstack",
+    "about": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+    "star": "56,671",
+    "fork": "4,036",
+    "timestamp": "2024-12-06T02:25:58.842040",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "google-deepmind/graphcast",
+    "href": "https://github.com/google-deepmind/graphcast",
+    "about": "",
+    "star": "4,966",
+    "fork": "609",
+    "timestamp": "2024-12-06T02:25:58.842359",
+    "stars_today": "227 stars today"
+  },
+  {
+    "repo": "Guovin/iptv-api",
+    "href": "https://github.com/Guovin/iptv-api",
+    "about": "📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+    "star": "7,763",
+    "fork": "1,692",
+    "timestamp": "2024-12-06T02:25:58.842655",
+    "stars_today": "197 stars today"
+  },
+  {
+    "repo": "IntelRealSense/realsense-ros",
+    "href": "https://github.com/IntelRealSense/realsense-ros",
+    "about": "ROS Wrapper for Intel(R) RealSense(TM) Cameras",
+    "star": "2,618",
+    "fork": "1,769",
+    "timestamp": "2024-12-06T02:25:58.842960",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "QwenLM/Qwen2.5-Coder",
+    "href": "https://github.com/QwenLM/Qwen2.5-Coder",
+    "about": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+    "star": "3,242",
+    "fork": "219",
+    "timestamp": "2024-12-06T02:25:58.843256",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "href": "https://github.com/crewAIInc/crewAI",
+    "about": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "star": "22,101",
+    "fork": "3,064",
+    "timestamp": "2024-12-06T02:25:58.843551",
+    "stars_today": "79 stars today"
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "href": "https://github.com/pydantic/pydantic",
+    "about": "Data validation using Python type hints",
+    "star": "21,504",
+    "fork": "1,920",
+    "timestamp": "2024-12-06T02:25:58.843878",
+    "stars_today": "45 stars today"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,118",
+    "fork": "28,368",
+    "timestamp": "2024-12-06T02:26:06.182458",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,897",
+    "fork": "1,060",
+    "timestamp": "2024-12-06T02:26:06.182767",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,562",
+    "fork": "4,097",
+    "timestamp": "2024-12-06T02:26:06.183109",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,220",
+    "fork": "440",
+    "timestamp": "2024-12-06T02:26:06.183401",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,280",
+    "fork": "1,137",
+    "timestamp": "2024-12-06T02:26:06.183691",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,654",
+    "fork": "1,721",
+    "timestamp": "2024-12-06T02:26:06.183984",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,320",
+    "fork": "540",
+    "timestamp": "2024-12-06T02:26:06.184276",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,136",
+    "fork": "294",
+    "timestamp": "2024-12-06T02:26:06.184568",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "776",
+    "fork": "172",
+    "timestamp": "2024-12-06T02:26:06.184856",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "224",
+    "fork": "76",
+    "timestamp": "2024-12-06T02:26:06.185146",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,677",
+    "fork": "659",
+    "timestamp": "2024-12-06T02:26:06.185434",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,885",
+    "fork": "2,778",
+    "timestamp": "2024-12-06T02:26:06.185729",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "469",
+    "fork": "147",
+    "timestamp": "2024-12-06T02:26:06.186022",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "826",
+    "fork": "236",
+    "timestamp": "2024-12-06T02:26:06.186314",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,485",
+    "fork": "1,196",
+    "timestamp": "2024-12-06T02:26:06.186607",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,357",
+    "fork": "3,115",
+    "timestamp": "2024-12-06T02:26:06.186918",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/riscv-sodor",
+    "href": "https://github.com/ucb-bar/riscv-sodor",
+    "about": "educational microarchitectures for risc-v isa",
+    "star": "688",
+    "fork": "155",
+    "timestamp": "2024-12-06T02:26:06.187212",
+    "stars_today": "0 stars today"
+  }
+]

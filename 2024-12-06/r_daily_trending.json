@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "satijalab/seurat",
+    "href": "https://github.com/satijalab/seurat",
+    "about": "R toolkit for single cell genomics",
+    "star": "2,313",
+    "fork": "920",
+    "timestamp": "2024-12-06T02:26:01.309344",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/ggplot2",
+    "href": "https://github.com/tidyverse/ggplot2",
+    "about": "An implementation of the Grammar of Graphics in R",
+    "star": "6,552",
+    "fork": "2,033",
+    "timestamp": "2024-12-06T02:26:01.309657",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "r-spatial/sf",
+    "href": "https://github.com/r-spatial/sf",
+    "about": "Simple Features for R",
+    "star": "1,350",
+    "fork": "300",
+    "timestamp": "2024-12-06T02:26:01.309952",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/shiny",
+    "href": "https://github.com/rstudio/shiny",
+    "about": "Easy interactive web applications with R",
+    "star": "5,382",
+    "fork": "1,862",
+    "timestamp": "2024-12-06T02:26:01.310246",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "GreenleafLab/ArchR",
+    "href": "https://github.com/GreenleafLab/ArchR",
+    "about": "ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com)",
+    "star": "388",
+    "fork": "140",
+    "timestamp": "2024-12-06T02:26:01.310536",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "skranz/RTutor",
+    "href": "https://github.com/skranz/RTutor",
+    "about": "Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio)",
+    "star": "201",
+    "fork": "57",
+    "timestamp": "2024-12-06T02:26:01.310817",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jokergoo/ComplexHeatmap",
+    "href": "https://github.com/jokergoo/ComplexHeatmap",
+    "about": "Make Complex Heatmaps",
+    "star": "1,318",
+    "fork": "228",
+    "timestamp": "2024-12-06T02:26:01.311120",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/elmer",
+    "href": "https://github.com/tidyverse/elmer",
+    "about": "Call LLM APIs from R",
+    "star": "220",
+    "fork": "35",
+    "timestamp": "2024-12-06T02:26:01.311412",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/infercnv",
+    "href": "https://github.com/broadinstitute/infercnv",
+    "about": "Inferring CNV from Single-Cell RNA-Seq",
+    "star": "576",
+    "fork": "166",
+    "timestamp": "2024-12-06T02:26:01.311700",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/dplyr",
+    "href": "https://github.com/tidyverse/dplyr",
+    "about": "dplyr: A grammar of data manipulation",
+    "star": "4,790",
+    "fork": "2,123",
+    "timestamp": "2024-12-06T02:26:01.311990",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sqjin/CellChat",
+    "href": "https://github.com/sqjin/CellChat",
+    "about": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+    "star": "645",
+    "fork": "146",
+    "timestamp": "2024-12-06T02:26:01.312278",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kassambara/survminer",
+    "href": "https://github.com/kassambara/survminer",
+    "about": "Survival Analysis and Visualization",
+    "star": "509",
+    "fork": "164",
+    "timestamp": "2024-12-06T02:26:01.312559",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/renv",
+    "href": "https://github.com/rstudio/renv",
+    "about": "renv: Project environments for R.",
+    "star": "1,022",
+    "fork": "155",
+    "timestamp": "2024-12-06T02:26:01.312848",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kassambara/ggpubr",
+    "href": "https://github.com/kassambara/ggpubr",
+    "about": "'ggplot2' Based Publication Ready Plots",
+    "star": "1,142",
+    "fork": "165",
+    "timestamp": "2024-12-06T02:26:01.313137",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joey711/phyloseq",
+    "href": "https://github.com/joey711/phyloseq",
+    "about": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+    "star": "587",
+    "fork": "187",
+    "timestamp": "2024-12-06T02:26:01.313432",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Rdatatable/data.table",
+    "href": "https://github.com/Rdatatable/data.table",
+    "about": "R's data.table package extends data.frame:",
+    "star": "3,628",
+    "fork": "986",
+    "timestamp": "2024-12-06T02:26:01.313722",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chris-mcginnis-ucsf/DoubletFinder",
+    "href": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+    "about": "R package for detecting doublets in single-cell RNA sequencing data",
+    "star": "418",
+    "fork": "112",
+    "timestamp": "2024-12-06T02:26:01.314010",
+    "stars_today": "0 stars today"
+  }
+]

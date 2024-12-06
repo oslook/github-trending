@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "getsentry/self-hosted",
+    "href": "https://github.com/getsentry/self-hosted",
+    "about": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+    "star": "7,971",
+    "fork": "1,782",
+    "timestamp": "2024-12-06T02:26:07.864611",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "80,797",
+    "fork": "8,048",
+    "timestamp": "2024-12-06T02:26:07.864928",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "dockur/windows",
+    "href": "https://github.com/dockur/windows",
+    "about": "Windows inside a Docker container.",
+    "star": "30,497",
+    "fork": "2,078",
+    "timestamp": "2024-12-06T02:26:07.865225",
+    "stars_today": "130 stars today"
+  },
+  {
+    "repo": "itzg/docker-minecraft-server",
+    "href": "https://github.com/itzg/docker-minecraft-server",
+    "about": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+    "star": "9,948",
+    "fork": "1,568",
+    "timestamp": "2024-12-06T02:26:07.865547",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "bioconda/bioconda-recipes",
+    "href": "https://github.com/bioconda/bioconda-recipes",
+    "about": "Conda recipes for the bioconda channel.",
+    "star": "1,649",
+    "fork": "3,295",
+    "timestamp": "2024-12-06T02:26:07.865838",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kodekloudhub/certified-kubernetes-administrator-course",
+    "href": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "about": "Certified Kubernetes Administrator - CKA Course",
+    "star": "8,075",
+    "fork": "7,716",
+    "timestamp": "2024-12-06T02:26:07.866131",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "SeleniumHQ/docker-selenium",
+    "href": "https://github.com/SeleniumHQ/docker-selenium",
+    "about": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+    "star": "8,037",
+    "fork": "2,513",
+    "timestamp": "2024-12-06T02:26:07.866451",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/oss-fuzz",
+    "href": "https://github.com/google/oss-fuzz",
+    "about": "OSS-Fuzz - continuous fuzzing for open source software.",
+    "star": "10,653",
+    "fork": "2,256",
+    "timestamp": "2024-12-06T02:26:07.866792",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "AbdBarho/stable-diffusion-webui-docker",
+    "href": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "about": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "star": "6,831",
+    "fork": "1,147",
+    "timestamp": "2024-12-06T02:26:07.867113",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "MichaelCade/90DaysOfDevOps",
+    "href": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "about": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+    "star": "27,371",
+    "fork": "6,337",
+    "timestamp": "2024-12-06T02:26:07.867433",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "drwetter/testssl.sh",
+    "href": "https://github.com/drwetter/testssl.sh",
+    "about": "Testing TLS/SSL encryption anywhere on any port",
+    "star": "8,028",
+    "fork": "1,027",
+    "timestamp": "2024-12-06T02:26:07.867722",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "DaoCloud/public-image-mirror",
+    "href": "https://github.com/DaoCloud/public-image-mirror",
+    "about": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
+    "star": "7,145",
+    "fork": "941",
+    "timestamp": "2024-12-06T02:26:07.868013",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "acmesh-official/acme.sh",
+    "href": "https://github.com/acmesh-official/acme.sh",
+    "about": "A pure Unix shell script implementing ACME client protocol",
+    "star": "39,934",
+    "fork": "5,018",
+    "timestamp": "2024-12-06T02:26:07.868304",
+    "stars_today": "64 stars today"
+  },
+  {
+    "repo": "IceWhaleTech/ZimaOS",
+    "href": "https://github.com/IceWhaleTech/ZimaOS",
+    "about": "",
+    "star": "847",
+    "fork": "48",
+    "timestamp": "2024-12-06T02:26:07.868614",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "zabbix/zabbix-docker",
+    "href": "https://github.com/zabbix/zabbix-docker",
+    "about": "Official Zabbix Dockerfiles",
+    "star": "2,409",
+    "fork": "1,387",
+    "timestamp": "2024-12-06T02:26:07.868901",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ROCm/ROCm",
+    "href": "https://github.com/ROCm/ROCm",
+    "about": "AMD ROCm™ Software - GitHub Home",
+    "star": "4,698",
+    "fork": "393",
+    "timestamp": "2024-12-06T02:26:07.869185",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "aws/aws-mwaa-local-runner",
+    "href": "https://github.com/aws/aws-mwaa-local-runner",
+    "about": "This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.",
+    "star": "705",
+    "fork": "713",
+    "timestamp": "2024-12-06T02:26:07.869484",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,169",
+    "fork": "790",
+    "timestamp": "2024-12-06T02:26:07.869772",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "longhorn/longhorn",
+    "href": "https://github.com/longhorn/longhorn",
+    "about": "Cloud-Native distributed storage built on and for Kubernetes",
+    "star": "6,190",
+    "fork": "604",
+    "timestamp": "2024-12-06T02:26:07.870059",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "youngyangyang04/leetcode-master",
+    "href": "https://github.com/youngyangyang04/leetcode-master",
+    "about": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "star": "52,439",
+    "fork": "11,609",
+    "timestamp": "2024-12-06T02:26:07.870347",
+    "stars_today": "16 stars today"
+  }
+]

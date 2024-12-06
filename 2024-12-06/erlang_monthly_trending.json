@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,198",
+    "fork": "2,247",
+    "timestamp": "2024-12-06T02:25:41.819690",
+    "stars_today": "149 stars this month"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,560",
+    "fork": "349",
+    "timestamp": "2024-12-06T02:25:41.820005",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,373",
+    "fork": "278",
+    "timestamp": "2024-12-06T02:25:41.820302",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2024-12-06T02:25:41.820628",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "251",
+    "fork": "83",
+    "timestamp": "2024-12-06T02:25:41.820923",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "906",
+    "fork": "230",
+    "timestamp": "2024-12-06T02:25:41.821215",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "kafka4beam/brod",
+    "href": "https://github.com/kafka4beam/brod",
+    "about": "Apache Kafka client library for Erlang/Elixir",
+    "star": "667",
+    "fork": "203",
+    "timestamp": "2024-12-06T02:25:41.821508",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,429",
+    "fork": "2,955",
+    "timestamp": "2024-12-06T02:25:41.821799",
+    "stars_today": "65 stars this month"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,191",
+    "fork": "336",
+    "timestamp": "2024-12-06T02:25:41.822088",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,313",
+    "fork": "1,167",
+    "timestamp": "2024-12-06T02:25:41.822378",
+    "stars_today": "22 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-06T02:25:41.822670",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,064",
+    "fork": "151",
+    "timestamp": "2024-12-06T02:25:41.822978",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2024-12-06T02:25:41.823277",
+    "stars_today": "1 star this month"
+  }
+]
