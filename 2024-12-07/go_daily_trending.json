@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "9,945",
+    "fork": "9,220",
+    "timestamp": "2024-12-07T02:24:03.172506",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "elastic/cloud-on-k8s",
+    "href": "https://github.com/elastic/cloud-on-k8s",
+    "about": "Elastic Cloud on Kubernetes",
+    "star": "2,634",
+    "fork": "713",
+    "timestamp": "2024-12-07T02:24:03.172816",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,064",
+    "fork": "1,347",
+    "timestamp": "2024-12-07T02:24:03.173114",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "8,289",
+    "fork": "1,175",
+    "timestamp": "2024-12-07T02:24:03.173408",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "6,617",
+    "fork": "612",
+    "timestamp": "2024-12-07T02:24:03.173700",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "51,076",
+    "fork": "2,679",
+    "timestamp": "2024-12-07T02:24:03.174018",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "serve as a reverse proxy to protect your web services from attacks and exploits.",
+    "star": "13,628",
+    "fork": "836",
+    "timestamp": "2024-12-07T02:24:03.174311",
+    "stars_today": "66 stars today"
+  },
+  {
+    "repo": "gardener/gardener",
+    "href": "https://github.com/gardener/gardener",
+    "about": "Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.",
+    "star": "2,964",
+    "fork": "489",
+    "timestamp": "2024-12-07T02:24:03.174598",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-operator",
+    "href": "https://github.com/open-telemetry/opentelemetry-operator",
+    "about": "Kubernetes Operator for OpenTelemetry Collector",
+    "star": "1,251",
+    "fork": "448",
+    "timestamp": "2024-12-07T02:24:03.174887",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,871",
+    "fork": "18,676",
+    "timestamp": "2024-12-07T02:24:03.175178",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
+    "star": "3,835",
+    "fork": "875",
+    "timestamp": "2024-12-07T02:24:03.175465",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,691",
+    "fork": "3,328",
+    "timestamp": "2024-12-07T02:24:03.175752",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",
+    "star": "101,103",
+    "fork": "8,077",
+    "timestamp": "2024-12-07T02:24:03.176078",
+    "stars_today": "144 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,603",
+    "fork": "1,604",
+    "timestamp": "2024-12-07T02:24:03.176371",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,121",
+    "fork": "3,479",
+    "timestamp": "2024-12-07T02:24:03.176657",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,447",
+    "fork": "4,013",
+    "timestamp": "2024-12-07T02:24:03.176971",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,044",
+    "fork": "1,323",
+    "timestamp": "2024-12-07T02:24:03.177260",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "20,410",
+    "fork": "2,993",
+    "timestamp": "2024-12-07T02:24:03.177547",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "golang/protobuf",
+    "href": "https://github.com/golang/protobuf",
+    "about": "Go support for Google's protocol buffers",
+    "star": "9,809",
+    "fork": "1,580",
+    "timestamp": "2024-12-07T02:24:03.177833",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,356",
+    "fork": "4,235",
+    "timestamp": "2024-12-07T02:24:03.178118",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,661",
+    "fork": "1,420",
+    "timestamp": "2024-12-07T02:24:03.178407",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,371",
+    "fork": "1,087",
+    "timestamp": "2024-12-07T02:24:03.178696",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "dexidp/dex",
+    "href": "https://github.com/dexidp/dex",
+    "about": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+    "star": "9,549",
+    "fork": "1,713",
+    "timestamp": "2024-12-07T02:24:03.178961",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "14,425",
+    "fork": "860",
+    "timestamp": "2024-12-07T02:24:03.179243",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "6,296",
+    "fork": "363",
+    "timestamp": "2024-12-07T02:24:03.179529",
+    "stars_today": "6 stars today"
+  }
+]

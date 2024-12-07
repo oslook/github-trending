@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "86,118",
+    "fork": "2,605",
+    "timestamp": "2024-12-07T02:24:23.305208",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "spaceandtimelabs/sxt-proof-of-sql",
+    "href": "https://github.com/spaceandtimelabs/sxt-proof-of-sql",
+    "about": "Space and Time | Proof of SQL",
+    "star": "3,145",
+    "fork": "105",
+    "timestamp": "2024-12-07T02:24:23.305517",
+    "stars_today": "137 stars today"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "5,474",
+    "fork": "235",
+    "timestamp": "2024-12-07T02:24:23.305844",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "77,186",
+    "fork": "10,487",
+    "timestamp": "2024-12-07T02:24:23.306173",
+    "stars_today": "75 stars today"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "21,736",
+    "fork": "833",
+    "timestamp": "2024-12-07T02:24:23.306498",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "mxsm/rocketmq-rust",
+    "href": "https://github.com/mxsm/rocketmq-rust",
+    "about": "🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.",
+    "star": "739",
+    "fork": "100",
+    "timestamp": "2024-12-07T02:24:23.306792",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "29,091",
+    "fork": "3,558",
+    "timestamp": "2024-12-07T02:24:23.307087",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "12,676",
+    "fork": "467",
+    "timestamp": "2024-12-07T02:24:23.307379",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "tikv/tikv",
+    "href": "https://github.com/tikv/tikv",
+    "about": "Distributed transactional key-value database, originally created to complement TiDB",
+    "star": "15,362",
+    "fork": "2,142",
+    "timestamp": "2024-12-07T02:24:23.307671",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "28,714",
+    "fork": "813",
+    "timestamp": "2024-12-07T02:24:23.308031",
+    "stars_today": "113 stars today"
+  },
+  {
+    "repo": "samizdatco/skia-canvas",
+    "href": "https://github.com/samizdatco/skia-canvas",
+    "about": "A GPU-accelerated 2D graphics environment for Node.js",
+    "star": "2,074",
+    "fork": "73",
+    "timestamp": "2024-12-07T02:24:23.308329",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "33,447",
+    "fork": "1,120",
+    "timestamp": "2024-12-07T02:24:23.308622",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "href": "https://github.com/vectordotdev/vector",
+    "about": "A high-performance observability data pipeline.",
+    "star": "18,333",
+    "fork": "1,616",
+    "timestamp": "2024-12-07T02:24:23.308912",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "timescale/pgvectorscale",
+    "href": "https://github.com/timescale/pgvectorscale",
+    "about": "A complement to pgvector for high performance, cost efficient vector search on large workloads.",
+    "star": "1,411",
+    "fork": "58",
+    "timestamp": "2024-12-07T02:24:23.309204",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "eclipse-zenoh/zenoh",
+    "href": "https://github.com/eclipse-zenoh/zenoh",
+    "about": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",
+    "star": "1,534",
+    "fork": "166",
+    "timestamp": "2024-12-07T02:24:23.309494",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "12,679",
+    "fork": "1,356",
+    "timestamp": "2024-12-07T02:24:23.309784",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Orange-OpenSource/hurl",
+    "href": "https://github.com/Orange-OpenSource/hurl",
+    "about": "Hurl, run and test HTTP requests with plain text.",
+    "star": "13,261",
+    "fork": "498",
+    "timestamp": "2024-12-07T02:24:23.310072",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "casey/just",
+    "href": "https://github.com/casey/just",
+    "about": "🤖 Just a command runner",
+    "star": "21,914",
+    "fork": "488",
+    "timestamp": "2024-12-07T02:24:23.310392",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "rustdesk/rustdesk-server",
+    "href": "https://github.com/rustdesk/rustdesk-server",
+    "about": "RustDesk Server Program",
+    "star": "6,888",
+    "fork": "1,512",
+    "timestamp": "2024-12-07T02:24:23.310713",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "30,766",
+    "fork": "2,001",
+    "timestamp": "2024-12-07T02:24:23.311003",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "star": "28,631",
+    "fork": "3,045",
+    "timestamp": "2024-12-07T02:24:23.311323",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "leptos-rs/leptos",
+    "href": "https://github.com/leptos-rs/leptos",
+    "about": "Build fast web applications with Rust.",
+    "star": "16,920",
+    "fork": "675",
+    "timestamp": "2024-12-07T02:24:23.311613",
+    "stars_today": "32 stars today"
+  }
+]
