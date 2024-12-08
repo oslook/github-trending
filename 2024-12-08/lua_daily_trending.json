@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,199",
+    "fork": "369",
+    "timestamp": "2024-12-08T02:38:45.685145",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,038",
+    "fork": "1,276",
+    "timestamp": "2024-12-08T02:38:45.685457",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "20,323",
+    "fork": "24,988",
+    "timestamp": "2024-12-08T02:38:45.685746",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "kdheepak/lazygit.nvim",
+    "href": "https://github.com/kdheepak/lazygit.nvim",
+    "about": "Plugin for calling lazygit from within neovim.",
+    "star": "1,574",
+    "fork": "59",
+    "timestamp": "2024-12-08T02:38:45.686079",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,513",
+    "fork": "108",
+    "timestamp": "2024-12-08T02:38:45.686367",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,504",
+    "fork": "436",
+    "timestamp": "2024-12-08T02:38:45.686653",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,448",
+    "fork": "191",
+    "timestamp": "2024-12-08T02:38:45.686940",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,054",
+    "fork": "2,092",
+    "timestamp": "2024-12-08T02:38:45.687229",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "7,307",
+    "fork": "612",
+    "timestamp": "2024-12-08T02:38:45.687520",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/vim-be-good",
+    "href": "https://github.com/ThePrimeagen/vim-be-good",
+    "about": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+    "star": "3,335",
+    "fork": "127",
+    "timestamp": "2024-12-08T02:38:45.687836",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "href": "https://github.com/ThePrimeagen/init.lua",
+    "about": "",
+    "star": "3,422",
+    "fork": "606",
+    "timestamp": "2024-12-08T02:38:45.688173",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "josean-dev/dev-environment-files",
+    "href": "https://github.com/josean-dev/dev-environment-files",
+    "about": "",
+    "star": "3,186",
+    "fork": "818",
+    "timestamp": "2024-12-08T02:38:45.688480",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,242",
+    "fork": "192",
+    "timestamp": "2024-12-08T02:38:45.688798",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "5,714",
+    "fork": "208",
+    "timestamp": "2024-12-08T02:38:45.689113",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,237",
+    "fork": "243",
+    "timestamp": "2024-12-08T02:38:45.689427",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "17,770",
+    "fork": "1,259",
+    "timestamp": "2024-12-08T02:38:45.689719",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "nvim-lua/plenary.nvim",
+    "href": "https://github.com/nvim-lua/plenary.nvim",
+    "about": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "star": "2,830",
+    "fork": "287",
+    "timestamp": "2024-12-08T02:38:45.690022",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jitsi/docker-jitsi-meet",
+    "href": "https://github.com/jitsi/docker-jitsi-meet",
+    "about": "Jitsi Meet on Docker",
+    "star": "3,103",
+    "fork": "1,374",
+    "timestamp": "2024-12-08T02:38:45.690312",
+    "stars_today": "0 stars today"
+  }
+]
