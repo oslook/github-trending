@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "20,351",
+    "fork": "25,024",
+    "timestamp": "2024-12-09T02:36:32.097458",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,162",
+    "fork": "244",
+    "timestamp": "2024-12-09T02:36:32.097809",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,058",
+    "fork": "2,091",
+    "timestamp": "2024-12-09T02:36:32.098110",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "16,189",
+    "fork": "846",
+    "timestamp": "2024-12-09T02:36:32.098408",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,458",
+    "fork": "192",
+    "timestamp": "2024-12-09T02:36:32.098709",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,834",
+    "fork": "69",
+    "timestamp": "2024-12-09T02:36:32.099039",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,076",
+    "fork": "468",
+    "timestamp": "2024-12-09T02:36:32.099353",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "href": "https://github.com/ThePrimeagen/init.lua",
+    "about": "",
+    "star": "3,424",
+    "fork": "610",
+    "timestamp": "2024-12-09T02:36:32.099704",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "kdheepak/lazygit.nvim",
+    "href": "https://github.com/kdheepak/lazygit.nvim",
+    "about": "Plugin for calling lazygit from within neovim.",
+    "star": "1,575",
+    "fork": "59",
+    "timestamp": "2024-12-09T02:36:32.100030",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,212",
+    "fork": "370",
+    "timestamp": "2024-12-09T02:36:32.100329",
+    "stars_today": "116 stars this week"
+  },
+  {
+    "repo": "pwntester/octo.nvim",
+    "href": "https://github.com/pwntester/octo.nvim",
+    "about": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
+    "star": "2,466",
+    "fork": "144",
+    "timestamp": "2024-12-09T02:36:32.100624",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,508",
+    "fork": "437",
+    "timestamp": "2024-12-09T02:36:32.100921",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,184",
+    "fork": "411",
+    "timestamp": "2024-12-09T02:36:32.101246",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,519",
+    "fork": "108",
+    "timestamp": "2024-12-09T02:36:32.101549",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "1,540",
+    "fork": "86",
+    "timestamp": "2024-12-09T02:36:32.101850",
+    "stars_today": "97 stars this week"
+  },
+  {
+    "repo": "kylechui/nvim-surround",
+    "href": "https://github.com/kylechui/nvim-surround",
+    "about": "Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.",
+    "star": "3,303",
+    "fork": "63",
+    "timestamp": "2024-12-09T02:36:32.102175",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,060",
+    "fork": "1,279",
+    "timestamp": "2024-12-09T02:36:32.102471",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "10,843",
+    "fork": "2,092",
+    "timestamp": "2024-12-09T02:36:32.102796",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "17,785",
+    "fork": "1,260",
+    "timestamp": "2024-12-09T02:36:32.103103",
+    "stars_today": "114 stars this week"
+  }
+]

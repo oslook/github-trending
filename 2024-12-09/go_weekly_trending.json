@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,131",
+    "fork": "3,478",
+    "timestamp": "2024-12-09T02:36:23.405937",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",
+    "star": "101,480",
+    "fork": "8,113",
+    "timestamp": "2024-12-09T02:36:23.406259",
+    "stars_today": "1,182 stars this week"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "25,711",
+    "fork": "1,246",
+    "timestamp": "2024-12-09T02:36:23.406565",
+    "stars_today": "144 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "20,589",
+    "fork": "2,453",
+    "timestamp": "2024-12-09T02:36:23.406865",
+    "stars_today": "235 stars this week"
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "href": "https://github.com/quic-go/quic-go",
+    "about": "A QUIC implementation in pure Go",
+    "star": "10,208",
+    "fork": "1,326",
+    "timestamp": "2024-12-09T02:36:23.407180",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,429",
+    "fork": "526",
+    "timestamp": "2024-12-09T02:36:23.407508",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "nezhahq/nezha",
+    "href": "https://github.com/nezhahq/nezha",
+    "about": "Self-hosted, lightweight server and website monitoring and O&M tool",
+    "star": "7,761",
+    "fork": "1,338",
+    "timestamp": "2024-12-09T02:36:23.407806",
+    "stars_today": "297 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "12,572",
+    "fork": "1,551",
+    "timestamp": "2024-12-09T02:36:23.408100",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "serve as a reverse proxy to protect your web services from attacks and exploits.",
+    "star": "13,962",
+    "fork": "849",
+    "timestamp": "2024-12-09T02:36:23.408394",
+    "stars_today": "640 stars this week"
+  },
+  {
+    "repo": "apernet/hysteria",
+    "href": "https://github.com/apernet/hysteria",
+    "about": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "star": "15,284",
+    "fork": "1,702",
+    "timestamp": "2024-12-09T02:36:23.408684",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "3,462",
+    "fork": "114",
+    "timestamp": "2024-12-09T02:36:23.408983",
+    "stars_today": "319 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,882",
+    "fork": "18,674",
+    "timestamp": "2024-12-09T02:36:23.409279",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,704",
+    "fork": "22,824",
+    "timestamp": "2024-12-09T02:36:23.409577",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "9,958",
+    "fork": "9,223",
+    "timestamp": "2024-12-09T02:36:23.409871",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,678",
+    "fork": "1,420",
+    "timestamp": "2024-12-09T02:36:23.410166",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
+    "star": "3,847",
+    "fork": "880",
+    "timestamp": "2024-12-09T02:36:23.410463",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "fyne-io/fyne",
+    "href": "https://github.com/fyne-io/fyne",
+    "about": "Cross platform GUI toolkit in Go inspired by Material Design",
+    "star": "25,337",
+    "fork": "1,406",
+    "timestamp": "2024-12-09T02:36:23.410790",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "66,056",
+    "fork": "4,332",
+    "timestamp": "2024-12-09T02:36:23.411129",
+    "stars_today": "174 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,193",
+    "fork": "4,410",
+    "timestamp": "2024-12-09T02:36:23.411427",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware",
+    "star": "1,062",
+    "fork": "212",
+    "timestamp": "2024-12-09T02:36:23.411729",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "10,840",
+    "fork": "1,206",
+    "timestamp": "2024-12-09T02:36:23.412026",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,188",
+    "fork": "9,582",
+    "timestamp": "2024-12-09T02:36:23.412319",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "27,416",
+    "fork": "2,024",
+    "timestamp": "2024-12-09T02:36:23.412613",
+    "stars_today": "72 stars this week"
+  }
+]

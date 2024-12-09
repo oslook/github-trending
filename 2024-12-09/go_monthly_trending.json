@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "26,849",
+    "fork": "2,005",
+    "timestamp": "2024-12-09T02:36:24.596253",
+    "stars_today": "2,433 stars this month"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "7,454",
+    "fork": "539",
+    "timestamp": "2024-12-09T02:36:24.596574",
+    "stars_today": "2,234 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "12,484",
+    "fork": "650",
+    "timestamp": "2024-12-09T02:36:24.596875",
+    "stars_today": "1,285 stars this month"
+  },
+  {
+    "repo": "Melkeydev/go-blueprint",
+    "href": "https://github.com/Melkeydev/go-blueprint",
+    "about": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+    "star": "6,050",
+    "fork": "340",
+    "timestamp": "2024-12-09T02:36:24.597171",
+    "stars_today": "1,533 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "39,171",
+    "fork": "1,243",
+    "timestamp": "2024-12-09T02:36:24.597502",
+    "stars_today": "2,020 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "87,384",
+    "fork": "13,444",
+    "timestamp": "2024-12-09T02:36:24.597859",
+    "stars_today": "1,288 stars this month"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,704",
+    "fork": "22,824",
+    "timestamp": "2024-12-09T02:36:24.598158",
+    "stars_today": "85 stars this month"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,122",
+    "fork": "656",
+    "timestamp": "2024-12-09T02:36:24.598450",
+    "stars_today": "552 stars this month"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",
+    "star": "101,480",
+    "fork": "8,113",
+    "timestamp": "2024-12-09T02:36:24.598744",
+    "stars_today": "4,769 stars this month"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "12,703",
+    "fork": "1,251",
+    "timestamp": "2024-12-09T02:36:24.599042",
+    "stars_today": "425 stars this month"
+  },
+  {
+    "repo": "dunglas/frankenphp",
+    "href": "https://github.com/dunglas/frankenphp",
+    "about": "🧟 The modern PHP app server",
+    "star": "7,042",
+    "fork": "249",
+    "timestamp": "2024-12-09T02:36:24.599384",
+    "stars_today": "176 stars this month"
+  },
+  {
+    "repo": "wagoodman/dive",
+    "href": "https://github.com/wagoodman/dive",
+    "about": "A tool for exploring each layer in a docker image",
+    "star": "48,254",
+    "fork": "1,811",
+    "timestamp": "2024-12-09T02:36:24.599714",
+    "stars_today": "2,110 stars this month"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "10,525",
+    "fork": "1,224",
+    "timestamp": "2024-12-09T02:36:24.600043",
+    "stars_today": "401 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,344",
+    "fork": "8,038",
+    "timestamp": "2024-12-09T02:36:24.600340",
+    "stars_today": "592 stars this month"
+  },
+  {
+    "repo": "drakkan/sftpgo",
+    "href": "https://github.com/drakkan/sftpgo",
+    "about": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+    "star": "9,608",
+    "fork": "746",
+    "timestamp": "2024-12-09T02:36:24.600666",
+    "stars_today": "242 stars this month"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,369",
+    "fork": "4,236",
+    "timestamp": "2024-12-09T02:36:24.600959",
+    "stars_today": "235 stars this month"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "8,026",
+    "fork": "590",
+    "timestamp": "2024-12-09T02:36:24.601284",
+    "stars_today": "572 stars this month"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "45,511",
+    "fork": "5,527",
+    "timestamp": "2024-12-09T02:36:24.601608",
+    "stars_today": "626 stars this month"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "3,607",
+    "fork": "536",
+    "timestamp": "2024-12-09T02:36:24.601906",
+    "stars_today": "403 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "3,462",
+    "fork": "114",
+    "timestamp": "2024-12-09T02:36:24.602201",
+    "stars_today": "902 stars this month"
+  },
+  {
+    "repo": "daytonaio/daytona",
+    "href": "https://github.com/daytonaio/daytona",
+    "about": "The Open Source Dev Environment Manager.",
+    "star": "12,859",
+    "fork": "935",
+    "timestamp": "2024-12-09T02:36:24.602500",
+    "stars_today": "2,683 stars this month"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "9,627",
+    "fork": "352",
+    "timestamp": "2024-12-09T02:36:24.602799",
+    "stars_today": "592 stars this month"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,080",
+    "fork": "2,437",
+    "timestamp": "2024-12-09T02:36:24.603110",
+    "stars_today": "398 stars this month"
+  },
+  {
+    "repo": "nezhahq/nezha",
+    "href": "https://github.com/nezhahq/nezha",
+    "about": "Self-hosted, lightweight server and website monitoring and O&M tool",
+    "star": "7,761",
+    "fork": "1,338",
+    "timestamp": "2024-12-09T02:36:24.603604",
+    "stars_today": "566 stars this month"
+  }
+]
