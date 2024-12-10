@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "30,495",
+    "fork": "833",
+    "timestamp": "2024-12-10T02:28:36.519426",
+    "stars_today": "434 stars today"
+  },
+  {
+    "repo": "nexus-xyz/nexus-zkvm",
+    "href": "https://github.com/nexus-xyz/nexus-zkvm",
+    "about": "The Nexus zkVM: The zero-knowledge virtual machine",
+    "star": "884",
+    "fork": "262",
+    "timestamp": "2024-12-10T02:28:36.519738",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "11,468",
+    "fork": "314",
+    "timestamp": "2024-12-10T02:28:36.520064",
+    "stars_today": "534 stars today"
+  },
+  {
+    "repo": "casey/just",
+    "href": "https://github.com/casey/just",
+    "about": "🤖 Just a command runner",
+    "star": "22,426",
+    "fork": "491",
+    "timestamp": "2024-12-10T02:28:36.520395",
+    "stars_today": "139 stars today"
+  },
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "17,330",
+    "fork": "405",
+    "timestamp": "2024-12-10T02:28:36.520689",
+    "stars_today": "100 stars today"
+  },
+  {
+    "repo": "woodruffw/zizmor",
+    "href": "https://github.com/woodruffw/zizmor",
+    "about": "A static analysis tool for GitHub Actions",
+    "star": "701",
+    "fork": "22",
+    "timestamp": "2024-12-10T02:28:36.521009",
+    "stars_today": "101 stars today"
+  },
+  {
+    "repo": "loco-rs/loco",
+    "href": "https://github.com/loco-rs/loco",
+    "about": "🚂 🦀 The one-person framework for Rust for side-projects and startups",
+    "star": "5,655",
+    "fork": "245",
+    "timestamp": "2024-12-10T02:28:36.521316",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "86,390",
+    "fork": "2,618",
+    "timestamp": "2024-12-10T02:28:36.521639",
+    "stars_today": "134 stars today"
+  },
+  {
+    "repo": "rust-windowing/winit",
+    "href": "https://github.com/rust-windowing/winit",
+    "about": "Window handling library in pure Rust",
+    "star": "4,911",
+    "fork": "919",
+    "timestamp": "2024-12-10T02:28:36.521929",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "solana-labs/solana",
+    "href": "https://github.com/solana-labs/solana",
+    "about": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "star": "13,389",
+    "fork": "4,375",
+    "timestamp": "2024-12-10T02:28:36.522217",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "awslabs/aws-lambda-web-adapter",
+    "href": "https://github.com/awslabs/aws-lambda-web-adapter",
+    "about": "Run web applications on AWS Lambda",
+    "star": "2,018",
+    "fork": "123",
+    "timestamp": "2024-12-10T02:28:36.522506",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "4,232",
+    "fork": "121",
+    "timestamp": "2024-12-10T02:28:36.522827",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "tokio-rs/axum",
+    "href": "https://github.com/tokio-rs/axum",
+    "about": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "star": "19,520",
+    "fork": "1,071",
+    "timestamp": "2024-12-10T02:28:36.523150",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "qarmin/czkawka",
+    "href": "https://github.com/qarmin/czkawka",
+    "about": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "star": "20,577",
+    "fork": "666",
+    "timestamp": "2024-12-10T02:28:36.523469",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "TheAlgorithms/Rust",
+    "href": "https://github.com/TheAlgorithms/Rust",
+    "about": "All Algorithms implemented in Rust",
+    "star": "22,970",
+    "fork": "2,242",
+    "timestamp": "2024-12-10T02:28:36.523757",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "wez/wezterm",
+    "href": "https://github.com/wez/wezterm",
+    "about": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "star": "18,258",
+    "fork": "815",
+    "timestamp": "2024-12-10T02:28:36.524077",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "aome510/spotify-player",
+    "href": "https://github.com/aome510/spotify-player",
+    "about": "A Spotify player in the terminal with full feature parity",
+    "star": "3,706",
+    "fork": "169",
+    "timestamp": "2024-12-10T02:28:36.524366",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "alvr-org/ALVR",
+    "href": "https://github.com/alvr-org/ALVR",
+    "about": "Stream VR games from your PC to your headset via Wi-Fi",
+    "star": "5,619",
+    "fork": "497",
+    "timestamp": "2024-12-10T02:28:36.524656",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Orange-OpenSource/hurl",
+    "href": "https://github.com/Orange-OpenSource/hurl",
+    "about": "Hurl, run and test HTTP requests with plain text.",
+    "star": "13,348",
+    "fork": "503",
+    "timestamp": "2024-12-10T02:28:36.524944",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "LGUG2Z/komorebi",
+    "href": "https://github.com/LGUG2Z/komorebi",
+    "about": "A tiling window manager for Windows 🍉",
+    "star": "9,753",
+    "fork": "203",
+    "timestamp": "2024-12-10T02:28:36.525292",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "dtolnay/cxx",
+    "href": "https://github.com/dtolnay/cxx",
+    "about": "Safe interop between Rust and C++",
+    "star": "5,960",
+    "fork": "339",
+    "timestamp": "2024-12-10T02:28:36.525619",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "tensorzero/tensorzero",
+    "href": "https://github.com/tensorzero/tensorzero",
+    "about": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+    "star": "1,089",
+    "fork": "45",
+    "timestamp": "2024-12-10T02:28:36.525910",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",
+    "star": "938",
+    "fork": "43",
+    "timestamp": "2024-12-10T02:28:36.526201",
+    "stars_today": "16 stars today"
+  }
+]
