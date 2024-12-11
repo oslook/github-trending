@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "itzg/docker-minecraft-server",
+    "href": "https://github.com/itzg/docker-minecraft-server",
+    "about": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+    "star": "10,004",
+    "fork": "1,573",
+    "timestamp": "2024-12-11T02:26:34.905356",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "acmesh-official/acme.sh",
+    "href": "https://github.com/acmesh-official/acme.sh",
+    "about": "A pure Unix shell script implementing ACME client protocol",
+    "star": "40,105",
+    "fork": "5,043",
+    "timestamp": "2024-12-11T02:26:34.905666",
+    "stars_today": "383 stars this week"
+  },
+  {
+    "repo": "SeleniumHQ/docker-selenium",
+    "href": "https://github.com/SeleniumHQ/docker-selenium",
+    "about": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+    "star": "8,047",
+    "fork": "2,515",
+    "timestamp": "2024-12-11T02:26:34.906001",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "ublue-os/bazzite",
+    "href": "https://github.com/ublue-os/bazzite",
+    "about": "Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.",
+    "star": "4,197",
+    "fork": "262",
+    "timestamp": "2024-12-11T02:26:34.906293",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "JamesTurland/JimsGarage",
+    "href": "https://github.com/JamesTurland/JimsGarage",
+    "about": "Homelab Goodies",
+    "star": "2,266",
+    "fork": "495",
+    "timestamp": "2024-12-11T02:26:34.906584",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "WhatsApp/proxy",
+    "href": "https://github.com/WhatsApp/proxy",
+    "about": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)",
+    "star": "1,486",
+    "fork": "442",
+    "timestamp": "2024-12-11T02:26:34.906867",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "overleaf/toolkit",
+    "href": "https://github.com/overleaf/toolkit",
+    "about": "",
+    "star": "667",
+    "fork": "159",
+    "timestamp": "2024-12-11T02:26:34.907171",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "QwenLM/Qwen2.5",
+    "href": "https://github.com/QwenLM/Qwen2.5",
+    "about": "Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",
+    "star": "10,772",
+    "fork": "664",
+    "timestamp": "2024-12-11T02:26:34.907454",
+    "stars_today": "276 stars this week"
+  },
+  {
+    "repo": "getsentry/self-hosted",
+    "href": "https://github.com/getsentry/self-hosted",
+    "about": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+    "star": "7,983",
+    "fork": "1,786",
+    "timestamp": "2024-12-11T02:26:34.907735",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "drwetter/testssl.sh",
+    "href": "https://github.com/drwetter/testssl.sh",
+    "about": "Testing TLS/SSL encryption anywhere on any port",
+    "star": "8,044",
+    "fork": "1,025",
+    "timestamp": "2024-12-11T02:26:34.908015",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "xubiaolin/docker-zerotier-planet",
+    "href": "https://github.com/xubiaolin/docker-zerotier-planet",
+    "about": "一分钟私有部署zerotier-planet服务",
+    "star": "2,591",
+    "fork": "487",
+    "timestamp": "2024-12-11T02:26:34.908294",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "edoardottt/awesome-hacker-search-engines",
+    "href": "https://github.com/edoardottt/awesome-hacker-search-engines",
+    "about": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+    "star": "7,925",
+    "fork": "758",
+    "timestamp": "2024-12-11T02:26:34.908599",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "bats-core/bats-core",
+    "href": "https://github.com/bats-core/bats-core",
+    "about": "Bash Automated Testing System",
+    "star": "5,007",
+    "fork": "425",
+    "timestamp": "2024-12-11T02:26:34.908877",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "DaoCloud/public-image-mirror",
+    "href": "https://github.com/DaoCloud/public-image-mirror",
+    "about": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
+    "star": "7,221",
+    "fork": "944",
+    "timestamp": "2024-12-11T02:26:34.909156",
+    "stars_today": "127 stars this week"
+  },
+  {
+    "repo": "ophub/amlogic-s9xxx-openwrt",
+    "href": "https://github.com/ophub/amlogic-s9xxx-openwrt",
+    "about": "Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+    "star": "1,953",
+    "fork": "1,721",
+    "timestamp": "2024-12-11T02:26:34.909442",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "kodekloudhub/certified-kubernetes-administrator-course",
+    "href": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "about": "Certified Kubernetes Administrator - CKA Course",
+    "star": "8,093",
+    "fork": "7,733",
+    "timestamp": "2024-12-11T02:26:34.909723",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "ROCm/ROCm",
+    "href": "https://github.com/ROCm/ROCm",
+    "about": "AMD ROCm™ Software - GitHub Home",
+    "star": "4,711",
+    "fork": "394",
+    "timestamp": "2024-12-11T02:26:34.910018",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "RROrg/rr",
+    "href": "https://github.com/RROrg/rr",
+    "about": "Redpill Recovery (arpl-i18n)",
+    "star": "5,096",
+    "fork": "861",
+    "timestamp": "2024-12-11T02:26:34.910299",
+    "stars_today": "103 stars this week"
+  }
+]
