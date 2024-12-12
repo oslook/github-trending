@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "18,773",
+    "fork": "2,103",
+    "timestamp": "2024-12-12T02:25:53.922048",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "star": "9,445",
+    "fork": "842",
+    "timestamp": "2024-12-12T02:25:53.922366",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,093",
+    "fork": "141",
+    "timestamp": "2024-12-12T02:25:53.922659",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,631",
+    "fork": "8,271",
+    "timestamp": "2024-12-12T02:25:53.922944",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "daytonaio/daytona",
+    "href": "https://github.com/daytonaio/daytona",
+    "about": "The Open Source Dev Environment Manager.",
+    "star": "13,169",
+    "fork": "1,019",
+    "timestamp": "2024-12-12T02:25:53.923228",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "47,876",
+    "fork": "20,279",
+    "timestamp": "2024-12-12T02:25:53.923512",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "7,022",
+    "fork": "571",
+    "timestamp": "2024-12-12T02:25:53.923826",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,160",
+    "fork": "1,440",
+    "timestamp": "2024-12-12T02:25:53.924108",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,780",
+    "fork": "2,588",
+    "timestamp": "2024-12-12T02:25:53.924395",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "17,756",
+    "fork": "1,776",
+    "timestamp": "2024-12-12T02:25:53.924678",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,540",
+    "fork": "1,728",
+    "timestamp": "2024-12-12T02:25:53.924964",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,070",
+    "fork": "1,350",
+    "timestamp": "2024-12-12T02:25:53.925250",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "slimtoolkit/slim",
+    "href": "https://github.com/slimtoolkit/slim",
+    "about": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+    "star": "20,094",
+    "fork": "744",
+    "timestamp": "2024-12-12T02:25:53.925534",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "25,902",
+    "fork": "2,753",
+    "timestamp": "2024-12-12T02:25:53.925846",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "NVIDIA/gpu-operator",
+    "href": "https://github.com/NVIDIA/gpu-operator",
+    "about": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+    "star": "1,897",
+    "fork": "308",
+    "timestamp": "2024-12-12T02:25:53.926128",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "10,184",
+    "fork": "733",
+    "timestamp": "2024-12-12T02:25:53.926455",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "6,664",
+    "fork": "437",
+    "timestamp": "2024-12-12T02:25:53.926769",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "45,595",
+    "fork": "5,537",
+    "timestamp": "2024-12-12T02:25:53.927081",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "23,992",
+    "fork": "2,356",
+    "timestamp": "2024-12-12T02:25:53.927364",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "37,582",
+    "fork": "5,906",
+    "timestamp": "2024-12-12T02:25:53.927648",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "href": "https://github.com/aquasecurity/kube-bench",
+    "about": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+    "star": "7,126",
+    "fork": "1,234",
+    "timestamp": "2024-12-12T02:25:53.927930",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "20,440",
+    "fork": "2,996",
+    "timestamp": "2024-12-12T02:25:53.928212",
+    "stars_today": "9 stars today"
+  }
+]

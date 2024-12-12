@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,228",
+    "fork": "2,249",
+    "timestamp": "2024-12-12T02:25:52.521178",
+    "stars_today": "150 stars this month"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,191",
+    "fork": "336",
+    "timestamp": "2024-12-12T02:25:52.521489",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,559",
+    "fork": "349",
+    "timestamp": "2024-12-12T02:25:52.521784",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,373",
+    "fork": "277",
+    "timestamp": "2024-12-12T02:25:52.522078",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,072",
+    "fork": "232",
+    "timestamp": "2024-12-12T02:25:52.522414",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,442",
+    "fork": "2,960",
+    "timestamp": "2024-12-12T02:25:52.522706",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "251",
+    "fork": "83",
+    "timestamp": "2024-12-12T02:25:52.522997",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "906",
+    "fork": "230",
+    "timestamp": "2024-12-12T02:25:52.523288",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "815",
+    "fork": "231",
+    "timestamp": "2024-12-12T02:25:52.523605",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "kafka4beam/brod",
+    "href": "https://github.com/kafka4beam/brod",
+    "about": "Apache Kafka client library for Erlang/Elixir",
+    "star": "667",
+    "fork": "203",
+    "timestamp": "2024-12-12T02:25:52.523897",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,318",
+    "fork": "1,169",
+    "timestamp": "2024-12-12T02:25:52.524190",
+    "stars_today": "24 stars this month"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,067",
+    "fork": "151",
+    "timestamp": "2024-12-12T02:25:52.524514",
+    "stars_today": "15 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "280",
+    "fork": "172",
+    "timestamp": "2024-12-12T02:25:52.524818",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "mojombo/yaws",
+    "href": "https://github.com/mojombo/yaws",
+    "about": "YAWS is an erlang web server",
+    "star": "42",
+    "fork": "51",
+    "timestamp": "2024-12-12T02:25:52.525106",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2024-12-12T02:25:52.525389",
+    "stars_today": "1 star this month"
+  }
+]

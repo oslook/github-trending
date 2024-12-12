@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "daytonaio/daytona",
+    "href": "https://github.com/daytonaio/daytona",
+    "about": "The Open Source Dev Environment Manager.",
+    "star": "13,169",
+    "fork": "1,019",
+    "timestamp": "2024-12-12T02:25:55.336759",
+    "stars_today": "773 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "102,338",
+    "fork": "8,166",
+    "timestamp": "2024-12-12T02:25:55.337079",
+    "stars_today": "1,593 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "9,967",
+    "fork": "9,231",
+    "timestamp": "2024-12-12T02:25:55.337412",
+    "stars_today": "101 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "42,046",
+    "fork": "1,969",
+    "timestamp": "2024-12-12T02:25:55.337704",
+    "stars_today": "840 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,205",
+    "fork": "4,415",
+    "timestamp": "2024-12-12T02:25:55.337991",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "12,622",
+    "fork": "1,555",
+    "timestamp": "2024-12-12T02:25:55.338277",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "21,983",
+    "fork": "1,764",
+    "timestamp": "2024-12-12T02:25:55.338597",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "30,073",
+    "fork": "2,233",
+    "timestamp": "2024-12-12T02:25:55.338914",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,716",
+    "fork": "2,173",
+    "timestamp": "2024-12-12T02:25:55.339198",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,066",
+    "fork": "752",
+    "timestamp": "2024-12-12T02:25:55.339484",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "6,636",
+    "fork": "613",
+    "timestamp": "2024-12-12T02:25:55.339774",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "25,928",
+    "fork": "1,859",
+    "timestamp": "2024-12-12T02:25:55.340066",
+    "stars_today": "144 stars this week"
+  },
+  {
+    "repo": "dexidp/dex",
+    "href": "https://github.com/dexidp/dex",
+    "about": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+    "star": "9,564",
+    "fork": "1,714",
+    "timestamp": "2024-12-12T02:25:55.340359",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "8,304",
+    "fork": "1,175",
+    "timestamp": "2024-12-12T02:25:55.340643",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,696",
+    "fork": "1,423",
+    "timestamp": "2024-12-12T02:25:55.340930",
+    "stars_today": "60 stars this week"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "25,767",
+    "fork": "1,250",
+    "timestamp": "2024-12-12T02:25:55.341215",
+    "stars_today": "131 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "serve as a reverse proxy to protect your web services from attacks and exploits.",
+    "star": "14,070",
+    "fork": "856",
+    "timestamp": "2024-12-12T02:25:55.341502",
+    "stars_today": "645 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "10,854",
+    "fork": "1,208",
+    "timestamp": "2024-12-12T02:25:55.341789",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。",
+    "star": "3,893",
+    "fork": "886",
+    "timestamp": "2024-12-12T02:25:55.342078",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "apernet/hysteria",
+    "href": "https://github.com/apernet/hysteria",
+    "about": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "star": "15,335",
+    "fork": "1,706",
+    "timestamp": "2024-12-12T02:25:55.342401",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,890",
+    "fork": "18,675",
+    "timestamp": "2024-12-12T02:25:55.342698",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,070",
+    "fork": "1,350",
+    "timestamp": "2024-12-12T02:25:55.342991",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "3,541",
+    "fork": "117",
+    "timestamp": "2024-12-12T02:25:55.343281",
+    "stars_today": "242 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "66,155",
+    "fork": "2,410",
+    "timestamp": "2024-12-12T02:25:55.343598",
+    "stars_today": "189 stars this week"
+  }
+]
