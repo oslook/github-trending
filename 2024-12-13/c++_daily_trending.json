@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "20,951",
+    "fork": "2,528",
+    "timestamp": "2024-12-13T02:27:23.814425",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "bitcoin/bitcoin",
+    "href": "https://github.com/bitcoin/bitcoin",
+    "about": "Bitcoin Core integration/staging tree",
+    "star": "80,667",
+    "fork": "36,555",
+    "timestamp": "2024-12-13T02:27:23.814733",
+    "stars_today": "115 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,021",
+    "fork": "10,193",
+    "timestamp": "2024-12-13T02:27:23.815027",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mongodb/mongo",
+    "href": "https://github.com/mongodb/mongo",
+    "about": "The MongoDB Database",
+    "star": "26,497",
+    "fork": "5,602",
+    "timestamp": "2024-12-13T02:27:23.815314",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "5,709",
+    "fork": "1,488",
+    "timestamp": "2024-12-13T02:27:23.815604",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nillerusr/source-engine",
+    "href": "https://github.com/nillerusr/source-engine",
+    "about": "Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses",
+    "star": "1,488",
+    "fork": "239",
+    "timestamp": "2024-12-13T02:27:23.815906",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "google/flatbuffers",
+    "href": "https://github.com/google/flatbuffers",
+    "about": "FlatBuffers: Memory Efficient Serialization Library",
+    "star": "23,465",
+    "fork": "3,262",
+    "timestamp": "2024-12-13T02:27:23.816203",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "assimp/assimp",
+    "href": "https://github.com/assimp/assimp",
+    "about": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "star": "11,086",
+    "fork": "2,931",
+    "timestamp": "2024-12-13T02:27:23.816493",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "facebookincubator/velox",
+    "href": "https://github.com/facebookincubator/velox",
+    "about": "A composable and fully extensible C++ execution engine library for data management systems.",
+    "star": "3,555",
+    "fork": "1,174",
+    "timestamp": "2024-12-13T02:27:23.816783",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "about": "Cloud-native high-performance edge/middle/service proxy",
+    "star": "25,174",
+    "fork": "4,832",
+    "timestamp": "2024-12-13T02:27:23.817073",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "project-chip/connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "about": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "star": "7,586",
+    "fork": "2,048",
+    "timestamp": "2024-12-13T02:27:23.817360",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "65,991",
+    "fork": "15,544",
+    "timestamp": "2024-12-13T02:27:23.817647",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "qgis/QGIS",
+    "href": "https://github.com/qgis/QGIS",
+    "about": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "star": "10,715",
+    "fork": "3,023",
+    "timestamp": "2024-12-13T02:27:23.817962",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "opencv/opencv",
+    "href": "https://github.com/opencv/opencv",
+    "about": "Open Source Computer Vision Library",
+    "star": "79,590",
+    "fork": "55,879",
+    "timestamp": "2024-12-13T02:27:23.818274",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "36,223",
+    "fork": "3,707",
+    "timestamp": "2024-12-13T02:27:23.818593",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",
+    "star": "3,813",
+    "fork": "445",
+    "timestamp": "2024-12-13T02:27:23.818881",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "href": "https://github.com/ArduPilot/ardupilot",
+    "about": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "star": "11,194",
+    "fork": "17,732",
+    "timestamp": "2024-12-13T02:27:23.819168",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "43,614",
+    "fork": "6,779",
+    "timestamp": "2024-12-13T02:27:23.819484",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "moveit/moveit2",
+    "href": "https://github.com/moveit/moveit2",
+    "about": "🤖 MoveIt for ROS 2",
+    "star": "1,132",
+    "fork": "541",
+    "timestamp": "2024-12-13T02:27:23.819771",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "14,961",
+    "fork": "2,954",
+    "timestamp": "2024-12-13T02:27:23.820075",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "31,911",
+    "fork": "3,671",
+    "timestamp": "2024-12-13T02:27:23.820364",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "typesense/typesense",
+    "href": "https://github.com/typesense/typesense",
+    "about": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+    "star": "21,479",
+    "fork": "667",
+    "timestamp": "2024-12-13T02:27:23.820687",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "wkhtmltopdf/wkhtmltopdf",
+    "href": "https://github.com/wkhtmltopdf/wkhtmltopdf",
+    "about": "Convert HTML to PDF using Webkit (QtWebKit)",
+    "star": "14,049",
+    "fork": "1,839",
+    "timestamp": "2024-12-13T02:27:23.820975",
+    "stars_today": "3 stars today"
+  }
+]

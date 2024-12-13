@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,445",
+    "fork": "2,961",
+    "timestamp": "2024-12-13T02:27:30.909295",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "884",
+    "fork": "167",
+    "timestamp": "2024-12-13T02:27:30.909605",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,068",
+    "fork": "151",
+    "timestamp": "2024-12-13T02:27:30.909895",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,124",
+    "fork": "455",
+    "timestamp": "2024-12-13T02:27:30.910182",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "905",
+    "fork": "230",
+    "timestamp": "2024-12-13T02:27:30.910470",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,192",
+    "fork": "336",
+    "timestamp": "2024-12-13T02:27:30.910762",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,873",
+    "fork": "474",
+    "timestamp": "2024-12-13T02:27:30.911047",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "561",
+    "fork": "153",
+    "timestamp": "2024-12-13T02:27:30.911328",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "280",
+    "fork": "172",
+    "timestamp": "2024-12-13T02:27:30.911611",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,298",
+    "fork": "1,035",
+    "timestamp": "2024-12-13T02:27:30.911919",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "couchbase/couchdb",
+    "href": "https://github.com/couchbase/couchdb",
+    "about": "CouchDB",
+    "star": "137",
+    "fork": "55",
+    "timestamp": "2024-12-13T02:27:30.912212",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "for-GET/jesse",
+    "href": "https://github.com/for-GET/jesse",
+    "about": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+    "star": "126",
+    "fork": "64",
+    "timestamp": "2024-12-13T02:27:30.912494",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,338",
+    "fork": "427",
+    "timestamp": "2024-12-13T02:27:30.912773",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "231",
+    "timestamp": "2024-12-13T02:27:30.913085",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,319",
+    "fork": "1,169",
+    "timestamp": "2024-12-13T02:27:30.913365",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "311",
+    "fork": "105",
+    "timestamp": "2024-12-13T02:27:30.913647",
+    "stars_today": "0 stars today"
+  }
+]

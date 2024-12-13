@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "satijalab/seurat",
+    "href": "https://github.com/satijalab/seurat",
+    "about": "R toolkit for single cell genomics",
+    "star": "2,317",
+    "fork": "922",
+    "timestamp": "2024-12-13T02:27:52.479035",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "tidyverse/dplyr",
+    "href": "https://github.com/tidyverse/dplyr",
+    "about": "dplyr: A grammar of data manipulation",
+    "star": "4,795",
+    "fork": "2,124",
+    "timestamp": "2024-12-13T02:27:52.479356",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "sqjin/CellChat",
+    "href": "https://github.com/sqjin/CellChat",
+    "about": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+    "star": "648",
+    "fork": "148",
+    "timestamp": "2024-12-13T02:27:52.479666",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joey711/phyloseq",
+    "href": "https://github.com/joey711/phyloseq",
+    "about": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+    "star": "587",
+    "fork": "187",
+    "timestamp": "2024-12-13T02:27:52.479982",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/ggplot2",
+    "href": "https://github.com/tidyverse/ggplot2",
+    "about": "An implementation of the Grammar of Graphics in R",
+    "star": "6,563",
+    "fork": "2,036",
+    "timestamp": "2024-12-13T02:27:52.480290",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "benjjneb/dada2",
+    "href": "https://github.com/benjjneb/dada2",
+    "about": "Accurate sample inference from amplicon data with single nucleotide resolution",
+    "star": "474",
+    "fork": "144",
+    "timestamp": "2024-12-13T02:27:52.480596",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "r-spatial/sf",
+    "href": "https://github.com/r-spatial/sf",
+    "about": "Simple Features for R",
+    "star": "1,353",
+    "fork": "301",
+    "timestamp": "2024-12-13T02:27:52.480902",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "broadinstitute/infercnv",
+    "href": "https://github.com/broadinstitute/infercnv",
+    "about": "Inferring CNV from Single-Cell RNA-Seq",
+    "star": "578",
+    "fork": "166",
+    "timestamp": "2024-12-13T02:27:52.481210",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "paul-buerkner/brms",
+    "href": "https://github.com/paul-buerkner/brms",
+    "about": "brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan",
+    "star": "1,288",
+    "fork": "187",
+    "timestamp": "2024-12-13T02:27:52.481551",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "YuLab-SMU/clusterProfiler",
+    "href": "https://github.com/YuLab-SMU/clusterProfiler",
+    "about": "📊 A universal enrichment tool for interpreting omics data",
+    "star": "1,038",
+    "fork": "254",
+    "timestamp": "2024-12-13T02:27:52.481845",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "GreenleafLab/ArchR",
+    "href": "https://github.com/GreenleafLab/ArchR",
+    "about": "ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com)",
+    "star": "390",
+    "fork": "139",
+    "timestamp": "2024-12-13T02:27:52.482142",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Rdatatable/data.table",
+    "href": "https://github.com/Rdatatable/data.table",
+    "about": "R's data.table package extends data.frame:",
+    "star": "3,635",
+    "fork": "985",
+    "timestamp": "2024-12-13T02:27:52.482428",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "MRCIEU/TwoSampleMR",
+    "href": "https://github.com/MRCIEU/TwoSampleMR",
+    "about": "R package for performing 2-sample MR using MR-Base database",
+    "star": "445",
+    "fork": "177",
+    "timestamp": "2024-12-13T02:27:52.482723",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "satijalab/seurat-wrappers",
+    "href": "https://github.com/satijalab/seurat-wrappers",
+    "about": "Community-provided extensions to Seurat",
+    "star": "311",
+    "fork": "130",
+    "timestamp": "2024-12-13T02:27:52.483017",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "satijalab/seurat-data",
+    "href": "https://github.com/satijalab/seurat-data",
+    "about": "Dataset distribution for Seurat",
+    "star": "129",
+    "fork": "47",
+    "timestamp": "2024-12-13T02:27:52.483313",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hadley/r4ds",
+    "href": "https://github.com/hadley/r4ds",
+    "about": "R for data science: a book",
+    "star": "4,604",
+    "fork": "4,225",
+    "timestamp": "2024-12-13T02:27:52.483610",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jokergoo/ComplexHeatmap",
+    "href": "https://github.com/jokergoo/ComplexHeatmap",
+    "about": "Make Complex Heatmaps",
+    "star": "1,322",
+    "fork": "228",
+    "timestamp": "2024-12-13T02:27:52.483918",
+    "stars_today": "1 star today"
+  }
+]

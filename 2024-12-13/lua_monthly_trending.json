@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "gaboolic/rime-frost",
+    "href": "https://github.com/gaboolic/rime-frost",
+    "about": "白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。",
+    "star": "1,401",
+    "fork": "59",
+    "timestamp": "2024-12-13T02:27:43.874983",
+    "stars_today": "469 stars this month"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "17,825",
+    "fork": "1,264",
+    "timestamp": "2024-12-13T02:27:43.875286",
+    "stars_today": "564 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,292",
+    "fork": "1,286",
+    "timestamp": "2024-12-13T02:27:43.875588",
+    "stars_today": "499 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,487",
+    "fork": "193",
+    "timestamp": "2024-12-13T02:27:43.875910",
+    "stars_today": "250 stars this month"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,492",
+    "fork": "4,841",
+    "timestamp": "2024-12-13T02:27:43.876222",
+    "stars_today": "281 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,281",
+    "fork": "371",
+    "timestamp": "2024-12-13T02:27:43.876522",
+    "stars_today": "488 stars this month"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,175",
+    "fork": "243",
+    "timestamp": "2024-12-13T02:27:43.876851",
+    "stars_today": "137 stars this month"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,028",
+    "fork": "807",
+    "timestamp": "2024-12-13T02:27:43.877146",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "1,584",
+    "fork": "89",
+    "timestamp": "2024-12-13T02:27:43.877444",
+    "stars_today": "386 stars this month"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,419",
+    "fork": "325",
+    "timestamp": "2024-12-13T02:27:43.877730",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "10,287",
+    "fork": "796",
+    "timestamp": "2024-12-13T02:27:43.878016",
+    "stars_today": "192 stars this month"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,314",
+    "fork": "169",
+    "timestamp": "2024-12-13T02:27:43.878302",
+    "stars_today": "138 stars this month"
+  },
+  {
+    "repo": "karb94/neoscroll.nvim",
+    "href": "https://github.com/karb94/neoscroll.nvim",
+    "about": "Smooth scrolling neovim plugin written in lua",
+    "star": "1,580",
+    "fork": "40",
+    "timestamp": "2024-12-13T02:27:43.878593",
+    "stars_today": "110 stars this month"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "5,739",
+    "fork": "208",
+    "timestamp": "2024-12-13T02:27:43.878909",
+    "stars_today": "146 stars this month"
+  },
+  {
+    "repo": "linkease/istore",
+    "href": "https://github.com/linkease/istore",
+    "about": "一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT",
+    "star": "1,545",
+    "fork": "337",
+    "timestamp": "2024-12-13T02:27:43.879193",
+    "stars_today": "89 stars this month"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,851",
+    "fork": "69",
+    "timestamp": "2024-12-13T02:27:43.879509",
+    "stars_today": "106 stars this month"
+  }
+]
