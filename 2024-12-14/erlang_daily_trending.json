@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,443",
+    "fork": "2,962",
+    "timestamp": "2024-12-14T02:22:09.110759",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "for-GET/jesse",
+    "href": "https://github.com/for-GET/jesse",
+    "about": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+    "star": "126",
+    "fork": "64",
+    "timestamp": "2024-12-14T02:22:09.111070",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,547",
+    "fork": "1,513",
+    "timestamp": "2024-12-14T02:22:09.111402",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,068",
+    "fork": "151",
+    "timestamp": "2024-12-14T02:22:09.111699",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "696",
+    "fork": "232",
+    "timestamp": "2024-12-14T02:22:09.111990",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "906",
+    "fork": "230",
+    "timestamp": "2024-12-14T02:22:09.112279",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "291",
+    "fork": "210",
+    "timestamp": "2024-12-14T02:22:09.112567",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "422",
+    "fork": "162",
+    "timestamp": "2024-12-14T02:22:09.112857",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "virtan/eep",
+    "href": "https://github.com/virtan/eep",
+    "about": "Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy",
+    "star": "241",
+    "fork": "33",
+    "timestamp": "2024-12-14T02:22:09.113150",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,319",
+    "fork": "1,169",
+    "timestamp": "2024-12-14T02:22:09.113433",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,708",
+    "fork": "517",
+    "timestamp": "2024-12-14T02:22:09.113725",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,231",
+    "fork": "2,249",
+    "timestamp": "2024-12-14T02:22:09.114012",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "inaka/cowboy_swagger",
+    "href": "https://github.com/inaka/cowboy_swagger",
+    "about": "Swagger integration for Cowboy (built on trails)",
+    "star": "122",
+    "fork": "58",
+    "timestamp": "2024-12-14T02:22:09.114300",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,300",
+    "fork": "1,035",
+    "timestamp": "2024-12-14T02:22:09.114584",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kafka4beam/brod",
+    "href": "https://github.com/kafka4beam/brod",
+    "about": "Apache Kafka client library for Erlang/Elixir",
+    "star": "666",
+    "fork": "203",
+    "timestamp": "2024-12-14T02:22:09.114869",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "751",
+    "fork": "163",
+    "timestamp": "2024-12-14T02:22:09.115154",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "massemanet/redbug",
+    "href": "https://github.com/massemanet/redbug",
+    "about": "erlang tracing debugger",
+    "star": "218",
+    "fork": "46",
+    "timestamp": "2024-12-14T02:22:09.115455",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-14T02:22:09.115741",
+    "stars_today": "1 star today"
+  }
+]

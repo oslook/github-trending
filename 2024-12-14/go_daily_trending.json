@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,215",
+    "fork": "995",
+    "timestamp": "2024-12-14T02:22:10.130555",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "href": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "star": "26,753",
+    "fork": "1,466",
+    "timestamp": "2024-12-14T02:22:10.130862",
+    "stars_today": "73 stars today"
+  },
+  {
+    "repo": "sourcegraph/conc",
+    "href": "https://github.com/sourcegraph/conc",
+    "about": "Better structured concurrency for go",
+    "star": "9,476",
+    "fork": "325",
+    "timestamp": "2024-12-14T02:22:10.131154",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "6,918",
+    "fork": "978",
+    "timestamp": "2024-12-14T02:22:10.131459",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "6,699",
+    "fork": "440",
+    "timestamp": "2024-12-14T02:22:10.131778",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,434",
+    "fork": "8,043",
+    "timestamp": "2024-12-14T02:22:10.132066",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,111",
+    "fork": "143",
+    "timestamp": "2024-12-14T02:22:10.132353",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,054",
+    "fork": "9,797",
+    "timestamp": "2024-12-14T02:22:10.132639",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "87,648",
+    "fork": "13,475",
+    "timestamp": "2024-12-14T02:22:10.132952",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "20,468",
+    "fork": "2,999",
+    "timestamp": "2024-12-14T02:22:10.133241",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "11,785",
+    "fork": "818",
+    "timestamp": "2024-12-14T02:22:10.133530",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "134,349",
+    "fork": "11,968",
+    "timestamp": "2024-12-14T02:22:10.133849",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "111,689",
+    "fork": "39,837",
+    "timestamp": "2024-12-14T02:22:10.134135",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "17,657",
+    "fork": "3,490",
+    "timestamp": "2024-12-14T02:22:10.134424",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "volcano-sh/volcano",
+    "href": "https://github.com/volcano-sh/volcano",
+    "about": "A Cloud Native Batch System (Project under CNCF)",
+    "star": "4,299",
+    "fork": "987",
+    "timestamp": "2024-12-14T02:22:10.134712",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ariga/atlas",
+    "href": "https://github.com/ariga/atlas",
+    "about": "Manage your database schema as code",
+    "star": "6,128",
+    "fork": "271",
+    "timestamp": "2024-12-14T02:22:10.134997",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,182",
+    "fork": "7,146",
+    "timestamp": "2024-12-14T02:22:10.135294",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "10,017",
+    "fork": "1,618",
+    "timestamp": "2024-12-14T02:22:10.135583",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "38,483",
+    "fork": "3,379",
+    "timestamp": "2024-12-14T02:22:10.135897",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,577",
+    "fork": "1,730",
+    "timestamp": "2024-12-14T02:22:10.136183",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "IBM/sarama",
+    "href": "https://github.com/IBM/sarama",
+    "about": "Sarama is a Go library for Apache Kafka.",
+    "star": "11,632",
+    "fork": "1,760",
+    "timestamp": "2024-12-14T02:22:10.136468",
+    "stars_today": "4 stars today"
+  }
+]

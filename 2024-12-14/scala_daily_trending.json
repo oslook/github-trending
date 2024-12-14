@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,677",
+    "fork": "1,727",
+    "timestamp": "2024-12-14T02:22:30.470022",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,178",
+    "fork": "28,375",
+    "timestamp": "2024-12-14T02:22:30.470322",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,685",
+    "fork": "660",
+    "timestamp": "2024-12-14T02:22:30.470613",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,288",
+    "fork": "1,137",
+    "timestamp": "2024-12-14T02:22:30.470901",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,907",
+    "fork": "1,061",
+    "timestamp": "2024-12-14T02:22:30.471227",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aimacode/aima-scala",
+    "href": "https://github.com/aimacode/aima-scala",
+    "about": "",
+    "star": "85",
+    "fork": "34",
+    "timestamp": "2024-12-14T02:22:30.471549",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "62,570",
+    "fork": "12,157",
+    "timestamp": "2024-12-14T02:22:30.471849",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,359",
+    "fork": "3,116",
+    "timestamp": "2024-12-14T02:22:30.472171",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "wvlet/wvlet",
+    "href": "https://github.com/wvlet/wvlet",
+    "about": "A flow-style query language for SQL engines",
+    "star": "48",
+    "fork": "6",
+    "timestamp": "2024-12-14T02:22:30.472464",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,149",
+    "fork": "294",
+    "timestamp": "2024-12-14T02:22:30.472752",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,561",
+    "fork": "4,096",
+    "timestamp": "2024-12-14T02:22:30.473065",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,225",
+    "fork": "442",
+    "timestamp": "2024-12-14T02:22:30.473349",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "471",
+    "fork": "149",
+    "timestamp": "2024-12-14T02:22:30.473631",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,468",
+    "fork": "627",
+    "timestamp": "2024-12-14T02:22:30.473915",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "832",
+    "fork": "237",
+    "timestamp": "2024-12-14T02:22:30.474198",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,324",
+    "fork": "541",
+    "timestamp": "2024-12-14T02:22:30.474484",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,247",
+    "fork": "359",
+    "timestamp": "2024-12-14T02:22:30.474777",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,116",
+    "fork": "919",
+    "timestamp": "2024-12-14T02:22:30.475065",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,106",
+    "fork": "337",
+    "timestamp": "2024-12-14T02:22:30.475365",
+    "stars_today": "1 star today"
+  }
+]
