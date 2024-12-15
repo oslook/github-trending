@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "80,975",
+    "fork": "8,074",
+    "timestamp": "2024-12-15T02:39:30.189193",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "beclab/Olares",
+    "href": "https://github.com/beclab/Olares",
+    "about": "Olares: Your Sovereign Cloud, An Open-Source, Self-Hosted Alternative to Public Clouds",
+    "star": "1,278",
+    "fork": "33",
+    "timestamp": "2024-12-15T02:39:30.189500",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "termux/termux-packages",
+    "href": "https://github.com/termux/termux-packages",
+    "about": "A package build system for Termux.",
+    "star": "13,444",
+    "fork": "3,113",
+    "timestamp": "2024-12-15T02:39:30.189822",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "cdarlint/winutils",
+    "href": "https://github.com/cdarlint/winutils",
+    "about": "winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows",
+    "star": "1,958",
+    "fork": "2,160",
+    "timestamp": "2024-12-15T02:39:30.190168",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kodekloudhub/certified-kubernetes-administrator-course",
+    "href": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "about": "Certified Kubernetes Administrator - CKA Course",
+    "star": "8,107",
+    "fork": "7,748",
+    "timestamp": "2024-12-15T02:39:30.190457",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hmcts/cnp-flux-config",
+    "href": "https://github.com/hmcts/cnp-flux-config",
+    "about": "FluxCD config for AKS clusters",
+    "star": "28",
+    "fork": "19",
+    "timestamp": "2024-12-15T02:39:30.190747",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SeleniumHQ/docker-selenium",
+    "href": "https://github.com/SeleniumHQ/docker-selenium",
+    "about": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+    "star": "8,072",
+    "fork": "2,518",
+    "timestamp": "2024-12-15T02:39:30.191065",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nextcloud/docker",
+    "href": "https://github.com/nextcloud/docker",
+    "about": "⛴ Docker image of Nextcloud",
+    "star": "6,153",
+    "fork": "1,834",
+    "timestamp": "2024-12-15T02:39:30.191353",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "fscarmen2/Argo-Nezha-Service-Container",
+    "href": "https://github.com/fscarmen2/Argo-Nezha-Service-Container",
+    "about": "Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端",
+    "star": "688",
+    "fork": "413",
+    "timestamp": "2024-12-15T02:39:30.191639",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "bitnami/containers",
+    "href": "https://github.com/bitnami/containers",
+    "about": "Bitnami container images",
+    "star": "3,484",
+    "fork": "4,946",
+    "timestamp": "2024-12-15T02:39:30.191927",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JaKooLit/Fedora-Hyprland",
+    "href": "https://github.com/JaKooLit/Fedora-Hyprland",
+    "about": "For automated installation of Hyprland on Fedora or any Fedora based distros",
+    "star": "1,075",
+    "fork": "77",
+    "timestamp": "2024-12-15T02:39:30.192241",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "fscarmen/sing-box",
+    "href": "https://github.com/fscarmen/sing-box",
+    "about": "Sing-box 全家桶 --- 一键多协议脚本",
+    "star": "1,442",
+    "fork": "312",
+    "timestamp": "2024-12-15T02:39:30.192514",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "armbian/build",
+    "href": "https://github.com/armbian/build",
+    "about": "Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",
+    "star": "4,306",
+    "fork": "2,365",
+    "timestamp": "2024-12-15T02:39:30.192818",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "aws/aws-mwaa-local-runner",
+    "href": "https://github.com/aws/aws-mwaa-local-runner",
+    "about": "This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.",
+    "star": "708",
+    "fork": "711",
+    "timestamp": "2024-12-15T02:39:30.193104",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "bioconda/bioconda-recipes",
+    "href": "https://github.com/bioconda/bioconda-recipes",
+    "about": "Conda recipes for the bioconda channel.",
+    "star": "1,652",
+    "fork": "3,301",
+    "timestamp": "2024-12-15T02:39:30.193391",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "aquasecurity/trivy-action",
+    "href": "https://github.com/aquasecurity/trivy-action",
+    "about": "Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities",
+    "star": "848",
+    "fork": "244",
+    "timestamp": "2024-12-15T02:39:30.193677",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CISOfy/lynis",
+    "href": "https://github.com/CISOfy/lynis",
+    "about": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "star": "13,559",
+    "fork": "1,493",
+    "timestamp": "2024-12-15T02:39:30.193961",
+    "stars_today": "1 star today"
+  }
+]

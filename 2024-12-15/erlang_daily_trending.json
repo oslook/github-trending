@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,124",
+    "fork": "455",
+    "timestamp": "2024-12-15T02:39:04.168519",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2024-12-15T02:39:04.168831",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "inaka/cowboy_swagger",
+    "href": "https://github.com/inaka/cowboy_swagger",
+    "about": "Swagger integration for Cowboy (built on trails)",
+    "star": "122",
+    "fork": "58",
+    "timestamp": "2024-12-15T02:39:04.169124",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "for-GET/jesse",
+    "href": "https://github.com/for-GET/jesse",
+    "about": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+    "star": "126",
+    "fork": "64",
+    "timestamp": "2024-12-15T02:39:04.169415",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "906",
+    "fork": "230",
+    "timestamp": "2024-12-15T02:39:04.169707",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "311",
+    "fork": "105",
+    "timestamp": "2024-12-15T02:39:04.169995",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,125",
+    "fork": "1,511",
+    "timestamp": "2024-12-15T02:39:04.170318",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqtt",
+    "href": "https://github.com/emqx/emqtt",
+    "about": "Erlang MQTT 5.0 Client",
+    "star": "407",
+    "fork": "168",
+    "timestamp": "2024-12-15T02:39:04.170614",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "231",
+    "timestamp": "2024-12-15T02:39:04.170932",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,232",
+    "fork": "2,249",
+    "timestamp": "2024-12-15T02:39:04.171218",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "423",
+    "fork": "162",
+    "timestamp": "2024-12-15T02:39:04.171505",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,873",
+    "fork": "474",
+    "timestamp": "2024-12-15T02:39:04.171791",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,302",
+    "fork": "1,035",
+    "timestamp": "2024-12-15T02:39:04.172078",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kafka4beam/brod",
+    "href": "https://github.com/kafka4beam/brod",
+    "about": "Apache Kafka client library for Erlang/Elixir",
+    "star": "666",
+    "fork": "203",
+    "timestamp": "2024-12-15T02:39:04.172364",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "massemanet/redbug",
+    "href": "https://github.com/massemanet/redbug",
+    "about": "erlang tracing debugger",
+    "star": "218",
+    "fork": "46",
+    "timestamp": "2024-12-15T02:39:04.172649",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-15T02:39:04.172935",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "561",
+    "fork": "153",
+    "timestamp": "2024-12-15T02:39:04.173221",
+    "stars_today": "0 stars today"
+  }
+]

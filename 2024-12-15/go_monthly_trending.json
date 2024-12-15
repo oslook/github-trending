@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "45,786",
+    "fork": "5,549",
+    "timestamp": "2024-12-15T02:39:07.126807",
+    "stars_today": "695 stars this month"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "47,894",
+    "fork": "20,285",
+    "timestamp": "2024-12-15T02:39:07.127116",
+    "stars_today": "371 stars this month"
+  },
+  {
+    "repo": "Melkeydev/go-blueprint",
+    "href": "https://github.com/Melkeydev/go-blueprint",
+    "about": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+    "star": "6,145",
+    "fork": "345",
+    "timestamp": "2024-12-15T02:39:07.127409",
+    "stars_today": "1,583 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "39,326",
+    "fork": "1,249",
+    "timestamp": "2024-12-15T02:39:07.127732",
+    "stars_today": "2,096 stars this month"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,158",
+    "fork": "660",
+    "timestamp": "2024-12-15T02:39:07.128021",
+    "stars_today": "546 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "8,150",
+    "fork": "184",
+    "timestamp": "2024-12-15T02:39:07.128309",
+    "stars_today": "1,209 stars this month"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "102,728",
+    "fork": "8,196",
+    "timestamp": "2024-12-15T02:39:07.128603",
+    "stars_today": "5,162 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "87,691",
+    "fork": "13,479",
+    "timestamp": "2024-12-15T02:39:07.128922",
+    "stars_today": "1,357 stars this month"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "51,213",
+    "fork": "2,691",
+    "timestamp": "2024-12-15T02:39:07.129241",
+    "stars_today": "1,494 stars this month"
+  },
+  {
+    "repo": "wagoodman/dive",
+    "href": "https://github.com/wagoodman/dive",
+    "about": "A tool for exploring each layer in a docker image",
+    "star": "48,457",
+    "fork": "1,817",
+    "timestamp": "2024-12-15T02:39:07.129557",
+    "stars_today": "2,226 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "6,706",
+    "fork": "442",
+    "timestamp": "2024-12-15T02:39:07.129876",
+    "stars_today": "320 stars this month"
+  },
+  {
+    "repo": "drakkan/sftpgo",
+    "href": "https://github.com/drakkan/sftpgo",
+    "about": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+    "star": "9,638",
+    "fork": "754",
+    "timestamp": "2024-12-15T02:39:07.130224",
+    "stars_today": "233 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "42,141",
+    "fork": "1,977",
+    "timestamp": "2024-12-15T02:39:07.130521",
+    "stars_today": "1,559 stars this month"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "12,785",
+    "fork": "1,255",
+    "timestamp": "2024-12-15T02:39:07.130810",
+    "stars_today": "455 stars this month"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "8,080",
+    "fork": "593",
+    "timestamp": "2024-12-15T02:39:07.131129",
+    "stars_today": "592 stars this month"
+  },
+  {
+    "repo": "kubernetes-sigs/kueue",
+    "href": "https://github.com/kubernetes-sigs/kueue",
+    "about": "Kubernetes-native Job Queueing",
+    "star": "1,520",
+    "fork": "275",
+    "timestamp": "2024-12-15T02:39:07.131422",
+    "stars_today": "112 stars this month"
+  },
+  {
+    "repo": "dunglas/frankenphp",
+    "href": "https://github.com/dunglas/frankenphp",
+    "about": "🧟 The modern PHP app server",
+    "star": "7,187",
+    "fork": "251",
+    "timestamp": "2024-12-15T02:39:07.131743",
+    "stars_today": "281 stars this month"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "10,571",
+    "fork": "1,230",
+    "timestamp": "2024-12-15T02:39:07.132066",
+    "stars_today": "402 stars this month"
+  },
+  {
+    "repo": "WuKongIM/WuKongIM",
+    "href": "https://github.com/WuKongIM/WuKongIM",
+    "about": "More than just IM 不只是即时通讯( IM )",
+    "star": "3,901",
+    "fork": "462",
+    "timestamp": "2024-12-15T02:39:07.132358",
+    "stars_today": "945 stars this month"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,228",
+    "fork": "9,587",
+    "timestamp": "2024-12-15T02:39:07.132647",
+    "stars_today": "544 stars this month"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware",
+    "star": "1,078",
+    "fork": "218",
+    "timestamp": "2024-12-15T02:39:07.132935",
+    "stars_today": "171 stars this month"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "20,725",
+    "fork": "2,473",
+    "timestamp": "2024-12-15T02:39:07.133223",
+    "stars_today": "831 stars this month"
+  },
+  {
+    "repo": "apernet/hysteria",
+    "href": "https://github.com/apernet/hysteria",
+    "about": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "star": "15,415",
+    "fork": "1,709",
+    "timestamp": "2024-12-15T02:39:07.133511",
+    "stars_today": "406 stars this month"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,086",
+    "fork": "1,325",
+    "timestamp": "2024-12-15T02:39:07.133801",
+    "stars_today": "221 stars this month"
+  }
+]
