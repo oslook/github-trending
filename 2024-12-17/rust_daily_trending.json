@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "microsoft/windows-rs",
+    "href": "https://github.com/microsoft/windows-rs",
+    "about": "Rust for Windows",
+    "star": "10,741",
+    "fork": "507",
+    "timestamp": "2024-12-17T02:26:10.028721",
+    "stars_today": "141 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "34,296",
+    "fork": "2,540",
+    "timestamp": "2024-12-17T02:26:10.029094",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "elkowar/eww",
+    "href": "https://github.com/elkowar/eww",
+    "about": "ElKowars wacky widgets",
+    "star": "9,572",
+    "fork": "396",
+    "timestamp": "2024-12-17T02:26:10.029472",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "AppFlowy-IO/AppFlowy-Cloud",
+    "href": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+    "about": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "star": "1,134",
+    "fork": "245",
+    "timestamp": "2024-12-17T02:26:10.029771",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "about": "A Flash Player emulator written in Rust",
+    "star": "15,870",
+    "fork": "825",
+    "timestamp": "2024-12-17T02:26:10.030253",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "27,367",
+    "fork": "2,507",
+    "timestamp": "2024-12-17T02:26:10.030588",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "href": "https://github.com/ratatui/ratatui",
+    "about": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+    "star": "11,230",
+    "fork": "345",
+    "timestamp": "2024-12-17T02:26:10.030920",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "codestoryai/sidecar",
+    "href": "https://github.com/codestoryai/sidecar",
+    "about": "Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine",
+    "star": "252",
+    "fork": "30",
+    "timestamp": "2024-12-17T02:26:10.031218",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "wez/govee2mqtt",
+    "href": "https://github.com/wez/govee2mqtt",
+    "about": "Govee2MQTT: Connect Govee lights and devices to Home Assistant",
+    "star": "578",
+    "fork": "37",
+    "timestamp": "2024-12-17T02:26:10.031539",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "tokio-rs/axum",
+    "href": "https://github.com/tokio-rs/axum",
+    "about": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "star": "19,608",
+    "fork": "1,077",
+    "timestamp": "2024-12-17T02:26:10.031866",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "glzr-io/zebar",
+    "href": "https://github.com/glzr-io/zebar",
+    "about": "Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.",
+    "star": "1,210",
+    "fork": "56",
+    "timestamp": "2024-12-17T02:26:10.032158",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "FuelLabs/sway",
+    "href": "https://github.com/FuelLabs/sway",
+    "about": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+    "star": "62,597",
+    "fork": "5,388",
+    "timestamp": "2024-12-17T02:26:10.032454",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "eza-community/eza",
+    "href": "https://github.com/eza-community/eza",
+    "about": "A modern alternative to ls",
+    "star": "12,946",
+    "fork": "230",
+    "timestamp": "2024-12-17T02:26:10.032751",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "FuelLabs/fuel-core",
+    "href": "https://github.com/FuelLabs/fuel-core",
+    "about": "Rust full node implementation of the Fuel v2 protocol.",
+    "star": "57,980",
+    "fork": "2,805",
+    "timestamp": "2024-12-17T02:26:10.033063",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "tauri-apps/plugins-workspace",
+    "href": "https://github.com/tauri-apps/plugins-workspace",
+    "about": "All of the official Tauri plugins in one place!",
+    "star": "1,023",
+    "fork": "285",
+    "timestamp": "2024-12-17T02:26:10.033387",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "sigp/lighthouse",
+    "href": "https://github.com/sigp/lighthouse",
+    "about": "Ethereum consensus client in Rust",
+    "star": "2,989",
+    "fork": "775",
+    "timestamp": "2024-12-17T02:26:10.033682",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "solana-labs/solana",
+    "href": "https://github.com/solana-labs/solana",
+    "about": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "star": "13,439",
+    "fork": "4,403",
+    "timestamp": "2024-12-17T02:26:10.033974",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "32,993",
+    "fork": "1,708",
+    "timestamp": "2024-12-17T02:26:10.034266",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "18,996",
+    "fork": "1,520",
+    "timestamp": "2024-12-17T02:26:10.034560",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "EricLBuehler/mistral.rs",
+    "href": "https://github.com/EricLBuehler/mistral.rs",
+    "about": "Blazingly fast LLM inference.",
+    "star": "4,678",
+    "fork": "326",
+    "timestamp": "2024-12-17T02:26:10.034851",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "0xPlaygrounds/rig",
+    "href": "https://github.com/0xPlaygrounds/rig",
+    "about": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "star": "1,027",
+    "fork": "81",
+    "timestamp": "2024-12-17T02:26:10.035143",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "23,201",
+    "fork": "888",
+    "timestamp": "2024-12-17T02:26:10.035464",
+    "stars_today": "197 stars today"
+  }
+]

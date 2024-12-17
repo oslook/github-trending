@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,242",
+    "fork": "2,249",
+    "timestamp": "2024-12-17T02:25:45.037162",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "636",
+    "fork": "136",
+    "timestamp": "2024-12-17T02:25:45.037481",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2024-12-17T02:25:45.037784",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "423",
+    "fork": "162",
+    "timestamp": "2024-12-17T02:25:45.038081",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "massemanet/redbug",
+    "href": "https://github.com/massemanet/redbug",
+    "about": "erlang tracing debugger",
+    "star": "218",
+    "fork": "46",
+    "timestamp": "2024-12-17T02:25:45.038376",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,321",
+    "fork": "1,169",
+    "timestamp": "2024-12-17T02:25:45.038669",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-17T02:25:45.038962",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,560",
+    "fork": "349",
+    "timestamp": "2024-12-17T02:25:45.039259",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,194",
+    "fork": "336",
+    "timestamp": "2024-12-17T02:25:45.039552",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,446",
+    "fork": "2,962",
+    "timestamp": "2024-12-17T02:25:45.039879",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "884",
+    "fork": "167",
+    "timestamp": "2024-12-17T02:25:45.040176",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "311",
+    "fork": "105",
+    "timestamp": "2024-12-17T02:25:45.040468",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,708",
+    "fork": "517",
+    "timestamp": "2024-12-17T02:25:45.040782",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "232",
+    "timestamp": "2024-12-17T02:25:45.041161",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,072",
+    "fork": "232",
+    "timestamp": "2024-12-17T02:25:45.041486",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,547",
+    "fork": "1,514",
+    "timestamp": "2024-12-17T02:25:45.041780",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,305",
+    "fork": "1,035",
+    "timestamp": "2024-12-17T02:25:45.042075",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "josefs/Gradualizer",
+    "href": "https://github.com/josefs/Gradualizer",
+    "about": "A Gradual type system for Erlang",
+    "star": "613",
+    "fork": "35",
+    "timestamp": "2024-12-17T02:25:45.042366",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kivra/oauth2",
+    "href": "https://github.com/kivra/oauth2",
+    "about": "Erlang Oauth2 implementation",
+    "star": "221",
+    "fork": "70",
+    "timestamp": "2024-12-17T02:25:45.042654",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "291",
+    "fork": "210",
+    "timestamp": "2024-12-17T02:25:45.042941",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,338",
+    "fork": "427",
+    "timestamp": "2024-12-17T02:25:45.043231",
+    "stars_today": "0 stars today"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "45,871",
+    "fork": "5,547",
+    "timestamp": "2024-12-17T02:25:45.890298",
+    "stars_today": "373 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "66,283",
+    "fork": "2,412",
+    "timestamp": "2024-12-17T02:25:45.890652",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "href": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "star": "26,826",
+    "fork": "1,469",
+    "timestamp": "2024-12-17T02:25:45.890962",
+    "stars_today": "292 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "103,025",
+    "fork": "8,213",
+    "timestamp": "2024-12-17T02:25:45.891268",
+    "stars_today": "1,333 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "37,632",
+    "fork": "5,934",
+    "timestamp": "2024-12-17T02:25:45.891576",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,027",
+    "fork": "903",
+    "timestamp": "2024-12-17T02:25:45.891881",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,261",
+    "fork": "996",
+    "timestamp": "2024-12-17T02:25:45.892215",
+    "stars_today": "133 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "87,781",
+    "fork": "13,498",
+    "timestamp": "2024-12-17T02:25:45.892550",
+    "stars_today": "384 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "124,620",
+    "fork": "17,736",
+    "timestamp": "2024-12-17T02:25:45.892855",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,181",
+    "fork": "833",
+    "timestamp": "2024-12-17T02:25:45.893204",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "22,017",
+    "fork": "1,764",
+    "timestamp": "2024-12-17T02:25:45.893508",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "42,208",
+    "fork": "1,984",
+    "timestamp": "2024-12-17T02:25:45.893809",
+    "stars_today": "406 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,501",
+    "fork": "2,076",
+    "timestamp": "2024-12-17T02:25:45.894112",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "go-pay/gopay",
+    "href": "https://github.com/go-pay/gopay",
+    "about": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
+    "star": "4,576",
+    "fork": "766",
+    "timestamp": "2024-12-17T02:25:45.894415",
+    "stars_today": "238 stars this week"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,717",
+    "fork": "22,888",
+    "timestamp": "2024-12-17T02:25:45.894721",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "10,229",
+    "fork": "734",
+    "timestamp": "2024-12-17T02:25:45.895054",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "2,769",
+    "fork": "1,571",
+    "timestamp": "2024-12-17T02:25:45.895353",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,649",
+    "fork": "8,274",
+    "timestamp": "2024-12-17T02:25:45.895653",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+    "star": "20,304",
+    "fork": "4,014",
+    "timestamp": "2024-12-17T02:25:45.895947",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "47,907",
+    "fork": "20,313",
+    "timestamp": "2024-12-17T02:25:45.896241",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "6,715",
+    "fork": "442",
+    "timestamp": "2024-12-17T02:25:45.896561",
+    "stars_today": "99 stars this week"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,722",
+    "fork": "3,353",
+    "timestamp": "2024-12-17T02:25:45.896858",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "11,736",
+    "fork": "624",
+    "timestamp": "2024-12-17T02:25:45.897171",
+    "stars_today": "109 stars this week"
+  },
+  {
+    "repo": "apernet/hysteria",
+    "href": "https://github.com/apernet/hysteria",
+    "about": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "star": "15,454",
+    "fork": "1,709",
+    "timestamp": "2024-12-17T02:25:45.897467",
+    "stars_today": "160 stars this week"
+  }
+]
