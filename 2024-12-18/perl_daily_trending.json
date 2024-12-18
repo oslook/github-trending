@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "brendangregg/FlameGraph",
+    "href": "https://github.com/brendangregg/FlameGraph",
+    "about": "Stack trace visualizer",
+    "star": "17,542",
+    "fork": "1,983",
+    "timestamp": "2024-12-18T02:21:35.546189",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Perl/perl5",
+    "href": "https://github.com/Perl/perl5",
+    "about": "🐪 The Perl programming language",
+    "star": "1,999",
+    "fork": "560",
+    "timestamp": "2024-12-18T02:21:35.546501",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "adrienverge/openfortivpn",
+    "href": "https://github.com/adrienverge/openfortivpn",
+    "about": "Client for PPP+TLS VPN tunnel services",
+    "star": "2,770",
+    "fork": "325",
+    "timestamp": "2024-12-18T02:21:35.546827",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ddclient/ddclient",
+    "href": "https://github.com/ddclient/ddclient",
+    "about": "Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+    "star": "2,530",
+    "fork": "346",
+    "timestamp": "2024-12-18T02:21:35.547121",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "linux-test-project/lcov",
+    "href": "https://github.com/linux-test-project/lcov",
+    "about": "LCOV",
+    "star": "921",
+    "fork": "241",
+    "timestamp": "2024-12-18T02:21:35.547417",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ocpi/ocpi",
+    "href": "https://github.com/ocpi/ocpi",
+    "about": "The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",
+    "star": "461",
+    "fork": "205",
+    "timestamp": "2024-12-18T02:21:35.547713",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "imapsync/imapsync",
+    "href": "https://github.com/imapsync/imapsync",
+    "about": "Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",
+    "star": "3,420",
+    "fork": "474",
+    "timestamp": "2024-12-18T02:21:35.548003",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kazuho/p5-Server-Starter",
+    "href": "https://github.com/kazuho/p5-Server-Starter",
+    "about": "a superdaemon for hot-deploying server programs",
+    "star": "47",
+    "fork": "32",
+    "timestamp": "2024-12-18T02:21:35.548290",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "glpi-project/glpi-agent",
+    "href": "https://github.com/glpi-project/glpi-agent",
+    "about": "GLPI Agent",
+    "star": "255",
+    "fork": "62",
+    "timestamp": "2024-12-18T02:21:35.548699",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "AlDanial/cloc",
+    "href": "https://github.com/AlDanial/cloc",
+    "about": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+    "star": "19,887",
+    "fork": "1,023",
+    "timestamp": "2024-12-18T02:21:35.549030",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "Gaius-Augustus/BRAKER",
+    "href": "https://github.com/Gaius-Augustus/BRAKER",
+    "about": "BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes",
+    "star": "372",
+    "fork": "82",
+    "timestamp": "2024-12-18T02:21:35.549318",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "major/MySQLTuner-perl",
+    "href": "https://github.com/major/MySQLTuner-perl",
+    "about": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+    "star": "9,011",
+    "fork": "1,285",
+    "timestamp": "2024-12-18T02:21:35.549601",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "centreon/centreon-plugins",
+    "href": "https://github.com/centreon/centreon-plugins",
+    "about": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
+    "star": "311",
+    "fork": "276",
+    "timestamp": "2024-12-18T02:21:35.549883",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "darold/ora2pg",
+    "href": "https://github.com/darold/ora2pg",
+    "about": "Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",
+    "star": "1,031",
+    "fork": "342",
+    "timestamp": "2024-12-18T02:21:35.550167",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "inverse-inc/packetfence",
+    "href": "https://github.com/inverse-inc/packetfence",
+    "about": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+    "star": "1,396",
+    "fork": "293",
+    "timestamp": "2024-12-18T02:21:35.550454",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "owasp-modsecurity/ModSecurity-nginx",
+    "href": "https://github.com/owasp-modsecurity/ModSecurity-nginx",
+    "about": "ModSecurity v3 Nginx Connector",
+    "star": "1,599",
+    "fork": "282",
+    "timestamp": "2024-12-18T02:21:35.550739",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "trinityrnaseq/trinityrnaseq",
+    "href": "https://github.com/trinityrnaseq/trinityrnaseq",
+    "about": "Trinity RNA-Seq de novo transcriptome assembly",
+    "star": "840",
+    "fork": "320",
+    "timestamp": "2024-12-18T02:21:35.551023",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenKore/openkore",
+    "href": "https://github.com/OpenKore/openkore",
+    "about": "A free/open source client and automation tool for Ragnarok Online",
+    "star": "1,295",
+    "fork": "1,044",
+    "timestamp": "2024-12-18T02:21:35.551340",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "holzschu/a-shell",
+    "href": "https://github.com/holzschu/a-shell",
+    "about": "A terminal for iOS, with multiple windows",
+    "star": "2,777",
+    "fork": "118",
+    "timestamp": "2024-12-18T02:21:35.551623",
+    "stars_today": "7 stars today"
+  }
+]

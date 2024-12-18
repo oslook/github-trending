@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "10,389",
+    "fork": "3,119",
+    "timestamp": "2024-12-18T02:21:36.173659",
+    "stars_today": "212 stars this month"
+  },
+  {
+    "repo": "ntdevlabs/tiny11builder",
+    "href": "https://github.com/ntdevlabs/tiny11builder",
+    "about": "Scripts to build a trimmed-down Windows 11 image.",
+    "star": "10,544",
+    "fork": "887",
+    "timestamp": "2024-12-18T02:21:36.173996",
+    "stars_today": "730 stars this month"
+  },
+  {
+    "repo": "SpotX-Official/SpotX",
+    "href": "https://github.com/SpotX-Official/SpotX",
+    "about": "SpotX patcher used for patching the desktop version of Spotify",
+    "star": "14,528",
+    "fork": "791",
+    "timestamp": "2024-12-18T02:21:36.174296",
+    "stars_today": "505 stars this month"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "25,722",
+    "fork": "1,546",
+    "timestamp": "2024-12-18T02:21:36.174618",
+    "stars_today": "1,378 stars this month"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "8,823",
+    "fork": "4,611",
+    "timestamp": "2024-12-18T02:21:36.174910",
+    "stars_today": "131 stars this month"
+  },
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "5,640",
+    "fork": "778",
+    "timestamp": "2024-12-18T02:21:36.175202",
+    "stars_today": "227 stars this month"
+  },
+  {
+    "repo": "meetrevision/playbook",
+    "href": "https://github.com/meetrevision/playbook",
+    "about": "A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility",
+    "star": "1,012",
+    "fork": "79",
+    "timestamp": "2024-12-18T02:21:36.175496",
+    "stars_today": "88 stars this month"
+  },
+  {
+    "repo": "cisagov/ScubaGear",
+    "href": "https://github.com/cisagov/ScubaGear",
+    "about": "Automation to assess the state of your M365 tenant against CISA's baselines",
+    "star": "1,825",
+    "fork": "233",
+    "timestamp": "2024-12-18T02:21:36.175789",
+    "stars_today": "120 stars this month"
+  },
+  {
+    "repo": "Sycnex/Windows10Debloater",
+    "href": "https://github.com/Sycnex/Windows10Debloater",
+    "about": "Script to remove Windows 10 bloatware.",
+    "star": "18,271",
+    "fork": "2,046",
+    "timestamp": "2024-12-18T02:21:36.176079",
+    "stars_today": "95 stars this month"
+  },
+  {
+    "repo": "SpecterOps/BloodHound-Legacy",
+    "href": "https://github.com/SpecterOps/BloodHound-Legacy",
+    "about": "Six Degrees of Domain Admin",
+    "star": "9,974",
+    "fork": "1,741",
+    "timestamp": "2024-12-18T02:21:36.176396",
+    "stars_today": "88 stars this month"
+  },
+  {
+    "repo": "hak5/usbrubberducky-payloads",
+    "href": "https://github.com/hak5/usbrubberducky-payloads",
+    "about": "The Official USB Rubber Ducky Payload Repository",
+    "star": "4,254",
+    "fork": "1,359",
+    "timestamp": "2024-12-18T02:21:36.176691",
+    "stars_today": "117 stars this month"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.",
+    "star": "14,734",
+    "fork": "636",
+    "timestamp": "2024-12-18T02:21:36.177009",
+    "stars_today": "681 stars this month"
+  },
+  {
+    "repo": "I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "href": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "about": "Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.",
+    "star": "5,417",
+    "fork": "684",
+    "timestamp": "2024-12-18T02:21:36.177328",
+    "stars_today": "129 stars this month"
+  },
+  {
+    "repo": "dartraiden/NVIDIA-patcher",
+    "href": "https://github.com/dartraiden/NVIDIA-patcher",
+    "about": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP and RTX 3080 Ti 20GB.",
+    "star": "382",
+    "fork": "30",
+    "timestamp": "2024-12-18T02:21:36.177617",
+    "stars_today": "34 stars this month"
+  },
+  {
+    "repo": "memstechtips/UnattendedWinstall",
+    "href": "https://github.com/memstechtips/UnattendedWinstall",
+    "about": "Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.",
+    "star": "3,834",
+    "fork": "424",
+    "timestamp": "2024-12-18T02:21:36.177898",
+    "stars_today": "364 stars this month"
+  }
+]

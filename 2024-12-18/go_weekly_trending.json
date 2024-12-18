@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "45,922",
+    "fork": "5,550",
+    "timestamp": "2024-12-18T02:21:18.708001",
+    "stars_today": "378 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "37,645",
+    "fork": "5,935",
+    "timestamp": "2024-12-18T02:21:18.708313",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "66,327",
+    "fork": "2,413",
+    "timestamp": "2024-12-18T02:21:18.708661",
+    "stars_today": "211 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "87,939",
+    "fork": "13,504",
+    "timestamp": "2024-12-18T02:21:18.708988",
+    "stars_today": "429 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "124,642",
+    "fork": "17,737",
+    "timestamp": "2024-12-18T02:21:18.709286",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,265",
+    "fork": "996",
+    "timestamp": "2024-12-18T02:21:18.709615",
+    "stars_today": "133 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,507",
+    "fork": "2,077",
+    "timestamp": "2024-12-18T02:21:18.709915",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,056",
+    "fork": "905",
+    "timestamp": "2024-12-18T02:21:18.710215",
+    "stars_today": "178 stars this week"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "26,167",
+    "fork": "4,015",
+    "timestamp": "2024-12-18T02:21:18.710508",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "22,016",
+    "fork": "1,764",
+    "timestamp": "2024-12-18T02:21:18.710802",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "111,780",
+    "fork": "39,867",
+    "timestamp": "2024-12-18T02:21:18.711093",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,205",
+    "fork": "834",
+    "timestamp": "2024-12-18T02:21:18.711412",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,717",
+    "fork": "22,905",
+    "timestamp": "2024-12-18T02:21:18.711700",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",
+    "star": "7,280",
+    "fork": "1,123",
+    "timestamp": "2024-12-18T02:21:18.711991",
+    "stars_today": "364 stars this week"
+  },
+  {
+    "repo": "go-pay/gopay",
+    "href": "https://github.com/go-pay/gopay",
+    "about": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
+    "star": "4,580",
+    "fork": "768",
+    "timestamp": "2024-12-18T02:21:18.712286",
+    "stars_today": "144 stars this week"
+  },
+  {
+    "repo": "encoredev/encore",
+    "href": "https://github.com/encoredev/encore",
+    "about": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+    "star": "8,045",
+    "fork": "345",
+    "timestamp": "2024-12-18T02:21:18.712620",
+    "stars_today": "106 stars this week"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "10,236",
+    "fork": "735",
+    "timestamp": "2024-12-18T02:21:18.712946",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "22,690",
+    "fork": "3,495",
+    "timestamp": "2024-12-18T02:21:18.713241",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "19,874",
+    "fork": "1,564",
+    "timestamp": "2024-12-18T02:21:18.713535",
+    "stars_today": "127 stars this week"
+  }
+]

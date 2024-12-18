@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "87,939",
+    "fork": "13,504",
+    "timestamp": "2024-12-18T02:21:18.367867",
+    "stars_today": "75 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "22,690",
+    "fork": "3,495",
+    "timestamp": "2024-12-18T02:21:18.368200",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,619",
+    "fork": "1,497",
+    "timestamp": "2024-12-18T02:21:18.368528",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,205",
+    "fork": "834",
+    "timestamp": "2024-12-18T02:21:18.368864",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "goreleaser/goreleaser",
+    "href": "https://github.com/goreleaser/goreleaser",
+    "about": "Release engineering, simplified",
+    "star": "14,002",
+    "fork": "952",
+    "timestamp": "2024-12-18T02:21:18.369169",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",
+    "star": "7,280",
+    "fork": "1,123",
+    "timestamp": "2024-12-18T02:21:18.369477",
+    "stars_today": "165 stars today"
+  },
+  {
+    "repo": "openimsdk/open-im-server",
+    "href": "https://github.com/openimsdk/open-im-server",
+    "about": "IM Chat ChatGPT",
+    "star": "14,261",
+    "fork": "2,510",
+    "timestamp": "2024-12-18T02:21:18.369784",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "golang/crypto",
+    "href": "https://github.com/golang/crypto",
+    "about": "[mirror] Go supplementary cryptography libraries",
+    "star": "3,041",
+    "fork": "1,972",
+    "timestamp": "2024-12-18T02:21:18.370090",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uber-go/mock",
+    "href": "https://github.com/uber-go/mock",
+    "about": "GoMock is a mocking framework for the Go programming language.",
+    "star": "2,383",
+    "fork": "124",
+    "timestamp": "2024-12-18T02:21:18.370398",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "26,167",
+    "fork": "4,015",
+    "timestamp": "2024-12-18T02:21:18.370697",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware",
+    "star": "1,092",
+    "fork": "223",
+    "timestamp": "2024-12-18T02:21:18.371000",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "9,789",
+    "fork": "1,361",
+    "timestamp": "2024-12-18T02:21:18.371302",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "124,642",
+    "fork": "17,737",
+    "timestamp": "2024-12-18T02:21:18.371606",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,670",
+    "fork": "1,604",
+    "timestamp": "2024-12-18T02:21:18.371907",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "star": "23,262",
+    "fork": "2,314",
+    "timestamp": "2024-12-18T02:21:18.372211",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "10,882",
+    "fork": "926",
+    "timestamp": "2024-12-18T02:21:18.372538",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,507",
+    "fork": "2,077",
+    "timestamp": "2024-12-18T02:21:18.372844",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "href": "https://github.com/jmoiron/sqlx",
+    "about": "general purpose extensions to golang's database/sql",
+    "star": "16,423",
+    "fork": "1,088",
+    "timestamp": "2024-12-18T02:21:18.373147",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,457",
+    "fork": "1,189",
+    "timestamp": "2024-12-18T02:21:18.373448",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "18,785",
+    "fork": "993",
+    "timestamp": "2024-12-18T02:21:18.373754",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,162",
+    "fork": "2,961",
+    "timestamp": "2024-12-18T02:21:18.374059",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,741",
+    "fork": "1,426",
+    "timestamp": "2024-12-18T02:21:18.374363",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,191",
+    "fork": "1,440",
+    "timestamp": "2024-12-18T02:21:18.374663",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,340",
+    "fork": "3,681",
+    "timestamp": "2024-12-18T02:21:18.374966",
+    "stars_today": "1 star today"
+  }
+]
