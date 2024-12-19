@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "10,811",
+    "fork": "634",
+    "timestamp": "2024-12-19T02:22:40.914625",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "semgrep/ocaml-tree-sitter-core",
+    "href": "https://github.com/semgrep/ocaml-tree-sitter-core",
+    "about": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+    "star": "23",
+    "fork": "3",
+    "timestamp": "2024-12-19T02:22:40.914931",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,547",
+    "fork": "1,110",
+    "timestamp": "2024-12-19T02:22:40.915219",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "facebook/flow",
+    "href": "https://github.com/facebook/flow",
+    "about": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+    "star": "22,102",
+    "fork": "1,861",
+    "timestamp": "2024-12-19T02:22:40.915508",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "bcpierce00/unison",
+    "href": "https://github.com/bcpierce00/unison",
+    "about": "Unison file synchronizer",
+    "star": "4,240",
+    "fork": "238",
+    "timestamp": "2024-12-19T02:22:40.915793",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "MinaProtocol/mina",
+    "href": "https://github.com/MinaProtocol/mina",
+    "about": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+    "star": "2,011",
+    "fork": "539",
+    "timestamp": "2024-12-19T02:22:40.916080",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,033",
+    "fork": "2,021",
+    "timestamp": "2024-12-19T02:22:40.916363",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ocaml/merlin",
+    "href": "https://github.com/ocaml/merlin",
+    "about": "Context sensitive completion for OCaml in Vim and Emacs",
+    "star": "1,593",
+    "fork": "234",
+    "timestamp": "2024-12-19T02:22:40.916662",
+    "stars_today": "0 stars today"
+  }
+]

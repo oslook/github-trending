@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "10,958",
+    "fork": "1,211",
+    "timestamp": "2024-12-19T02:22:25.785888",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "88,068",
+    "fork": "13,513",
+    "timestamp": "2024-12-19T02:22:25.786219",
+    "stars_today": "194 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-google",
+    "href": "https://github.com/hashicorp/terraform-provider-google",
+    "about": "Terraform Provider for Google Cloud Platform",
+    "star": "2,405",
+    "fork": "1,756",
+    "timestamp": "2024-12-19T02:22:25.786506",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "golang/crypto",
+    "href": "https://github.com/golang/crypto",
+    "about": "[mirror] Go supplementary cryptography libraries",
+    "star": "3,045",
+    "fork": "1,972",
+    "timestamp": "2024-12-19T02:22:25.786791",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "76,536",
+    "fork": "7,569",
+    "timestamp": "2024-12-19T02:22:25.787072",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "go-rod/rod",
+    "href": "https://github.com/go-rod/rod",
+    "about": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "star": "5,523",
+    "fork": "365",
+    "timestamp": "2024-12-19T02:22:25.787352",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "href": "https://github.com/go-sql-driver/mysql",
+    "about": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "star": "14,590",
+    "fork": "2,321",
+    "timestamp": "2024-12-19T02:22:25.787632",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "23,559",
+    "fork": "2,989",
+    "timestamp": "2024-12-19T02:22:25.787909",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,342",
+    "fork": "3,685",
+    "timestamp": "2024-12-19T02:22:25.788189",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "22,748",
+    "fork": "3,495",
+    "timestamp": "2024-12-19T02:22:25.788483",
+    "stars_today": "105 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,189",
+    "fork": "3,493",
+    "timestamp": "2024-12-19T02:22:25.788765",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,647",
+    "fork": "1,499",
+    "timestamp": "2024-12-19T02:22:25.789050",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,717",
+    "fork": "22,915",
+    "timestamp": "2024-12-19T02:22:25.789338",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",
+    "star": "7,310",
+    "fork": "1,124",
+    "timestamp": "2024-12-19T02:22:25.789618",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,902",
+    "fork": "18,678",
+    "timestamp": "2024-12-19T02:22:25.789896",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,195",
+    "fork": "1,440",
+    "timestamp": "2024-12-19T02:22:25.790175",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,184",
+    "fork": "3,731",
+    "timestamp": "2024-12-19T02:22:25.790454",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chromedp/chromedp",
+    "href": "https://github.com/chromedp/chromedp",
+    "about": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",
+    "star": "11,208",
+    "fork": "792",
+    "timestamp": "2024-12-19T02:22:25.790730",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "29,509",
+    "fork": "3,989",
+    "timestamp": "2024-12-19T02:22:25.791034",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "bitnami-labs/sealed-secrets",
+    "href": "https://github.com/bitnami-labs/sealed-secrets",
+    "about": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "star": "7,777",
+    "fork": "690",
+    "timestamp": "2024-12-19T02:22:25.791311",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "66,359",
+    "fork": "2,416",
+    "timestamp": "2024-12-19T02:22:25.791615",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "12,704",
+    "fork": "1,559",
+    "timestamp": "2024-12-19T02:22:25.791890",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "href": "https://github.com/sigstore/cosign",
+    "about": "Code signing and transparency for containers and binaries",
+    "star": "4,578",
+    "fork": "549",
+    "timestamp": "2024-12-19T02:22:25.792192",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "25,883",
+    "fork": "1,260",
+    "timestamp": "2024-12-19T02:22:25.792507",
+    "stars_today": "29 stars today"
+  }
+]

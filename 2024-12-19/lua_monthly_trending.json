@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,255",
+    "fork": "1,285",
+    "timestamp": "2024-12-19T02:22:39.345717",
+    "stars_today": "864 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "2,165",
+    "fork": "112",
+    "timestamp": "2024-12-19T02:22:39.346025",
+    "stars_today": "925 stars this month"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,577",
+    "fork": "4,843",
+    "timestamp": "2024-12-19T02:22:39.346362",
+    "stars_today": "343 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,356",
+    "fork": "1,289",
+    "timestamp": "2024-12-19T02:22:39.346649",
+    "stars_today": "514 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,394",
+    "fork": "372",
+    "timestamp": "2024-12-19T02:22:39.346934",
+    "stars_today": "519 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,550",
+    "fork": "193",
+    "timestamp": "2024-12-19T02:22:39.347219",
+    "stars_today": "296 stars this month"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "16,306",
+    "fork": "849",
+    "timestamp": "2024-12-19T02:22:39.347503",
+    "stars_today": "320 stars this month"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,432",
+    "fork": "327",
+    "timestamp": "2024-12-19T02:22:39.347795",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,194",
+    "fork": "244",
+    "timestamp": "2024-12-19T02:22:39.348114",
+    "stars_today": "138 stars this month"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,099",
+    "fork": "473",
+    "timestamp": "2024-12-19T02:22:39.348413",
+    "stars_today": "62 stars this month"
+  },
+  {
+    "repo": "gaboolic/rime-frost",
+    "href": "https://github.com/gaboolic/rime-frost",
+    "about": "白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。",
+    "star": "1,457",
+    "fork": "61",
+    "timestamp": "2024-12-19T02:22:39.348925",
+    "stars_today": "403 stars this month"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "10,205",
+    "fork": "670",
+    "timestamp": "2024-12-19T02:22:39.349220",
+    "stars_today": "532 stars this month"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,866",
+    "fork": "73",
+    "timestamp": "2024-12-19T02:22:39.349538",
+    "stars_today": "111 stars this month"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,255",
+    "fork": "246",
+    "timestamp": "2024-12-19T02:22:39.349852",
+    "stars_today": "43 stars this month"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,556",
+    "fork": "109",
+    "timestamp": "2024-12-19T02:22:39.350137",
+    "stars_today": "116 stars this month"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,353",
+    "fork": "169",
+    "timestamp": "2024-12-19T02:22:39.350420",
+    "stars_today": "146 stars this month"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,239",
+    "fork": "411",
+    "timestamp": "2024-12-19T02:22:39.350734",
+    "stars_today": "158 stars this month"
+  }
+]

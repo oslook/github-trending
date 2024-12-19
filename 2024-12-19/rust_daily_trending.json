@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "hyperium/hyper",
+    "href": "https://github.com/hyperium/hyper",
+    "about": "An HTTP library for Rust",
+    "star": "14,711",
+    "fork": "1,610",
+    "timestamp": "2024-12-19T02:22:47.895009",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "huggingface/candle",
+    "href": "https://github.com/huggingface/candle",
+    "about": "Minimalist ML framework for Rust",
+    "star": "16,079",
+    "fork": "978",
+    "timestamp": "2024-12-19T02:22:47.895315",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "href": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+    "about": "A self-paced course to learn Rust, one exercise at a time.",
+    "star": "6,355",
+    "fork": "1,144",
+    "timestamp": "2024-12-19T02:22:47.895678",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "FuelLabs/fuel-core",
+    "href": "https://github.com/FuelLabs/fuel-core",
+    "about": "Rust full node implementation of the Fuel v2 protocol.",
+    "star": "57,977",
+    "fork": "2,811",
+    "timestamp": "2024-12-19T02:22:47.895963",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "risingwavelabs/risingwave",
+    "href": "https://github.com/risingwavelabs/risingwave",
+    "about": "Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.",
+    "star": "7,147",
+    "fork": "590",
+    "timestamp": "2024-12-19T02:22:47.896248",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "juhaku/utoipa",
+    "href": "https://github.com/juhaku/utoipa",
+    "about": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",
+    "star": "2,575",
+    "fork": "206",
+    "timestamp": "2024-12-19T02:22:47.896595",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "sigp/lighthouse",
+    "href": "https://github.com/sigp/lighthouse",
+    "about": "Ethereum consensus client in Rust",
+    "star": "2,992",
+    "fork": "778",
+    "timestamp": "2024-12-19T02:22:47.896883",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,024",
+    "fork": "234",
+    "timestamp": "2024-12-19T02:22:47.897165",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "12,740",
+    "fork": "1,361",
+    "timestamp": "2024-12-19T02:22:47.897444",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "Schniz/fnm",
+    "href": "https://github.com/Schniz/fnm",
+    "about": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "star": "18,720",
+    "fork": "480",
+    "timestamp": "2024-12-19T02:22:47.897727",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "libp2p/rust-libp2p",
+    "href": "https://github.com/libp2p/rust-libp2p",
+    "about": "The Rust Implementation of the libp2p networking stack.",
+    "star": "4,669",
+    "fork": "979",
+    "timestamp": "2024-12-19T02:22:47.898010",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "30,971",
+    "fork": "2,015",
+    "timestamp": "2024-12-19T02:22:47.898289",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "15,481",
+    "fork": "455",
+    "timestamp": "2024-12-19T02:22:47.898568",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "fujiapple852/trippy",
+    "href": "https://github.com/fujiapple852/trippy",
+    "about": "A network diagnostic tool",
+    "star": "3,955",
+    "fork": "86",
+    "timestamp": "2024-12-19T02:22:47.898878",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "rust-lang/rust-clippy",
+    "href": "https://github.com/rust-lang/rust-clippy",
+    "about": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+    "star": "11,565",
+    "fork": "1,564",
+    "timestamp": "2024-12-19T02:22:47.899157",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "microsoft/windows-rs",
+    "href": "https://github.com/microsoft/windows-rs",
+    "about": "Rust for Windows",
+    "star": "10,807",
+    "fork": "508",
+    "timestamp": "2024-12-19T02:22:47.899437",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "thomas-mauran/chess-tui",
+    "href": "https://github.com/thomas-mauran/chess-tui",
+    "about": "Play chess from your terminal 🦀",
+    "star": "487",
+    "fork": "32",
+    "timestamp": "2024-12-19T02:22:47.899719",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "26,507",
+    "fork": "1,917",
+    "timestamp": "2024-12-19T02:22:47.899999",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "jtroo/kanata",
+    "href": "https://github.com/jtroo/kanata",
+    "about": "Improve keyboard comfort and usability with advanced customization",
+    "star": "3,366",
+    "fork": "135",
+    "timestamp": "2024-12-19T02:22:47.900278",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "apache/datafusion",
+    "href": "https://github.com/apache/datafusion",
+    "about": "Apache DataFusion SQL Query Engine",
+    "star": "6,483",
+    "fork": "1,235",
+    "timestamp": "2024-12-19T02:22:47.900618",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "29,161",
+    "fork": "3,568",
+    "timestamp": "2024-12-19T02:22:47.900903",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "rgwood/systemctl-tui",
+    "href": "https://github.com/rgwood/systemctl-tui",
+    "about": "A fast, simple TUI for interacting with systemd services and their logs",
+    "star": "456",
+    "fork": "12",
+    "timestamp": "2024-12-19T02:22:47.901186",
+    "stars_today": "15 stars today"
+  }
+]
