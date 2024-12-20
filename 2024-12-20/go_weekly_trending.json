@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "46,019",
+    "fork": "5,556",
+    "timestamp": "2024-12-20T02:16:11.117636",
+    "stars_today": "434 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "66,408",
+    "fork": "2,417",
+    "timestamp": "2024-12-20T02:16:11.117981",
+    "stars_today": "224 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "88,205",
+    "fork": "13,523",
+    "timestamp": "2024-12-20T02:16:11.118306",
+    "stars_today": "598 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,098",
+    "fork": "909",
+    "timestamp": "2024-12-20T02:16:11.118623",
+    "stars_today": "198 stars this week"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "href": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "star": "26,892",
+    "fork": "1,475",
+    "timestamp": "2024-12-20T02:16:11.118918",
+    "stars_today": "233 stars this week"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "76,554",
+    "fork": "7,572",
+    "timestamp": "2024-12-20T02:16:11.119216",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "111,838",
+    "fork": "39,880",
+    "timestamp": "2024-12-20T02:16:11.119512",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,654",
+    "fork": "1,500",
+    "timestamp": "2024-12-20T02:16:11.119814",
+    "stars_today": "106 stars this week"
+  },
+  {
+    "repo": "go-pay/gopay",
+    "href": "https://github.com/go-pay/gopay",
+    "about": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
+    "star": "4,595",
+    "fork": "772",
+    "timestamp": "2024-12-20T02:16:11.120111",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "22,762",
+    "fork": "3,495",
+    "timestamp": "2024-12-20T02:16:11.120411",
+    "stars_today": "170 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,514",
+    "fork": "2,078",
+    "timestamp": "2024-12-20T02:16:11.120709",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "26,212",
+    "fork": "4,013",
+    "timestamp": "2024-12-20T02:16:11.121003",
+    "stars_today": "154 stars this week"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,719",
+    "fork": "22,923",
+    "timestamp": "2024-12-20T02:16:11.121306",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "2,931",
+    "fork": "1,219",
+    "timestamp": "2024-12-20T02:16:11.121607",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,231",
+    "fork": "834",
+    "timestamp": "2024-12-20T02:16:11.121943",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "124,671",
+    "fork": "17,743",
+    "timestamp": "2024-12-20T02:16:11.122245",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,016",
+    "fork": "1,213",
+    "timestamp": "2024-12-20T02:16:11.122559",
+    "stars_today": "166 stars this week"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",
+    "star": "23,564",
+    "fork": "2,140",
+    "timestamp": "2024-12-20T02:16:11.122863",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "134,688",
+    "fork": "11,980",
+    "timestamp": "2024-12-20T02:16:11.123196",
+    "stars_today": "449 stars this week"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",
+    "star": "7,343",
+    "fork": "1,126",
+    "timestamp": "2024-12-20T02:16:11.123489",
+    "stars_today": "417 stars this week"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,273",
+    "fork": "996",
+    "timestamp": "2024-12-20T02:16:11.123811",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "37,664",
+    "fork": "5,939",
+    "timestamp": "2024-12-20T02:16:11.124108",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "24,434",
+    "fork": "4,780",
+    "timestamp": "2024-12-20T02:16:11.124404",
+    "stars_today": "80 stars this week"
+  }
+]

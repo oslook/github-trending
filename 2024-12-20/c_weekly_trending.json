@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "36,325",
+    "fork": "6,480",
+    "timestamp": "2024-12-20T02:15:57.085756",
+    "stars_today": "226 stars this week"
+  },
+  {
+    "repo": "lmarzen/esp32-weather-epd",
+    "href": "https://github.com/lmarzen/esp32-weather-epd",
+    "about": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "star": "4,701",
+    "fork": "286",
+    "timestamp": "2024-12-20T02:15:57.086114",
+    "stars_today": "417 stars this week"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "href": "https://github.com/obsproject/obs-studio",
+    "about": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "star": "61,032",
+    "fork": "8,055",
+    "timestamp": "2024-12-20T02:15:57.086423",
+    "stars_today": "170 stars this week"
+  },
+  {
+    "repo": "audacity/audacity",
+    "href": "https://github.com/audacity/audacity",
+    "about": "Audio Editor",
+    "star": "12,782",
+    "fork": "2,277",
+    "timestamp": "2024-12-20T02:15:57.086759",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "657",
+    "fork": "157",
+    "timestamp": "2024-12-20T02:15:57.087065",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "pr3y/Bruce",
+    "href": "https://github.com/pr3y/Bruce",
+    "about": "Predatory ESP32 Firmware",
+    "star": "1,199",
+    "fork": "144",
+    "timestamp": "2024-12-20T02:15:57.087367",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "UberGuidoZ/Flipper",
+    "href": "https://github.com/UberGuidoZ/Flipper",
+    "about": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "star": "14,198",
+    "fork": "3,297",
+    "timestamp": "2024-12-20T02:15:57.087683",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "zeldaret/oot",
+    "href": "https://github.com/zeldaret/oot",
+    "about": "Decompilation of The Legend of Zelda: Ocarina of Time",
+    "star": "4,905",
+    "fork": "610",
+    "timestamp": "2024-12-20T02:15:57.087991",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "about": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "star": "22,439",
+    "fork": "4,827",
+    "timestamp": "2024-12-20T02:15:57.088295",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "1,968",
+    "fork": "477",
+    "timestamp": "2024-12-20T02:15:57.088602",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "gojue/ecapture",
+    "href": "https://github.com/gojue/ecapture",
+    "about": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+    "star": "13,731",
+    "fork": "1,445",
+    "timestamp": "2024-12-20T02:15:57.088909",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "apache/nuttx",
+    "href": "https://github.com/apache/nuttx",
+    "about": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+    "star": "2,991",
+    "fork": "1,204",
+    "timestamp": "2024-12-20T02:15:57.089214",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "star": "67,434",
+    "fork": "23,844",
+    "timestamp": "2024-12-20T02:15:57.089526",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.",
+    "star": "18,086",
+    "fork": "893",
+    "timestamp": "2024-12-20T02:15:57.089833",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "riscv-software-src/riscv-isa-sim",
+    "href": "https://github.com/riscv-software-src/riscv-isa-sim",
+    "about": "Spike, a RISC-V ISA Simulator",
+    "star": "2,501",
+    "fork": "875",
+    "timestamp": "2024-12-20T02:15:57.090144",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "tursodatabase/libsql",
+    "href": "https://github.com/tursodatabase/libsql",
+    "about": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+    "star": "12,920",
+    "fork": "324",
+    "timestamp": "2024-12-20T02:15:57.090452",
+    "stars_today": "586 stars this week"
+  },
+  {
+    "repo": "bol-van/zapret",
+    "href": "https://github.com/bol-van/zapret",
+    "about": "DPI bypass multi platform",
+    "star": "8,921",
+    "fork": "662",
+    "timestamp": "2024-12-20T02:15:57.090778",
+    "stars_today": "138 stars this week"
+  },
+  {
+    "repo": "SpacehuhnTech/esp8266_deauther",
+    "href": "https://github.com/SpacehuhnTech/esp8266_deauther",
+    "about": "Affordable WiFi hacking platform for testing and learning",
+    "star": "13,611",
+    "fork": "2,621",
+    "timestamp": "2024-12-20T02:15:57.091117",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "n64decomp/sm64",
+    "href": "https://github.com/n64decomp/sm64",
+    "about": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "star": "7,821",
+    "fork": "1,385",
+    "timestamp": "2024-12-20T02:15:57.091429",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "20,811",
+    "fork": "10,655",
+    "timestamp": "2024-12-20T02:15:57.091742",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "lizongying/my-tv",
+    "href": "https://github.com/lizongying/my-tv",
+    "about": "我的电视 电视直播软件，安装即可使用",
+    "star": "30,900",
+    "fork": "3,462",
+    "timestamp": "2024-12-20T02:15:57.092053",
+    "stars_today": "305 stars this week"
+  },
+  {
+    "repo": "hathach/tinyusb",
+    "href": "https://github.com/hathach/tinyusb",
+    "about": "An open source cross-platform USB stack for embedded system",
+    "star": "5,143",
+    "fork": "1,080",
+    "timestamp": "2024-12-20T02:15:57.092359",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "flipperdevices/flipperzero-firmware",
+    "href": "https://github.com/flipperdevices/flipperzero-firmware",
+    "about": "Flipper Zero firmware source code",
+    "star": "13,142",
+    "fork": "2,760",
+    "timestamp": "2024-12-20T02:15:57.092665",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "openzfs/zfs",
+    "href": "https://github.com/openzfs/zfs",
+    "about": "OpenZFS on Linux and FreeBSD",
+    "star": "10,747",
+    "fork": "1,764",
+    "timestamp": "2024-12-20T02:15:57.092969",
+    "stars_today": "29 stars this week"
+  }
+]

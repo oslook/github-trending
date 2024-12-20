@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "88,205",
+    "fork": "13,523",
+    "timestamp": "2024-12-20T02:16:06.792440",
+    "stars_today": "79 stars today"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",
+    "star": "23,564",
+    "fork": "2,140",
+    "timestamp": "2024-12-20T02:16:06.792755",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,016",
+    "fork": "1,213",
+    "timestamp": "2024-12-20T02:16:06.793053",
+    "stars_today": "117 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,274",
+    "fork": "9,592",
+    "timestamp": "2024-12-20T02:16:06.793347",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "25,910",
+    "fork": "1,260",
+    "timestamp": "2024-12-20T02:16:06.793639",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "17,692",
+    "fork": "3,491",
+    "timestamp": "2024-12-20T02:16:06.793933",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,510",
+    "fork": "732",
+    "timestamp": "2024-12-20T02:16:06.794230",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,682",
+    "fork": "1,605",
+    "timestamp": "2024-12-20T02:16:06.794543",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,654",
+    "fork": "1,500",
+    "timestamp": "2024-12-20T02:16:06.794840",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "22,762",
+    "fork": "3,495",
+    "timestamp": "2024-12-20T02:16:06.795139",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "54,327",
+    "fork": "1,896",
+    "timestamp": "2024-12-20T02:16:06.795465",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,627",
+    "fork": "2,859",
+    "timestamp": "2024-12-20T02:16:06.795758",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "26,322",
+    "fork": "1,280",
+    "timestamp": "2024-12-20T02:16:06.796058",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+    "star": "12,512",
+    "fork": "610",
+    "timestamp": "2024-12-20T02:16:06.796381",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "FiloSottile/age",
+    "href": "https://github.com/FiloSottile/age",
+    "about": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "star": "17,666",
+    "fork": "512",
+    "timestamp": "2024-12-20T02:16:06.796707",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,533",
+    "fork": "235",
+    "timestamp": "2024-12-20T02:16:06.797004",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "10,906",
+    "fork": "932",
+    "timestamp": "2024-12-20T02:16:06.797300",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mailru/easyjson",
+    "href": "https://github.com/mailru/easyjson",
+    "about": "Fast JSON serializer for golang.",
+    "star": "4,525",
+    "fork": "426",
+    "timestamp": "2024-12-20T02:16:06.797595",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "osmosis-labs/osmosis",
+    "href": "https://github.com/osmosis-labs/osmosis",
+    "about": "The AMM Laboratory",
+    "star": "906",
+    "fork": "607",
+    "timestamp": "2024-12-20T02:16:06.797889",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "111,838",
+    "fork": "39,880",
+    "timestamp": "2024-12-20T02:16:06.798182",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,816",
+    "fork": "1,314",
+    "timestamp": "2024-12-20T02:16:06.798490",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "12,482",
+    "fork": "2,697",
+    "timestamp": "2024-12-20T02:16:06.798784",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "26,212",
+    "fork": "4,013",
+    "timestamp": "2024-12-20T02:16:06.799074",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "4,813",
+    "fork": "1,137",
+    "timestamp": "2024-12-20T02:16:06.799366",
+    "stars_today": "4 stars today"
+  }
+]
