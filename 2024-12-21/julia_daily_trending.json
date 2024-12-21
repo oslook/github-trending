@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "compintell/Mooncake.jl",
+    "href": "https://github.com/compintell/Mooncake.jl",
+    "about": "language level autograd compiler for Julia",
+    "star": "159",
+    "fork": "7",
+    "timestamp": "2024-12-21T02:13:24.142177",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaTimeSteppers.jl",
+    "href": "https://github.com/CliMA/ClimaTimeSteppers.jl",
+    "about": "A CPU- and GPU-friendly package for solving ordinary differential equations",
+    "star": "50",
+    "fork": "6",
+    "timestamp": "2024-12-21T02:13:24.142501",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/CloudMicrophysics.jl",
+    "href": "https://github.com/CliMA/CloudMicrophysics.jl",
+    "about": "A library of cloud microphysics parameterizations",
+    "star": "39",
+    "fork": "8",
+    "timestamp": "2024-12-21T02:13:24.142798",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaMolSim/Molly.jl",
+    "href": "https://github.com/JuliaMolSim/Molly.jl",
+    "about": "Molecular simulation in Julia",
+    "star": "413",
+    "fork": "54",
+    "timestamp": "2024-12-21T02:13:24.143089",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,008",
+    "fork": "195",
+    "timestamp": "2024-12-21T02:13:24.143380",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "85",
+    "fork": "19",
+    "timestamp": "2024-12-21T02:13:24.143666",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "612",
+    "fork": "475",
+    "timestamp": "2024-12-21T02:13:24.143949",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,021",
+    "fork": "5,496",
+    "timestamp": "2024-12-21T02:13:24.144262",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCoupler.jl",
+    "href": "https://github.com/CliMA/ClimaCoupler.jl",
+    "about": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+    "star": "28",
+    "fork": "5",
+    "timestamp": "2024-12-21T02:13:24.144547",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.",
+    "star": "36",
+    "fork": "10",
+    "timestamp": "2024-12-21T02:13:24.144832",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaCI/PkgTemplates.jl",
+    "href": "https://github.com/JuliaCI/PkgTemplates.jl",
+    "about": "Create new Julia packages, the easy way",
+    "star": "643",
+    "fork": "101",
+    "timestamp": "2024-12-21T02:13:24.145137",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "85",
+    "fork": "8",
+    "timestamp": "2024-12-21T02:13:24.145452",
+    "stars_today": "0 stars today"
+  }
+]

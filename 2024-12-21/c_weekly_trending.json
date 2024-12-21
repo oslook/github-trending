@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "36,342",
+    "fork": "6,479",
+    "timestamp": "2024-12-21T02:13:08.888761",
+    "stars_today": "236 stars this week"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "about": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "star": "22,440",
+    "fork": "4,827",
+    "timestamp": "2024-12-21T02:13:08.889125",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "bol-van/zapret",
+    "href": "https://github.com/bol-van/zapret",
+    "about": "DPI bypass multi platform",
+    "star": "8,958",
+    "fork": "670",
+    "timestamp": "2024-12-21T02:13:08.889448",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "href": "https://github.com/obsproject/obs-studio",
+    "about": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "star": "61,053",
+    "fork": "8,058",
+    "timestamp": "2024-12-21T02:13:08.889765",
+    "stars_today": "180 stars this week"
+  },
+  {
+    "repo": "pr3y/Bruce",
+    "href": "https://github.com/pr3y/Bruce",
+    "about": "Predatory ESP32 Firmware",
+    "star": "1,206",
+    "fork": "146",
+    "timestamp": "2024-12-21T02:13:08.890104",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "UberGuidoZ/Flipper",
+    "href": "https://github.com/UberGuidoZ/Flipper",
+    "about": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "star": "14,213",
+    "fork": "3,299",
+    "timestamp": "2024-12-21T02:13:08.890442",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "audacity/audacity",
+    "href": "https://github.com/audacity/audacity",
+    "about": "Audio Editor",
+    "star": "12,790",
+    "fork": "2,277",
+    "timestamp": "2024-12-21T02:13:08.890742",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "RIOT-OS/RIOT",
+    "href": "https://github.com/RIOT-OS/RIOT",
+    "about": "RIOT - The friendly OS for IoT",
+    "star": "5,347",
+    "fork": "2,021",
+    "timestamp": "2024-12-21T02:13:08.891035",
+    "stars_today": "387 stars this week"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "666",
+    "fork": "159",
+    "timestamp": "2024-12-21T02:13:08.891329",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "tursodatabase/libsql",
+    "href": "https://github.com/tursodatabase/libsql",
+    "about": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+    "star": "12,958",
+    "fork": "325",
+    "timestamp": "2024-12-21T02:13:08.891622",
+    "stars_today": "463 stars this week"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "20,822",
+    "fork": "10,659",
+    "timestamp": "2024-12-21T02:13:08.891922",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "floooh/sokol",
+    "href": "https://github.com/floooh/sokol",
+    "about": "minimal cross-platform standalone C headers",
+    "star": "7,320",
+    "fork": "509",
+    "timestamp": "2024-12-21T02:13:08.892234",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "1,968",
+    "fork": "478",
+    "timestamp": "2024-12-21T02:13:08.892552",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "star": "67,440",
+    "fork": "23,850",
+    "timestamp": "2024-12-21T02:13:08.892863",
+    "stars_today": "113 stars this week"
+  },
+  {
+    "repo": "apache/nuttx",
+    "href": "https://github.com/apache/nuttx",
+    "about": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+    "star": "2,997",
+    "fork": "1,204",
+    "timestamp": "2024-12-21T02:13:08.893171",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.",
+    "star": "18,089",
+    "fork": "893",
+    "timestamp": "2024-12-21T02:13:08.893479",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "skywind3000/kcp",
+    "href": "https://github.com/skywind3000/kcp",
+    "about": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "star": "15,502",
+    "fork": "2,512",
+    "timestamp": "2024-12-21T02:13:08.893791",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "lizongying/my-tv",
+    "href": "https://github.com/lizongying/my-tv",
+    "about": "我的电视 电视直播软件，安装即可使用",
+    "star": "30,911",
+    "fork": "3,463",
+    "timestamp": "2024-12-21T02:13:08.894102",
+    "stars_today": "293 stars this week"
+  },
+  {
+    "repo": "riscv-software-src/riscv-isa-sim",
+    "href": "https://github.com/riscv-software-src/riscv-isa-sim",
+    "about": "Spike, a RISC-V ISA Simulator",
+    "star": "2,504",
+    "fork": "875",
+    "timestamp": "2024-12-21T02:13:08.894447",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "nginx/nginx",
+    "href": "https://github.com/nginx/nginx",
+    "about": "The official NGINX Open Source repository.",
+    "star": "25,542",
+    "fork": "7,049",
+    "timestamp": "2024-12-21T02:13:08.894760",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "zeldaret/oot",
+    "href": "https://github.com/zeldaret/oot",
+    "about": "Decompilation of The Legend of Zelda: Ocarina of Time",
+    "star": "4,908",
+    "fork": "610",
+    "timestamp": "2024-12-21T02:13:08.895067",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "taosdata/TDengine",
+    "href": "https://github.com/taosdata/TDengine",
+    "about": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+    "star": "23,474",
+    "fork": "4,875",
+    "timestamp": "2024-12-21T02:13:08.895371",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,338",
+    "fork": "1,286",
+    "timestamp": "2024-12-21T02:13:08.895675",
+    "stars_today": "19 stars this week"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",
+    "star": "48,218",
+    "fork": "1,883",
+    "timestamp": "2024-12-21T02:13:38.027950",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "16,028",
+    "fork": "501",
+    "timestamp": "2024-12-21T02:13:38.028285",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "26,594",
+    "fork": "1,917",
+    "timestamp": "2024-12-21T02:13:38.028579",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "GreptimeTeam/greptimedb",
+    "href": "https://github.com/GreptimeTeam/greptimedb",
+    "about": "An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.",
+    "star": "4,483",
+    "fork": "328",
+    "timestamp": "2024-12-21T02:13:38.028870",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "web-infra-dev/rspack",
+    "href": "https://github.com/web-infra-dev/rspack",
+    "about": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+    "star": "10,393",
+    "fork": "593",
+    "timestamp": "2024-12-21T02:13:38.029157",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "href": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+    "about": "A self-paced course to learn Rust, one exercise at a time.",
+    "star": "6,387",
+    "fork": "1,151",
+    "timestamp": "2024-12-21T02:13:38.029472",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "rerun-io/rerun",
+    "href": "https://github.com/rerun-io/rerun",
+    "about": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.",
+    "star": "7,282",
+    "fork": "367",
+    "timestamp": "2024-12-21T02:13:38.029756",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "href": "https://github.com/TabbyML/tabby",
+    "about": "Self-hosted AI coding assistant",
+    "star": "22,317",
+    "fork": "1,041",
+    "timestamp": "2024-12-21T02:13:38.030040",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "37,042",
+    "fork": "3,650",
+    "timestamp": "2024-12-21T02:13:38.030331",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "tokio-rs/axum",
+    "href": "https://github.com/tokio-rs/axum",
+    "about": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "star": "19,670",
+    "fork": "1,079",
+    "timestamp": "2024-12-21T02:13:38.030693",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "5,775",
+    "fork": "819",
+    "timestamp": "2024-12-21T02:13:38.030980",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "apache/datafusion",
+    "href": "https://github.com/apache/datafusion",
+    "about": "Apache DataFusion SQL Query Engine",
+    "star": "6,492",
+    "fork": "1,239",
+    "timestamp": "2024-12-21T02:13:38.031264",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "31,012",
+    "fork": "2,021",
+    "timestamp": "2024-12-21T02:13:38.031548",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "29,181",
+    "fork": "3,569",
+    "timestamp": "2024-12-21T02:13:38.031832",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "15,514",
+    "fork": "456",
+    "timestamp": "2024-12-21T02:13:38.032114",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "MystenLabs/sui",
+    "href": "https://github.com/MystenLabs/sui",
+    "about": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "star": "6,367",
+    "fork": "11,245",
+    "timestamp": "2024-12-21T02:13:38.032398",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "rust-lang/mdBook",
+    "href": "https://github.com/rust-lang/mdBook",
+    "about": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "star": "18,597",
+    "fork": "1,661",
+    "timestamp": "2024-12-21T02:13:38.032679",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,042",
+    "fork": "235",
+    "timestamp": "2024-12-21T02:13:38.032963",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "anoma/namada",
+    "href": "https://github.com/anoma/namada",
+    "about": "Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",
+    "star": "2,424",
+    "fork": "977",
+    "timestamp": "2024-12-21T02:13:38.033247",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "huggingface/text-embeddings-inference",
+    "href": "https://github.com/huggingface/text-embeddings-inference",
+    "about": "A blazing fast inference solution for text embeddings models",
+    "star": "2,956",
+    "fork": "190",
+    "timestamp": "2024-12-21T02:13:38.033535",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "19,034",
+    "fork": "1,527",
+    "timestamp": "2024-12-21T02:13:38.033822",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "cloudflare/pingora",
+    "href": "https://github.com/cloudflare/pingora",
+    "about": "A library for building fast, reliable and evolvable network services.",
+    "star": "22,875",
+    "fork": "1,282",
+    "timestamp": "2024-12-21T02:13:38.034108",
+    "stars_today": "15 stars today"
+  }
+]

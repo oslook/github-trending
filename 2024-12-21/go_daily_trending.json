@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "103,682",
+    "fork": "8,264",
+    "timestamp": "2024-12-21T02:13:17.817651",
+    "stars_today": "182 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "48,975",
+    "fork": "5,577",
+    "timestamp": "2024-12-21T02:13:17.817976",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,733",
+    "fork": "3,366",
+    "timestamp": "2024-12-21T02:13:17.818283",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,489",
+    "fork": "4,022",
+    "timestamp": "2024-12-21T02:13:17.818638",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,443",
+    "fork": "4,252",
+    "timestamp": "2024-12-21T02:13:17.818940",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,028",
+    "fork": "1,213",
+    "timestamp": "2024-12-21T02:13:17.819235",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "39,519",
+    "fork": "1,252",
+    "timestamp": "2024-12-21T02:13:17.819568",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,230",
+    "fork": "4,420",
+    "timestamp": "2024-12-21T02:13:17.819878",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "88,342",
+    "fork": "13,532",
+    "timestamp": "2024-12-21T02:13:17.820212",
+    "stars_today": "207 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,089",
+    "fork": "1,350",
+    "timestamp": "2024-12-21T02:13:17.820514",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "59,280",
+    "fork": "4,078",
+    "timestamp": "2024-12-21T02:13:17.820814",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,283",
+    "fork": "9,591",
+    "timestamp": "2024-12-21T02:13:17.821116",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "66,453",
+    "fork": "2,417",
+    "timestamp": "2024-12-21T02:13:17.821456",
+    "stars_today": "65 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "9,981",
+    "fork": "9,250",
+    "timestamp": "2024-12-21T02:13:17.821760",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,211",
+    "fork": "5,564",
+    "timestamp": "2024-12-21T02:13:17.822067",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "10,623",
+    "fork": "1,238",
+    "timestamp": "2024-12-21T02:13:17.822417",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "1,879",
+    "fork": "490",
+    "timestamp": "2024-12-21T02:13:17.822726",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/descheduler",
+    "href": "https://github.com/kubernetes-sigs/descheduler",
+    "about": "Descheduler for Kubernetes",
+    "star": "4,578",
+    "fork": "682",
+    "timestamp": "2024-12-21T02:13:17.823029",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,165",
+    "fork": "2,439",
+    "timestamp": "2024-12-21T02:13:17.823331",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "29,534",
+    "fork": "3,996",
+    "timestamp": "2024-12-21T02:13:17.823662",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,165",
+    "fork": "1,429",
+    "timestamp": "2024-12-21T02:13:17.823962",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "A cloud-native vector database, storage for next generation AI applications",
+    "star": "31,404",
+    "fork": "2,979",
+    "timestamp": "2024-12-21T02:13:17.824264",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,273",
+    "fork": "2,386",
+    "timestamp": "2024-12-21T02:13:17.824566",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cilium/ebpf",
+    "href": "https://github.com/cilium/ebpf",
+    "about": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+    "star": "6,445",
+    "fork": "706",
+    "timestamp": "2024-12-21T02:13:17.824871",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "go-admin-team/go-admin",
+    "href": "https://github.com/go-admin-team/go-admin",
+    "about": "基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro",
+    "star": "11,593",
+    "fork": "2,408",
+    "timestamp": "2024-12-21T02:13:17.825185",
+    "stars_today": "1 star today"
+  }
+]
