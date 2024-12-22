@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "taichi-dev/taichi",
+    "href": "https://github.com/taichi-dev/taichi",
+    "about": "Productive, portable, and performant GPU programming in Python.",
+    "star": "26,151",
+    "fork": "2,302",
+    "timestamp": "2024-12-22T02:20:58.336427",
+    "stars_today": "209 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "43,749",
+    "fork": "6,788",
+    "timestamp": "2024-12-22T02:20:58.336780",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "scylladb/scylladb",
+    "href": "https://github.com/scylladb/scylladb",
+    "about": "NoSQL data store using the seastar framework, compatible with Apache Cassandra",
+    "star": "13,846",
+    "fork": "1,314",
+    "timestamp": "2024-12-22T02:20:58.337081",
+    "stars_today": "56 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "28,606",
+    "fork": "5,596",
+    "timestamp": "2024-12-22T02:20:58.337383",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "21,014",
+    "fork": "2,531",
+    "timestamp": "2024-12-22T02:20:58.337690",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "google/perfetto",
+    "href": "https://github.com/google/perfetto",
+    "about": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",
+    "star": "2,995",
+    "fork": "369",
+    "timestamp": "2024-12-22T02:20:58.338000",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ceph/ceph",
+    "href": "https://github.com/ceph/ceph",
+    "about": "Ceph is a distributed object, block, and file storage platform",
+    "star": "14,368",
+    "fork": "6,033",
+    "timestamp": "2024-12-22T02:20:58.338303",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "randombit/botan",
+    "href": "https://github.com/randombit/botan",
+    "about": "Cryptography Toolkit",
+    "star": "2,736",
+    "fork": "574",
+    "timestamp": "2024-12-22T02:20:58.338616",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "119,811",
+    "fork": "24,384",
+    "timestamp": "2024-12-22T02:20:58.338915",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "carla-simulator/carla",
+    "href": "https://github.com/carla-simulator/carla",
+    "about": "Open-source simulator for autonomous driving research.",
+    "star": "11,738",
+    "fork": "3,771",
+    "timestamp": "2024-12-22T02:20:58.339246",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ydb-platform/ydb",
+    "href": "https://github.com/ydb-platform/ydb",
+    "about": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+    "star": "4,060",
+    "fork": "597",
+    "timestamp": "2024-12-22T02:20:58.339570",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "15,065",
+    "fork": "2,965",
+    "timestamp": "2024-12-22T02:20:58.339883",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "star": "8,940",
+    "fork": "1,032",
+    "timestamp": "2024-12-22T02:20:58.340191",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,133",
+    "fork": "1,642",
+    "timestamp": "2024-12-22T02:20:58.340496",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "LuisaGroup/LuisaCompute",
+    "href": "https://github.com/LuisaGroup/LuisaCompute",
+    "about": "High-Performance Rendering Framework on Stream Architectures",
+    "star": "783",
+    "fork": "70",
+    "timestamp": "2024-12-22T02:20:58.340798",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "simdjson/simdjson",
+    "href": "https://github.com/simdjson/simdjson",
+    "about": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+    "star": "19,486",
+    "fork": "1,028",
+    "timestamp": "2024-12-22T02:20:58.341107",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "11,270",
+    "fork": "1,698",
+    "timestamp": "2024-12-22T02:20:58.341415",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "vcmi/vcmi",
+    "href": "https://github.com/vcmi/vcmi",
+    "about": "Open-source engine for Heroes of Might and Magic III",
+    "star": "4,608",
+    "fork": "495",
+    "timestamp": "2024-12-22T02:20:58.341720",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "apple/foundationdb",
+    "href": "https://github.com/apple/foundationdb",
+    "about": "FoundationDB - the open source, distributed, transactional key-value store",
+    "star": "14,672",
+    "fork": "1,318",
+    "timestamp": "2024-12-22T02:20:58.342032",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "CGAL/cgal",
+    "href": "https://github.com/CGAL/cgal",
+    "about": "The public CGAL repository, see the README below",
+    "star": "5,078",
+    "fork": "1,399",
+    "timestamp": "2024-12-22T02:20:58.342342",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "5,858",
+    "fork": "1,011",
+    "timestamp": "2024-12-22T02:20:58.342648",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "cameron314/concurrentqueue",
+    "href": "https://github.com/cameron314/concurrentqueue",
+    "about": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+    "star": "10,387",
+    "fork": "1,712",
+    "timestamp": "2024-12-22T02:20:58.342953",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "openvinotoolkit/openvino",
+    "href": "https://github.com/openvinotoolkit/openvino",
+    "about": "OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference",
+    "star": "7,481",
+    "fork": "2,343",
+    "timestamp": "2024-12-22T02:20:58.343275",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "baldurk/renderdoc",
+    "href": "https://github.com/baldurk/renderdoc",
+    "about": "RenderDoc is a stand-alone graphics debugging tool.",
+    "star": "9,175",
+    "fork": "1,363",
+    "timestamp": "2024-12-22T02:20:58.343586",
+    "stars_today": "4 stars today"
+  }
+]
