@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "291",
+    "fork": "210",
+    "timestamp": "2024-12-23T02:17:17.637338",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "422",
+    "fork": "162",
+    "timestamp": "2024-12-23T02:17:17.637626",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "503",
+    "fork": "190",
+    "timestamp": "2024-12-23T02:17:17.637899",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "seth/ej",
+    "href": "https://github.com/seth/ej",
+    "about": "Helper module for working with Erlang terms representing JSON",
+    "star": "176",
+    "fork": "48",
+    "timestamp": "2024-12-23T02:17:17.638207",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "232",
+    "timestamp": "2024-12-23T02:17:17.638514",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "694",
+    "fork": "231",
+    "timestamp": "2024-12-23T02:17:17.638781",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,873",
+    "fork": "474",
+    "timestamp": "2024-12-23T02:17:17.639049",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "98",
+    "fork": "34",
+    "timestamp": "2024-12-23T02:17:17.639317",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,553",
+    "fork": "1,521",
+    "timestamp": "2024-12-23T02:17:17.639582",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "for-GET/jesse",
+    "href": "https://github.com/for-GET/jesse",
+    "about": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+    "star": "126",
+    "fork": "64",
+    "timestamp": "2024-12-23T02:17:17.639850",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "couchbase/couchdb",
+    "href": "https://github.com/couchbase/couchdb",
+    "about": "CouchDB",
+    "star": "137",
+    "fork": "55",
+    "timestamp": "2024-12-23T02:17:17.640117",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-23T02:17:17.640385",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,193",
+    "fork": "336",
+    "timestamp": "2024-12-23T02:17:17.640651",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,711",
+    "fork": "517",
+    "timestamp": "2024-12-23T02:17:17.640921",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,448",
+    "fork": "2,963",
+    "timestamp": "2024-12-23T02:17:17.641187",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,316",
+    "fork": "1,035",
+    "timestamp": "2024-12-23T02:17:17.641452",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "dnsimple/erldns",
+    "href": "https://github.com/dnsimple/erldns",
+    "about": "DNS server, in Erlang.",
+    "star": "412",
+    "fork": "100",
+    "timestamp": "2024-12-23T02:17:17.641721",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "751",
+    "fork": "162",
+    "timestamp": "2024-12-23T02:17:17.642001",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws-erlang",
+    "href": "https://github.com/aws-beam/aws-erlang",
+    "about": "Create, configure, and manage AWS services from Erlang code.",
+    "star": "79",
+    "fork": "32",
+    "timestamp": "2024-12-23T02:17:17.642273",
+    "stars_today": "1 star today"
+  }
+]

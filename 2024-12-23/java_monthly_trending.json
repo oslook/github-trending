@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "krahets/hello-algo",
+    "href": "https://github.com/krahets/hello-algo",
+    "about": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "star": "103,933",
+    "fork": "13,031",
+    "timestamp": "2024-12-23T02:17:23.160640",
+    "stars_today": "4,709 stars this month"
+  },
+  {
+    "repo": "termux/termux-app",
+    "href": "https://github.com/termux/termux-app",
+    "about": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "star": "37,497",
+    "fork": "3,938",
+    "timestamp": "2024-12-23T02:17:23.160961",
+    "stars_today": "956 stars this month"
+  },
+  {
+    "repo": "648540858/wvp-GB28181-pro",
+    "href": "https://github.com/648540858/wvp-GB28181-pro",
+    "about": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "star": "5,443",
+    "fork": "1,545",
+    "timestamp": "2024-12-23T02:17:23.161234",
+    "stars_today": "417 stars this month"
+  },
+  {
+    "repo": "StarRocks/starrocks",
+    "href": "https://github.com/StarRocks/starrocks",
+    "about": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+    "star": "9,417",
+    "fork": "1,872",
+    "timestamp": "2024-12-23T02:17:23.161502",
+    "stars_today": "381 stars this month"
+  },
+  {
+    "repo": "keycloak/keycloak",
+    "href": "https://github.com/keycloak/keycloak",
+    "about": "Open Source Identity and Access Management For Modern Applications and Services",
+    "star": "24,195",
+    "fork": "6,889",
+    "timestamp": "2024-12-23T02:17:23.161770",
+    "stars_today": "657 stars this month"
+  },
+  {
+    "repo": "apache/flink-cdc",
+    "href": "https://github.com/apache/flink-cdc",
+    "about": "Flink CDC is a streaming data integration tool",
+    "star": "5,843",
+    "fork": "1,969",
+    "timestamp": "2024-12-23T02:17:23.162050",
+    "stars_today": "130 stars this month"
+  },
+  {
+    "repo": "kekingcn/kkFileView",
+    "href": "https://github.com/kekingcn/kkFileView",
+    "about": "Universal File Online Preview Project based on Spring-Boot",
+    "star": "10,991",
+    "fork": "2,769",
+    "timestamp": "2024-12-23T02:17:23.162321",
+    "stars_today": "221 stars this month"
+  },
+  {
+    "repo": "alibaba/nacos",
+    "href": "https://github.com/alibaba/nacos",
+    "about": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "star": "30,543",
+    "fork": "12,890",
+    "timestamp": "2024-12-23T02:17:23.162589",
+    "stars_today": "226 stars this month"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "href": "https://github.com/spring-projects/spring-boot",
+    "about": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+    "star": "75,659",
+    "fork": "40,789",
+    "timestamp": "2024-12-23T02:17:23.162855",
+    "stars_today": "462 stars this month"
+  },
+  {
+    "repo": "RikkaApps/Shizuku-API",
+    "href": "https://github.com/RikkaApps/Shizuku-API",
+    "about": "The API and the developer guide for Shizuku and Sui.",
+    "star": "1,095",
+    "fork": "273",
+    "timestamp": "2024-12-23T02:17:23.163122",
+    "stars_today": "53 stars this month"
+  },
+  {
+    "repo": "apache/dolphinscheduler",
+    "href": "https://github.com/apache/dolphinscheduler",
+    "about": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+    "star": "13,163",
+    "fork": "4,679",
+    "timestamp": "2024-12-23T02:17:23.163388",
+    "stars_today": "289 stars this month"
+  },
+  {
+    "repo": "apache/paimon",
+    "href": "https://github.com/apache/paimon",
+    "about": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+    "star": "2,532",
+    "fork": "989",
+    "timestamp": "2024-12-23T02:17:23.163654",
+    "stars_today": "106 stars this month"
+  },
+  {
+    "repo": "redisson/redisson",
+    "href": "https://github.com/redisson/redisson",
+    "about": "Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+    "star": "23,468",
+    "fork": "5,385",
+    "timestamp": "2024-12-23T02:17:23.163918",
+    "stars_today": "128 stars this month"
+  },
+  {
+    "repo": "apache/hudi",
+    "href": "https://github.com/apache/hudi",
+    "about": "Upserts, Deletes And Incremental Processing on Big Data.",
+    "star": "5,523",
+    "fork": "2,438",
+    "timestamp": "2024-12-23T02:17:23.164180",
+    "stars_today": "87 stars this month"
+  },
+  {
+    "repo": "gunnarmorling/1brc",
+    "href": "https://github.com/gunnarmorling/1brc",
+    "about": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+    "star": "6,557",
+    "fork": "1,950",
+    "timestamp": "2024-12-23T02:17:23.164444",
+    "stars_today": "212 stars this month"
+  },
+  {
+    "repo": "yuliskov/SmartTube",
+    "href": "https://github.com/yuliskov/SmartTube",
+    "about": "SmartTube - an advanced player for set-top boxes and tvs running Android OS",
+    "star": "20,593",
+    "fork": "1,110",
+    "timestamp": "2024-12-23T02:17:23.164708",
+    "stars_today": "643 stars this month"
+  },
+  {
+    "repo": "CarGuo/GSYVideoPlayer",
+    "href": "https://github.com/CarGuo/GSYVideoPlayer",
+    "about": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。",
+    "star": "20,387",
+    "fork": "4,218",
+    "timestamp": "2024-12-23T02:17:23.164977",
+    "stars_today": "139 stars this month"
+  },
+  {
+    "repo": "apolloconfig/apollo",
+    "href": "https://github.com/apolloconfig/apollo",
+    "about": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+    "star": "29,258",
+    "fork": "10,218",
+    "timestamp": "2024-12-23T02:17:23.165268",
+    "stars_today": "114 stars this month"
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "href": "https://github.com/spring-projects/spring-framework",
+    "about": "Spring Framework",
+    "star": "56,961",
+    "fork": "38,243",
+    "timestamp": "2024-12-23T02:17:23.165531",
+    "stars_today": "317 stars this month"
+  },
+  {
+    "repo": "xuxueli/xxl-job",
+    "href": "https://github.com/xuxueli/xxl-job",
+    "about": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "star": "28,007",
+    "fork": "11,012",
+    "timestamp": "2024-12-23T02:17:23.165795",
+    "stars_today": "317 stars this month"
+  },
+  {
+    "repo": "MeteorDevelopment/meteor-client",
+    "href": "https://github.com/MeteorDevelopment/meteor-client",
+    "about": "Based Minecraft utility mod.",
+    "star": "2,326",
+    "fork": "863",
+    "timestamp": "2024-12-23T02:17:23.166074",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "hkhcoder/vprofile-project",
+    "href": "https://github.com/hkhcoder/vprofile-project",
+    "about": "",
+    "star": "312",
+    "fork": "1,819",
+    "timestamp": "2024-12-23T02:17:23.166351",
+    "stars_today": "37 stars this month"
+  },
+  {
+    "repo": "PaperMC/Paper",
+    "href": "https://github.com/PaperMC/Paper",
+    "about": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+    "star": "10,289",
+    "fork": "2,366",
+    "timestamp": "2024-12-23T02:17:23.166631",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "alibaba/spring-cloud-alibaba",
+    "href": "https://github.com/alibaba/spring-cloud-alibaba",
+    "about": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "star": "28,083",
+    "fork": "8,349",
+    "timestamp": "2024-12-23T02:17:23.166894",
+    "stars_today": "124 stars this month"
+  }
+]
