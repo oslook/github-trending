@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "tursodatabase/limbo",
+    "href": "https://github.com/tursodatabase/limbo",
+    "about": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "star": "7,789",
+    "fork": "248",
+    "timestamp": "2024-12-25T02:14:26.363587",
+    "stars_today": "1,777 stars this week"
+  },
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "18,961",
+    "fork": "433",
+    "timestamp": "2024-12-25T02:14:26.363901",
+    "stars_today": "1,112 stars this week"
+  },
+  {
+    "repo": "0xPlaygrounds/rig",
+    "href": "https://github.com/0xPlaygrounds/rig",
+    "about": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "star": "1,618",
+    "fork": "122",
+    "timestamp": "2024-12-25T02:14:26.364200",
+    "stars_today": "565 stars this week"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "15,561",
+    "fork": "458",
+    "timestamp": "2024-12-25T02:14:26.364495",
+    "stars_today": "97 stars this week"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,195",
+    "fork": "1,295",
+    "timestamp": "2024-12-25T02:14:26.364785",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",
+    "star": "48,394",
+    "fork": "1,894",
+    "timestamp": "2024-12-25T02:14:26.365075",
+    "stars_today": "444 stars this week"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "23,684",
+    "fork": "917",
+    "timestamp": "2024-12-25T02:14:26.365394",
+    "stars_today": "440 stars this week"
+  },
+  {
+    "repo": "hyperium/hyper",
+    "href": "https://github.com/hyperium/hyper",
+    "about": "An HTTP library for Rust",
+    "star": "14,759",
+    "fork": "1,609",
+    "timestamp": "2024-12-25T02:14:26.365684",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "26,688",
+    "fork": "1,922",
+    "timestamp": "2024-12-25T02:14:26.365975",
+    "stars_today": "248 stars this week"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "34,468",
+    "fork": "2,550",
+    "timestamp": "2024-12-25T02:14:26.366285",
+    "stars_today": "170 stars this week"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "9,985",
+    "fork": "349",
+    "timestamp": "2024-12-25T02:14:26.366575",
+    "stars_today": "221 stars this week"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "29,209",
+    "fork": "3,571",
+    "timestamp": "2024-12-25T02:14:26.366865",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "5,810",
+    "fork": "826",
+    "timestamp": "2024-12-25T02:14:26.367154",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "yetanotherco/aligned_layer",
+    "href": "https://github.com/yetanotherco/aligned_layer",
+    "about": "Aligned is a verification layer for zero-knowledge proofs using EigenLayer. Our mission is to accelerate the adoption of zero-knowledge and validity proofs on Ethereum.",
+    "star": "193",
+    "fork": "361",
+    "timestamp": "2024-12-25T02:14:26.367444",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "href": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+    "about": "A self-paced course to learn Rust, one exercise at a time.",
+    "star": "6,429",
+    "fork": "1,166",
+    "timestamp": "2024-12-25T02:14:26.367763",
+    "stars_today": "99 stars this week"
+  },
+  {
+    "repo": "libp2p/rust-libp2p",
+    "href": "https://github.com/libp2p/rust-libp2p",
+    "about": "The Rust Implementation of the libp2p networking stack.",
+    "star": "4,685",
+    "fork": "988",
+    "timestamp": "2024-12-25T02:14:26.368052",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "denoland/deno",
+    "href": "https://github.com/denoland/deno",
+    "about": "A modern runtime for JavaScript and TypeScript.",
+    "star": "100,796",
+    "fork": "5,442",
+    "timestamp": "2024-12-25T02:14:26.368341",
+    "stars_today": "2,321 stars this week"
+  },
+  {
+    "repo": "web-infra-dev/rspack",
+    "href": "https://github.com/web-infra-dev/rspack",
+    "about": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+    "star": "10,417",
+    "fork": "595",
+    "timestamp": "2024-12-25T02:14:26.368629",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "about": "A curated list of Rust code and resources.",
+    "star": "47,733",
+    "fork": "2,799",
+    "timestamp": "2024-12-25T02:14:26.368917",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "40,168",
+    "fork": "1,932",
+    "timestamp": "2024-12-25T02:14:26.369235",
+    "stars_today": "207 stars this week"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "50,252",
+    "fork": "1,260",
+    "timestamp": "2024-12-25T02:14:26.369553",
+    "stars_today": "130 stars this week"
+  },
+  {
+    "repo": "cloud-hypervisor/cloud-hypervisor",
+    "href": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+    "about": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+    "star": "4,165",
+    "fork": "464",
+    "timestamp": "2024-12-25T02:14:26.369845",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "about": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+    "star": "15,623",
+    "fork": "1,334",
+    "timestamp": "2024-12-25T02:14:26.370170",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "google/comprehensive-rust",
+    "href": "https://github.com/google/comprehensive-rust",
+    "about": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "star": "28,230",
+    "fork": "1,692",
+    "timestamp": "2024-12-25T02:14:26.370463",
+    "stars_today": "100 stars this week"
+  }
+]

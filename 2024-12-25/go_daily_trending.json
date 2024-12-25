@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,574",
+    "fork": "8,055",
+    "timestamp": "2024-12-25T02:14:05.727388",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "11,237",
+    "fork": "2,015",
+    "timestamp": "2024-12-25T02:14:05.727985",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "vektra/mockery",
+    "href": "https://github.com/vektra/mockery",
+    "about": "A mock code autogenerator for Go",
+    "star": "6,230",
+    "fork": "414",
+    "timestamp": "2024-12-25T02:14:05.728409",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "11,423",
+    "fork": "2,390",
+    "timestamp": "2024-12-25T02:14:05.728703",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "moonD4rk/HackBrowserData",
+    "href": "https://github.com/moonD4rk/HackBrowserData",
+    "about": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",
+    "star": "11,517",
+    "fork": "1,598",
+    "timestamp": "2024-12-25T02:14:05.728990",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "shadow1ng/fscan",
+    "href": "https://github.com/shadow1ng/fscan",
+    "about": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "star": "11,141",
+    "fork": "1,654",
+    "timestamp": "2024-12-25T02:14:05.729279",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "45,256",
+    "fork": "4,878",
+    "timestamp": "2024-12-25T02:14:05.729560",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "12,535",
+    "fork": "935",
+    "timestamp": "2024-12-25T02:14:05.729847",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "134,968",
+    "fork": "11,993",
+    "timestamp": "2024-12-25T02:14:05.730198",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "alecthomas/kong",
+    "href": "https://github.com/alecthomas/kong",
+    "about": "Kong is a command-line parser for Go",
+    "star": "2,238",
+    "fork": "141",
+    "timestamp": "2024-12-25T02:14:05.730515",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "18,863",
+    "fork": "2,112",
+    "timestamp": "2024-12-25T02:14:05.730800",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gonum/gonum",
+    "href": "https://github.com/gonum/gonum",
+    "about": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+    "star": "7,718",
+    "fork": "546",
+    "timestamp": "2024-12-25T02:14:05.731078",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,224",
+    "fork": "669",
+    "timestamp": "2024-12-25T02:14:05.731355",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,245",
+    "fork": "4,424",
+    "timestamp": "2024-12-25T02:14:05.731630",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,917",
+    "fork": "18,676",
+    "timestamp": "2024-12-25T02:14:05.731908",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Masterminds/squirrel",
+    "href": "https://github.com/Masterminds/squirrel",
+    "about": "Fluent SQL generation for golang",
+    "star": "7,074",
+    "fork": "471",
+    "timestamp": "2024-12-25T02:14:05.732186",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,004",
+    "fork": "854",
+    "timestamp": "2024-12-25T02:14:05.732463",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "493",
+    "fork": "120",
+    "timestamp": "2024-12-25T02:14:05.732740",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "algorand/go-algorand",
+    "href": "https://github.com/algorand/go-algorand",
+    "about": "Algorand's official implementation in Go.",
+    "star": "1,371",
+    "fork": "479",
+    "timestamp": "2024-12-25T02:14:05.733014",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "WireGuard/wireguard-go",
+    "href": "https://github.com/WireGuard/wireguard-go",
+    "about": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+    "star": "3,230",
+    "fork": "1,092",
+    "timestamp": "2024-12-25T02:14:05.733292",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "uptrace/bun",
+    "href": "https://github.com/uptrace/bun",
+    "about": "SQL-first Golang ORM",
+    "star": "3,902",
+    "fork": "233",
+    "timestamp": "2024-12-25T02:14:05.733566",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "14,529",
+    "fork": "860",
+    "timestamp": "2024-12-25T02:14:05.733844",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "12,017",
+    "fork": "2,125",
+    "timestamp": "2024-12-25T02:14:05.734144",
+    "stars_today": "7 stars today"
+  }
+]

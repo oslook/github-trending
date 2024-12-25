@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,467",
+    "fork": "1,295",
+    "timestamp": "2024-12-25T02:14:15.906188",
+    "stars_today": "279 stars this week"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "2,539",
+    "fork": "132",
+    "timestamp": "2024-12-25T02:14:15.906498",
+    "stars_today": "554 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,300",
+    "fork": "130",
+    "timestamp": "2024-12-25T02:14:15.906793",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "8,087",
+    "fork": "299",
+    "timestamp": "2024-12-25T02:14:15.907081",
+    "stars_today": "186 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "20,701",
+    "fork": "25,810",
+    "timestamp": "2024-12-25T02:14:15.907367",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,392",
+    "fork": "169",
+    "timestamp": "2024-12-25T02:14:15.907653",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "2,874",
+    "fork": "92",
+    "timestamp": "2024-12-25T02:14:15.907938",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "williamboman/mason-lspconfig.nvim",
+    "href": "https://github.com/williamboman/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "2,967",
+    "fork": "180",
+    "timestamp": "2024-12-25T02:14:15.908251",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,563",
+    "fork": "442",
+    "timestamp": "2024-12-25T02:14:15.908534",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "10,950",
+    "fork": "2,102",
+    "timestamp": "2024-12-25T02:14:15.908844",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-web-devicons",
+    "href": "https://github.com/nvim-tree/nvim-web-devicons",
+    "about": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
+    "star": "2,158",
+    "fork": "191",
+    "timestamp": "2024-12-25T02:14:15.909126",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,496",
+    "fork": "376",
+    "timestamp": "2024-12-25T02:14:15.909408",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,050",
+    "fork": "831",
+    "timestamp": "2024-12-25T02:14:15.909694",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,088",
+    "fork": "211",
+    "timestamp": "2024-12-25T02:14:15.910008",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,263",
+    "fork": "411",
+    "timestamp": "2024-12-25T02:14:15.910337",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,903",
+    "fork": "74",
+    "timestamp": "2024-12-25T02:14:15.910647",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,613",
+    "fork": "194",
+    "timestamp": "2024-12-25T02:14:15.910926",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,599",
+    "fork": "179",
+    "timestamp": "2024-12-25T02:14:15.911208",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "7,355",
+    "fork": "609",
+    "timestamp": "2024-12-25T02:14:15.911488",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "nvimtools/none-ls.nvim",
+    "href": "https://github.com/nvimtools/none-ls.nvim",
+    "about": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "star": "2,686",
+    "fork": "88",
+    "timestamp": "2024-12-25T02:14:15.911767",
+    "stars_today": "23 stars this week"
+  }
+]
