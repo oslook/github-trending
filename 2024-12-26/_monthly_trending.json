@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "href": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "about": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "star": "9,316",
+    "fork": "929",
+    "timestamp": "2024-12-26T02:14:05.924122",
+    "stars_today": "4,807 stars this month"
+  },
+  {
+    "repo": "elizaOS/eliza",
+    "href": "https://github.com/elizaOS/eliza",
+    "about": "Autonomous agents for everyone",
+    "star": "6,008",
+    "fork": "1,786",
+    "timestamp": "2024-12-26T02:14:05.924453",
+    "stars_today": "3,887 stars this month"
+  },
+  {
+    "repo": "Byaidu/PDFMathTranslate",
+    "href": "https://github.com/Byaidu/PDFMathTranslate",
+    "about": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "star": "11,300",
+    "fork": "812",
+    "timestamp": "2024-12-26T02:14:05.924757",
+    "stars_today": "8,367 stars this month"
+  },
+  {
+    "repo": "google-gemini/cookbook",
+    "href": "https://github.com/google-gemini/cookbook",
+    "about": "Examples and guides for using the Gemini API",
+    "star": "9,490",
+    "fork": "1,104",
+    "timestamp": "2024-12-26T02:14:05.925065",
+    "stars_today": "4,104 stars this month"
+  },
+  {
+    "repo": "fishaudio/fish-speech",
+    "href": "https://github.com/fishaudio/fish-speech",
+    "about": "SOTA Open Source TTS",
+    "star": "17,689",
+    "fork": "1,322",
+    "timestamp": "2024-12-26T02:14:05.925362",
+    "stars_today": "3,069 stars this month"
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "href": "https://github.com/abi/screenshot-to-code",
+    "about": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "star": "66,116",
+    "fork": "8,030",
+    "timestamp": "2024-12-26T02:14:05.925713",
+    "stars_today": "4,953 stars this month"
+  },
+  {
+    "repo": "modelcontextprotocol/python-sdk",
+    "href": "https://github.com/modelcontextprotocol/python-sdk",
+    "about": "The official Python SDK for Model Context Protocol servers and clients",
+    "star": "1,007",
+    "fork": "99",
+    "timestamp": "2024-12-26T02:14:05.926012",
+    "stars_today": "995 stars this month"
+  },
+  {
+    "repo": "TEN-framework/TEN-Agent",
+    "href": "https://github.com/TEN-framework/TEN-Agent",
+    "about": "TEN Agent is a conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.",
+    "star": "3,740",
+    "fork": "360",
+    "timestamp": "2024-12-26T02:14:05.926309",
+    "stars_today": "2,073 stars this month"
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "href": "https://github.com/langflow-ai/langflow",
+    "about": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+    "star": "40,630",
+    "fork": "4,578",
+    "timestamp": "2024-12-26T02:14:05.926609",
+    "stars_today": "5,240 stars this month"
+  },
+  {
+    "repo": "lobehub/lobe-chat",
+    "href": "https://github.com/lobehub/lobe-chat",
+    "about": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "star": "49,666",
+    "fork": "10,774",
+    "timestamp": "2024-12-26T02:14:05.926942",
+    "stars_today": "4,927 stars this month"
+  },
+  {
+    "repo": "seleniumbase/SeleniumBase",
+    "href": "https://github.com/seleniumbase/SeleniumBase",
+    "about": "Python APIs for web automation, testing, and bypassing bot-detection.",
+    "star": "7,822",
+    "fork": "1,074",
+    "timestamp": "2024-12-26T02:14:05.927254",
+    "stars_today": "2,378 stars this month"
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "href": "https://github.com/krahets/hello-algo",
+    "about": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "star": "104,195",
+    "fork": "13,083",
+    "timestamp": "2024-12-26T02:14:05.927553",
+    "stars_today": "4,265 stars this month"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "about": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "star": "282,626",
+    "fork": "47,248",
+    "timestamp": "2024-12-26T02:14:05.927854",
+    "stars_today": "5,568 stars this month"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "12,189",
+    "fork": "340",
+    "timestamp": "2024-12-26T02:14:05.928185",
+    "stars_today": "1,994 stars this month"
+  },
+  {
+    "repo": "DS4SD/docling",
+    "href": "https://github.com/DS4SD/docling",
+    "about": "Get your documents ready for gen AI",
+    "star": "16,599",
+    "fork": "845",
+    "timestamp": "2024-12-26T02:14:05.928486",
+    "stars_today": "5,780 stars this month"
+  },
+  {
+    "repo": "2dust/v2rayN",
+    "href": "https://github.com/2dust/v2rayN",
+    "about": "A GUI client for Windows and Linux, support Xray core and sing-box-core and others",
+    "star": "72,253",
+    "fork": "11,829",
+    "timestamp": "2024-12-26T02:14:05.928782",
+    "stars_today": "2,235 stars this month"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "about": "Windows system utilities to maximize productivity",
+    "star": "112,941",
+    "fork": "6,656",
+    "timestamp": "2024-12-26T02:14:05.929079",
+    "stars_today": "1,456 stars this month"
+  }
+]

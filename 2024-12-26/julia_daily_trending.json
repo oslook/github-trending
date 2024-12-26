@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,025",
+    "fork": "200",
+    "timestamp": "2024-12-26T02:14:32.819887",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "612",
+    "fork": "476",
+    "timestamp": "2024-12-26T02:14:32.820202",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "86",
+    "fork": "19",
+    "timestamp": "2024-12-26T02:14:32.820543",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.",
+    "star": "37",
+    "fork": "10",
+    "timestamp": "2024-12-26T02:14:32.820837",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/ClimaCoupler.jl",
+    "href": "https://github.com/CliMA/ClimaCoupler.jl",
+    "about": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+    "star": "28",
+    "fork": "5",
+    "timestamp": "2024-12-26T02:14:32.821135",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaTimeSteppers.jl",
+    "href": "https://github.com/CliMA/ClimaTimeSteppers.jl",
+    "about": "A CPU- and GPU-friendly package for solving ordinary differential equations",
+    "star": "50",
+    "fork": "6",
+    "timestamp": "2024-12-26T02:14:32.821429",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaLand.jl",
+    "href": "https://github.com/CliMA/ClimaLand.jl",
+    "about": "Clima's Land Model",
+    "star": "39",
+    "fork": "10",
+    "timestamp": "2024-12-26T02:14:32.821745",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Deltares/Ribasim",
+    "href": "https://github.com/Deltares/Ribasim",
+    "about": "Water resources modeling",
+    "star": "42",
+    "fork": "5",
+    "timestamp": "2024-12-26T02:14:32.822039",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,043",
+    "fork": "5,500",
+    "timestamp": "2024-12-26T02:14:32.822365",
+    "stars_today": "8 stars today"
+  }
+]

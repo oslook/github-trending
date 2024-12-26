@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,572",
+    "fork": "1,525",
+    "timestamp": "2024-12-26T02:14:22.271549",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,454",
+    "fork": "2,966",
+    "timestamp": "2024-12-26T02:14:22.271871",
+    "stars_today": "63 stars this month"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,272",
+    "fork": "2,252",
+    "timestamp": "2024-12-26T02:14:22.272173",
+    "stars_today": "129 stars this month"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "415",
+    "fork": "57",
+    "timestamp": "2024-12-26T02:14:22.272474",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2024-12-26T02:14:22.272807",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,124",
+    "fork": "455",
+    "timestamp": "2024-12-26T02:14:22.273103",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "251",
+    "fork": "83",
+    "timestamp": "2024-12-26T02:14:22.273402",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "232",
+    "timestamp": "2024-12-26T02:14:22.273746",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,193",
+    "fork": "336",
+    "timestamp": "2024-12-26T02:14:22.274043",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,373",
+    "fork": "277",
+    "timestamp": "2024-12-26T02:14:22.274341",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "38",
+    "timestamp": "2024-12-26T02:14:22.274643",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "561",
+    "fork": "154",
+    "timestamp": "2024-12-26T02:14:22.274944",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2024-12-26T02:14:22.275247",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,318",
+    "fork": "1,034",
+    "timestamp": "2024-12-26T02:14:22.275542",
+    "stars_today": "53 stars this month"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,137",
+    "fork": "1,512",
+    "timestamp": "2024-12-26T02:14:22.275840",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2024-12-26T02:14:22.276140",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,873",
+    "fork": "474",
+    "timestamp": "2024-12-26T02:14:22.276431",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "94",
+    "fork": "49",
+    "timestamp": "2024-12-26T02:14:22.276758",
+    "stars_today": "0 stars this month"
+  }
+]
