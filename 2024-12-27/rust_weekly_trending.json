@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "19,198",
+    "fork": "437",
+    "timestamp": "2024-12-27T02:15:48.535743",
+    "stars_today": "1,340 stars this week"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "26,711",
+    "fork": "1,924",
+    "timestamp": "2024-12-27T02:15:48.536069",
+    "stars_today": "192 stars this week"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",
+    "star": "48,432",
+    "fork": "1,897",
+    "timestamp": "2024-12-27T02:15:48.536473",
+    "stars_today": "426 stars this week"
+  },
+  {
+    "repo": "tursodatabase/limbo",
+    "href": "https://github.com/tursodatabase/limbo",
+    "about": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "star": "7,916",
+    "fork": "255",
+    "timestamp": "2024-12-27T02:15:48.536900",
+    "stars_today": "912 stars this week"
+  },
+  {
+    "repo": "0xPlaygrounds/rig",
+    "href": "https://github.com/0xPlaygrounds/rig",
+    "about": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+    "star": "1,668",
+    "fork": "129",
+    "timestamp": "2024-12-27T02:15:48.537204",
+    "stars_today": "524 stars this week"
+  },
+  {
+    "repo": "GreptimeTeam/greptimedb",
+    "href": "https://github.com/GreptimeTeam/greptimedb",
+    "about": "An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.",
+    "star": "4,507",
+    "fork": "328",
+    "timestamp": "2024-12-27T02:15:48.537502",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "eythaann/Seelen-UI",
+    "href": "https://github.com/eythaann/Seelen-UI",
+    "about": "The Fully Customizable Desktop Environment for Windows 10/11.",
+    "star": "4,679",
+    "fork": "129",
+    "timestamp": "2024-12-27T02:15:48.537828",
+    "stars_today": "388 stars this week"
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-rust",
+    "href": "https://github.com/shadowsocks/shadowsocks-rust",
+    "about": "A Rust port of shadowsocks",
+    "star": "8,876",
+    "fork": "1,212",
+    "timestamp": "2024-12-27T02:15:48.538122",
+    "stars_today": "104 stars this week"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "40,222",
+    "fork": "1,934",
+    "timestamp": "2024-12-27T02:15:48.538451",
+    "stars_today": "202 stars this week"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "href": "https://github.com/TabbyML/tabby",
+    "about": "Self-hosted AI coding assistant",
+    "star": "22,387",
+    "fork": "1,047",
+    "timestamp": "2024-12-27T02:15:48.538772",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "5,816",
+    "fork": "829",
+    "timestamp": "2024-12-27T02:15:48.539070",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "modrinth/code",
+    "href": "https://github.com/modrinth/code",
+    "about": "The Modrinth monorepo containing all code which powers Modrinth!",
+    "star": "1,060",
+    "fork": "197",
+    "timestamp": "2024-12-27T02:15:48.539368",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "slint-ui/slint",
+    "href": "https://github.com/slint-ui/slint",
+    "about": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+    "star": "17,982",
+    "fork": "624",
+    "timestamp": "2024-12-27T02:15:48.539663",
+    "stars_today": "117 stars this week"
+  },
+  {
+    "repo": "0x192/universal-android-debloater",
+    "href": "https://github.com/0x192/universal-android-debloater",
+    "about": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+    "star": "15,970",
+    "fork": "837",
+    "timestamp": "2024-12-27T02:15:48.539962",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "hatoo/oha",
+    "href": "https://github.com/hatoo/oha",
+    "about": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+    "star": "6,852",
+    "fork": "179",
+    "timestamp": "2024-12-27T02:15:48.540288",
+    "stars_today": "100 stars this week"
+  },
+  {
+    "repo": "gfx-rs/wgpu",
+    "href": "https://github.com/gfx-rs/wgpu",
+    "about": "A cross-platform, safe, pure-Rust graphics API.",
+    "star": "12,985",
+    "fork": "953",
+    "timestamp": "2024-12-27T02:15:48.540584",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "about": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+    "star": "15,645",
+    "fork": "1,335",
+    "timestamp": "2024-12-27T02:15:48.540878",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "sunface/rust-by-practice",
+    "href": "https://github.com/sunface/rust-by-practice",
+    "about": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",
+    "star": "12,440",
+    "fork": "1,005",
+    "timestamp": "2024-12-27T02:15:48.541171",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,199",
+    "fork": "1,297",
+    "timestamp": "2024-12-27T02:15:48.541470",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "33,765",
+    "fork": "5,970",
+    "timestamp": "2024-12-27T02:15:48.541796",
+    "stars_today": "169 stars this week"
+  },
+  {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "href": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+    "about": "A self-paced course to learn Rust, one exercise at a time.",
+    "star": "6,440",
+    "fork": "1,173",
+    "timestamp": "2024-12-27T02:15:48.542123",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "libp2p/rust-libp2p",
+    "href": "https://github.com/libp2p/rust-libp2p",
+    "about": "The Rust Implementation of the libp2p networking stack.",
+    "star": "4,691",
+    "fork": "989",
+    "timestamp": "2024-12-27T02:15:48.542415",
+    "stars_today": "13 stars this week"
+  }
+]
