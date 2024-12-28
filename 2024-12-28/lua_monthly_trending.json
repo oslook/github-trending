@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,515",
+    "fork": "1,296",
+    "timestamp": "2024-12-28T02:12:43.480333",
+    "stars_today": "968 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "2,621",
+    "fork": "139",
+    "timestamp": "2024-12-28T02:12:43.480647",
+    "stars_today": "1,303 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,453",
+    "fork": "1,293",
+    "timestamp": "2024-12-28T02:12:43.480939",
+    "stars_today": "529 stars this month"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,629",
+    "fork": "4,841",
+    "timestamp": "2024-12-28T02:12:43.481228",
+    "stars_today": "342 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,529",
+    "fork": "376",
+    "timestamp": "2024-12-28T02:12:43.481520",
+    "stars_today": "499 stars this month"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,447",
+    "fork": "331",
+    "timestamp": "2024-12-28T02:12:43.481834",
+    "stars_today": "72 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "20,762",
+    "fork": "25,931",
+    "timestamp": "2024-12-28T02:12:43.482125",
+    "stars_today": "710 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,587",
+    "fork": "441",
+    "timestamp": "2024-12-28T02:12:43.482412",
+    "stars_today": "141 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,634",
+    "fork": "195",
+    "timestamp": "2024-12-28T02:12:43.482696",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,312",
+    "fork": "130",
+    "timestamp": "2024-12-28T02:12:43.482978",
+    "stars_today": "217 stars this month"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,108",
+    "fork": "2,096",
+    "timestamp": "2024-12-28T02:12:43.483260",
+    "stars_today": "96 stars this month"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "16,386",
+    "fork": "851",
+    "timestamp": "2024-12-28T02:12:43.483547",
+    "stars_today": "332 stars this month"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,121",
+    "fork": "470",
+    "timestamp": "2024-12-28T02:12:43.483841",
+    "stars_today": "65 stars this month"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,610",
+    "fork": "180",
+    "timestamp": "2024-12-28T02:12:43.484125",
+    "stars_today": "152 stars this month"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,595",
+    "fork": "108",
+    "timestamp": "2024-12-28T02:12:43.484409",
+    "stars_today": "128 stars this month"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,916",
+    "fork": "74",
+    "timestamp": "2024-12-28T02:12:43.484721",
+    "stars_today": "136 stars this month"
+  },
+  {
+    "repo": "AstroNvim/AstroNvim",
+    "href": "https://github.com/AstroNvim/AstroNvim",
+    "about": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "star": "12,921",
+    "fork": "936",
+    "timestamp": "2024-12-28T02:12:43.485033",
+    "stars_today": "159 stars this month"
+  }
+]

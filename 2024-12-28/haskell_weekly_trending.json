@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "36,668",
+    "fork": "1,782",
+    "timestamp": "2024-12-28T02:12:35.852379",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "35,209",
+    "fork": "3,405",
+    "timestamp": "2024-12-28T02:12:35.852728",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,560",
+    "fork": "422",
+    "timestamp": "2024-12-28T02:12:35.853048",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "b3nj5m1n/xdg-ninja",
+    "href": "https://github.com/b3nj5m1n/xdg-ninja",
+    "about": "A shell script which checks your $HOME for unwanted files and directories.",
+    "star": "2,557",
+    "fork": "147",
+    "timestamp": "2024-12-28T02:12:35.853336",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "haskell/cabal",
+    "href": "https://github.com/haskell/cabal",
+    "about": "Official upstream development repository for Cabal and cabal-install",
+    "star": "1,633",
+    "fork": "696",
+    "timestamp": "2024-12-28T02:12:35.853630",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "unisonweb/unison",
+    "href": "https://github.com/unisonweb/unison",
+    "about": "A friendly programming language from the future",
+    "star": "5,860",
+    "fork": "272",
+    "timestamp": "2024-12-28T02:12:35.853937",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "github/semantic",
+    "href": "https://github.com/github/semantic",
+    "about": "Parsing, analyzing, and comparing source code across many languages",
+    "star": "8,984",
+    "fork": "453",
+    "timestamp": "2024-12-28T02:12:35.854224",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,136",
+    "fork": "1,044",
+    "timestamp": "2024-12-28T02:12:35.854515",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "560",
+    "fork": "63",
+    "timestamp": "2024-12-28T02:12:35.854836",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,734",
+    "fork": "369",
+    "timestamp": "2024-12-28T02:12:35.855121",
+    "stars_today": "4 stars this week"
+  }
+]
