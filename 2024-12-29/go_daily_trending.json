@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,695",
+    "fork": "8,284",
+    "timestamp": "2024-12-29T02:22:23.555293",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "28,746",
+    "fork": "837",
+    "timestamp": "2024-12-29T02:22:23.555612",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "cashapp/cloner",
+    "href": "https://github.com/cashapp/cloner",
+    "about": "",
+    "star": "74",
+    "fork": "25",
+    "timestamp": "2024-12-29T02:22:23.555932",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "29,593",
+    "fork": "4,005",
+    "timestamp": "2024-12-29T02:22:23.556256",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,282",
+    "fork": "1,441",
+    "timestamp": "2024-12-29T02:22:23.556552",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "24,507",
+    "fork": "4,788",
+    "timestamp": "2024-12-29T02:22:23.556847",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "11,909",
+    "fork": "829",
+    "timestamp": "2024-12-29T02:22:23.557144",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "projectdiscovery/httpx",
+    "href": "https://github.com/projectdiscovery/httpx",
+    "about": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+    "star": "7,914",
+    "fork": "859",
+    "timestamp": "2024-12-29T02:22:23.557440",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "href": "https://github.com/jaegertracing/jaeger",
+    "about": "CNCF Jaeger, a Distributed Tracing Platform",
+    "star": "20,728",
+    "fork": "2,463",
+    "timestamp": "2024-12-29T02:22:23.557741",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "24,346",
+    "fork": "1,321",
+    "timestamp": "2024-12-29T02:22:23.558037",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "about": "Fast passive subdomain enumeration tool.",
+    "star": "10,503",
+    "fork": "1,298",
+    "timestamp": "2024-12-29T02:22:23.558331",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,029",
+    "fork": "855",
+    "timestamp": "2024-12-29T02:22:23.558625",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database designed to scale.",
+    "star": "31,547",
+    "fork": "2,987",
+    "timestamp": "2024-12-29T02:22:23.558933",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,010",
+    "fork": "5,143",
+    "timestamp": "2024-12-29T02:22:23.559260",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "shopspring/decimal",
+    "href": "https://github.com/shopspring/decimal",
+    "about": "Arbitrary-precision fixed-point decimal numbers in Go",
+    "star": "6,488",
+    "fork": "627",
+    "timestamp": "2024-12-29T02:22:23.559551",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "54,591",
+    "fork": "1,902",
+    "timestamp": "2024-12-29T02:22:23.559879",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "23,677",
+    "fork": "924",
+    "timestamp": "2024-12-29T02:22:23.560168",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "22,839",
+    "fork": "3,499",
+    "timestamp": "2024-12-29T02:22:23.560455",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,178",
+    "fork": "1,326",
+    "timestamp": "2024-12-29T02:22:23.560744",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,012",
+    "fork": "5,609",
+    "timestamp": "2024-12-29T02:22:23.561032",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gin-gonic/examples",
+    "href": "https://github.com/gin-gonic/examples",
+    "about": "A repository to host examples and tutorials for Gin.",
+    "star": "3,850",
+    "fork": "663",
+    "timestamp": "2024-12-29T02:22:23.561319",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,183",
+    "fork": "2,550",
+    "timestamp": "2024-12-29T02:22:23.561608",
+    "stars_today": "10 stars today"
+  }
+]

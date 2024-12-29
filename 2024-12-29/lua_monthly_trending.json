@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,534",
+    "fork": "1,298",
+    "timestamp": "2024-12-29T02:22:33.997921",
+    "stars_today": "966 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "2,641",
+    "fork": "140",
+    "timestamp": "2024-12-29T02:22:33.998234",
+    "stars_today": "1,309 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,468",
+    "fork": "1,293",
+    "timestamp": "2024-12-29T02:22:33.998525",
+    "stars_today": "541 stars this month"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "7,445",
+    "fork": "2,683",
+    "timestamp": "2024-12-29T02:22:33.998832",
+    "stars_today": "205 stars this month"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,634",
+    "fork": "4,841",
+    "timestamp": "2024-12-29T02:22:33.999154",
+    "stars_today": "343 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,593",
+    "fork": "441",
+    "timestamp": "2024-12-29T02:22:33.999448",
+    "stars_today": "142 stars this month"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,448",
+    "fork": "331",
+    "timestamp": "2024-12-29T02:22:33.999739",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "20,784",
+    "fork": "25,981",
+    "timestamp": "2024-12-29T02:22:34.000026",
+    "stars_today": "715 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,550",
+    "fork": "376",
+    "timestamp": "2024-12-29T02:22:34.000313",
+    "stars_today": "513 stars this month"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,125",
+    "fork": "471",
+    "timestamp": "2024-12-29T02:22:34.000608",
+    "stars_today": "69 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,636",
+    "fork": "195",
+    "timestamp": "2024-12-29T02:22:34.000894",
+    "stars_today": "287 stars this month"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,317",
+    "fork": "130",
+    "timestamp": "2024-12-29T02:22:34.001180",
+    "stars_today": "220 stars this month"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "16,400",
+    "fork": "851",
+    "timestamp": "2024-12-29T02:22:34.001466",
+    "stars_today": "337 stars this month"
+  },
+  {
+    "repo": "omerxx/dotfiles",
+    "href": "https://github.com/omerxx/dotfiles",
+    "about": "My dotfiles synced from localhost and remote machines",
+    "star": "1,339",
+    "fork": "112",
+    "timestamp": "2024-12-29T02:22:34.001758",
+    "stars_today": "166 stars this month"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,615",
+    "fork": "181",
+    "timestamp": "2024-12-29T02:22:34.002040",
+    "stars_today": "149 stars this month"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,593",
+    "fork": "108",
+    "timestamp": "2024-12-29T02:22:34.002325",
+    "stars_today": "127 stars this month"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "1,920",
+    "fork": "74",
+    "timestamp": "2024-12-29T02:22:34.002641",
+    "stars_today": "136 stars this month"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,109",
+    "fork": "2,096",
+    "timestamp": "2024-12-29T02:22:34.002951",
+    "stars_today": "93 stars this month"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,404",
+    "fork": "169",
+    "timestamp": "2024-12-29T02:22:34.003236",
+    "stars_today": "153 stars this month"
+  }
+]
