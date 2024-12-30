@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "26,238",
+    "fork": "2,787",
+    "timestamp": "2024-12-30T02:17:58.358789",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "21,100",
+    "fork": "2,517",
+    "timestamp": "2024-12-30T02:17:58.359100",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "a-h/templ",
+    "href": "https://github.com/a-h/templ",
+    "about": "A language for writing HTML user interfaces in Go.",
+    "star": "8,587",
+    "fork": "286",
+    "timestamp": "2024-12-30T02:17:58.359437",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "cadence-workflow/cadence",
+    "href": "https://github.com/cadence-workflow/cadence",
+    "about": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+    "star": "8,394",
+    "fork": "803",
+    "timestamp": "2024-12-30T02:17:58.359727",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "FiloSottile/age",
+    "href": "https://github.com/FiloSottile/age",
+    "about": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "star": "17,746",
+    "fork": "516",
+    "timestamp": "2024-12-30T02:17:58.360047",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,230",
+    "fork": "7,471",
+    "timestamp": "2024-12-30T02:17:58.360339",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "12,757",
+    "fork": "663",
+    "timestamp": "2024-12-30T02:17:58.360652",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "11,916",
+    "fork": "830",
+    "timestamp": "2024-12-30T02:17:58.360944",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "prysmaticlabs/prysm",
+    "href": "https://github.com/prysmaticlabs/prysm",
+    "about": "Go implementation of Ethereum proof of stake",
+    "star": "3,499",
+    "fork": "1,045",
+    "timestamp": "2024-12-30T02:17:58.361234",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "encoredev/encore",
+    "href": "https://github.com/encoredev/encore",
+    "about": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+    "star": "8,372",
+    "fork": "349",
+    "timestamp": "2024-12-30T02:17:58.361519",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "1,709",
+    "fork": "2,530",
+    "timestamp": "2024-12-30T02:17:58.361803",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,015",
+    "fork": "5,610",
+    "timestamp": "2024-12-30T02:17:58.362090",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "54,628",
+    "fork": "1,905",
+    "timestamp": "2024-12-30T02:17:58.362430",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "about": "Fast passive subdomain enumeration tool.",
+    "star": "10,547",
+    "fork": "1,299",
+    "timestamp": "2024-12-30T02:17:58.362724",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "flyteorg/flyte",
+    "href": "https://github.com/flyteorg/flyte",
+    "about": "Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",
+    "star": "5,878",
+    "fork": "671",
+    "timestamp": "2024-12-30T02:17:58.363010",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "26,402",
+    "fork": "4,027",
+    "timestamp": "2024-12-30T02:17:58.363295",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "104,804",
+    "fork": "8,375",
+    "timestamp": "2024-12-30T02:17:58.363578",
+    "stars_today": "110 stars today"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "13,383",
+    "fork": "3,766",
+    "timestamp": "2024-12-30T02:17:58.363895",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "autobrr/autobrr",
+    "href": "https://github.com/autobrr/autobrr",
+    "about": "Modern, easy to use download automation for torrents and usenet.",
+    "star": "1,545",
+    "fork": "131",
+    "timestamp": "2024-12-30T02:17:58.364179",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,698",
+    "fork": "8,284",
+    "timestamp": "2024-12-30T02:17:58.364463",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "AnalogJ/scrutiny",
+    "href": "https://github.com/AnalogJ/scrutiny",
+    "about": "Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",
+    "star": "5,575",
+    "fork": "174",
+    "timestamp": "2024-12-30T02:17:58.364774",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "qdm12/ddns-updater",
+    "href": "https://github.com/qdm12/ddns-updater",
+    "about": "Container to update DNS records periodically with WebUI for many DNS providers",
+    "star": "1,935",
+    "fork": "178",
+    "timestamp": "2024-12-30T02:17:58.365085",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "qdm12/gluetun",
+    "href": "https://github.com/qdm12/gluetun",
+    "about": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+    "star": "8,416",
+    "fork": "387",
+    "timestamp": "2024-12-30T02:17:58.365398",
+    "stars_today": "12 stars today"
+  }
+]

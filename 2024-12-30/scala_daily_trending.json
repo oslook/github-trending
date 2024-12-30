@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,252",
+    "fork": "28,412",
+    "timestamp": "2024-12-30T02:18:24.120217",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "15,928",
+    "fork": "2,299",
+    "timestamp": "2024-12-30T02:18:24.120519",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "62,647",
+    "fork": "12,165",
+    "timestamp": "2024-12-30T02:18:24.120813",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "geirolz/fly4s",
+    "href": "https://github.com/geirolz/fly4s",
+    "about": "A lightweight, simple and functional wrapper of Flyway using cats effect.",
+    "star": "64",
+    "fork": "4",
+    "timestamp": "2024-12-30T02:18:24.121096",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,707",
+    "fork": "1,738",
+    "timestamp": "2024-12-30T02:18:24.121389",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,901",
+    "fork": "2,784",
+    "timestamp": "2024-12-30T02:18:24.121680",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lynxworld/lynx",
+    "href": "https://github.com/lynxworld/lynx",
+    "about": "Cypher query execution framework",
+    "star": "25",
+    "fork": "27",
+    "timestamp": "2024-12-30T02:18:24.121969",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/finagle",
+    "href": "https://github.com/twitter/finagle",
+    "about": "A fault tolerant, protocol-agnostic RPC system",
+    "star": "8,793",
+    "fork": "1,449",
+    "timestamp": "2024-12-30T02:18:24.122254",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "895",
+    "fork": "603",
+    "timestamp": "2024-12-30T02:18:24.122560",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Texera/texera",
+    "href": "https://github.com/Texera/texera",
+    "about": "Collaborative Machine-Learning-Centric Data Analytics Using Workflows",
+    "star": "165",
+    "fork": "75",
+    "timestamp": "2024-12-30T02:18:24.122848",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,236",
+    "fork": "446",
+    "timestamp": "2024-12-30T02:18:24.123134",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,050",
+    "fork": "529",
+    "timestamp": "2024-12-30T02:18:24.123419",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "scalacenter/bloop",
+    "href": "https://github.com/scalacenter/bloop",
+    "about": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+    "star": "911",
+    "fork": "201",
+    "timestamp": "2024-12-30T02:18:24.123704",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "bitcoin-s/bitcoin-s",
+    "href": "https://github.com/bitcoin-s/bitcoin-s",
+    "about": "Bitcoin Implementation in Scala",
+    "star": "362",
+    "fork": "91",
+    "timestamp": "2024-12-30T02:18:24.123990",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scalameta/scalafmt",
+    "href": "https://github.com/scalameta/scalafmt",
+    "about": "Code formatter for Scala",
+    "star": "1,444",
+    "fork": "277",
+    "timestamp": "2024-12-30T02:18:24.124275",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,813",
+    "fork": "938",
+    "timestamp": "2024-12-30T02:18:24.124563",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "227",
+    "fork": "76",
+    "timestamp": "2024-12-30T02:18:24.124851",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "805",
+    "fork": "205",
+    "timestamp": "2024-12-30T02:18:24.125138",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,074",
+    "fork": "3,588",
+    "timestamp": "2024-12-30T02:18:24.125428",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,698",
+    "fork": "665",
+    "timestamp": "2024-12-30T02:18:24.125720",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,260",
+    "fork": "364",
+    "timestamp": "2024-12-30T02:18:24.126010",
+    "stars_today": "1 star today"
+  }
+]

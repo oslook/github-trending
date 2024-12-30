@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "nim-lang/Nim",
+    "href": "https://github.com/nim-lang/Nim",
+    "about": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "star": "16,690",
+    "fork": "1,477",
+    "timestamp": "2024-12-30T02:18:11.615037",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "zedeus/nitter",
+    "href": "https://github.com/zedeus/nitter",
+    "about": "Alternative Twitter front-end",
+    "star": "10,194",
+    "fork": "541",
+    "timestamp": "2024-12-30T02:18:11.615374",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nim-lang/packages",
+    "href": "https://github.com/nim-lang/packages",
+    "about": "List of packages for Nimble",
+    "star": "454",
+    "fork": "701",
+    "timestamp": "2024-12-30T02:18:11.615674",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-chronicles",
+    "href": "https://github.com/status-im/nim-chronicles",
+    "about": "A crafty implementation of structured logging for Nim.",
+    "star": "162",
+    "fork": "20",
+    "timestamp": "2024-12-30T02:18:11.615971",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-serialization",
+    "href": "https://github.com/status-im/nim-serialization",
+    "about": "A modern and extensible serialization framework for Nim",
+    "star": "64",
+    "fork": "8",
+    "timestamp": "2024-12-30T02:18:11.616266",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-json-rpc",
+    "href": "https://github.com/status-im/nim-json-rpc",
+    "about": "Nim library for implementing JSON-RPC clients and servers",
+    "star": "92",
+    "fork": "28",
+    "timestamp": "2024-12-30T02:18:11.616557",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "arnetheduck/nim-results",
+    "href": "https://github.com/arnetheduck/nim-results",
+    "about": "Friendly value-or-error type",
+    "star": "153",
+    "fork": "10",
+    "timestamp": "2024-12-30T02:18:11.616848",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-stint",
+    "href": "https://github.com/status-im/nim-stint",
+    "about": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.",
+    "star": "86",
+    "fork": "11",
+    "timestamp": "2024-12-30T02:18:11.617139",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "cheatfate/nimcrypto",
+    "href": "https://github.com/cheatfate/nimcrypto",
+    "about": "Nim cryptographic library",
+    "star": "192",
+    "fork": "25",
+    "timestamp": "2024-12-30T02:18:11.617428",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-stew",
+    "href": "https://github.com/status-im/nim-stew",
+    "about": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+    "star": "144",
+    "fork": "18",
+    "timestamp": "2024-12-30T02:18:11.617717",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-unittest2",
+    "href": "https://github.com/status-im/nim-unittest2",
+    "about": "Beautiful and efficient unit testing for Nim evolved from the standard library `unittest` module",
+    "star": "27",
+    "fork": "6",
+    "timestamp": "2024-12-30T02:18:11.618003",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nim-lang/langserver",
+    "href": "https://github.com/nim-lang/langserver",
+    "about": "The Nim language server implementation (based on nimsuggest)",
+    "star": "210",
+    "fork": "33",
+    "timestamp": "2024-12-30T02:18:11.618291",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mratsim/constantine",
+    "href": "https://github.com/mratsim/constantine",
+    "about": "Constantine: modular, high-performance, zero-dependency cryptography stack for verifiable computation, proof systems and blockchain protocols.",
+    "star": "427",
+    "fork": "48",
+    "timestamp": "2024-12-30T02:18:11.618628",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nimbus-eth2",
+    "href": "https://github.com/status-im/nimbus-eth2",
+    "about": "Nim implementation of the Ethereum Beacon Chain",
+    "star": "558",
+    "fork": "250",
+    "timestamp": "2024-12-30T02:18:11.618918",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "guzba/zippy",
+    "href": "https://github.com/guzba/zippy",
+    "about": "Pure Nim implementation of deflate, zlib, gzip and zip.",
+    "star": "257",
+    "fork": "31",
+    "timestamp": "2024-12-30T02:18:11.619206",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "karaxnim/karax",
+    "href": "https://github.com/karaxnim/karax",
+    "about": "Karax. Single page applications for Nim.",
+    "star": "1,087",
+    "fork": "92",
+    "timestamp": "2024-12-30T02:18:11.619498",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mratsim/Arraymancer",
+    "href": "https://github.com/mratsim/Arraymancer",
+    "about": "A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends",
+    "star": "1,344",
+    "fork": "95",
+    "timestamp": "2024-12-30T02:18:11.619820",
+    "stars_today": "2 stars today"
+  }
+]
