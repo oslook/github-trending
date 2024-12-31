@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "16,419",
+    "fork": "853",
+    "timestamp": "2024-12-31T02:14:47.828927",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "epwalsh/obsidian.nvim",
+    "href": "https://github.com/epwalsh/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "4,459",
+    "fork": "209",
+    "timestamp": "2024-12-31T02:14:47.829260",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,496",
+    "fork": "1,292",
+    "timestamp": "2024-12-31T02:14:47.829625",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "josean-dev/dev-environment-files",
+    "href": "https://github.com/josean-dev/dev-environment-files",
+    "about": "",
+    "star": "3,248",
+    "fork": "823",
+    "timestamp": "2024-12-31T02:14:47.829953",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "EdenEast/nightfox.nvim",
+    "href": "https://github.com/EdenEast/nightfox.nvim",
+    "about": "🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
+    "star": "3,231",
+    "fork": "151",
+    "timestamp": "2024-12-31T02:14:47.830258",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,172",
+    "fork": "115",
+    "timestamp": "2024-12-31T02:14:47.830599",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,064",
+    "fork": "837",
+    "timestamp": "2024-12-31T02:14:47.830906",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "craftzdog/dotfiles-public",
+    "href": "https://github.com/craftzdog/dotfiles-public",
+    "about": "My personal dotfiles",
+    "star": "6,508",
+    "fork": "1,165",
+    "timestamp": "2024-12-31T02:14:47.831217",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rcarriga/nvim-dap-ui",
+    "href": "https://github.com/rcarriga/nvim-dap-ui",
+    "about": "A UI for nvim-dap",
+    "star": "2,751",
+    "fork": "103",
+    "timestamp": "2024-12-31T02:14:47.831599",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Steamopollys/Steamodded",
+    "href": "https://github.com/Steamopollys/Steamodded",
+    "about": "A Balatro ModLoader",
+    "star": "293",
+    "fork": "71",
+    "timestamp": "2024-12-31T02:14:47.831937",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "10,980",
+    "fork": "2,102",
+    "timestamp": "2024-12-31T02:14:47.832285",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "6,401",
+    "fork": "475",
+    "timestamp": "2024-12-31T02:14:47.832592",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "folke/trouble.nvim",
+    "href": "https://github.com/folke/trouble.nvim",
+    "about": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+    "star": "5,739",
+    "fork": "177",
+    "timestamp": "2024-12-31T02:14:47.832904",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nvim-lua/plenary.nvim",
+    "href": "https://github.com/nvim-lua/plenary.nvim",
+    "about": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "star": "2,875",
+    "fork": "289",
+    "timestamp": "2024-12-31T02:14:47.833214",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "kylechui/nvim-surround",
+    "href": "https://github.com/kylechui/nvim-surround",
+    "about": "Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.",
+    "star": "3,360",
+    "fork": "63",
+    "timestamp": "2024-12-31T02:14:47.833559",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rcarriga/nvim-notify",
+    "href": "https://github.com/rcarriga/nvim-notify",
+    "about": "A fancy, configurable, notification manager for NeoVim",
+    "star": "3,160",
+    "fork": "86",
+    "timestamp": "2024-12-31T02:14:47.833895",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "IntQuant/noita_entangled_worlds",
+    "href": "https://github.com/IntQuant/noita_entangled_worlds",
+    "about": "True coop multiplayer mod for Noita.",
+    "star": "452",
+    "fork": "25",
+    "timestamp": "2024-12-31T02:14:47.834199",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "utilyre/barbecue.nvim",
+    "href": "https://github.com/utilyre/barbecue.nvim",
+    "about": "Visual Studio Code inspired breadcrumbs plugin for the Neovim editor",
+    "star": "855",
+    "fork": "37",
+    "timestamp": "2024-12-31T02:14:47.834499",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,658",
+    "fork": "199",
+    "timestamp": "2024-12-31T02:14:47.834798",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "5,801",
+    "fork": "262",
+    "timestamp": "2024-12-31T02:14:47.835127",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "qbcore-framework/qb-core",
+    "href": "https://github.com/qbcore-framework/qb-core",
+    "about": "FiveM RP Framework Core 💪",
+    "star": "603",
+    "fork": "968",
+    "timestamp": "2024-12-31T02:14:47.835458",
+    "stars_today": "0 stars today"
+  }
+]
