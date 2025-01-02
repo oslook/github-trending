@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,460",
+    "fork": "2,968",
+    "timestamp": "2025-01-02T02:14:24.930793",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "885",
+    "fork": "167",
+    "timestamp": "2025-01-02T02:14:24.931104",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dnsimple/erldns",
+    "href": "https://github.com/dnsimple/erldns",
+    "about": "DNS server, in Erlang.",
+    "star": "414",
+    "fork": "100",
+    "timestamp": "2025-01-02T02:14:24.931400",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "422",
+    "fork": "162",
+    "timestamp": "2025-01-02T02:14:24.931692",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,194",
+    "fork": "336",
+    "timestamp": "2025-01-02T02:14:24.931978",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "502",
+    "fork": "190",
+    "timestamp": "2025-01-02T02:14:24.932266",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,078",
+    "fork": "152",
+    "timestamp": "2025-01-02T02:14:24.932556",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,712",
+    "fork": "518",
+    "timestamp": "2025-01-02T02:14:24.932843",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,323",
+    "fork": "1,169",
+    "timestamp": "2025-01-02T02:14:24.933129",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,321",
+    "fork": "1,034",
+    "timestamp": "2025-01-02T02:14:24.933429",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqtt",
+    "href": "https://github.com/emqx/emqtt",
+    "about": "Erlang MQTT 5.0 Client",
+    "star": "410",
+    "fork": "168",
+    "timestamp": "2025-01-02T02:14:24.933716",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,574",
+    "fork": "1,532",
+    "timestamp": "2025-01-02T02:14:24.934005",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,139",
+    "fork": "1,513",
+    "timestamp": "2025-01-02T02:14:24.934290",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,302",
+    "fork": "2,253",
+    "timestamp": "2025-01-02T02:14:24.934577",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "314",
+    "fork": "105",
+    "timestamp": "2025-01-02T02:14:24.934867",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "280",
+    "fork": "172",
+    "timestamp": "2025-01-02T02:14:24.935170",
+    "stars_today": "0 stars today"
+  }
+]

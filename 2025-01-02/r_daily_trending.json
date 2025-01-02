@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "hadley/r4ds",
+    "href": "https://github.com/hadley/r4ds",
+    "about": "R for data science: a book",
+    "star": "4,623",
+    "fork": "4,233",
+    "timestamp": "2025-01-02T02:14:44.958494",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "satijalab/seurat",
+    "href": "https://github.com/satijalab/seurat",
+    "about": "R toolkit for single cell genomics",
+    "star": "2,329",
+    "fork": "921",
+    "timestamp": "2025-01-02T02:14:44.958875",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rstudio/shiny",
+    "href": "https://github.com/rstudio/shiny",
+    "about": "Easy interactive web applications with R",
+    "star": "5,392",
+    "fork": "1,865",
+    "timestamp": "2025-01-02T02:14:44.959234",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "thackl/gggenomes",
+    "href": "https://github.com/thackl/gggenomes",
+    "about": "A grammar of graphics for comparative genomics",
+    "star": "631",
+    "fork": "65",
+    "timestamp": "2025-01-02T02:14:44.959646",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "stuart-lab/signac",
+    "href": "https://github.com/stuart-lab/signac",
+    "about": "R toolkit for the analysis of single-cell chromatin data",
+    "star": "342",
+    "fork": "90",
+    "timestamp": "2025-01-02T02:14:44.960194",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Rdatatable/data.table",
+    "href": "https://github.com/Rdatatable/data.table",
+    "about": "R's data.table package extends data.frame:",
+    "star": "3,639",
+    "fork": "991",
+    "timestamp": "2025-01-02T02:14:44.960779",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chris-mcginnis-ucsf/DoubletFinder",
+    "href": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+    "about": "R package for detecting doublets in single-cell RNA sequencing data",
+    "star": "427",
+    "fork": "113",
+    "timestamp": "2025-01-02T02:14:44.961385",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/ggplot2",
+    "href": "https://github.com/tidyverse/ggplot2",
+    "about": "An implementation of the Grammar of Graphics in R",
+    "star": "6,572",
+    "fork": "2,037",
+    "timestamp": "2025-01-02T02:14:44.961861",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/reticulate",
+    "href": "https://github.com/rstudio/reticulate",
+    "about": "R Interface to Python",
+    "star": "1,683",
+    "fork": "330",
+    "timestamp": "2025-01-02T02:14:44.962164",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/ellmer",
+    "href": "https://github.com/tidyverse/ellmer",
+    "about": "Call LLM APIs from R",
+    "star": "256",
+    "fork": "38",
+    "timestamp": "2025-01-02T02:14:44.962454",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jokergoo/ComplexHeatmap",
+    "href": "https://github.com/jokergoo/ComplexHeatmap",
+    "about": "Make Complex Heatmaps",
+    "star": "1,327",
+    "fork": "228",
+    "timestamp": "2025-01-02T02:14:44.962744",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/infercnv",
+    "href": "https://github.com/broadinstitute/infercnv",
+    "about": "Inferring CNV from Single-Cell RNA-Seq",
+    "star": "581",
+    "fork": "166",
+    "timestamp": "2025-01-02T02:14:44.963030",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "swirldev/swirl_courses",
+    "href": "https://github.com/swirldev/swirl_courses",
+    "about": "🎓 A collection of interactive courses for the swirl R package.",
+    "star": "4,341",
+    "fork": "7,241",
+    "timestamp": "2025-01-02T02:14:44.963315",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "immunogenomics/harmony",
+    "href": "https://github.com/immunogenomics/harmony",
+    "about": "Fast, sensitive and accurate integration of single-cell data with Harmony",
+    "star": "536",
+    "fork": "98",
+    "timestamp": "2025-01-02T02:14:44.963601",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "r-spatial/sf",
+    "href": "https://github.com/r-spatial/sf",
+    "about": "Simple Features for R",
+    "star": "1,352",
+    "fork": "301",
+    "timestamp": "2025-01-02T02:14:44.963883",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joey711/phyloseq",
+    "href": "https://github.com/joey711/phyloseq",
+    "about": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+    "star": "591",
+    "fork": "187",
+    "timestamp": "2025-01-02T02:14:44.964166",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benjjneb/dada2",
+    "href": "https://github.com/benjjneb/dada2",
+    "about": "Accurate sample inference from amplicon data with single nucleotide resolution",
+    "star": "479",
+    "fork": "144",
+    "timestamp": "2025-01-02T02:14:44.964451",
+    "stars_today": "0 stars today"
+  }
+]
