@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,337",
+    "fork": "1,035",
+    "timestamp": "2025-01-03T02:15:53.700809",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "885",
+    "fork": "167",
+    "timestamp": "2025-01-03T02:15:53.701122",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "291",
+    "fork": "210",
+    "timestamp": "2025-01-03T02:15:53.701433",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "422",
+    "fork": "162",
+    "timestamp": "2025-01-03T02:15:53.701727",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dnsimple/erldns",
+    "href": "https://github.com/dnsimple/erldns",
+    "about": "DNS server, in Erlang.",
+    "star": "414",
+    "fork": "100",
+    "timestamp": "2025-01-03T02:15:53.702015",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,712",
+    "fork": "518",
+    "timestamp": "2025-01-03T02:15:53.702306",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2025-01-03T02:15:53.702601",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "695",
+    "fork": "231",
+    "timestamp": "2025-01-03T02:15:53.702893",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,575",
+    "fork": "1,533",
+    "timestamp": "2025-01-03T02:15:53.703185",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "josefs/Gradualizer",
+    "href": "https://github.com/josefs/Gradualizer",
+    "about": "A Gradual type system for Erlang",
+    "star": "612",
+    "fork": "35",
+    "timestamp": "2025-01-03T02:15:53.703476",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,139",
+    "fork": "1,513",
+    "timestamp": "2025-01-03T02:15:53.703767",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "817",
+    "fork": "232",
+    "timestamp": "2025-01-03T02:15:53.704086",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "280",
+    "fork": "172",
+    "timestamp": "2025-01-03T02:15:53.704376",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,194",
+    "fork": "336",
+    "timestamp": "2025-01-03T02:15:53.704666",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "640",
+    "fork": "136",
+    "timestamp": "2025-01-03T02:15:53.704957",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "907",
+    "fork": "230",
+    "timestamp": "2025-01-03T02:15:53.705267",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "38",
+    "timestamp": "2025-01-03T02:15:53.705560",
+    "stars_today": "0 stars today"
+  }
+]
