@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,448",
+    "fork": "9,603",
+    "timestamp": "2025-01-04T02:13:00.401860",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,292",
+    "fork": "3,513",
+    "timestamp": "2025-01-04T02:13:00.402166",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "6,495",
+    "fork": "883",
+    "timestamp": "2025-01-04T02:13:00.402488",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,356",
+    "fork": "5,272",
+    "timestamp": "2025-01-04T02:13:00.402780",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "15,966",
+    "fork": "1,397",
+    "timestamp": "2025-01-04T02:13:00.403101",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,552",
+    "fork": "2,084",
+    "timestamp": "2025-01-04T02:13:00.403389",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,761",
+    "fork": "2,863",
+    "timestamp": "2025-01-04T02:13:00.403677",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,836",
+    "fork": "1,322",
+    "timestamp": "2025-01-04T02:13:00.403965",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "56,530",
+    "fork": "1,430",
+    "timestamp": "2025-01-04T02:13:00.404268",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,368",
+    "fork": "2,254",
+    "timestamp": "2025-01-04T02:13:00.404557",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,024",
+    "fork": "5,611",
+    "timestamp": "2025-01-04T02:13:00.404842",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "38,773",
+    "fork": "3,393",
+    "timestamp": "2025-01-04T02:13:00.405160",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,003",
+    "fork": "9,277",
+    "timestamp": "2025-01-04T02:13:00.405490",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "27,917",
+    "fork": "1,755",
+    "timestamp": "2025-01-04T02:13:00.405855",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,285",
+    "fork": "1,498",
+    "timestamp": "2025-01-04T02:13:00.406145",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",
+    "star": "24,699",
+    "fork": "2,214",
+    "timestamp": "2025-01-04T02:13:00.406433",
+    "stars_today": "71 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,113",
+    "fork": "39,956",
+    "timestamp": "2025-01-04T02:13:00.406724",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,380",
+    "fork": "790",
+    "timestamp": "2025-01-04T02:13:00.407013",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "105,630",
+    "fork": "8,442",
+    "timestamp": "2025-01-04T02:13:00.407302",
+    "stars_today": "240 stars today"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,736",
+    "fork": "654",
+    "timestamp": "2025-01-04T02:13:00.407590",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "onsi/ginkgo",
+    "href": "https://github.com/onsi/ginkgo",
+    "about": "A Modern Testing Framework for Go",
+    "star": "8,455",
+    "fork": "667",
+    "timestamp": "2025-01-04T02:13:00.407904",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bytebase/bytebase",
+    "href": "https://github.com/bytebase/bytebase",
+    "about": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+    "star": "11,711",
+    "fork": "753",
+    "timestamp": "2025-01-04T02:13:00.408189",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "4,848",
+    "fork": "1,140",
+    "timestamp": "2025-01-04T02:13:00.408492",
+    "stars_today": "3 stars today"
+  }
+]

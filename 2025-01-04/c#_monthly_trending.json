@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "18,304",
+    "fork": "694",
+    "timestamp": "2025-01-04T02:12:51.258619",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "13,254",
+    "fork": "620",
+    "timestamp": "2025-01-04T02:12:51.258933",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "5,513",
+    "fork": "1,640",
+    "timestamp": "2025-01-04T02:12:51.259228",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "arthenica/ffmpeg-kit",
+    "href": "https://github.com/arthenica/ffmpeg-kit",
+    "about": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+    "star": "4,667",
+    "fork": "636",
+    "timestamp": "2025-01-04T02:12:51.259519",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mackron/miniaudio",
+    "href": "https://github.com/mackron/miniaudio",
+    "about": "Audio playback and capture library written in C, in a single source file.",
+    "star": "4,222",
+    "fork": "367",
+    "timestamp": "2025-01-04T02:12:51.259837",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "containers/crun",
+    "href": "https://github.com/containers/crun",
+    "about": "A fast and lightweight fully featured OCI runtime and C library for running containers",
+    "star": "3,128",
+    "fork": "322",
+    "timestamp": "2025-01-04T02:12:51.260126",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "981",
+    "fork": "1,239",
+    "timestamp": "2025-01-04T02:12:51.260435",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,389",
+    "fork": "1,290",
+    "timestamp": "2025-01-04T02:12:51.260724",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "taosdata/TDengine",
+    "href": "https://github.com/taosdata/TDengine",
+    "about": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+    "star": "23,500",
+    "fork": "4,879",
+    "timestamp": "2025-01-04T02:12:51.261014",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "FreeRDP/FreeRDP",
+    "href": "https://github.com/FreeRDP/FreeRDP",
+    "about": "FreeRDP is a free remote desktop protocol library and clients",
+    "star": "11,184",
+    "fork": "14,906",
+    "timestamp": "2025-01-04T02:12:51.261305",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,019",
+    "fork": "2,840",
+    "timestamp": "2025-01-04T02:12:51.261595",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "FelixKratz/SketchyBar",
+    "href": "https://github.com/FelixKratz/SketchyBar",
+    "about": "A highly customizable macOS status bar replacement",
+    "star": "7,051",
+    "fork": "105",
+    "timestamp": "2025-01-04T02:12:51.261884",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,655",
+    "fork": "1,190",
+    "timestamp": "2025-01-04T02:12:51.262173",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,264",
+    "fork": "3,401",
+    "timestamp": "2025-01-04T02:12:51.262459",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gentilkiwi/mimikatz",
+    "href": "https://github.com/gentilkiwi/mimikatz",
+    "about": "A little tool to play with Windows security",
+    "star": "19,652",
+    "fork": "3,764",
+    "timestamp": "2025-01-04T02:12:51.262746",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "14,145",
+    "fork": "7,385",
+    "timestamp": "2025-01-04T02:12:51.263034",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "madler/zlib",
+    "href": "https://github.com/madler/zlib",
+    "about": "A massively spiffy yet delicately unobtrusive compression library.",
+    "star": "5,854",
+    "fork": "2,484",
+    "timestamp": "2025-01-04T02:12:51.263321",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "jemalloc/jemalloc",
+    "href": "https://github.com/jemalloc/jemalloc",
+    "about": "",
+    "star": "9,678",
+    "fork": "1,461",
+    "timestamp": "2025-01-04T02:12:51.263630",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "xCuri0/ReBarUEFI",
+    "href": "https://github.com/xCuri0/ReBarUEFI",
+    "about": "Resizable BAR for (almost) any UEFI system",
+    "star": "1,572",
+    "fork": "73",
+    "timestamp": "2025-01-04T02:12:51.263914",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "OP-TEE/optee_os",
+    "href": "https://github.com/OP-TEE/optee_os",
+    "about": "Trusted side of the TEE",
+    "star": "1,623",
+    "fork": "1,081",
+    "timestamp": "2025-01-04T02:12:51.264192",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "24,564",
+    "fork": "3,623",
+    "timestamp": "2025-01-04T02:12:51.264527",
+    "stars_today": "10 stars today"
+  }
+]
