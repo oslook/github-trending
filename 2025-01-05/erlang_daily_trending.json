@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,341",
+    "fork": "1,035",
+    "timestamp": "2025-01-05T02:21:21.607372",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,310",
+    "fork": "2,254",
+    "timestamp": "2025-01-05T02:21:21.607676",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,465",
+    "fork": "2,968",
+    "timestamp": "2025-01-05T02:21:21.607964",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,562",
+    "fork": "349",
+    "timestamp": "2025-01-05T02:21:21.608247",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "232",
+    "timestamp": "2025-01-05T02:21:21.608579",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "281",
+    "fork": "172",
+    "timestamp": "2025-01-05T02:21:21.608862",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "502",
+    "fork": "190",
+    "timestamp": "2025-01-05T02:21:21.609144",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "416",
+    "fork": "57",
+    "timestamp": "2025-01-05T02:21:21.609424",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,338",
+    "fork": "428",
+    "timestamp": "2025-01-05T02:21:21.609714",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "907",
+    "fork": "230",
+    "timestamp": "2025-01-05T02:21:21.609997",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "251",
+    "fork": "83",
+    "timestamp": "2025-01-05T02:21:21.610277",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "216",
+    "timestamp": "2025-01-05T02:21:21.610557",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "695",
+    "fork": "231",
+    "timestamp": "2025-01-05T02:21:21.610839",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "561",
+    "fork": "153",
+    "timestamp": "2025-01-05T02:21:21.611117",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "291",
+    "fork": "210",
+    "timestamp": "2025-01-05T02:21:21.611399",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "422",
+    "fork": "162",
+    "timestamp": "2025-01-05T02:21:21.611681",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,080",
+    "fork": "152",
+    "timestamp": "2025-01-05T02:21:21.611962",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,194",
+    "fork": "336",
+    "timestamp": "2025-01-05T02:21:21.612241",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "38",
+    "timestamp": "2025-01-05T02:21:21.612536",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2025-01-05T02:21:21.612850",
+    "stars_today": "0 stars today"
+  }
+]
