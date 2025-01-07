@@ -1,0 +1,65 @@
+[
+  {
+    "repo": "facebook/flow",
+    "href": "https://github.com/facebook/flow",
+    "about": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+    "star": "22,115",
+    "fork": "1,863",
+    "timestamp": "2025-01-07T02:17:09.913656",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "ocaml/dune",
+    "href": "https://github.com/ocaml/dune",
+    "about": "A composable build system for OCaml.",
+    "star": "1,653",
+    "fork": "412",
+    "timestamp": "2025-01-07T02:17:09.913953",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "coq/coq",
+    "href": "https://github.com/coq/coq",
+    "about": "Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+    "star": "4,898",
+    "fork": "661",
+    "timestamp": "2025-01-07T02:17:09.914234",
+    "stars_today": "31 stars this month"
+  },
+  {
+    "repo": "astrada/google-drive-ocamlfuse",
+    "href": "https://github.com/astrada/google-drive-ocamlfuse",
+    "about": "FUSE filesystem over Google Drive",
+    "star": "5,627",
+    "fork": "356",
+    "timestamp": "2025-01-07T02:17:09.914527",
+    "stars_today": "35 stars this month"
+  },
+  {
+    "repo": "bcpierce00/unison",
+    "href": "https://github.com/bcpierce00/unison",
+    "about": "Unison file synchronizer",
+    "star": "4,283",
+    "fork": "238",
+    "timestamp": "2025-01-07T02:17:09.914807",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "10,864",
+    "fork": "641",
+    "timestamp": "2025-01-07T02:17:09.915083",
+    "stars_today": "127 stars this month"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,044",
+    "fork": "2,024",
+    "timestamp": "2025-01-07T02:17:09.915360",
+    "stars_today": "44 stars this month"
+  }
+]
