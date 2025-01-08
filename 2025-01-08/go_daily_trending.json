@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "56,646",
+    "fork": "9,271",
+    "timestamp": "2025-01-08T02:15:30.372467",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,443",
+    "fork": "2,564",
+    "timestamp": "2025-01-08T02:15:30.372770",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "27,865",
+    "fork": "2,099",
+    "timestamp": "2025-01-08T02:15:30.373103",
+    "stars_today": "181 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "28,499",
+    "fork": "2,368",
+    "timestamp": "2025-01-08T02:15:30.373391",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,747",
+    "fork": "655",
+    "timestamp": "2025-01-08T02:15:30.373675",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,966",
+    "fork": "18,676",
+    "timestamp": "2025-01-08T02:15:30.373958",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,841",
+    "fork": "1,326",
+    "timestamp": "2025-01-08T02:15:30.374262",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,709",
+    "fork": "1,511",
+    "timestamp": "2025-01-08T02:15:30.374549",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "37,661",
+    "fork": "5,872",
+    "timestamp": "2025-01-08T02:15:30.374834",
+    "stars_today": "80 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,272",
+    "fork": "1,436",
+    "timestamp": "2025-01-08T02:15:30.375127",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,156",
+    "fork": "5,151",
+    "timestamp": "2025-01-08T02:15:30.375439",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "22,029",
+    "fork": "6,486",
+    "timestamp": "2025-01-08T02:15:30.375718",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,339",
+    "fork": "5,599",
+    "timestamp": "2025-01-08T02:15:30.375996",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "1,553",
+    "fork": "82",
+    "timestamp": "2025-01-08T02:15:30.376291",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,772",
+    "fork": "8,069",
+    "timestamp": "2025-01-08T02:15:30.376573",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,734",
+    "fork": "755",
+    "timestamp": "2025-01-08T02:15:30.376853",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "28,559",
+    "fork": "4,428",
+    "timestamp": "2025-01-08T02:15:30.377170",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,318",
+    "fork": "997",
+    "timestamp": "2025-01-08T02:15:30.377482",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "10,118",
+    "fork": "371",
+    "timestamp": "2025-01-08T02:15:30.377762",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "8,655",
+    "fork": "1,093",
+    "timestamp": "2025-01-08T02:15:30.378043",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,190",
+    "fork": "2,461",
+    "timestamp": "2025-01-08T02:15:30.378341",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+    "star": "106,355",
+    "fork": "8,508",
+    "timestamp": "2025-01-08T02:15:30.378624",
+    "stars_today": "206 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "12,929",
+    "fork": "1,673",
+    "timestamp": "2025-01-08T02:15:30.378908",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,238",
+    "fork": "1,331",
+    "timestamp": "2025-01-08T02:15:30.379200",
+    "stars_today": "7 stars today"
+  }
+]
