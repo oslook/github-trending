@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "star": "36,203",
+    "fork": "2,614",
+    "timestamp": "2025-01-09T02:48:10.584766",
+    "stars_today": "340 stars this week"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "href": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "star": "75,194",
+    "fork": "2,827",
+    "timestamp": "2025-01-09T02:48:10.585066",
+    "stars_today": "162 stars this week"
+  },
+  {
+    "repo": "zigtools/zls",
+    "href": "https://github.com/zigtools/zls",
+    "about": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+    "star": "3,161",
+    "fork": "306",
+    "timestamp": "2025-01-09T02:48:10.585400",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "hexops/mach",
+    "href": "https://github.com/hexops/mach",
+    "about": "zig game engine & graphics toolkit",
+    "star": "3,518",
+    "fork": "163",
+    "timestamp": "2025-01-09T02:48:10.585687",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "href": "https://github.com/ZigEmbeddedGroup/microzig",
+    "about": "Unified abstraction layer and HAL for several microcontrollers",
+    "star": "1,327",
+    "fork": "106",
+    "timestamp": "2025-01-09T02:48:10.585973",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "Not-Nik/raylib-zig",
+    "href": "https://github.com/Not-Nik/raylib-zig",
+    "about": "Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib",
+    "star": "783",
+    "fork": "131",
+    "timestamp": "2025-01-09T02:48:10.586273",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "zml/zml",
+    "href": "https://github.com/zml/zml",
+    "about": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+    "star": "1,813",
+    "fork": "66",
+    "timestamp": "2025-01-09T02:48:10.586564",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A dynamic tiling Wayland compositor",
+    "star": "3,393",
+    "fork": "154",
+    "timestamp": "2025-01-09T02:48:10.586848",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "zig-gamedev/zig-gamedev",
+    "href": "https://github.com/zig-gamedev/zig-gamedev",
+    "about": "Dev repo for @zig-gamedev libs and sample applications",
+    "star": "2,369",
+    "fork": "171",
+    "timestamp": "2025-01-09T02:48:10.587146",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "capy-ui/capy",
+    "href": "https://github.com/capy-ui/capy",
+    "about": "💻Build one codebase and get native UI on Windows, Linux and Web",
+    "star": "1,835",
+    "fork": "69",
+    "timestamp": "2025-01-09T02:48:10.587430",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "pedropark99/zig-book",
+    "href": "https://github.com/pedropark99/zig-book",
+    "about": "An open, technical and introductory book for the Zig programming language",
+    "star": "741",
+    "fork": "34",
+    "timestamp": "2025-01-09T02:48:10.587714",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "tigerbeetle/tigerbeetle",
+    "href": "https://github.com/tigerbeetle/tigerbeetle",
+    "about": "The financial transactions database designed for mission critical safety and performance.",
+    "star": "11,182",
+    "fork": "533",
+    "timestamp": "2025-01-09T02:48:10.587995",
+    "stars_today": "100 stars this week"
+  },
+  {
+    "repo": "lightpanda-io/browser",
+    "href": "https://github.com/lightpanda-io/browser",
+    "about": "The open-source browser made for headless usage",
+    "star": "248",
+    "fork": "5",
+    "timestamp": "2025-01-09T02:48:10.588293",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "2,314",
+    "fork": "89",
+    "timestamp": "2025-01-09T02:48:10.588573",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "rockorager/libvaxis",
+    "href": "https://github.com/rockorager/libvaxis",
+    "about": "a modern tui library written in zig",
+    "star": "623",
+    "fork": "42",
+    "timestamp": "2025-01-09T02:48:10.588854",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "blackboardsh/electrobun",
+    "href": "https://github.com/blackboardsh/electrobun",
+    "about": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+    "star": "1,492",
+    "fork": "24",
+    "timestamp": "2025-01-09T02:48:10.589190",
+    "stars_today": "25 stars this week"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,345",
+    "fork": "1,035",
+    "timestamp": "2025-01-09T02:47:35.108948",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "885",
+    "fork": "167",
+    "timestamp": "2025-01-09T02:47:35.109260",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "emqx/emqtt",
+    "href": "https://github.com/emqx/emqtt",
+    "about": "Erlang MQTT 5.0 Client",
+    "star": "411",
+    "fork": "168",
+    "timestamp": "2025-01-09T02:47:35.109542",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "314",
+    "fork": "105",
+    "timestamp": "2025-01-09T02:47:35.109820",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,469",
+    "fork": "2,971",
+    "timestamp": "2025-01-09T02:47:35.110111",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "502",
+    "fork": "190",
+    "timestamp": "2025-01-09T02:47:35.110392",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,713",
+    "fork": "518",
+    "timestamp": "2025-01-09T02:47:35.110670",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,338",
+    "fork": "428",
+    "timestamp": "2025-01-09T02:47:35.110951",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,317",
+    "fork": "2,255",
+    "timestamp": "2025-01-09T02:47:35.111243",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "816",
+    "fork": "232",
+    "timestamp": "2025-01-09T02:47:35.111555",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "907",
+    "fork": "230",
+    "timestamp": "2025-01-09T02:47:35.111833",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "inaka/cowboy_swagger",
+    "href": "https://github.com/inaka/cowboy_swagger",
+    "about": "Swagger integration for Cowboy (built on trails)",
+    "star": "122",
+    "fork": "58",
+    "timestamp": "2025-01-09T02:47:35.112153",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,326",
+    "fork": "1,169",
+    "timestamp": "2025-01-09T02:47:35.112430",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "695",
+    "fork": "231",
+    "timestamp": "2025-01-09T02:47:35.112707",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "561",
+    "fork": "153",
+    "timestamp": "2025-01-09T02:47:35.112982",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "6,578",
+    "fork": "1,534",
+    "timestamp": "2025-01-09T02:47:35.113276",
+    "stars_today": "5 stars this week"
+  }
+]

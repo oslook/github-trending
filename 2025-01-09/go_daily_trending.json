@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,631",
+    "fork": "2,567",
+    "timestamp": "2025-01-09T02:47:36.052244",
+    "stars_today": "222 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,352",
+    "fork": "5,154",
+    "timestamp": "2025-01-09T02:47:36.052570",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,363",
+    "fork": "5,605",
+    "timestamp": "2025-01-09T02:47:36.052856",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "6,975",
+    "fork": "994",
+    "timestamp": "2025-01-09T02:47:36.053153",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "12,978",
+    "fork": "1,584",
+    "timestamp": "2025-01-09T02:47:36.053435",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "11,502",
+    "fork": "2,403",
+    "timestamp": "2025-01-09T02:47:36.053714",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "photoprism/photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "about": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+    "star": "36,042",
+    "fork": "2,000",
+    "timestamp": "2025-01-09T02:47:36.054023",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "28,011",
+    "fork": "2,110",
+    "timestamp": "2025-01-09T02:47:36.054383",
+    "stars_today": "235 stars today"
+  },
+  {
+    "repo": "apache/answer",
+    "href": "https://github.com/apache/answer",
+    "about": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",
+    "star": "13,223",
+    "fork": "1,044",
+    "timestamp": "2025-01-09T02:47:36.054670",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "56,731",
+    "fork": "9,278",
+    "timestamp": "2025-01-09T02:47:36.054949",
+    "stars_today": "131 stars today"
+  },
+  {
+    "repo": "pdfcpu/pdfcpu",
+    "href": "https://github.com/pdfcpu/pdfcpu",
+    "about": "A PDF processor written in Go.",
+    "star": "7,169",
+    "fork": "496",
+    "timestamp": "2025-01-09T02:47:36.055247",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,975",
+    "fork": "18,675",
+    "timestamp": "2025-01-09T02:47:36.055527",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,279",
+    "fork": "1,437",
+    "timestamp": "2025-01-09T02:47:36.055807",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,789",
+    "fork": "8,070",
+    "timestamp": "2025-01-09T02:47:36.056098",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,516",
+    "fork": "4,252",
+    "timestamp": "2025-01-09T02:47:36.056383",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,169",
+    "fork": "3,999",
+    "timestamp": "2025-01-09T02:47:36.056665",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,354",
+    "fork": "841",
+    "timestamp": "2025-01-09T02:47:36.056974",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "docker/cli",
+    "href": "https://github.com/docker/cli",
+    "about": "The Docker CLI",
+    "star": "5,032",
+    "fork": "1,946",
+    "timestamp": "2025-01-09T02:47:36.057266",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "37,683",
+    "fork": "5,874",
+    "timestamp": "2025-01-09T02:47:36.057541",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "5,910",
+    "fork": "912",
+    "timestamp": "2025-01-09T02:47:36.057817",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "8,662",
+    "fork": "1,093",
+    "timestamp": "2025-01-09T02:47:36.058107",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "26,449",
+    "fork": "1,282",
+    "timestamp": "2025-01-09T02:47:36.058385",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "anthdm/hollywood",
+    "href": "https://github.com/anthdm/hollywood",
+    "about": "Blazingly fast and light-weight Actor engine written in Golang",
+    "star": "1,482",
+    "fork": "109",
+    "timestamp": "2025-01-09T02:47:36.058662",
+    "stars_today": "135 stars today"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "href": "https://github.com/aquasecurity/kube-bench",
+    "about": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+    "star": "7,168",
+    "fork": "1,242",
+    "timestamp": "2025-01-09T02:47:36.058941",
+    "stars_today": "3 stars today"
+  }
+]
