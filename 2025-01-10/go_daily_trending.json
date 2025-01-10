@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "2,870",
+    "fork": "1,592",
+    "timestamp": "2025-01-10T02:18:48.517608",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,704",
+    "fork": "2,567",
+    "timestamp": "2025-01-10T02:18:48.517906",
+    "stars_today": "164 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "28,064",
+    "fork": "2,112",
+    "timestamp": "2025-01-10T02:18:48.518230",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "getsops/sops",
+    "href": "https://github.com/getsops/sops",
+    "about": "Simple and flexible tool for managing secrets",
+    "star": "17,434",
+    "fork": "896",
+    "timestamp": "2025-01-10T02:18:48.518511",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,470",
+    "fork": "5,160",
+    "timestamp": "2025-01-10T02:18:48.518814",
+    "stars_today": "287 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "56,754",
+    "fork": "9,280",
+    "timestamp": "2025-01-10T02:18:48.519090",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,377",
+    "fork": "5,609",
+    "timestamp": "2025-01-10T02:18:48.519383",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,093",
+    "fork": "1,964",
+    "timestamp": "2025-01-10T02:18:48.519657",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,344",
+    "fork": "408",
+    "timestamp": "2025-01-10T02:18:48.519959",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,197",
+    "fork": "2,466",
+    "timestamp": "2025-01-10T02:18:48.520243",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "10,176",
+    "fork": "1,629",
+    "timestamp": "2025-01-10T02:18:48.520515",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "6,980",
+    "fork": "994",
+    "timestamp": "2025-01-10T02:18:48.520785",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "26,638",
+    "fork": "4,052",
+    "timestamp": "2025-01-10T02:18:48.521054",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,196",
+    "fork": "2,962",
+    "timestamp": "2025-01-10T02:18:48.521337",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,268",
+    "fork": "2,396",
+    "timestamp": "2025-01-10T02:18:48.521608",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,264",
+    "fork": "39,985",
+    "timestamp": "2025-01-10T02:18:48.521878",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "26,624",
+    "fork": "2,824",
+    "timestamp": "2025-01-10T02:18:48.522178",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "11,126",
+    "fork": "956",
+    "timestamp": "2025-01-10T02:18:48.522464",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "68,986",
+    "fork": "18,676",
+    "timestamp": "2025-01-10T02:18:48.522735",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "twmb/franz-go",
+    "href": "https://github.com/twmb/franz-go",
+    "about": "franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.8+. Producing, consuming, transacting, administrating, etc.",
+    "star": "1,935",
+    "fork": "196",
+    "timestamp": "2025-01-10T02:18:48.523034",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,483",
+    "fork": "1,191",
+    "timestamp": "2025-01-10T02:18:48.523331",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,174",
+    "fork": "3,999",
+    "timestamp": "2025-01-10T02:18:48.523601",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "bytebase/bytebase",
+    "href": "https://github.com/bytebase/bytebase",
+    "about": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+    "star": "11,780",
+    "fork": "758",
+    "timestamp": "2025-01-10T02:18:48.523869",
+    "stars_today": "10 stars today"
+  }
+]

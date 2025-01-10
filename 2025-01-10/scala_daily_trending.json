@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,312",
+    "fork": "28,436",
+    "timestamp": "2025-01-10T02:19:13.628975",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,244",
+    "fork": "453",
+    "timestamp": "2025-01-10T02:19:13.629290",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,738",
+    "fork": "1,743",
+    "timestamp": "2025-01-10T02:19:13.629573",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,501",
+    "fork": "631",
+    "timestamp": "2025-01-10T02:19:13.629854",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,126",
+    "fork": "924",
+    "timestamp": "2025-01-10T02:19:13.630137",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,306",
+    "fork": "1,141",
+    "timestamp": "2025-01-10T02:19:13.630431",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "wvlet/wvlet",
+    "href": "https://github.com/wvlet/wvlet",
+    "about": "A flow-style query language for SQL engines",
+    "star": "110",
+    "fork": "6",
+    "timestamp": "2025-01-10T02:19:13.630712",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,188",
+    "fork": "299",
+    "timestamp": "2025-01-10T02:19:13.630993",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,511",
+    "fork": "1,198",
+    "timestamp": "2025-01-10T02:19:13.631286",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,930",
+    "fork": "1,070",
+    "timestamp": "2025-01-10T02:19:13.631567",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ie3-institute/simona",
+    "href": "https://github.com/ie3-institute/simona",
+    "about": "simona is an agent-based discrete-event power system simulation model developed @ie3-institute",
+    "star": "29",
+    "fork": "5",
+    "timestamp": "2025-01-10T02:19:13.631847",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "15,987",
+    "fork": "2,304",
+    "timestamp": "2025-01-10T02:19:13.632128",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "846",
+    "fork": "241",
+    "timestamp": "2025-01-10T02:19:13.632419",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,357",
+    "fork": "3,115",
+    "timestamp": "2025-01-10T02:19:13.632703",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,260",
+    "fork": "549",
+    "timestamp": "2025-01-10T02:19:13.633009",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,853",
+    "fork": "2,506",
+    "timestamp": "2025-01-10T02:19:13.633300",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,893",
+    "fork": "717",
+    "timestamp": "2025-01-10T02:19:13.633580",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/sam",
+    "href": "https://github.com/broadinstitute/sam",
+    "about": "workbench identity and access management",
+    "star": "42",
+    "fork": "12",
+    "timestamp": "2025-01-10T02:19:13.633856",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,112",
+    "fork": "338",
+    "timestamp": "2025-01-10T02:19:13.634136",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,147",
+    "fork": "1,313",
+    "timestamp": "2025-01-10T02:19:13.634430",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,087",
+    "fork": "3,588",
+    "timestamp": "2025-01-10T02:19:13.634710",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,714",
+    "fork": "667",
+    "timestamp": "2025-01-10T02:19:13.634992",
+    "stars_today": "2 stars today"
+  }
+]

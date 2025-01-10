@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "28,064",
+    "fork": "2,112",
+    "timestamp": "2025-01-10T02:18:49.875789",
+    "stars_today": "616 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,754",
+    "fork": "760",
+    "timestamp": "2025-01-10T02:18:49.876089",
+    "stars_today": "172 stars this week"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "60,352",
+    "fork": "4,126",
+    "timestamp": "2025-01-10T02:18:49.876382",
+    "stars_today": "771 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "about": "Fast passive subdomain enumeration tool.",
+    "star": "10,853",
+    "fork": "1,307",
+    "timestamp": "2025-01-10T02:18:49.876753",
+    "stars_today": "169 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,525",
+    "fork": "9,614",
+    "timestamp": "2025-01-10T02:18:49.877035",
+    "stars_today": "161 stars this week"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,470",
+    "fork": "5,160",
+    "timestamp": "2025-01-10T02:18:49.877353",
+    "stars_today": "429 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,704",
+    "fork": "2,567",
+    "timestamp": "2025-01-10T02:18:49.877625",
+    "stars_today": "483 stars this week"
+  },
+  {
+    "repo": "getsops/sops",
+    "href": "https://github.com/getsops/sops",
+    "about": "Simple and flexible tool for managing secrets",
+    "star": "17,434",
+    "fork": "896",
+    "timestamp": "2025-01-10T02:18:49.877897",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "26,624",
+    "fork": "2,824",
+    "timestamp": "2025-01-10T02:18:49.878208",
+    "stars_today": "306 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "106,704",
+    "fork": "8,543",
+    "timestamp": "2025-01-10T02:18:49.878482",
+    "stars_today": "1,338 stars this week"
+  },
+  {
+    "repo": "jpillora/chisel",
+    "href": "https://github.com/jpillora/chisel",
+    "about": "A fast TCP/UDP tunnel over HTTP",
+    "star": "13,999",
+    "fork": "1,429",
+    "timestamp": "2025-01-10T02:18:49.878753",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "56,754",
+    "fork": "9,280",
+    "timestamp": "2025-01-10T02:18:49.879023",
+    "stars_today": "277 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "66,740",
+    "fork": "4,356",
+    "timestamp": "2025-01-10T02:18:49.879333",
+    "stars_today": "221 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,377",
+    "fork": "5,609",
+    "timestamp": "2025-01-10T02:18:49.879603",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,344",
+    "fork": "408",
+    "timestamp": "2025-01-10T02:18:49.879908",
+    "stars_today": "147 stars this week"
+  },
+  {
+    "repo": "apache/answer",
+    "href": "https://github.com/apache/answer",
+    "about": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",
+    "star": "13,251",
+    "fork": "1,047",
+    "timestamp": "2025-01-10T02:18:49.880182",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "2,870",
+    "fork": "1,592",
+    "timestamp": "2025-01-10T02:18:49.880471",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "40,032",
+    "fork": "1,268",
+    "timestamp": "2025-01-10T02:18:49.880774",
+    "stars_today": "263 stars this week"
+  },
+  {
+    "repo": "twpayne/chezmoi",
+    "href": "https://github.com/twpayne/chezmoi",
+    "about": "Manage your dotfiles across multiple diverse machines, securely.",
+    "star": "13,806",
+    "fork": "500",
+    "timestamp": "2025-01-10T02:18:49.881045",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,387",
+    "fork": "3,737",
+    "timestamp": "2025-01-10T02:18:49.881326",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana is for visualization.",
+    "star": "10,318",
+    "fork": "1,457",
+    "timestamp": "2025-01-10T02:18:49.881598",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "26,319",
+    "fork": "1,878",
+    "timestamp": "2025-01-10T02:18:49.881867",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "48,089",
+    "fork": "4,286",
+    "timestamp": "2025-01-10T02:18:49.882168",
+    "stars_today": "193 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,007",
+    "fork": "1,397",
+    "timestamp": "2025-01-10T02:18:49.882477",
+    "stars_today": "51 stars this week"
+  }
+]
