@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "2,365",
+    "fork": "377",
+    "timestamp": "2025-01-11T02:15:13.678699",
+    "stars_today": "321 stars today"
+  },
+  {
+    "repo": "yugabyte/yugabyte-db",
+    "href": "https://github.com/yugabyte/yugabyte-db",
+    "about": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+    "star": "9,149",
+    "fork": "1,095",
+    "timestamp": "2025-01-11T02:15:13.679010",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "netdata/netdata",
+    "href": "https://github.com/netdata/netdata",
+    "about": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+    "star": "72,883",
+    "fork": "5,989",
+    "timestamp": "2025-01-11T02:15:13.679289",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "riscv-software-src/riscv-isa-sim",
+    "href": "https://github.com/riscv-software-src/riscv-isa-sim",
+    "about": "Spike, a RISC-V ISA Simulator",
+    "star": "2,534",
+    "fork": "882",
+    "timestamp": "2025-01-11T02:15:13.679568",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "star": "67,662",
+    "fork": "23,861",
+    "timestamp": "2025-01-11T02:15:13.679845",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "mit-pdos/xv6-riscv",
+    "href": "https://github.com/mit-pdos/xv6-riscv",
+    "about": "Xv6 for RISC-V",
+    "star": "7,433",
+    "fork": "2,723",
+    "timestamp": "2025-01-11T02:15:13.680133",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "eclipse-threadx/threadx",
+    "href": "https://github.com/eclipse-threadx/threadx",
+    "about": "Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "star": "3,002",
+    "fork": "820",
+    "timestamp": "2025-01-11T02:15:13.680471",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,633",
+    "fork": "2,628",
+    "timestamp": "2025-01-11T02:15:13.680909",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables",
+    "star": "3,931",
+    "fork": "514",
+    "timestamp": "2025-01-11T02:15:13.681213",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "36,488",
+    "fork": "6,518",
+    "timestamp": "2025-01-11T02:15:13.681514",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,328",
+    "fork": "10,241",
+    "timestamp": "2025-01-11T02:15:13.681811",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "2,936",
+    "fork": "1,174",
+    "timestamp": "2025-01-11T02:15:13.682099",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "php/php-src",
+    "href": "https://github.com/php/php-src",
+    "about": "The PHP Interpreter",
+    "star": "38,505",
+    "fork": "7,794",
+    "timestamp": "2025-01-11T02:15:13.682372",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,007",
+    "fork": "484",
+    "timestamp": "2025-01-11T02:15:13.682644",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,388",
+    "fork": "1,067",
+    "timestamp": "2025-01-11T02:15:13.682955",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "24,628",
+    "fork": "3,627",
+    "timestamp": "2025-01-11T02:15:13.683228",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "17,964",
+    "fork": "3,370",
+    "timestamp": "2025-01-11T02:15:13.683527",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "riscv-software-src/opensbi",
+    "href": "https://github.com/riscv-software-src/opensbi",
+    "about": "RISC-V Open Source Supervisor Binary Interface",
+    "star": "1,087",
+    "fork": "527",
+    "timestamp": "2025-01-11T02:15:13.683796",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "util-linux/util-linux",
+    "href": "https://github.com/util-linux/util-linux",
+    "about": "",
+    "star": "2,738",
+    "fork": "1,226",
+    "timestamp": "2025-01-11T02:15:13.684102",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "bol-van/zapret",
+    "href": "https://github.com/bol-van/zapret",
+    "about": "DPI bypass multi platform",
+    "star": "9,662",
+    "fork": "713",
+    "timestamp": "2025-01-11T02:15:13.684376",
+    "stars_today": "38 stars today"
+  }
+]

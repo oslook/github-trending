@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,327",
+    "fork": "2,256",
+    "timestamp": "2025-01-11T02:15:21.169694",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,477",
+    "fork": "2,972",
+    "timestamp": "2025-01-11T02:15:21.170005",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "172",
+    "timestamp": "2025-01-11T02:15:21.170287",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "252",
+    "fork": "83",
+    "timestamp": "2025-01-11T02:15:21.170567",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,562",
+    "fork": "349",
+    "timestamp": "2025-01-11T02:15:21.170843",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,195",
+    "fork": "336",
+    "timestamp": "2025-01-11T02:15:21.171134",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "908",
+    "fork": "230",
+    "timestamp": "2025-01-11T02:15:21.171416",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,325",
+    "fork": "1,169",
+    "timestamp": "2025-01-11T02:15:21.171692",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "695",
+    "fork": "231",
+    "timestamp": "2025-01-11T02:15:21.171978",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "217",
+    "timestamp": "2025-01-11T02:15:21.172253",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "josefs/Gradualizer",
+    "href": "https://github.com/josefs/Gradualizer",
+    "about": "A Gradual type system for Erlang",
+    "star": "613",
+    "fork": "35",
+    "timestamp": "2025-01-11T02:15:21.172529",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "38",
+    "timestamp": "2025-01-11T02:15:21.172806",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "314",
+    "fork": "105",
+    "timestamp": "2025-01-11T02:15:21.173095",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws-erlang",
+    "href": "https://github.com/aws-beam/aws-erlang",
+    "about": "Create, configure, and manage AWS services from Erlang code.",
+    "star": "79",
+    "fork": "35",
+    "timestamp": "2025-01-11T02:15:21.173370",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "502",
+    "fork": "190",
+    "timestamp": "2025-01-11T02:15:21.173646",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "640",
+    "fork": "138",
+    "timestamp": "2025-01-11T02:15:21.173934",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2025-01-11T02:15:21.174240",
+    "stars_today": "0 stars today"
+  }
+]
