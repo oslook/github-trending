@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,319",
+    "fork": "28,440",
+    "timestamp": "2025-01-12T02:23:44.801694",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,087",
+    "fork": "611",
+    "timestamp": "2025-01-12T02:23:44.802011",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,266",
+    "fork": "549",
+    "timestamp": "2025-01-12T02:23:44.802331",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,126",
+    "fork": "924",
+    "timestamp": "2025-01-12T02:23:44.802618",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,358",
+    "fork": "3,115",
+    "timestamp": "2025-01-12T02:23:44.802918",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,247",
+    "fork": "453",
+    "timestamp": "2025-01-12T02:23:44.803207",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,741",
+    "fork": "1,746",
+    "timestamp": "2025-01-12T02:23:44.803493",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "789",
+    "fork": "174",
+    "timestamp": "2025-01-12T02:23:44.803778",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "846",
+    "fork": "241",
+    "timestamp": "2025-01-12T02:23:44.804091",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,307",
+    "fork": "1,142",
+    "timestamp": "2025-01-12T02:23:44.804378",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,931",
+    "fork": "1,070",
+    "timestamp": "2025-01-12T02:23:44.804662",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,339",
+    "fork": "543",
+    "timestamp": "2025-01-12T02:23:44.804960",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,814",
+    "fork": "939",
+    "timestamp": "2025-01-12T02:23:44.805243",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,550",
+    "fork": "4,100",
+    "timestamp": "2025-01-12T02:23:44.805550",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,716",
+    "fork": "667",
+    "timestamp": "2025-01-12T02:23:44.805832",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,148",
+    "fork": "1,314",
+    "timestamp": "2025-01-12T02:23:44.806126",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,854",
+    "fork": "2,507",
+    "timestamp": "2025-01-12T02:23:44.806407",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ie3-institute/simona",
+    "href": "https://github.com/ie3-institute/simona",
+    "about": "simona is an agent-based discrete-event power system simulation model developed @ie3-institute",
+    "star": "29",
+    "fork": "5",
+    "timestamp": "2025-01-12T02:23:44.806690",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,192",
+    "fork": "298",
+    "timestamp": "2025-01-12T02:23:44.806984",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,514",
+    "fork": "1,198",
+    "timestamp": "2025-01-12T02:23:44.807265",
+    "stars_today": "1 star today"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,781",
+    "fork": "1,311",
+    "timestamp": "2025-01-12T02:23:33.060635",
+    "stars_today": "1,051 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "2,957",
+    "fork": "153",
+    "timestamp": "2025-01-12T02:23:33.060950",
+    "stars_today": "1,441 stars this month"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,392",
+    "fork": "137",
+    "timestamp": "2025-01-12T02:23:33.061241",
+    "stars_today": "243 stars this month"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "8,646",
+    "fork": "326",
+    "timestamp": "2025-01-12T02:23:33.061523",
+    "stars_today": "940 stars this month"
+  },
+  {
+    "repo": "epwalsh/obsidian.nvim",
+    "href": "https://github.com/epwalsh/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "4,539",
+    "fork": "214",
+    "timestamp": "2025-01-12T02:23:33.061805",
+    "stars_today": "213 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,779",
+    "fork": "382",
+    "timestamp": "2025-01-12T02:23:33.062101",
+    "stars_today": "565 stars this month"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "7,534",
+    "fork": "2,703",
+    "timestamp": "2025-01-12T02:23:33.062403",
+    "stars_today": "201 stars this month"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,091",
+    "fork": "865",
+    "timestamp": "2025-01-12T02:23:33.062684",
+    "stars_today": "69 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,629",
+    "fork": "442",
+    "timestamp": "2025-01-12T02:23:33.062981",
+    "stars_today": "127 stars this month"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,474",
+    "fork": "176",
+    "timestamp": "2025-01-12T02:23:33.063265",
+    "stars_today": "172 stars this month"
+  },
+  {
+    "repo": "williamboman/mason-lspconfig.nvim",
+    "href": "https://github.com/williamboman/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,005",
+    "fork": "184",
+    "timestamp": "2025-01-12T02:23:33.063580",
+    "stars_today": "98 stars this month"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "4,547",
+    "fork": "187",
+    "timestamp": "2025-01-12T02:23:33.063862",
+    "stars_today": "183 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,730",
+    "fork": "202",
+    "timestamp": "2025-01-12T02:23:33.064152",
+    "stars_today": "265 stars this month"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,689",
+    "fork": "180",
+    "timestamp": "2025-01-12T02:23:33.064431",
+    "stars_today": "181 stars this month"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,053",
+    "fork": "2,102",
+    "timestamp": "2025-01-12T02:23:33.064736",
+    "stars_today": "211 stars this month"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,351",
+    "fork": "412",
+    "timestamp": "2025-01-12T02:23:33.065055",
+    "stars_today": "190 stars this month"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,647",
+    "fork": "109",
+    "timestamp": "2025-01-12T02:23:33.065339",
+    "stars_today": "139 stars this month"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "2,924",
+    "fork": "97",
+    "timestamp": "2025-01-12T02:23:33.065620",
+    "stars_today": "113 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,687",
+    "fork": "1,303",
+    "timestamp": "2025-01-12T02:23:33.065908",
+    "stars_today": "453 stars this month"
+  }
+]

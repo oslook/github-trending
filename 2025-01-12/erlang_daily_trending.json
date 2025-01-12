@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,477",
+    "fork": "2,972",
+    "timestamp": "2025-01-12T02:23:19.938843",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,328",
+    "fork": "2,256",
+    "timestamp": "2025-01-12T02:23:19.939159",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,154",
+    "fork": "1,515",
+    "timestamp": "2025-01-12T02:23:19.939449",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,874",
+    "fork": "474",
+    "timestamp": "2025-01-12T02:23:19.939740",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,562",
+    "fork": "349",
+    "timestamp": "2025-01-12T02:23:19.940038",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "virtan/eep",
+    "href": "https://github.com/virtan/eep",
+    "about": "Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy",
+    "star": "242",
+    "fork": "33",
+    "timestamp": "2025-01-12T02:23:19.940323",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "693",
+    "fork": "217",
+    "timestamp": "2025-01-12T02:23:19.940600",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,195",
+    "fork": "336",
+    "timestamp": "2025-01-12T02:23:19.940881",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,071",
+    "fork": "232",
+    "timestamp": "2025-01-12T02:23:19.941204",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "640",
+    "fork": "138",
+    "timestamp": "2025-01-12T02:23:19.941488",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,339",
+    "fork": "428",
+    "timestamp": "2025-01-12T02:23:19.941769",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "423",
+    "fork": "162",
+    "timestamp": "2025-01-12T02:23:19.942063",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "314",
+    "fork": "105",
+    "timestamp": "2025-01-12T02:23:19.942346",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,373",
+    "fork": "277",
+    "timestamp": "2025-01-12T02:23:19.942628",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,326",
+    "fork": "1,169",
+    "timestamp": "2025-01-12T02:23:19.942943",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "172",
+    "timestamp": "2025-01-12T02:23:19.943263",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,346",
+    "fork": "1,036",
+    "timestamp": "2025-01-12T02:23:19.943551",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "416",
+    "fork": "57",
+    "timestamp": "2025-01-12T02:23:19.943837",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "josefs/Gradualizer",
+    "href": "https://github.com/josefs/Gradualizer",
+    "about": "A Gradual type system for Erlang",
+    "star": "613",
+    "fork": "35",
+    "timestamp": "2025-01-12T02:23:19.944141",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlsci/iso8601",
+    "href": "https://github.com/erlsci/iso8601",
+    "about": "An ISO 8601 date formating and parsing library for Erlang",
+    "star": "129",
+    "fork": "93",
+    "timestamp": "2025-01-12T02:23:19.944423",
+    "stars_today": "0 stars today"
+  }
+]
