@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "8,677",
+    "fork": "328",
+    "timestamp": "2025-01-13T02:20:47.786408",
+    "stars_today": "303 stars this week"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "4,549",
+    "fork": "187",
+    "timestamp": "2025-01-13T02:20:47.786713",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "MathIsFun0/Cryptid",
+    "href": "https://github.com/MathIsFun0/Cryptid",
+    "about": "An unbalanced Balatro mod",
+    "star": "172",
+    "fork": "54",
+    "timestamp": "2025-01-13T02:20:47.787004",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,059",
+    "fork": "2,102",
+    "timestamp": "2025-01-13T02:20:47.787334",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,088",
+    "fork": "233",
+    "timestamp": "2025-01-13T02:20:47.787620",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,692",
+    "fork": "180",
+    "timestamp": "2025-01-13T02:20:47.787938",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,797",
+    "fork": "1,311",
+    "timestamp": "2025-01-13T02:20:47.788236",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,174",
+    "fork": "2,098",
+    "timestamp": "2025-01-13T02:20:47.788539",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "nvim-neotest/neotest",
+    "href": "https://github.com/nvim-neotest/neotest",
+    "about": "An extensible framework for interacting with tests within NeoVim.",
+    "star": "2,503",
+    "fork": "125",
+    "timestamp": "2025-01-13T02:20:47.788861",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,121",
+    "fork": "215",
+    "timestamp": "2025-01-13T02:20:47.789188",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "stevearc/quicker.nvim",
+    "href": "https://github.com/stevearc/quicker.nvim",
+    "about": "Improved UI and workflow for the Neovim quickfix",
+    "star": "487",
+    "fork": "6",
+    "timestamp": "2025-01-13T02:20:47.789469",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "10,504",
+    "fork": "814",
+    "timestamp": "2025-01-13T02:20:47.789748",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "Exafunction/codeium.nvim",
+    "href": "https://github.com/Exafunction/codeium.nvim",
+    "about": "A native neovim extension for Codeium",
+    "star": "877",
+    "fork": "74",
+    "timestamp": "2025-01-13T02:20:47.790029",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,412",
+    "fork": "137",
+    "timestamp": "2025-01-13T02:20:47.790322",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,746",
+    "fork": "4,841",
+    "timestamp": "2025-01-13T02:20:47.790604",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "kevinhwang91/nvim-bqf",
+    "href": "https://github.com/kevinhwang91/nvim-bqf",
+    "about": "Better quickfix window in Neovim, polish old quickfix window.",
+    "star": "1,797",
+    "fork": "33",
+    "timestamp": "2025-01-13T02:20:47.790893",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "ThePrimeagen/harpoon",
+    "href": "https://github.com/ThePrimeagen/harpoon",
+    "about": "",
+    "star": "7,432",
+    "fork": "390",
+    "timestamp": "2025-01-13T02:20:47.791239",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,696",
+    "fork": "1,302",
+    "timestamp": "2025-01-13T02:20:47.791526",
+    "stars_today": "122 stars this week"
+  }
+]
