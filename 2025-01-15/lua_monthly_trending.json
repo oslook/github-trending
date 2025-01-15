@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "2,991",
+    "fork": "154",
+    "timestamp": "2025-01-15T02:12:45.548400",
+    "stars_today": "1,341 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "21,190",
+    "fork": "26,866",
+    "timestamp": "2025-01-15T02:12:45.548712",
+    "stars_today": "780 stars this month"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,832",
+    "fork": "1,310",
+    "timestamp": "2025-01-15T02:12:45.548995",
+    "stars_today": "1,054 stars this month"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,427",
+    "fork": "138",
+    "timestamp": "2025-01-15T02:12:45.549274",
+    "stars_today": "267 stars this month"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "8,734",
+    "fork": "329",
+    "timestamp": "2025-01-15T02:12:45.549566",
+    "stars_today": "945 stars this month"
+  },
+  {
+    "repo": "epwalsh/obsidian.nvim",
+    "href": "https://github.com/epwalsh/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "4,555",
+    "fork": "214",
+    "timestamp": "2025-01-15T02:12:45.549848",
+    "stars_today": "215 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "15,816",
+    "fork": "383",
+    "timestamp": "2025-01-15T02:12:45.550130",
+    "stars_today": "547 stars this month"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "7,565",
+    "fork": "2,710",
+    "timestamp": "2025-01-15T02:12:45.550441",
+    "stars_today": "225 stars this month"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,094",
+    "fork": "867",
+    "timestamp": "2025-01-15T02:12:45.550725",
+    "stars_today": "69 stars this month"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,489",
+    "fork": "177",
+    "timestamp": "2025-01-15T02:12:45.551002",
+    "stars_today": "175 stars this month"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "4,567",
+    "fork": "186",
+    "timestamp": "2025-01-15T02:12:45.551281",
+    "stars_today": "189 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,642",
+    "fork": "440",
+    "timestamp": "2025-01-15T02:12:45.551569",
+    "stars_today": "138 stars this month"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "7,426",
+    "fork": "611",
+    "timestamp": "2025-01-15T02:12:45.551850",
+    "stars_today": "127 stars this month"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "2,934",
+    "fork": "96",
+    "timestamp": "2025-01-15T02:12:45.552129",
+    "stars_today": "117 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,749",
+    "fork": "205",
+    "timestamp": "2025-01-15T02:12:45.552417",
+    "stars_today": "262 stars this month"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,359",
+    "fork": "411",
+    "timestamp": "2025-01-15T02:12:45.552725",
+    "stars_today": "177 stars this month"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,071",
+    "fork": "2,105",
+    "timestamp": "2025-01-15T02:12:45.553032",
+    "stars_today": "211 stars this month"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,704",
+    "fork": "180",
+    "timestamp": "2025-01-15T02:12:45.553311",
+    "stars_today": "179 stars this month"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,656",
+    "fork": "111",
+    "timestamp": "2025-01-15T02:12:45.553599",
+    "stars_today": "141 stars this month"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "5,868",
+    "fork": "266",
+    "timestamp": "2025-01-15T02:12:45.553905",
+    "stars_today": "149 stars this month"
+  }
+]

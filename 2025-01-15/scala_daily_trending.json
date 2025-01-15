@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,338",
+    "fork": "28,445",
+    "timestamp": "2025-01-15T02:12:56.224929",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,248",
+    "fork": "454",
+    "timestamp": "2025-01-15T02:12:56.225232",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,721",
+    "fork": "668",
+    "timestamp": "2025-01-15T02:12:56.225530",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,815",
+    "fork": "939",
+    "timestamp": "2025-01-15T02:12:56.225811",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,116",
+    "fork": "339",
+    "timestamp": "2025-01-15T02:12:56.226095",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,932",
+    "fork": "1,071",
+    "timestamp": "2025-01-15T02:12:56.226374",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,908",
+    "fork": "2,785",
+    "timestamp": "2025-01-15T02:12:56.226665",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,311",
+    "fork": "1,142",
+    "timestamp": "2025-01-15T02:12:56.226942",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "790",
+    "fork": "174",
+    "timestamp": "2025-01-15T02:12:56.227217",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila-ws",
+    "href": "https://github.com/lichess-org/lila-ws",
+    "about": "Lichess' websocket server",
+    "star": "155",
+    "fork": "91",
+    "timestamp": "2025-01-15T02:12:56.227505",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,012",
+    "fork": "2,304",
+    "timestamp": "2025-01-15T02:12:56.227785",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,343",
+    "fork": "543",
+    "timestamp": "2025-01-15T02:12:56.228070",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,855",
+    "fork": "2,508",
+    "timestamp": "2025-01-15T02:12:56.228355",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "805",
+    "fork": "205",
+    "timestamp": "2025-01-15T02:12:56.228647",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,007",
+    "fork": "360",
+    "timestamp": "2025-01-15T02:12:56.228925",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,358",
+    "fork": "3,115",
+    "timestamp": "2025-01-15T02:12:56.229206",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,784",
+    "fork": "428",
+    "timestamp": "2025-01-15T02:12:56.229493",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "474",
+    "fork": "150",
+    "timestamp": "2025-01-15T02:12:56.229768",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,504",
+    "fork": "632",
+    "timestamp": "2025-01-15T02:12:56.230046",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,087",
+    "fork": "3,588",
+    "timestamp": "2025-01-15T02:12:56.230323",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "847",
+    "fork": "242",
+    "timestamp": "2025-01-15T02:12:56.230614",
+    "stars_today": "0 stars today"
+  }
+]
