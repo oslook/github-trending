@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ton-blockchain/ton",
+    "href": "https://github.com/ton-blockchain/ton",
+    "about": "Main TON monorepo",
+    "star": "3,309",
+    "fork": "1,073",
+    "timestamp": "2025-01-17T02:11:05.057083",
+    "stars_today": "70 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "28,734",
+    "fork": "5,619",
+    "timestamp": "2025-01-17T02:11:05.057398",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "telegramdesktop/tdesktop",
+    "href": "https://github.com/telegramdesktop/tdesktop",
+    "about": "Telegram Desktop messaging app",
+    "star": "26,738",
+    "fork": "5,326",
+    "timestamp": "2025-01-17T02:11:05.057689",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-cpp",
+    "href": "https://github.com/open-telemetry/opentelemetry-cpp",
+    "about": "The OpenTelemetry C++ Client",
+    "star": "955",
+    "fork": "446",
+    "timestamp": "2025-01-17T02:11:05.057975",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoft/microsoft-ui-xaml",
+    "href": "https://github.com/microsoft/microsoft-ui-xaml",
+    "about": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+    "star": "6,476",
+    "fork": "701",
+    "timestamp": "2025-01-17T02:11:05.058269",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,203",
+    "fork": "1,647",
+    "timestamp": "2025-01-17T02:11:05.058560",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "facebookincubator/velox",
+    "href": "https://github.com/facebookincubator/velox",
+    "about": "A composable and fully extensible C++ execution engine library for data management systems.",
+    "star": "3,588",
+    "fork": "1,188",
+    "timestamp": "2025-01-17T02:11:05.058842",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "187,288",
+    "fork": "74,431",
+    "timestamp": "2025-01-17T02:11:05.059123",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "120,162",
+    "fork": "24,430",
+    "timestamp": "2025-01-17T02:11:05.059417",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "ossrs/srs",
+    "href": "https://github.com/ossrs/srs",
+    "about": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.",
+    "star": "26,188",
+    "fork": "5,427",
+    "timestamp": "2025-01-17T02:11:05.059699",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "leethomason/tinyxml2",
+    "href": "https://github.com/leethomason/tinyxml2",
+    "about": "TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.",
+    "star": "5,178",
+    "fork": "1,856",
+    "timestamp": "2025-01-17T02:11:05.059978",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "PX4/PX4-Autopilot",
+    "href": "https://github.com/PX4/PX4-Autopilot",
+    "about": "PX4 Autopilot Software",
+    "star": "8,786",
+    "fork": "13,643",
+    "timestamp": "2025-01-17T02:11:05.060266",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "rapidsai/cuml",
+    "href": "https://github.com/rapidsai/cuml",
+    "about": "cuML - RAPIDS Machine Learning Library",
+    "star": "4,352",
+    "fork": "544",
+    "timestamp": "2025-01-17T02:11:05.060544",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "about": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "star": "26,485",
+    "fork": "8,738",
+    "timestamp": "2025-01-17T02:11:05.060822",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "about": "Open Source Routing Machine - C++ backend",
+    "star": "6,540",
+    "fork": "3,459",
+    "timestamp": "2025-01-17T02:11:05.061102",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "microsoft/winget-cli",
+    "href": "https://github.com/microsoft/winget-cli",
+    "about": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+    "star": "23,631",
+    "fork": "1,492",
+    "timestamp": "2025-01-17T02:11:05.061394",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "zeux/pugixml",
+    "href": "https://github.com/zeux/pugixml",
+    "about": "Light-weight, simple and fast XML parser for C++ with XPath support",
+    "star": "4,102",
+    "fork": "735",
+    "timestamp": "2025-01-17T02:11:05.061672",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "niedev/RTranslator",
+    "href": "https://github.com/niedev/RTranslator",
+    "about": "Open source real-time translation app for Android that runs locally",
+    "star": "7,185",
+    "fork": "552",
+    "timestamp": "2025-01-17T02:11:05.061950",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "GuijiAI/duix.ai",
+    "href": "https://github.com/GuijiAI/duix.ai",
+    "about": "",
+    "star": "4,105",
+    "fork": "676",
+    "timestamp": "2025-01-17T02:11:05.062255",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "windirstat/windirstat",
+    "href": "https://github.com/windirstat/windirstat",
+    "about": "WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows",
+    "star": "1,021",
+    "fork": "73",
+    "timestamp": "2025-01-17T02:11:05.062536",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "randombit/botan",
+    "href": "https://github.com/randombit/botan",
+    "about": "Cryptography Toolkit",
+    "star": "2,789",
+    "fork": "574",
+    "timestamp": "2025-01-17T02:11:05.062811",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",
+    "star": "4,288",
+    "fork": "497",
+    "timestamp": "2025-01-17T02:11:05.063084",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "aristocratos/btop",
+    "href": "https://github.com/aristocratos/btop",
+    "about": "A monitor of resources",
+    "star": "22,255",
+    "fork": "672",
+    "timestamp": "2025-01-17T02:11:05.063398",
+    "stars_today": "85 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "44,079",
+    "fork": "6,833",
+    "timestamp": "2025-01-17T02:11:05.063697",
+    "stars_today": "12 stars today"
+  }
+]

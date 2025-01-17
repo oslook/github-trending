@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,647",
+    "fork": "2,631",
+    "timestamp": "2025-01-17T02:11:06.267590",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "tursodatabase/libsql",
+    "href": "https://github.com/tursodatabase/libsql",
+    "about": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+    "star": "13,408",
+    "fork": "337",
+    "timestamp": "2025-01-17T02:11:06.267889",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "FRRouting/frr",
+    "href": "https://github.com/FRRouting/frr",
+    "about": "The FRRouting Protocol Suite",
+    "star": "3,490",
+    "fork": "1,280",
+    "timestamp": "2025-01-17T02:11:06.268176",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "9,314",
+    "fork": "2,431",
+    "timestamp": "2025-01-17T02:11:06.268479",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "pocoproject/poco",
+    "href": "https://github.com/pocoproject/poco",
+    "about": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+    "star": "8,569",
+    "fork": "2,202",
+    "timestamp": "2025-01-17T02:11:06.268757",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+    "star": "18,200",
+    "fork": "896",
+    "timestamp": "2025-01-17T02:11:06.269041",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "758",
+    "fork": "1,457",
+    "timestamp": "2025-01-17T02:11:06.269331",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "systemd/systemd",
+    "href": "https://github.com/systemd/systemd",
+    "about": "The systemd System and Service Manager",
+    "star": "13,591",
+    "fork": "3,864",
+    "timestamp": "2025-01-17T02:11:06.269615",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,452",
+    "fork": "872",
+    "timestamp": "2025-01-17T02:11:06.269901",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "364",
+    "fork": "3,167",
+    "timestamp": "2025-01-17T02:11:06.270180",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "OpenMathLib/OpenBLAS",
+    "href": "https://github.com/OpenMathLib/OpenBLAS",
+    "about": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "star": "6,520",
+    "fork": "1,521",
+    "timestamp": "2025-01-17T02:11:06.270474",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "13,507",
+    "fork": "632",
+    "timestamp": "2025-01-17T02:11:06.270750",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "2,947",
+    "fork": "1,182",
+    "timestamp": "2025-01-17T02:11:06.271034",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "iNavFlight/inav",
+    "href": "https://github.com/iNavFlight/inav",
+    "about": "INAV: Navigation-enabled flight control software",
+    "star": "3,303",
+    "fork": "1,510",
+    "timestamp": "2025-01-17T02:11:06.271326",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-instrumentation",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+    "about": "OpenTelemetry Auto Instrumentation using eBPF",
+    "star": "609",
+    "fork": "97",
+    "timestamp": "2025-01-17T02:11:06.271602",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SanderMertens/flecs",
+    "href": "https://github.com/SanderMertens/flecs",
+    "about": "A fast entity component system (ECS) for C & C++",
+    "star": "6,643",
+    "fork": "469",
+    "timestamp": "2025-01-17T02:11:06.271910",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "eclipse-cyclonedds/cyclonedds",
+    "href": "https://github.com/eclipse-cyclonedds/cyclonedds",
+    "about": "Eclipse Cyclone DDS project",
+    "star": "914",
+    "fork": "365",
+    "timestamp": "2025-01-17T02:11:06.272187",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "u-boot/u-boot",
+    "href": "https://github.com/u-boot/u-boot",
+    "about": "\"Das U-Boot\" Source Tree",
+    "star": "4,177",
+    "fork": "3,732",
+    "timestamp": "2025-01-17T02:11:06.272493",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "FreeRADIUS/freeradius-server",
+    "href": "https://github.com/FreeRADIUS/freeradius-server",
+    "about": "FreeRADIUS - A multi-protocol policy server.",
+    "star": "2,170",
+    "fork": "1,097",
+    "timestamp": "2025-01-17T02:11:06.272773",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,375",
+    "fork": "10,252",
+    "timestamp": "2025-01-17T02:11:06.273077",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "OISF/suricata",
+    "href": "https://github.com/OISF/suricata",
+    "about": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+    "star": "4,860",
+    "fork": "1,483",
+    "timestamp": "2025-01-17T02:11:06.273367",
+    "stars_today": "5 stars today"
+  }
+]

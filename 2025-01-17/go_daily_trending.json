@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,130",
+    "fork": "530",
+    "timestamp": "2025-01-17T02:11:16.423439",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,829",
+    "fork": "551",
+    "timestamp": "2025-01-17T02:11:16.423767",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,877",
+    "fork": "2,865",
+    "timestamp": "2025-01-17T02:11:16.424054",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "31,849",
+    "fork": "3,001",
+    "timestamp": "2025-01-17T02:11:16.424343",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "ariga/atlas",
+    "href": "https://github.com/ariga/atlas",
+    "about": "Manage your database schema as code",
+    "star": "6,304",
+    "fork": "276",
+    "timestamp": "2025-01-17T02:11:16.424619",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,334",
+    "fork": "1,001",
+    "timestamp": "2025-01-17T02:11:16.424918",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,296",
+    "fork": "4,428",
+    "timestamp": "2025-01-17T02:11:16.425190",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,733",
+    "fork": "1,517",
+    "timestamp": "2025-01-17T02:11:16.425476",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "git-lfs/git-lfs",
+    "href": "https://github.com/git-lfs/git-lfs",
+    "about": "Git extension for versioning large files",
+    "star": "13,170",
+    "fork": "2,061",
+    "timestamp": "2025-01-17T02:11:16.425748",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "48,245",
+    "fork": "4,304",
+    "timestamp": "2025-01-17T02:11:16.426048",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "href": "https://github.com/vmware-tanzu/velero",
+    "about": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "star": "8,917",
+    "fork": "1,412",
+    "timestamp": "2025-01-17T02:11:16.426332",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "22,124",
+    "fork": "1,770",
+    "timestamp": "2025-01-17T02:11:16.426604",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,059",
+    "fork": "5,613",
+    "timestamp": "2025-01-17T02:11:16.426877",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,882",
+    "fork": "8,075",
+    "timestamp": "2025-01-17T02:11:16.427150",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,420",
+    "fork": "1,450",
+    "timestamp": "2025-01-17T02:11:16.427435",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,309",
+    "fork": "3,961",
+    "timestamp": "2025-01-17T02:11:16.427712",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,138",
+    "fork": "1,364",
+    "timestamp": "2025-01-17T02:11:16.427985",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "TykTechnologies/tyk",
+    "href": "https://github.com/TykTechnologies/tyk",
+    "about": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+    "star": "9,832",
+    "fork": "1,100",
+    "timestamp": "2025-01-17T02:11:16.428273",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,438",
+    "fork": "1,099",
+    "timestamp": "2025-01-17T02:11:16.428549",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,161",
+    "fork": "1,220",
+    "timestamp": "2025-01-17T02:11:16.428822",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bitnami-labs/sealed-secrets",
+    "href": "https://github.com/bitnami-labs/sealed-secrets",
+    "about": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "star": "7,848",
+    "fork": "690",
+    "timestamp": "2025-01-17T02:11:16.429096",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "expr-lang/expr",
+    "href": "https://github.com/expr-lang/expr",
+    "about": "Expression language and expression evaluation for Go",
+    "star": "6,496",
+    "fork": "420",
+    "timestamp": "2025-01-17T02:11:16.429381",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,386",
+    "fork": "3,531",
+    "timestamp": "2025-01-17T02:11:16.429656",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,839",
+    "fork": "1,611",
+    "timestamp": "2025-01-17T02:11:16.429931",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,772",
+    "fork": "2,188",
+    "timestamp": "2025-01-17T02:11:16.430215",
+    "stars_today": "4 stars today"
+  }
+]

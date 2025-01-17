@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "stanford-oval/storm",
+    "href": "https://github.com/stanford-oval/storm",
+    "about": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "star": "20,186",
+    "fork": "1,774",
+    "timestamp": "2025-01-17T02:11:32.100553",
+    "stars_today": "6,656 stars this month"
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "href": "https://github.com/khoj-ai/khoj",
+    "about": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "star": "24,732",
+    "fork": "1,319",
+    "timestamp": "2025-01-17T02:11:32.100887",
+    "stars_today": "7,594 stars this month"
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "href": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "about": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "star": "12,636",
+    "fork": "1,355",
+    "timestamp": "2025-01-17T02:11:32.101171",
+    "stars_today": "6,252 stars this month"
+  },
+  {
+    "repo": "XiaoMi/ha_xiaomi_home",
+    "href": "https://github.com/XiaoMi/ha_xiaomi_home",
+    "about": "Xiaomi Home Integration for Home Assistant",
+    "star": "17,499",
+    "fork": "829",
+    "timestamp": "2025-01-17T02:11:32.101469",
+    "stars_today": "16,713 stars this month"
+  },
+  {
+    "repo": "unclecode/crawl4ai",
+    "href": "https://github.com/unclecode/crawl4ai",
+    "about": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+    "star": "25,344",
+    "fork": "1,921",
+    "timestamp": "2025-01-17T02:11:32.101758",
+    "stars_today": "6,886 stars this month"
+  },
+  {
+    "repo": "OpenSPG/KAG",
+    "href": "https://github.com/OpenSPG/KAG",
+    "about": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+    "star": "4,287",
+    "fork": "264",
+    "timestamp": "2025-01-17T02:11:32.102043",
+    "stars_today": "3,470 stars this month"
+  },
+  {
+    "repo": "intuitem/ciso-assistant-community",
+    "href": "https://github.com/intuitem/ciso-assistant-community",
+    "about": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more",
+    "star": "2,482",
+    "fork": "279",
+    "timestamp": "2025-01-17T02:11:32.102336",
+    "stars_today": "1,275 stars this month"
+  },
+  {
+    "repo": "NVIDIA/nv-ingest",
+    "href": "https://github.com/NVIDIA/nv-ingest",
+    "about": "NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.",
+    "star": "2,095",
+    "fork": "178",
+    "timestamp": "2025-01-17T02:11:32.102615",
+    "stars_today": "1,851 stars this month"
+  },
+  {
+    "repo": "All-Hands-AI/OpenHands",
+    "href": "https://github.com/All-Hands-AI/OpenHands",
+    "about": "🙌 OpenHands: Code Less, Make More",
+    "star": "43,579",
+    "fork": "4,831",
+    "timestamp": "2025-01-17T02:11:32.102898",
+    "stars_today": "5,122 stars this month"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "href": "https://github.com/donnemartin/system-design-primer",
+    "about": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "star": "286,087",
+    "fork": "47,698",
+    "timestamp": "2025-01-17T02:11:32.103181",
+    "stars_today": "7,173 stars this month"
+  },
+  {
+    "repo": "Byaidu/PDFMathTranslate",
+    "href": "https://github.com/Byaidu/PDFMathTranslate",
+    "about": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "star": "15,369",
+    "fork": "1,166",
+    "timestamp": "2025-01-17T02:11:32.103502",
+    "stars_today": "7,265 stars this month"
+  },
+  {
+    "repo": "jingyaogong/minimind",
+    "href": "https://github.com/jingyaogong/minimind",
+    "about": "🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!",
+    "star": "4,963",
+    "fork": "570",
+    "timestamp": "2025-01-17T02:11:32.103787",
+    "stars_today": "2,011 stars this month"
+  },
+  {
+    "repo": "fixie-ai/ultravox",
+    "href": "https://github.com/fixie-ai/ultravox",
+    "about": "A fast multimodal LLM for real-time voice",
+    "star": "2,779",
+    "fork": "171",
+    "timestamp": "2025-01-17T02:11:32.104066",
+    "stars_today": "1,180 stars this month"
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "href": "https://github.com/crewAIInc/crewAI",
+    "about": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "star": "24,807",
+    "fork": "3,361",
+    "timestamp": "2025-01-17T02:11:32.104363",
+    "stars_today": "2,342 stars this month"
+  },
+  {
+    "repo": "seleniumbase/SeleniumBase",
+    "href": "https://github.com/seleniumbase/SeleniumBase",
+    "about": "Python APIs for web automation, testing, and bypassing bot-detection.",
+    "star": "9,128",
+    "fork": "1,169",
+    "timestamp": "2025-01-17T02:11:32.104642",
+    "stars_today": "3,612 stars this month"
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "href": "https://github.com/sgl-project/sglang",
+    "about": "SGLang is a fast serving framework for large language models and vision language models.",
+    "star": "7,352",
+    "fork": "706",
+    "timestamp": "2025-01-17T02:11:32.104920",
+    "stars_today": "837 stars this month"
+  },
+  {
+    "repo": "NVlabs/VILA",
+    "href": "https://github.com/NVlabs/VILA",
+    "about": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+    "star": "2,757",
+    "fork": "219",
+    "timestamp": "2025-01-17T02:11:32.105211",
+    "stars_today": "600 stars this month"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "href": "https://github.com/Significant-Gravitas/AutoGPT",
+    "about": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "star": "170,553",
+    "fork": "44,840",
+    "timestamp": "2025-01-17T02:11:32.105494",
+    "stars_today": "1,727 stars this month"
+  }
+]
