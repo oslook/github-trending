@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "11,868",
+    "fork": "2,082",
+    "timestamp": "2025-01-18T02:08:23.402321",
+    "stars_today": "455 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "28,549",
+    "fork": "2,157",
+    "timestamp": "2025-01-18T02:08:23.402641",
+    "stars_today": "479 stars this week"
+  },
+  {
+    "repo": "apache/answer",
+    "href": "https://github.com/apache/answer",
+    "about": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",
+    "star": "13,663",
+    "fork": "1,077",
+    "timestamp": "2025-01-18T02:08:23.402919",
+    "stars_today": "397 stars this week"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "13,572",
+    "fork": "3,801",
+    "timestamp": "2025-01-18T02:08:23.403237",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,015",
+    "fork": "3,411",
+    "timestamp": "2025-01-18T02:08:23.403538",
+    "stars_today": "142 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,579",
+    "fork": "4,261",
+    "timestamp": "2025-01-18T02:08:23.403808",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "26,926",
+    "fork": "2,863",
+    "timestamp": "2025-01-18T02:08:23.404120",
+    "stars_today": "269 stars this week"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,761",
+    "fork": "5,183",
+    "timestamp": "2025-01-18T02:08:23.404422",
+    "stars_today": "265 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,842",
+    "fork": "551",
+    "timestamp": "2025-01-18T02:08:23.404717",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,243",
+    "fork": "3,740",
+    "timestamp": "2025-01-18T02:08:23.404986",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "108,102",
+    "fork": "8,668",
+    "timestamp": "2025-01-18T02:08:23.405266",
+    "stars_today": "1,291 stars this week"
+  },
+  {
+    "repo": "NVIDIA/k8s-device-plugin",
+    "href": "https://github.com/NVIDIA/k8s-device-plugin",
+    "about": "NVIDIA device plugin for Kubernetes",
+    "star": "2,962",
+    "fork": "652",
+    "timestamp": "2025-01-18T02:08:23.405534",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,627",
+    "fork": "1,520",
+    "timestamp": "2025-01-18T02:08:23.405811",
+    "stars_today": "301 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,383",
+    "fork": "2,410",
+    "timestamp": "2025-01-18T02:08:23.406091",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "77,321",
+    "fork": "7,634",
+    "timestamp": "2025-01-18T02:08:23.406363",
+    "stars_today": "309 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "40,302",
+    "fork": "1,283",
+    "timestamp": "2025-01-18T02:08:23.406658",
+    "stars_today": "243 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "19,523",
+    "fork": "769",
+    "timestamp": "2025-01-18T02:08:23.406954",
+    "stars_today": "392 stars this week"
+  },
+  {
+    "repo": "HavocFramework/Havoc",
+    "href": "https://github.com/HavocFramework/Havoc",
+    "about": "The Havoc Framework",
+    "star": "7,107",
+    "fork": "997",
+    "timestamp": "2025-01-18T02:08:23.407235",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,597",
+    "fork": "2,477",
+    "timestamp": "2025-01-18T02:08:23.407506",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,625",
+    "fork": "871",
+    "timestamp": "2025-01-18T02:08:23.407776",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "17,831",
+    "fork": "3,513",
+    "timestamp": "2025-01-18T02:08:23.408055",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,770",
+    "fork": "660",
+    "timestamp": "2025-01-18T02:08:23.408328",
+    "stars_today": "16 stars this week"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "36,782",
+    "fork": "1,791",
+    "timestamp": "2025-01-18T02:08:22.995849",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,204",
+    "fork": "1,044",
+    "timestamp": "2025-01-18T02:08:22.996172",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,604",
+    "fork": "420",
+    "timestamp": "2025-01-18T02:08:22.996479",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "runtimeverification/haskell-backend",
+    "href": "https://github.com/runtimeverification/haskell-backend",
+    "about": "The symbolic execution engine powering the K Framework",
+    "star": "214",
+    "fork": "43",
+    "timestamp": "2025-01-18T02:08:22.996755",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "crytic/echidna",
+    "href": "https://github.com/crytic/echidna",
+    "about": "Ethereum smart contract fuzzer",
+    "star": "2,801",
+    "fork": "380",
+    "timestamp": "2025-01-18T02:08:22.997027",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,135",
+    "fork": "321",
+    "timestamp": "2025-01-18T02:08:22.997341",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "35,453",
+    "fork": "3,423",
+    "timestamp": "2025-01-18T02:08:22.997641",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,741",
+    "fork": "370",
+    "timestamp": "2025-01-18T02:08:22.997911",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "566",
+    "fork": "65",
+    "timestamp": "2025-01-18T02:08:22.998223",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucsd-progsys/liquid-fixpoint",
+    "href": "https://github.com/ucsd-progsys/liquid-fixpoint",
+    "about": "Horn Clause Constraint Solving for Liquid Types",
+    "star": "141",
+    "fork": "62",
+    "timestamp": "2025-01-18T02:08:22.998496",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-consensus",
+    "href": "https://github.com/IntersectMBO/ouroboros-consensus",
+    "about": "Implementation of a Consensus Layer for the Ouroboros family of protocols",
+    "star": "43",
+    "fork": "24",
+    "timestamp": "2025-01-18T02:08:22.998765",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-network",
+    "href": "https://github.com/IntersectMBO/ouroboros-network",
+    "about": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+    "star": "278",
+    "fork": "87",
+    "timestamp": "2025-01-18T02:08:22.999038",
+    "stars_today": "0 stars today"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,629",
+    "fork": "9,624",
+    "timestamp": "2025-01-18T02:08:21.435574",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,597",
+    "fork": "2,477",
+    "timestamp": "2025-01-18T02:08:21.435866",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,243",
+    "fork": "3,740",
+    "timestamp": "2025-01-18T02:08:21.436157",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,472",
+    "fork": "5,286",
+    "timestamp": "2025-01-18T02:08:21.436431",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,777",
+    "fork": "2,188",
+    "timestamp": "2025-01-18T02:08:21.436702",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "evanw/esbuild",
+    "href": "https://github.com/evanw/esbuild",
+    "about": "An extremely fast bundler for the web",
+    "star": "38,446",
+    "fork": "1,174",
+    "timestamp": "2025-01-18T02:08:21.436975",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "79,904",
+    "fork": "8,078",
+    "timestamp": "2025-01-18T02:08:21.437279",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "1,289",
+    "fork": "129",
+    "timestamp": "2025-01-18T02:08:21.437551",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "20,420",
+    "fork": "1,621",
+    "timestamp": "2025-01-18T02:08:21.437818",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,455",
+    "fork": "5,638",
+    "timestamp": "2025-01-18T02:08:21.438096",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "prometheus-community/postgres_exporter",
+    "href": "https://github.com/prometheus-community/postgres_exporter",
+    "about": "A PostgreSQL metric exporter for Prometheus",
+    "star": "2,883",
+    "fork": "759",
+    "timestamp": "2025-01-18T02:08:21.438366",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "techschool/simplebank",
+    "href": "https://github.com/techschool/simplebank",
+    "about": "Backend master class: build a simple bank service in Go",
+    "star": "5,664",
+    "fork": "1,022",
+    "timestamp": "2025-01-18T02:08:21.438633",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,019",
+    "fork": "18,675",
+    "timestamp": "2025-01-18T02:08:21.438902",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "rhysd/actionlint",
+    "href": "https://github.com/rhysd/actionlint",
+    "about": "Static checker for GitHub Actions workflow files",
+    "star": "2,926",
+    "fork": "165",
+    "timestamp": "2025-01-18T02:08:21.439189",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,400",
+    "fork": "3,533",
+    "timestamp": "2025-01-18T02:08:21.439459",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "24,655",
+    "fork": "4,797",
+    "timestamp": "2025-01-18T02:08:21.439730",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,441",
+    "fork": "1,098",
+    "timestamp": "2025-01-18T02:08:21.439999",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "5,593",
+    "fork": "169",
+    "timestamp": "2025-01-18T02:08:21.440283",
+    "stars_today": "208 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,428",
+    "fork": "1,452",
+    "timestamp": "2025-01-18T02:08:21.440552",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "56,890",
+    "fork": "1,435",
+    "timestamp": "2025-01-18T02:08:21.440819",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "31,870",
+    "fork": "3,001",
+    "timestamp": "2025-01-18T02:08:21.441100",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,015",
+    "fork": "3,411",
+    "timestamp": "2025-01-18T02:08:21.441398",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,071",
+    "fork": "1,765",
+    "timestamp": "2025-01-18T02:08:21.441692",
+    "stars_today": "16 stars today"
+  }
+]
