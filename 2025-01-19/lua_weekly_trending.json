@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "5,925",
+    "fork": "208",
+    "timestamp": "2025-01-19T02:17:40.162945",
+    "stars_today": "199 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "8,850",
+    "fork": "336",
+    "timestamp": "2025-01-19T02:17:40.163242",
+    "stars_today": "220 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,094",
+    "fork": "2,107",
+    "timestamp": "2025-01-19T02:17:40.163544",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,324",
+    "fork": "2,102",
+    "timestamp": "2025-01-19T02:17:40.163833",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "folke/todo-comments.nvim",
+    "href": "https://github.com/folke/todo-comments.nvim",
+    "about": "✅ Highlight, list and search todo comments in your projects",
+    "star": "3,421",
+    "fork": "97",
+    "timestamp": "2025-01-19T02:17:40.164105",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 13.x for OpenTibia community.",
+    "star": "400",
+    "fork": "659",
+    "timestamp": "2025-01-19T02:17:40.164403",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,443",
+    "fork": "138",
+    "timestamp": "2025-01-19T02:17:40.164690",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "7,437",
+    "fork": "610",
+    "timestamp": "2025-01-19T02:17:40.164963",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,405",
+    "fork": "126",
+    "timestamp": "2025-01-19T02:17:40.165258",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "17,782",
+    "fork": "1,304",
+    "timestamp": "2025-01-19T02:17:40.165520",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,395",
+    "fork": "193",
+    "timestamp": "2025-01-19T02:17:40.165828",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "7,583",
+    "fork": "2,713",
+    "timestamp": "2025-01-19T02:17:40.166115",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "18,883",
+    "fork": "1,318",
+    "timestamp": "2025-01-19T02:17:40.166385",
+    "stars_today": "127 stars this week"
+  },
+  {
+    "repo": "pwntester/octo.nvim",
+    "href": "https://github.com/pwntester/octo.nvim",
+    "about": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
+    "star": "2,519",
+    "fork": "149",
+    "timestamp": "2025-01-19T02:17:40.166664",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "beyond-all-reason/Beyond-All-Reason",
+    "href": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "about": "Main game repository for Beyond All Reason.",
+    "star": "1,863",
+    "fork": "325",
+    "timestamp": "2025-01-19T02:17:40.166933",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,657",
+    "fork": "439",
+    "timestamp": "2025-01-19T02:17:40.167205",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "folke/trouble.nvim",
+    "href": "https://github.com/folke/trouble.nvim",
+    "about": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+    "star": "5,813",
+    "fork": "178",
+    "timestamp": "2025-01-19T02:17:40.167477",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "overextended/ox_inventory",
+    "href": "https://github.com/overextended/ox_inventory",
+    "about": "Slot-based inventory with metadata.",
+    "star": "479",
+    "fork": "725",
+    "timestamp": "2025-01-19T02:17:40.167760",
+    "stars_today": "1 star this week"
+  }
+]
