@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ton-blockchain/ton",
+    "href": "https://github.com/ton-blockchain/ton",
+    "about": "Main TON monorepo",
+    "star": "3,347",
+    "fork": "1,081",
+    "timestamp": "2025-01-20T02:13:47.658216",
+    "stars_today": "174 stars this week"
+  },
+  {
+    "repo": "kevmo314/scuda",
+    "href": "https://github.com/kevmo314/scuda",
+    "about": "SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.",
+    "star": "1,533",
+    "fork": "50",
+    "timestamp": "2025-01-20T02:13:47.658519",
+    "stars_today": "630 stars this week"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "28,894",
+    "fork": "5,630",
+    "timestamp": "2025-01-20T02:13:47.658816",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "120,203",
+    "fork": "24,436",
+    "timestamp": "2025-01-20T02:13:47.659103",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,329",
+    "fork": "10,233",
+    "timestamp": "2025-01-20T02:13:47.659385",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "13,506",
+    "fork": "2,347",
+    "timestamp": "2025-01-20T02:13:47.659670",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "niedev/RTranslator",
+    "href": "https://github.com/niedev/RTranslator",
+    "about": "Open source real-time translation app for Android that runs locally",
+    "star": "7,199",
+    "fork": "556",
+    "timestamp": "2025-01-20T02:13:47.659993",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "borglab/gtsam",
+    "href": "https://github.com/borglab/gtsam",
+    "about": "GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.",
+    "star": "2,712",
+    "fork": "789",
+    "timestamp": "2025-01-20T02:13:47.660400",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",
+    "star": "4,336",
+    "fork": "503",
+    "timestamp": "2025-01-20T02:13:47.660795",
+    "stars_today": "273 stars this week"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "66,351",
+    "fork": "15,587",
+    "timestamp": "2025-01-20T02:13:47.661230",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "93,076",
+    "fork": "21,516",
+    "timestamp": "2025-01-20T02:13:47.661528",
+    "stars_today": "286 stars this week"
+  },
+  {
+    "repo": "lich0821/WeChatFerry",
+    "href": "https://github.com/lich0821/WeChatFerry",
+    "about": "微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.",
+    "star": "4,804",
+    "fork": "855",
+    "timestamp": "2025-01-20T02:13:47.661826",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "TrinityCore/TrinityCore",
+    "href": "https://github.com/TrinityCore/TrinityCore",
+    "about": "TrinityCore Open Source MMO Framework (master = 11.0.7.58630, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.1.58558)",
+    "star": "9,805",
+    "fork": "6,101",
+    "timestamp": "2025-01-20T02:13:47.662109",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "microsoft/microsoft-ui-xaml",
+    "href": "https://github.com/microsoft/microsoft-ui-xaml",
+    "about": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+    "star": "6,489",
+    "fork": "701",
+    "timestamp": "2025-01-20T02:13:47.662387",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "11,478",
+    "fork": "1,721",
+    "timestamp": "2025-01-20T02:13:47.662667",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "xournalpp/xournalpp",
+    "href": "https://github.com/xournalpp/xournalpp",
+    "about": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",
+    "star": "11,755",
+    "fork": "840",
+    "timestamp": "2025-01-20T02:13:47.662967",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "187,336",
+    "fork": "74,438",
+    "timestamp": "2025-01-20T02:13:47.663243",
+    "stars_today": "182 stars this week"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "32,442",
+    "fork": "3,707",
+    "timestamp": "2025-01-20T02:13:47.663515",
+    "stars_today": "130 stars this week"
+  },
+  {
+    "repo": "project-chip/connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "about": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "star": "7,683",
+    "fork": "2,089",
+    "timestamp": "2025-01-20T02:13:47.663830",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "67,909",
+    "fork": "10,398",
+    "timestamp": "2025-01-20T02:13:47.664120",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "opencv/opencv",
+    "href": "https://github.com/opencv/opencv",
+    "about": "Open Source Computer Vision Library",
+    "star": "80,142",
+    "fork": "55,945",
+    "timestamp": "2025-01-20T02:13:47.664419",
+    "stars_today": "146 stars this week"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "about": "Open Source Routing Machine - C++ backend",
+    "star": "6,545",
+    "fork": "3,459",
+    "timestamp": "2025-01-20T02:13:47.664689",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "dalathegreat/Battery-Emulator",
+    "href": "https://github.com/dalathegreat/Battery-Emulator",
+    "about": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
+    "star": "1,238",
+    "fork": "173",
+    "timestamp": "2025-01-20T02:13:47.664985",
+    "stars_today": "31 stars this week"
+  }
+]

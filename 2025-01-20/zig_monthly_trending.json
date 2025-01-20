@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "star": "36,646",
+    "fork": "2,640",
+    "timestamp": "2025-01-20T02:14:27.558194",
+    "stars_today": "1,245 stars this month"
+  },
+  {
+    "repo": "zigtools/zls",
+    "href": "https://github.com/zigtools/zls",
+    "about": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+    "star": "3,225",
+    "fork": "311",
+    "timestamp": "2025-01-20T02:14:27.558524",
+    "stars_today": "147 stars this month"
+  },
+  {
+    "repo": "Not-Nik/raylib-zig",
+    "href": "https://github.com/Not-Nik/raylib-zig",
+    "about": "Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib",
+    "star": "823",
+    "fork": "131",
+    "timestamp": "2025-01-20T02:14:27.558824",
+    "stars_today": "94 stars this month"
+  },
+  {
+    "repo": "zig-gamedev/zig-gamedev",
+    "href": "https://github.com/zig-gamedev/zig-gamedev",
+    "about": "Dev repo for @zig-gamedev libs and sample applications",
+    "star": "2,397",
+    "fork": "171",
+    "timestamp": "2025-01-20T02:14:27.559111",
+    "stars_today": "77 stars this month"
+  },
+  {
+    "repo": "hexops/mach",
+    "href": "https://github.com/hexops/mach",
+    "about": "zig game engine & graphics toolkit",
+    "star": "3,593",
+    "fork": "167",
+    "timestamp": "2025-01-20T02:14:27.559389",
+    "stars_today": "173 stars this month"
+  },
+  {
+    "repo": "pedropark99/zig-book",
+    "href": "https://github.com/pedropark99/zig-book",
+    "about": "An open, technical and introductory book for the Zig programming language",
+    "star": "842",
+    "fork": "42",
+    "timestamp": "2025-01-20T02:14:27.559669",
+    "stars_today": "184 stars this month"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "2,375",
+    "fork": "94",
+    "timestamp": "2025-01-20T02:14:27.559966",
+    "stars_today": "178 stars this month"
+  },
+  {
+    "repo": "neurocyte/flow",
+    "href": "https://github.com/neurocyte/flow",
+    "about": "Flow Control: a programmer's text editor",
+    "star": "660",
+    "fork": "31",
+    "timestamp": "2025-01-20T02:14:27.560245",
+    "stars_today": "177 stars this month"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "href": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "star": "75,354",
+    "fork": "2,846",
+    "timestamp": "2025-01-20T02:14:27.560522",
+    "stars_today": "702 stars this month"
+  },
+  {
+    "repo": "tigerbeetle/tigerbeetle",
+    "href": "https://github.com/tigerbeetle/tigerbeetle",
+    "about": "The financial transactions database designed for mission critical safety and performance.",
+    "star": "11,265",
+    "fork": "540",
+    "timestamp": "2025-01-20T02:14:27.560811",
+    "stars_today": "329 stars this month"
+  },
+  {
+    "repo": "fairyglade/ly",
+    "href": "https://github.com/fairyglade/ly",
+    "about": "display manager with console UI",
+    "star": "5,641",
+    "fork": "308",
+    "timestamp": "2025-01-20T02:14:27.561089",
+    "stars_today": "91 stars this month"
+  },
+  {
+    "repo": "zml/zml",
+    "href": "https://github.com/zml/zml",
+    "about": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+    "star": "1,881",
+    "fork": "67",
+    "timestamp": "2025-01-20T02:14:27.561372",
+    "stars_today": "154 stars this month"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A dynamic tiling Wayland compositor",
+    "star": "3,414",
+    "fork": "154",
+    "timestamp": "2025-01-20T02:14:27.561649",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "capy-ui/capy",
+    "href": "https://github.com/capy-ui/capy",
+    "about": "💻Build one codebase and get native UI on Windows, Linux and Web",
+    "star": "1,899",
+    "fork": "69",
+    "timestamp": "2025-01-20T02:14:27.561942",
+    "stars_today": "136 stars this month"
+  },
+  {
+    "repo": "rockorager/libvaxis",
+    "href": "https://github.com/rockorager/libvaxis",
+    "about": "a modern tui library written in zig",
+    "star": "672",
+    "fork": "46",
+    "timestamp": "2025-01-20T02:14:27.562221",
+    "stars_today": "108 stars this month"
+  }
+]
