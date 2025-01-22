@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,843",
+    "fork": "9,637",
+    "timestamp": "2025-01-22T02:14:27.896253",
+    "stars_today": "304 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "6,470",
+    "fork": "188",
+    "timestamp": "2025-01-22T02:14:27.896558",
+    "stars_today": "1,318 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,888",
+    "fork": "554",
+    "timestamp": "2025-01-22T02:14:27.896890",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,504",
+    "fork": "2,902",
+    "timestamp": "2025-01-22T02:14:27.897205",
+    "stars_today": "648 stars this week"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "11,960",
+    "fork": "2,091",
+    "timestamp": "2025-01-22T02:14:27.897488",
+    "stars_today": "341 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,326",
+    "fork": "2,209",
+    "timestamp": "2025-01-22T02:14:27.897809",
+    "stars_today": "935 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "9,507",
+    "fork": "215",
+    "timestamp": "2025-01-22T02:14:27.898094",
+    "stars_today": "844 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,636",
+    "fork": "877",
+    "timestamp": "2025-01-22T02:14:27.898375",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,508",
+    "fork": "5,289",
+    "timestamp": "2025-01-22T02:14:27.898654",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,679",
+    "fork": "412",
+    "timestamp": "2025-01-22T02:14:27.898971",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "techschool/simplebank",
+    "href": "https://github.com/techschool/simplebank",
+    "about": "Backend master class: build a simple bank service in Go",
+    "star": "5,678",
+    "fork": "1,026",
+    "timestamp": "2025-01-22T02:14:27.899254",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,656",
+    "fork": "2,485",
+    "timestamp": "2025-01-22T02:14:27.899535",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,916",
+    "fork": "2,872",
+    "timestamp": "2025-01-22T02:14:27.899825",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,277",
+    "fork": "3,234",
+    "timestamp": "2025-01-22T02:14:27.900102",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "HavocFramework/Havoc",
+    "href": "https://github.com/HavocFramework/Havoc",
+    "about": "The Havoc Framework",
+    "star": "7,133",
+    "fork": "998",
+    "timestamp": "2025-01-22T02:14:27.900385",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "108,875",
+    "fork": "8,718",
+    "timestamp": "2025-01-22T02:14:27.900664",
+    "stars_today": "1,303 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,605",
+    "fork": "4,264",
+    "timestamp": "2025-01-22T02:14:27.900954",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "rqlite/rqlite",
+    "href": "https://github.com/rqlite/rqlite",
+    "about": "The lightweight, user-friendly, distributed relational database built on SQLite.",
+    "star": "16,112",
+    "fork": "733",
+    "timestamp": "2025-01-22T02:14:27.901229",
+    "stars_today": "109 stars this week"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "22,155",
+    "fork": "1,771",
+    "timestamp": "2025-01-22T02:14:27.901509",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "openfga/openfga",
+    "href": "https://github.com/openfga/openfga",
+    "about": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+    "star": "3,166",
+    "fork": "225",
+    "timestamp": "2025-01-22T02:14:27.901796",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,499",
+    "fork": "40,069",
+    "timestamp": "2025-01-22T02:14:27.902073",
+    "stars_today": "192 stars this week"
+  },
+  {
+    "repo": "dapr/dapr",
+    "href": "https://github.com/dapr/dapr",
+    "about": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "star": "24,335",
+    "fork": "1,917",
+    "timestamp": "2025-01-22T02:14:27.902350",
+    "stars_today": "30 stars this week"
+  }
+]

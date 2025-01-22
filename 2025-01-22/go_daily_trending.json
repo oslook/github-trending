@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,504",
+    "fork": "2,902",
+    "timestamp": "2025-01-22T02:14:26.640872",
+    "stars_today": "217 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "40,430",
+    "fork": "1,287",
+    "timestamp": "2025-01-22T02:14:26.641197",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,315",
+    "fork": "4,435",
+    "timestamp": "2025-01-22T02:14:26.641530",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,225",
+    "fork": "2,965",
+    "timestamp": "2025-01-22T02:14:26.641824",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,326",
+    "fork": "2,209",
+    "timestamp": "2025-01-22T02:14:26.642134",
+    "stars_today": "409 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "6,470",
+    "fork": "188",
+    "timestamp": "2025-01-22T02:14:26.642413",
+    "stars_today": "163 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kueue",
+    "href": "https://github.com/kubernetes-sigs/kueue",
+    "about": "Kubernetes-native Job Queueing",
+    "star": "1,570",
+    "fork": "284",
+    "timestamp": "2025-01-22T02:14:26.642688",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "60,787",
+    "fork": "4,147",
+    "timestamp": "2025-01-22T02:14:26.642976",
+    "stars_today": "76 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,422",
+    "fork": "2,260",
+    "timestamp": "2025-01-22T02:14:26.643250",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,334",
+    "fork": "7,568",
+    "timestamp": "2025-01-22T02:14:26.643528",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,176",
+    "fork": "2,540",
+    "timestamp": "2025-01-22T02:14:26.643822",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "moonD4rk/HackBrowserData",
+    "href": "https://github.com/moonD4rk/HackBrowserData",
+    "about": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",
+    "star": "11,808",
+    "fork": "1,617",
+    "timestamp": "2025-01-22T02:14:26.644105",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,342",
+    "fork": "1,337",
+    "timestamp": "2025-01-22T02:14:26.644390",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "star": "23,516",
+    "fork": "2,334",
+    "timestamp": "2025-01-22T02:14:26.644676",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "67,313",
+    "fork": "2,436",
+    "timestamp": "2025-01-22T02:14:26.645001",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "ffuf/ffuf",
+    "href": "https://github.com/ffuf/ffuf",
+    "about": "Fast web fuzzer written in Go",
+    "star": "13,057",
+    "fork": "1,338",
+    "timestamp": "2025-01-22T02:14:26.645279",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,749",
+    "fork": "1,521",
+    "timestamp": "2025-01-22T02:14:26.645562",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "argoproj-labs/argocd-image-updater",
+    "href": "https://github.com/argoproj-labs/argocd-image-updater",
+    "about": "Automatic container image update for Argo CD",
+    "star": "1,333",
+    "fork": "277",
+    "timestamp": "2025-01-22T02:14:26.645857",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "49,600",
+    "fork": "5,629",
+    "timestamp": "2025-01-22T02:14:26.646143",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "9,507",
+    "fork": "215",
+    "timestamp": "2025-01-22T02:14:26.646433",
+    "stars_today": "331 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "6,439",
+    "fork": "371",
+    "timestamp": "2025-01-22T02:14:26.646719",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "href": "https://github.com/go-sql-driver/mysql",
+    "about": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "star": "14,627",
+    "fork": "2,322",
+    "timestamp": "2025-01-22T02:14:26.647011",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "14,589",
+    "fork": "866",
+    "timestamp": "2025-01-22T02:14:26.647289",
+    "stars_today": "0 stars today"
+  }
+]
