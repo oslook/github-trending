@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,495",
+    "fork": "2,977",
+    "timestamp": "2025-01-23T02:12:20.573058",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,353",
+    "fork": "2,261",
+    "timestamp": "2025-01-23T02:12:20.573364",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,159",
+    "fork": "1,519",
+    "timestamp": "2025-01-23T02:12:20.573654",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "94",
+    "fork": "49",
+    "timestamp": "2025-01-23T02:12:20.573957",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "908",
+    "fork": "230",
+    "timestamp": "2025-01-23T02:12:20.574245",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "886",
+    "fork": "167",
+    "timestamp": "2025-01-23T02:12:20.574533",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,074",
+    "fork": "232",
+    "timestamp": "2025-01-23T02:12:20.574848",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "419",
+    "fork": "58",
+    "timestamp": "2025-01-23T02:12:20.575148",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "694",
+    "fork": "231",
+    "timestamp": "2025-01-23T02:12:20.575429",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,196",
+    "fork": "336",
+    "timestamp": "2025-01-23T02:12:20.575715",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "173",
+    "timestamp": "2025-01-23T02:12:20.576009",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "423",
+    "fork": "162",
+    "timestamp": "2025-01-23T02:12:20.576330",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "38",
+    "timestamp": "2025-01-23T02:12:20.576839",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,562",
+    "fork": "350",
+    "timestamp": "2025-01-23T02:12:20.577371",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "502",
+    "fork": "190",
+    "timestamp": "2025-01-23T02:12:20.577668",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "561",
+    "fork": "153",
+    "timestamp": "2025-01-23T02:12:20.577984",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "252",
+    "fork": "83",
+    "timestamp": "2025-01-23T02:12:20.578268",
+    "stars_today": "0 stars this week"
+  }
+]

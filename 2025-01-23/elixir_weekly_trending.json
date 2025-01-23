@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "21,227",
+    "fork": "1,123",
+    "timestamp": "2025-01-23T02:12:19.210855",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "anoma/anoma",
+    "href": "https://github.com/anoma/anoma",
+    "about": "Reference implementation of Anoma",
+    "star": "25,358",
+    "fork": "3,746",
+    "timestamp": "2025-01-23T02:12:19.211173",
+    "stars_today": "3,123 stars this week"
+  },
+  {
+    "repo": "bartblast/hologram",
+    "href": "https://github.com/bartblast/hologram",
+    "about": "Full stack isomorphic Elixir web framework",
+    "star": "527",
+    "fork": "11",
+    "timestamp": "2025-01-23T02:12:19.211491",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "bluzky/salad_ui",
+    "href": "https://github.com/bluzky/salad_ui",
+    "about": "Phoenix Liveview component library inspired by shadcn UI",
+    "star": "718",
+    "fork": "44",
+    "timestamp": "2025-01-23T02:12:19.211778",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "elixir-ecto/ecto",
+    "href": "https://github.com/elixir-ecto/ecto",
+    "about": "A toolkit for data mapping and language integrated query.",
+    "star": "6,232",
+    "fork": "1,432",
+    "timestamp": "2025-01-23T02:12:19.212081",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "kieraneglin/pinchflat",
+    "href": "https://github.com/kieraneglin/pinchflat",
+    "about": "Your next YouTube media manager",
+    "star": "2,030",
+    "fork": "42",
+    "timestamp": "2025-01-23T02:12:19.212367",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,357",
+    "fork": "950",
+    "timestamp": "2025-01-23T02:12:19.212652",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "3,771",
+    "fork": "2,539",
+    "timestamp": "2025-01-23T02:12:19.212975",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "21,648",
+    "fork": "2,898",
+    "timestamp": "2025-01-23T02:12:19.213262",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "duffelhq/paginator",
+    "href": "https://github.com/duffelhq/paginator",
+    "about": "Cursor-based pagination for Elixir Ecto",
+    "star": "767",
+    "fork": "92",
+    "timestamp": "2025-01-23T02:12:19.213585",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "pentacent/keila",
+    "href": "https://github.com/pentacent/keila",
+    "about": "Open Source Newsletter Tool.",
+    "star": "1,525",
+    "fork": "87",
+    "timestamp": "2025-01-23T02:12:19.213913",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "6,896",
+    "fork": "320",
+    "timestamp": "2025-01-23T02:12:19.214227",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "firezone/firezone",
+    "href": "https://github.com/firezone/firezone",
+    "about": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "star": "6,992",
+    "fork": "291",
+    "timestamp": "2025-01-23T02:12:19.214509",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "24,778",
+    "fork": "3,400",
+    "timestamp": "2025-01-23T02:12:19.214828",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "ntrepid8/ex_crypto",
+    "href": "https://github.com/ntrepid8/ex_crypto",
+    "about": "Wrapper around the Erlang crypto module for Elixir.",
+    "star": "150",
+    "fork": "48",
+    "timestamp": "2025-01-23T02:12:19.215131",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "supabase/supavisor",
+    "href": "https://github.com/supabase/supavisor",
+    "about": "A cloud-native, multi-tenant Postgres connection pooler.",
+    "star": "1,824",
+    "fork": "59",
+    "timestamp": "2025-01-23T02:12:19.215442",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "brainlid/langchain",
+    "href": "https://github.com/brainlid/langchain",
+    "about": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
+    "star": "726",
+    "fork": "82",
+    "timestamp": "2025-01-23T02:12:19.215725",
+    "stars_today": "8 stars this week"
+  }
+]

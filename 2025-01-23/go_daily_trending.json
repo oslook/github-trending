@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "9,803",
+    "fork": "223",
+    "timestamp": "2025-01-23T02:12:22.169277",
+    "stars_today": "76 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,527",
+    "fork": "2,214",
+    "timestamp": "2025-01-23T02:12:22.169620",
+    "stars_today": "121 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,581",
+    "fork": "2,910",
+    "timestamp": "2025-01-23T02:12:22.169959",
+    "stars_today": "143 stars today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "60,836",
+    "fork": "4,153",
+    "timestamp": "2025-01-23T02:12:22.170251",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,374",
+    "fork": "2,120",
+    "timestamp": "2025-01-23T02:12:22.170539",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "8,571",
+    "fork": "801",
+    "timestamp": "2025-01-23T02:12:22.170829",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,079",
+    "fork": "5,616",
+    "timestamp": "2025-01-23T02:12:22.171129",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,525",
+    "fork": "5,290",
+    "timestamp": "2025-01-23T02:12:22.171418",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,348",
+    "fork": "7,573",
+    "timestamp": "2025-01-23T02:12:22.171705",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,226",
+    "fork": "2,965",
+    "timestamp": "2025-01-23T02:12:22.172013",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "3,703",
+    "fork": "503",
+    "timestamp": "2025-01-23T02:12:22.172302",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,396",
+    "fork": "459",
+    "timestamp": "2025-01-23T02:12:22.172589",
+    "stars_today": "79 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "star": "23,526",
+    "fork": "2,335",
+    "timestamp": "2025-01-23T02:12:22.172888",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "27,667",
+    "fork": "2,024",
+    "timestamp": "2025-01-23T02:12:22.173182",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "109,238",
+    "fork": "8,734",
+    "timestamp": "2025-01-23T02:12:22.173473",
+    "stars_today": "403 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "24,913",
+    "fork": "2,273",
+    "timestamp": "2025-01-23T02:12:22.173763",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "6,444",
+    "fork": "371",
+    "timestamp": "2025-01-23T02:12:22.174064",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,855",
+    "fork": "1,333",
+    "timestamp": "2025-01-23T02:12:22.174350",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,434",
+    "fork": "2,415",
+    "timestamp": "2025-01-23T02:12:22.174634",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,517",
+    "fork": "793",
+    "timestamp": "2025-01-23T02:12:22.174932",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "40,473",
+    "fork": "1,288",
+    "timestamp": "2025-01-23T02:12:22.175245",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,621",
+    "fork": "4,264",
+    "timestamp": "2025-01-23T02:12:22.175526",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,196",
+    "fork": "4,012",
+    "timestamp": "2025-01-23T02:12:22.175807",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "href": "https://github.com/kubevirt/kubevirt",
+    "about": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "star": "5,781",
+    "fork": "1,373",
+    "timestamp": "2025-01-23T02:12:22.176099",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "36,379",
+    "fork": "7,831",
+    "timestamp": "2025-01-23T02:12:22.176378",
+    "stars_today": "9 stars today"
+  }
+]
