@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "shadps4-emu/shadPS4",
+    "href": "https://github.com/shadps4-emu/shadPS4",
+    "about": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "star": "15,460",
+    "fork": "963",
+    "timestamp": "2025-01-24T02:12:33.610330",
+    "stars_today": "653 stars today"
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "71,208",
+    "fork": "10,307",
+    "timestamp": "2025-01-24T02:12:33.610675",
+    "stars_today": "85 stars today"
+  },
+  {
+    "repo": "apache/arrow",
+    "href": "https://github.com/apache/arrow",
+    "about": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+    "star": "14,890",
+    "fork": "3,600",
+    "timestamp": "2025-01-24T02:12:33.610988",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "zhongyang219/TrafficMonitor",
+    "href": "https://github.com/zhongyang219/TrafficMonitor",
+    "about": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "star": "36,084",
+    "fork": "3,320",
+    "timestamp": "2025-01-24T02:12:33.611286",
+    "stars_today": "92 stars today"
+  },
+  {
+    "repo": "manticoresoftware/manticoresearch",
+    "href": "https://github.com/manticoresoftware/manticoresearch",
+    "about": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+    "star": "9,345",
+    "fork": "521",
+    "timestamp": "2025-01-24T02:12:33.611611",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "about": "Cloud-native high-performance edge/middle/service proxy",
+    "star": "25,367",
+    "fork": "4,860",
+    "timestamp": "2025-01-24T02:12:33.611919",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "pybind/pybind11",
+    "href": "https://github.com/pybind/pybind11",
+    "about": "Seamless operability between C++11 and Python",
+    "star": "16,080",
+    "fork": "2,126",
+    "timestamp": "2025-01-24T02:12:33.612214",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "18,946",
+    "fork": "3,071",
+    "timestamp": "2025-01-24T02:12:33.612505",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "redpanda-data/redpanda",
+    "href": "https://github.com/redpanda-data/redpanda",
+    "about": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "star": "9,890",
+    "fork": "599",
+    "timestamp": "2025-01-24T02:12:33.612798",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "5,920",
+    "fork": "1,519",
+    "timestamp": "2025-01-24T02:12:33.613105",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT",
+    "href": "https://github.com/NVIDIA/TensorRT",
+    "about": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "star": "11,086",
+    "fork": "2,153",
+    "timestamp": "2025-01-24T02:12:33.613403",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Neargye/magic_enum",
+    "href": "https://github.com/Neargye/magic_enum",
+    "about": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+    "star": "5,132",
+    "fork": "458",
+    "timestamp": "2025-01-24T02:12:33.613702",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,346",
+    "fork": "10,234",
+    "timestamp": "2025-01-24T02:12:33.614009",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "44,177",
+    "fork": "6,839",
+    "timestamp": "2025-01-24T02:12:33.614532",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,082",
+    "fork": "3,830",
+    "timestamp": "2025-01-24T02:12:33.614910",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "href": "https://github.com/ros-navigation/navigation2",
+    "about": "ROS 2 Navigation Framework and System",
+    "star": "2,758",
+    "fork": "1,354",
+    "timestamp": "2025-01-24T02:12:33.615215",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",
+    "star": "8,942",
+    "fork": "1,699",
+    "timestamp": "2025-01-24T02:12:33.615522",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "href": "https://github.com/microsoft/LightGBM",
+    "about": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+    "star": "16,899",
+    "fork": "3,847",
+    "timestamp": "2025-01-24T02:12:33.615872",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "about": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "star": "26,512",
+    "fork": "8,739",
+    "timestamp": "2025-01-24T02:12:33.616182",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "risc0/risc0",
+    "href": "https://github.com/risc0/risc0",
+    "about": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+    "star": "1,762",
+    "fork": "488",
+    "timestamp": "2025-01-24T02:12:33.616506",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc/grpc",
+    "href": "https://github.com/grpc/grpc",
+    "about": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "star": "42,317",
+    "fork": "10,631",
+    "timestamp": "2025-01-24T02:12:33.616861",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "zeek/zeek",
+    "href": "https://github.com/zeek/zeek",
+    "about": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+    "star": "6,594",
+    "fork": "1,231",
+    "timestamp": "2025-01-24T02:12:33.617168",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "120,247",
+    "fork": "24,449",
+    "timestamp": "2025-01-24T02:12:33.617467",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "zeux/meshoptimizer",
+    "href": "https://github.com/zeux/meshoptimizer",
+    "about": "Mesh optimization library that makes meshes smaller and faster to render",
+    "star": "5,920",
+    "fork": "511",
+    "timestamp": "2025-01-24T02:12:33.617768",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "67,934",
+    "fork": "10,398",
+    "timestamp": "2025-01-24T02:12:33.618085",
+    "stars_today": "6 stars today"
+  }
+]

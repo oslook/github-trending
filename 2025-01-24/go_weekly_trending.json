@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,910",
+    "fork": "9,639",
+    "timestamp": "2025-01-24T02:12:45.823564",
+    "stars_today": "359 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "6,727",
+    "fork": "194",
+    "timestamp": "2025-01-24T02:12:45.823896",
+    "stars_today": "1,393 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,031",
+    "fork": "227",
+    "timestamp": "2025-01-24T02:12:45.824195",
+    "stars_today": "1,316 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,615",
+    "fork": "2,912",
+    "timestamp": "2025-01-24T02:12:45.824526",
+    "stars_today": "741 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,668",
+    "fork": "2,232",
+    "timestamp": "2025-01-24T02:12:45.824881",
+    "stars_today": "1,179 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,623",
+    "fork": "4,265",
+    "timestamp": "2025-01-24T02:12:45.825187",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,540",
+    "fork": "5,292",
+    "timestamp": "2025-01-24T02:12:45.825476",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,417",
+    "fork": "464",
+    "timestamp": "2025-01-24T02:12:45.825766",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,228",
+    "fork": "2,965",
+    "timestamp": "2025-01-24T02:12:45.826067",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,650",
+    "fork": "877",
+    "timestamp": "2025-01-24T02:12:45.826358",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,905",
+    "fork": "554",
+    "timestamp": "2025-01-24T02:12:45.826691",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,379",
+    "fork": "2,121",
+    "timestamp": "2025-01-24T02:12:45.826995",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "1,306",
+    "fork": "130",
+    "timestamp": "2025-01-24T02:12:45.827287",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,424",
+    "fork": "2,260",
+    "timestamp": "2025-01-24T02:12:45.827576",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,325",
+    "fork": "4,436",
+    "timestamp": "2025-01-24T02:12:45.827881",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,251",
+    "fork": "3,742",
+    "timestamp": "2025-01-24T02:12:45.828175",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "20,537",
+    "fork": "1,631",
+    "timestamp": "2025-01-24T02:12:45.828464",
+    "stars_today": "153 stars this week"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,723",
+    "fork": "415",
+    "timestamp": "2025-01-24T02:12:45.828785",
+    "stars_today": "195 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,860",
+    "fork": "2,610",
+    "timestamp": "2025-01-24T02:12:45.829087",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "stonith404/pocket-id",
+    "href": "https://github.com/stonith404/pocket-id",
+    "about": "A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
+    "star": "1,089",
+    "fork": "22",
+    "timestamp": "2025-01-24T02:12:45.829404",
+    "stars_today": "195 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,933",
+    "fork": "1,440",
+    "timestamp": "2025-01-24T02:12:45.829692",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,784",
+    "fork": "2,193",
+    "timestamp": "2025-01-24T02:12:45.829992",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,696",
+    "fork": "2,486",
+    "timestamp": "2025-01-24T02:12:45.830321",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "109,558",
+    "fork": "8,751",
+    "timestamp": "2025-01-24T02:12:45.830616",
+    "stars_today": "1,627 stars this week"
+  }
+]
