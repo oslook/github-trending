@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,178",
+    "fork": "235",
+    "timestamp": "2025-01-25T02:07:52.076231",
+    "stars_today": "1,440 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,945",
+    "fork": "9,641",
+    "timestamp": "2025-01-25T02:07:52.076532",
+    "stars_today": "380 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "6,805",
+    "fork": "192",
+    "timestamp": "2025-01-25T02:07:52.076816",
+    "stars_today": "1,295 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,644",
+    "fork": "2,915",
+    "timestamp": "2025-01-25T02:07:52.077139",
+    "stars_today": "749 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,709",
+    "fork": "2,235",
+    "timestamp": "2025-01-25T02:07:52.077455",
+    "stars_today": "1,202 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,426",
+    "fork": "464",
+    "timestamp": "2025-01-25T02:07:52.077738",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,381",
+    "fork": "2,120",
+    "timestamp": "2025-01-25T02:07:52.078033",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,659",
+    "fork": "877",
+    "timestamp": "2025-01-25T02:07:52.078314",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,428",
+    "fork": "2,260",
+    "timestamp": "2025-01-25T02:07:52.078595",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,544",
+    "fork": "5,292",
+    "timestamp": "2025-01-25T02:07:52.078873",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,327",
+    "fork": "4,434",
+    "timestamp": "2025-01-25T02:07:52.079187",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,755",
+    "fork": "416",
+    "timestamp": "2025-01-25T02:07:52.079495",
+    "stars_today": "162 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,395",
+    "fork": "2,401",
+    "timestamp": "2025-01-25T02:07:52.079773",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,624",
+    "fork": "4,267",
+    "timestamp": "2025-01-25T02:07:52.080064",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,228",
+    "fork": "2,965",
+    "timestamp": "2025-01-25T02:07:52.080341",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "109,874",
+    "fork": "8,766",
+    "timestamp": "2025-01-25T02:07:52.080625",
+    "stars_today": "1,781 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,958",
+    "fork": "2,874",
+    "timestamp": "2025-01-25T02:07:52.080918",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,201",
+    "fork": "20,463",
+    "timestamp": "2025-01-25T02:07:52.081198",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,940",
+    "fork": "1,440",
+    "timestamp": "2025-01-25T02:07:52.081476",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,759",
+    "fork": "1,527",
+    "timestamp": "2025-01-25T02:07:52.081753",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,026",
+    "fork": "9,306",
+    "timestamp": "2025-01-25T02:07:52.082043",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "49,696",
+    "fork": "5,636",
+    "timestamp": "2025-01-25T02:07:52.082319",
+    "stars_today": "192 stars this week"
+  },
+  {
+    "repo": "moonD4rk/HackBrowserData",
+    "href": "https://github.com/moonD4rk/HackBrowserData",
+    "about": "Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",
+    "star": "11,832",
+    "fork": "1,622",
+    "timestamp": "2025-01-25T02:07:52.082594",
+    "stars_today": "157 stars this week"
+  }
+]
