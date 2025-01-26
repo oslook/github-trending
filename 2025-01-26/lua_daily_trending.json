@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,552",
+    "fork": "141",
+    "timestamp": "2025-01-26T02:14:47.813499",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "1,889",
+    "fork": "113",
+    "timestamp": "2025-01-26T02:14:47.813828",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "39,835",
+    "fork": "4,843",
+    "timestamp": "2025-01-26T02:14:47.814111",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "5,873",
+    "fork": "215",
+    "timestamp": "2025-01-26T02:14:47.814435",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "omerxx/dotfiles",
+    "href": "https://github.com/omerxx/dotfiles",
+    "about": "My dotfiles synced from localhost and remote machines",
+    "star": "1,465",
+    "fork": "123",
+    "timestamp": "2025-01-26T02:14:47.814710",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway",
+    "star": "14,743",
+    "fork": "2,537",
+    "timestamp": "2025-01-26T02:14:47.814983",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,747",
+    "fork": "186",
+    "timestamp": "2025-01-26T02:14:47.815273",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "18,057",
+    "fork": "1,314",
+    "timestamp": "2025-01-26T02:14:47.815556",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,004",
+    "fork": "79",
+    "timestamp": "2025-01-26T02:14:47.815860",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "9,105",
+    "fork": "347",
+    "timestamp": "2025-01-26T02:14:47.816136",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "21,413",
+    "fork": "27,383",
+    "timestamp": "2025-01-26T02:14:47.816425",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "overextended/ox_lib",
+    "href": "https://github.com/overextended/ox_lib",
+    "about": "A FiveM resource and script library for Lua and JS.",
+    "star": "338",
+    "fork": "446",
+    "timestamp": "2025-01-26T02:14:47.816701",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,412",
+    "fork": "193",
+    "timestamp": "2025-01-26T02:14:47.817007",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,685",
+    "fork": "439",
+    "timestamp": "2025-01-26T02:14:47.817298",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tarantool/tarantool",
+    "href": "https://github.com/tarantool/tarantool",
+    "about": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+    "star": "3,451",
+    "fork": "384",
+    "timestamp": "2025-01-26T02:14:47.817577",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rcarriga/nvim-dap-ui",
+    "href": "https://github.com/rcarriga/nvim-dap-ui",
+    "about": "A UI for nvim-dap",
+    "star": "2,790",
+    "fork": "107",
+    "timestamp": "2025-01-26T02:14:47.817878",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "7,601",
+    "fork": "2,716",
+    "timestamp": "2025-01-26T02:14:47.818184",
+    "stars_today": "4 stars today"
+  }
+]

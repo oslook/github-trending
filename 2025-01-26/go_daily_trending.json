@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "yassinebenaid/bunster",
+    "href": "https://github.com/yassinebenaid/bunster",
+    "about": "Compile shell scripts to static binaries.",
+    "star": "1,024",
+    "fork": "22",
+    "timestamp": "2025-01-26T02:14:38.240521",
+    "stars_today": "226 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "110,204",
+    "fork": "8,794",
+    "timestamp": "2025-01-26T02:14:38.240814",
+    "stars_today": "302 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,610",
+    "fork": "40,092",
+    "timestamp": "2025-01-26T02:14:38.241096",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,023",
+    "fork": "1,003",
+    "timestamp": "2025-01-26T02:14:38.241387",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ffuf/ffuf",
+    "href": "https://github.com/ffuf/ffuf",
+    "about": "Fast web fuzzer written in Go",
+    "star": "13,212",
+    "fork": "1,344",
+    "timestamp": "2025-01-26T02:14:38.241666",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "mk6i/retro-aim-server",
+    "href": "https://github.com/mk6i/retro-aim-server",
+    "about": "Open-source instant messaging server that makes classic AIM and ICQ clients work again.",
+    "star": "504",
+    "fork": "25",
+    "timestamp": "2025-01-26T02:14:38.241941",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "cubefs/cubefs",
+    "href": "https://github.com/cubefs/cubefs",
+    "about": "cloud-native distributed storage",
+    "star": "4,865",
+    "fork": "680",
+    "timestamp": "2025-01-26T02:14:38.242230",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,885",
+    "fork": "1,613",
+    "timestamp": "2025-01-26T02:14:38.242504",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-operator",
+    "href": "https://github.com/open-telemetry/opentelemetry-operator",
+    "about": "Kubernetes Operator for OpenTelemetry Collector",
+    "star": "1,289",
+    "fork": "479",
+    "timestamp": "2025-01-26T02:14:38.242776",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,449",
+    "fork": "693",
+    "timestamp": "2025-01-26T02:14:38.243050",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,515",
+    "fork": "5,657",
+    "timestamp": "2025-01-26T02:14:38.243338",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "5,184",
+    "fork": "342",
+    "timestamp": "2025-01-26T02:14:38.243614",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "k8sgpt-ai/k8sgpt",
+    "href": "https://github.com/k8sgpt-ai/k8sgpt",
+    "about": "Giving Kubernetes Superpowers to everyone",
+    "star": "6,148",
+    "fork": "714",
+    "timestamp": "2025-01-26T02:14:38.243887",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "17,869",
+    "fork": "3,517",
+    "timestamp": "2025-01-26T02:14:38.244172",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,464",
+    "fork": "1,455",
+    "timestamp": "2025-01-26T02:14:38.244450",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "30,340",
+    "fork": "2,240",
+    "timestamp": "2025-01-26T02:14:38.244750",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,374",
+    "fork": "1,446",
+    "timestamp": "2025-01-26T02:14:38.245022",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "prometheus-community/postgres_exporter",
+    "href": "https://github.com/prometheus-community/postgres_exporter",
+    "about": "A PostgreSQL metric exporter for Prometheus",
+    "star": "2,895",
+    "fork": "761",
+    "timestamp": "2025-01-26T02:14:38.245309",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "4,525",
+    "fork": "622",
+    "timestamp": "2025-01-26T02:14:38.245580",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "metallb/metallb",
+    "href": "https://github.com/metallb/metallb",
+    "about": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+    "star": "7,259",
+    "fork": "930",
+    "timestamp": "2025-01-26T02:14:38.245841",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,968",
+    "fork": "2,873",
+    "timestamp": "2025-01-26T02:14:38.246114",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "8,419",
+    "fork": "1,201",
+    "timestamp": "2025-01-26T02:14:38.246406",
+    "stars_today": "6 stars today"
+  }
+]

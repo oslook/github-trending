@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,302",
+    "fork": "238",
+    "timestamp": "2025-01-26T02:14:38.630991",
+    "stars_today": "1,538 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,959",
+    "fork": "9,641",
+    "timestamp": "2025-01-26T02:14:38.631301",
+    "stars_today": "297 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,736",
+    "fork": "2,238",
+    "timestamp": "2025-01-26T02:14:38.631611",
+    "stars_today": "1,206 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "6,923",
+    "fork": "196",
+    "timestamp": "2025-01-26T02:14:38.631891",
+    "stars_today": "1,236 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,676",
+    "fork": "2,917",
+    "timestamp": "2025-01-26T02:14:38.632208",
+    "stars_today": "756 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "110,204",
+    "fork": "8,794",
+    "timestamp": "2025-01-26T02:14:38.632484",
+    "stars_today": "1,932 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,431",
+    "fork": "464",
+    "timestamp": "2025-01-26T02:14:38.632756",
+    "stars_today": "151 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,663",
+    "fork": "877",
+    "timestamp": "2025-01-26T02:14:38.633030",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,389",
+    "fork": "2,120",
+    "timestamp": "2025-01-26T02:14:38.633317",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,968",
+    "fork": "2,873",
+    "timestamp": "2025-01-26T02:14:38.633591",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,431",
+    "fork": "2,260",
+    "timestamp": "2025-01-26T02:14:38.633869",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,212",
+    "fork": "20,467",
+    "timestamp": "2025-01-26T02:14:38.634141",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,331",
+    "fork": "4,434",
+    "timestamp": "2025-01-26T02:14:38.634423",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,630",
+    "fork": "4,267",
+    "timestamp": "2025-01-26T02:14:38.634696",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,132",
+    "fork": "1,969",
+    "timestamp": "2025-01-26T02:14:38.634973",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,761",
+    "fork": "1,527",
+    "timestamp": "2025-01-26T02:14:38.635262",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "23,951",
+    "fork": "934",
+    "timestamp": "2025-01-26T02:14:38.635536",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "ffuf/ffuf",
+    "href": "https://github.com/ffuf/ffuf",
+    "about": "Fast web fuzzer written in Go",
+    "star": "13,212",
+    "fork": "1,344",
+    "timestamp": "2025-01-26T02:14:38.635811",
+    "stars_today": "162 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,610",
+    "fork": "40,092",
+    "timestamp": "2025-01-26T02:14:38.636081",
+    "stars_today": "209 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,941",
+    "fork": "1,440",
+    "timestamp": "2025-01-26T02:14:38.636366",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,228",
+    "fork": "2,965",
+    "timestamp": "2025-01-26T02:14:38.636637",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,773",
+    "fork": "416",
+    "timestamp": "2025-01-26T02:14:38.636937",
+    "stars_today": "150 stars this week"
+  }
+]
