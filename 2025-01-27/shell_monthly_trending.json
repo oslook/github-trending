@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "termux/termux-packages",
+    "href": "https://github.com/termux/termux-packages",
+    "about": "A package build system for Termux.",
+    "star": "13,669",
+    "fork": "3,183",
+    "timestamp": "2025-01-27T02:14:09.519758",
+    "stars_today": "203 stars this month"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "81,879",
+    "fork": "8,145",
+    "timestamp": "2025-01-27T02:14:09.520078",
+    "stars_today": "844 stars this month"
+  },
+  {
+    "repo": "ublue-os/bazzite",
+    "href": "https://github.com/ublue-os/bazzite",
+    "about": "Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.",
+    "star": "4,583",
+    "fork": "296",
+    "timestamp": "2025-01-27T02:14:09.520376",
+    "stars_today": "319 stars this month"
+  },
+  {
+    "repo": "kodekloudhub/certified-kubernetes-administrator-course",
+    "href": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "about": "Certified Kubernetes Administrator - CKA Course",
+    "star": "8,324",
+    "fork": "7,944",
+    "timestamp": "2025-01-27T02:14:09.520668",
+    "stars_today": "173 stars this month"
+  },
+  {
+    "repo": "ohmyzsh/ohmyzsh",
+    "href": "https://github.com/ohmyzsh/ohmyzsh",
+    "about": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "star": "175,596",
+    "fork": "26,002",
+    "timestamp": "2025-01-27T02:14:09.521000",
+    "stars_today": "934 stars this month"
+  },
+  {
+    "repo": "zigbee2mqtt/hassio-zigbee2mqtt",
+    "href": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
+    "about": "Official Zigbee2MQTT Home Assistant add-on",
+    "star": "1,362",
+    "fork": "482",
+    "timestamp": "2025-01-27T02:14:09.521288",
+    "stars_today": "134 stars this month"
+  },
+  {
+    "repo": "pi-hole/pi-hole",
+    "href": "https://github.com/pi-hole/pi-hole",
+    "about": "A black hole for Internet advertisements",
+    "star": "50,026",
+    "fork": "2,727",
+    "timestamp": "2025-01-27T02:14:09.521608",
+    "stars_today": "501 stars this month"
+  },
+  {
+    "repo": "pi-hole/docker-pi-hole",
+    "href": "https://github.com/pi-hole/docker-pi-hole",
+    "about": "Pi-hole in a docker container",
+    "star": "8,859",
+    "fork": "1,143",
+    "timestamp": "2025-01-27T02:14:09.521931",
+    "stars_today": "153 stars this month"
+  },
+  {
+    "repo": "mbadolato/iTerm2-Color-Schemes",
+    "href": "https://github.com/mbadolato/iTerm2-Color-Schemes",
+    "about": "Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+    "star": "25,248",
+    "fork": "6,477",
+    "timestamp": "2025-01-27T02:14:09.522227",
+    "stars_today": "354 stars this month"
+  },
+  {
+    "repo": "LinuxDroidMaster/Termux-Desktops",
+    "href": "https://github.com/LinuxDroidMaster/Termux-Desktops",
+    "about": "Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration",
+    "star": "901",
+    "fork": "103",
+    "timestamp": "2025-01-27T02:14:09.522508",
+    "stars_today": "139 stars this month"
+  },
+  {
+    "repo": "prasanthrangan/hyprdots",
+    "href": "https://github.com/prasanthrangan/hyprdots",
+    "about": "// Aesthetic, dynamic and minimal dots for Arch hyprland",
+    "star": "8,470",
+    "fork": "947",
+    "timestamp": "2025-01-27T02:14:09.522784",
+    "stars_today": "557 stars this month"
+  },
+  {
+    "repo": "mylinuxforwork/dotfiles",
+    "href": "https://github.com/mylinuxforwork/dotfiles",
+    "about": "The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.",
+    "star": "1,701",
+    "fork": "129",
+    "timestamp": "2025-01-27T02:14:09.523077",
+    "stars_today": "332 stars this month"
+  },
+  {
+    "repo": "monlor/docker-xiaoya",
+    "href": "https://github.com/monlor/docker-xiaoya",
+    "about": "💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture",
+    "star": "2,577",
+    "fork": "345",
+    "timestamp": "2025-01-27T02:14:09.523389",
+    "stars_today": "567 stars this month"
+  },
+  {
+    "repo": "n8n-io/n8n-hosting",
+    "href": "https://github.com/n8n-io/n8n-hosting",
+    "about": "Example of self-hosting n8n in various environments like docker, kubernetes, etc.",
+    "star": "107",
+    "fork": "77",
+    "timestamp": "2025-01-27T02:14:09.523669",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "base-org/node",
+    "href": "https://github.com/base-org/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,558",
+    "fork": "2,625",
+    "timestamp": "2025-01-27T02:14:09.523946",
+    "stars_today": "210 stars this month"
+  },
+  {
+    "repo": "ROCm/ROCm",
+    "href": "https://github.com/ROCm/ROCm",
+    "about": "AMD ROCm™ Software - GitHub Home",
+    "star": "4,866",
+    "fork": "399",
+    "timestamp": "2025-01-27T02:14:09.524228",
+    "stars_today": "125 stars this month"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,767",
+    "fork": "2,241",
+    "timestamp": "2025-01-27T02:13:48.808723",
+    "stars_today": "2,593 stars this month"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,701",
+    "fork": "2,921",
+    "timestamp": "2025-01-27T02:13:48.809110",
+    "stars_today": "1,599 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,419",
+    "fork": "238",
+    "timestamp": "2025-01-27T02:13:48.809399",
+    "stars_today": "2,089 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "48,436",
+    "fork": "4,322",
+    "timestamp": "2025-01-27T02:13:48.809708",
+    "stars_today": "685 stars this month"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.",
+    "star": "110,749",
+    "fork": "8,830",
+    "timestamp": "2025-01-27T02:13:48.810001",
+    "stars_today": "6,403 stars this month"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,009",
+    "fork": "2,098",
+    "timestamp": "2025-01-27T02:13:48.810280",
+    "stars_today": "761 stars this month"
+  },
+  {
+    "repo": "apache/answer",
+    "href": "https://github.com/apache/answer",
+    "about": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",
+    "star": "13,756",
+    "fork": "1,083",
+    "timestamp": "2025-01-27T02:13:48.810563",
+    "stars_today": "671 stars this month"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "60,967",
+    "fork": "4,157",
+    "timestamp": "2025-01-27T02:13:48.810841",
+    "stars_today": "1,699 stars this month"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "13,638",
+    "fork": "3,821",
+    "timestamp": "2025-01-27T02:13:48.811178",
+    "stars_today": "306 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "about": "Fast passive subdomain enumeration tool.",
+    "star": "11,011",
+    "fork": "1,318",
+    "timestamp": "2025-01-27T02:13:48.811460",
+    "stars_today": "576 stars this month"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "67,414",
+    "fork": "2,442",
+    "timestamp": "2025-01-27T02:13:48.811765",
+    "stars_today": "923 stars this month"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "970",
+    "fork": "60",
+    "timestamp": "2025-01-27T02:13:48.812059",
+    "stars_today": "254 stars this month"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,862",
+    "fork": "2,491",
+    "timestamp": "2025-01-27T02:13:48.812338",
+    "stars_today": "656 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "52,906",
+    "fork": "5,195",
+    "timestamp": "2025-01-27T02:13:48.812644",
+    "stars_today": "1,059 stars this month"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,437",
+    "fork": "465",
+    "timestamp": "2025-01-27T02:13:48.812939",
+    "stars_today": "224 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "77,531",
+    "fork": "7,650",
+    "timestamp": "2025-01-27T02:13:48.813221",
+    "stars_today": "930 stars this month"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "26,597",
+    "fork": "1,901",
+    "timestamp": "2025-01-27T02:13:48.813498",
+    "stars_today": "540 stars this month"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,785",
+    "fork": "416",
+    "timestamp": "2025-01-27T02:13:48.813803",
+    "stars_today": "717 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,643",
+    "fork": "40,098",
+    "timestamp": "2025-01-27T02:13:48.814090",
+    "stars_today": "879 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,928",
+    "fork": "556",
+    "timestamp": "2025-01-27T02:13:48.814393",
+    "stars_today": "348 stars this month"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana is for visualization.",
+    "star": "10,453",
+    "fork": "1,466",
+    "timestamp": "2025-01-27T02:13:48.814669",
+    "stars_today": "483 stars this month"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,844",
+    "fork": "774",
+    "timestamp": "2025-01-27T02:13:48.814960",
+    "stars_today": "315 stars this month"
+  }
+]
