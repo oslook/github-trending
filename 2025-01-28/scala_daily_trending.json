@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,777",
+    "fork": "1,753",
+    "timestamp": "2025-01-28T02:12:28.533943",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,353",
+    "fork": "3,114",
+    "timestamp": "2025-01-28T02:12:28.534270",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,009",
+    "fork": "359",
+    "timestamp": "2025-01-28T02:12:28.534557",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,088",
+    "fork": "2,309",
+    "timestamp": "2025-01-28T02:12:28.534840",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,904",
+    "fork": "718",
+    "timestamp": "2025-01-28T02:12:28.535137",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,019",
+    "fork": "729",
+    "timestamp": "2025-01-28T02:12:28.535421",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "302",
+    "fork": "88",
+    "timestamp": "2025-01-28T02:12:28.535725",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,718",
+    "fork": "337",
+    "timestamp": "2025-01-28T02:12:28.536017",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio-http",
+    "href": "https://github.com/zio/zio-http",
+    "about": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+    "star": "808",
+    "fork": "416",
+    "timestamp": "2025-01-28T02:12:28.536302",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,285",
+    "fork": "156",
+    "timestamp": "2025-01-28T02:12:28.536583",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "176",
+    "fork": "49",
+    "timestamp": "2025-01-28T02:12:28.536867",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,294",
+    "fork": "549",
+    "timestamp": "2025-01-28T02:12:28.537185",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,730",
+    "fork": "674",
+    "timestamp": "2025-01-28T02:12:28.537466",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,131",
+    "fork": "930",
+    "timestamp": "2025-01-28T02:12:28.537745",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,820",
+    "fork": "940",
+    "timestamp": "2025-01-28T02:12:28.538032",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,255",
+    "fork": "457",
+    "timestamp": "2025-01-28T02:12:28.538317",
+    "stars_today": "0 stars today"
+  }
+]
