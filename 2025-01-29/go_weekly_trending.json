@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "113,248",
+    "fork": "9,006",
+    "timestamp": "2025-01-29T02:11:34.819638",
+    "stars_today": "4,021 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,537",
+    "fork": "244",
+    "timestamp": "2025-01-29T02:11:34.819948",
+    "stars_today": "1,067 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,455",
+    "fork": "465",
+    "timestamp": "2025-01-29T02:11:34.820249",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "29,845",
+    "fork": "2,244",
+    "timestamp": "2025-01-29T02:11:34.820566",
+    "stars_today": "574 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "8,746",
+    "fork": "278",
+    "timestamp": "2025-01-29T02:11:34.820844",
+    "stars_today": "350 stars this week"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,106",
+    "fork": "635",
+    "timestamp": "2025-01-29T02:11:34.821163",
+    "stars_today": "710 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "4,623",
+    "fork": "632",
+    "timestamp": "2025-01-29T02:11:34.821440",
+    "stars_today": "411 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,401",
+    "fork": "2,121",
+    "timestamp": "2025-01-29T02:11:34.821701",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,770",
+    "fork": "1,533",
+    "timestamp": "2025-01-29T02:11:34.821977",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "36,550",
+    "fork": "2,614",
+    "timestamp": "2025-01-29T02:11:34.822304",
+    "stars_today": "393 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,655",
+    "fork": "4,271",
+    "timestamp": "2025-01-29T02:11:34.822584",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,047",
+    "fork": "9,317",
+    "timestamp": "2025-01-29T02:11:34.822870",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "yassinebenaid/bunster",
+    "href": "https://github.com/yassinebenaid/bunster",
+    "about": "Compile shell scripts to static binaries.",
+    "star": "1,376",
+    "fork": "30",
+    "timestamp": "2025-01-29T02:11:34.823190",
+    "stars_today": "1,161 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "43,982",
+    "fork": "9,643",
+    "timestamp": "2025-01-29T02:11:34.823482",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,444",
+    "fork": "2,260",
+    "timestamp": "2025-01-29T02:11:34.823763",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "23,707",
+    "fork": "3,005",
+    "timestamp": "2025-01-29T02:11:34.824051",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,964",
+    "fork": "1,440",
+    "timestamp": "2025-01-29T02:11:34.824352",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "360",
+    "fork": "198",
+    "timestamp": "2025-01-29T02:11:34.824631",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "24,017",
+    "fork": "935",
+    "timestamp": "2025-01-29T02:11:34.824904",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "27,890",
+    "fork": "2,935",
+    "timestamp": "2025-01-29T02:11:34.825228",
+    "stars_today": "384 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "26,622",
+    "fork": "1,904",
+    "timestamp": "2025-01-29T02:11:34.825518",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "112,681",
+    "fork": "40,108",
+    "timestamp": "2025-01-29T02:11:34.825812",
+    "stars_today": "231 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,668",
+    "fork": "880",
+    "timestamp": "2025-01-29T02:11:34.826110",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "6,607",
+    "fork": "890",
+    "timestamp": "2025-01-29T02:11:34.826422",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,232",
+    "fork": "2,966",
+    "timestamp": "2025-01-29T02:11:34.826703",
+    "stars_today": "16 stars this week"
+  }
+]

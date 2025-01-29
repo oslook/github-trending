@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,914",
+    "fork": "2,795",
+    "timestamp": "2025-01-29T02:11:56.209844",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,097",
+    "fork": "2,310",
+    "timestamp": "2025-01-29T02:11:56.210153",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,255",
+    "fork": "458",
+    "timestamp": "2025-01-29T02:11:56.210471",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,780",
+    "fork": "1,753",
+    "timestamp": "2025-01-29T02:11:56.210750",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,522",
+    "fork": "634",
+    "timestamp": "2025-01-29T02:11:56.211034",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,905",
+    "fork": "719",
+    "timestamp": "2025-01-29T02:11:56.211366",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,404",
+    "fork": "28,468",
+    "timestamp": "2025-01-29T02:11:56.211644",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,302",
+    "fork": "370",
+    "timestamp": "2025-01-29T02:11:56.211918",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,131",
+    "fork": "930",
+    "timestamp": "2025-01-29T02:11:56.212205",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,121",
+    "fork": "340",
+    "timestamp": "2025-01-29T02:11:56.212483",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,549",
+    "fork": "4,100",
+    "timestamp": "2025-01-29T02:11:56.212781",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,523",
+    "fork": "1,199",
+    "timestamp": "2025-01-29T02:11:56.213052",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,820",
+    "fork": "940",
+    "timestamp": "2025-01-29T02:11:56.213353",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,354",
+    "fork": "3,114",
+    "timestamp": "2025-01-29T02:11:56.213632",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,161",
+    "fork": "1,319",
+    "timestamp": "2025-01-29T02:11:56.213906",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,296",
+    "fork": "549",
+    "timestamp": "2025-01-29T02:11:56.214218",
+    "stars_today": "9 stars this week"
+  }
+]

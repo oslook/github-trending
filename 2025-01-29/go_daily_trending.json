@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "113,248",
+    "fork": "9,006",
+    "timestamp": "2025-01-29T02:11:34.296702",
+    "stars_today": "1,404 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "40,969",
+    "fork": "1,302",
+    "timestamp": "2025-01-29T02:11:34.297044",
+    "stars_today": "288 stars today"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,106",
+    "fork": "635",
+    "timestamp": "2025-01-29T02:11:34.297390",
+    "stars_today": "116 stars today"
+  },
+  {
+    "repo": "daytonaio/daytona",
+    "href": "https://github.com/daytonaio/daytona",
+    "about": "The Open Source Dev Environment Manager.",
+    "star": "14,060",
+    "fork": "1,398",
+    "timestamp": "2025-01-29T02:11:34.297682",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "charmbracelet/bubbles",
+    "href": "https://github.com/charmbracelet/bubbles",
+    "about": "TUI components for Bubble Tea 🫧",
+    "star": "5,869",
+    "fork": "276",
+    "timestamp": "2025-01-29T02:11:34.297971",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "8,746",
+    "fork": "278",
+    "timestamp": "2025-01-29T02:11:34.298278",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,964",
+    "fork": "1,440",
+    "timestamp": "2025-01-29T02:11:34.298574",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kubernetes/kube-state-metrics",
+    "href": "https://github.com/kubernetes/kube-state-metrics",
+    "about": "Add-on agent to generate and expose cluster-level metrics.",
+    "star": "5,538",
+    "fork": "2,051",
+    "timestamp": "2025-01-29T02:11:34.298864",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "24,927",
+    "fork": "2,491",
+    "timestamp": "2025-01-29T02:11:34.299181",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,257",
+    "fork": "3,742",
+    "timestamp": "2025-01-29T02:11:34.299473",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,951",
+    "fork": "558",
+    "timestamp": "2025-01-29T02:11:34.299789",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,118",
+    "fork": "1,489",
+    "timestamp": "2025-01-29T02:11:34.300079",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,260",
+    "fork": "2,124",
+    "timestamp": "2025-01-29T02:11:34.300388",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "redpanda-data/connect",
+    "href": "https://github.com/redpanda-data/connect",
+    "about": "Fancy stream processing made operationally mundane",
+    "star": "8,222",
+    "fork": "850",
+    "timestamp": "2025-01-29T02:11:34.300679",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "55,667",
+    "fork": "1,934",
+    "timestamp": "2025-01-29T02:11:34.300995",
+    "stars_today": "105 stars today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "1,782",
+    "fork": "2,664",
+    "timestamp": "2025-01-29T02:11:34.301296",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "38,997",
+    "fork": "2,875",
+    "timestamp": "2025-01-29T02:11:34.301585",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,370",
+    "fork": "1,003",
+    "timestamp": "2025-01-29T02:11:34.301905",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "12,936",
+    "fork": "676",
+    "timestamp": "2025-01-29T02:11:34.302216",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "garethgeorge/backrest",
+    "href": "https://github.com/garethgeorge/backrest",
+    "about": "Backrest is a web UI and orchestrator for restic backup.",
+    "star": "2,140",
+    "fork": "64",
+    "timestamp": "2025-01-29T02:11:34.302542",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,929",
+    "fork": "1,757",
+    "timestamp": "2025-01-29T02:11:34.302829",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "google/go-cmp",
+    "href": "https://github.com/google/go-cmp",
+    "about": "Package for comparing Go values in tests",
+    "star": "4,297",
+    "fork": "211",
+    "timestamp": "2025-01-29T02:11:34.303129",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kind",
+    "href": "https://github.com/kubernetes-sigs/kind",
+    "about": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+    "star": "13,754",
+    "fork": "1,580",
+    "timestamp": "2025-01-29T02:11:34.303418",
+    "stars_today": "5 stars today"
+  }
+]
