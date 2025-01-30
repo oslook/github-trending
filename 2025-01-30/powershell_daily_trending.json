@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "mandiant/flare-vm",
+    "href": "https://github.com/mandiant/flare-vm",
+    "about": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+    "star": "6,830",
+    "fork": "948",
+    "timestamp": "2025-01-30T02:10:56.525610",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.",
+    "star": "16,547",
+    "fork": "710",
+    "timestamp": "2025-01-30T02:10:56.525951",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "Azure/Security-Copilot",
+    "href": "https://github.com/Azure/Security-Copilot",
+    "about": "Microsoft Security Copilot is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles",
+    "star": "487",
+    "fork": "180",
+    "timestamp": "2025-01-30T02:10:56.526264",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "10,633",
+    "fork": "3,223",
+    "timestamp": "2025-01-30T02:10:56.526553",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cisagov/ScubaGear",
+    "href": "https://github.com/cisagov/ScubaGear",
+    "about": "Automation to assess the state of your M365 tenant against CISA's baselines",
+    "star": "1,937",
+    "fork": "250",
+    "timestamp": "2025-01-30T02:10:56.526843",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,262",
+    "fork": "229",
+    "timestamp": "2025-01-30T02:10:56.527149",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "PowerShellMafia/PowerSploit",
+    "href": "https://github.com/PowerShellMafia/PowerSploit",
+    "about": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "star": "12,066",
+    "fork": "4,625",
+    "timestamp": "2025-01-30T02:10:56.527439",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "xiv3r/Burpsuite-Professional",
+    "href": "https://github.com/xiv3r/Burpsuite-Professional",
+    "about": "Latest Burpsuite Professional v2024.12.*",
+    "star": "365",
+    "fork": "128",
+    "timestamp": "2025-01-30T02:10:56.527722",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoftgraph/powershell-intune-samples",
+    "href": "https://github.com/microsoftgraph/powershell-intune-samples",
+    "about": "This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.",
+    "star": "1,389",
+    "fork": "664",
+    "timestamp": "2025-01-30T02:10:56.528000",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/ARI",
+    "href": "https://github.com/microsoft/ARI",
+    "about": "Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort",
+    "star": "1,168",
+    "fork": "404",
+    "timestamp": "2025-01-30T02:10:56.528300",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "28,267",
+    "fork": "1,647",
+    "timestamp": "2025-01-30T02:10:56.528615",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "Azure/Enterprise-Scale",
+    "href": "https://github.com/Azure/Enterprise-Scale",
+    "about": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",
+    "star": "1,749",
+    "fork": "990",
+    "timestamp": "2025-01-30T02:10:56.528900",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "microsoft/AzureMonitorCommunity",
+    "href": "https://github.com/microsoft/AzureMonitorCommunity",
+    "about": "An open repo for Azure Monitor queries, workbooks, alerts and more",
+    "star": "1,035",
+    "fork": "452",
+    "timestamp": "2025-01-30T02:10:56.529195",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ItzLevvie/MicrosoftTeams-msinternal",
+    "href": "https://github.com/ItzLevvie/MicrosoftTeams-msinternal",
+    "about": "This project was created from PowerShell which allows people to download the latest internal build of Microsoft Teams.",
+    "star": "503",
+    "fork": "32",
+    "timestamp": "2025-01-30T02:10:56.529473",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CrowdStrike/psfalcon",
+    "href": "https://github.com/CrowdStrike/psfalcon",
+    "about": "PowerShell for CrowdStrike's OAuth2 APIs",
+    "star": "383",
+    "fork": "72",
+    "timestamp": "2025-01-30T02:10:56.529741",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "1,678",
+    "fork": "523",
+    "timestamp": "2025-01-30T02:10:56.530021",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoft/navcontainerhelper",
+    "href": "https://github.com/microsoft/navcontainerhelper",
+    "about": "Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker.",
+    "star": "396",
+    "fork": "248",
+    "timestamp": "2025-01-30T02:10:56.530307",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/finops-toolkit",
+    "href": "https://github.com/microsoft/finops-toolkit",
+    "about": "Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.",
+    "star": "337",
+    "fork": "120",
+    "timestamp": "2025-01-30T02:10:56.530587",
+    "stars_today": "0 stars today"
+  }
+]

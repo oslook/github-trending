@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "114,530",
+    "fork": "9,130",
+    "timestamp": "2025-01-30T02:10:42.277861",
+    "stars_today": "1,411 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,083",
+    "fork": "2,940",
+    "timestamp": "2025-01-30T02:10:42.278201",
+    "stars_today": "241 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,947",
+    "fork": "1,759",
+    "timestamp": "2025-01-30T02:10:42.278488",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "ekristen/aws-nuke",
+    "href": "https://github.com/ekristen/aws-nuke",
+    "about": "Remove all the resources from an AWS account",
+    "star": "403",
+    "fork": "43",
+    "timestamp": "2025-01-30T02:10:42.278796",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "700",
+    "fork": "29",
+    "timestamp": "2025-01-30T02:10:42.279115",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,070",
+    "fork": "1,304",
+    "timestamp": "2025-01-30T02:10:42.279422",
+    "stars_today": "146 stars today"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "28,461",
+    "fork": "3,050",
+    "timestamp": "2025-01-30T02:10:42.279700",
+    "stars_today": "204 stars today"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "374",
+    "fork": "201",
+    "timestamp": "2025-01-30T02:10:42.279977",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,776",
+    "fork": "1,533",
+    "timestamp": "2025-01-30T02:10:42.280262",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "89,935",
+    "fork": "13,656",
+    "timestamp": "2025-01-30T02:10:42.280567",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "gardener/gardener",
+    "href": "https://github.com/gardener/gardener",
+    "about": "Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.",
+    "star": "3,020",
+    "fork": "496",
+    "timestamp": "2025-01-30T02:10:42.280843",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "5,502",
+    "fork": "576",
+    "timestamp": "2025-01-30T02:10:42.281137",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,972",
+    "fork": "1,440",
+    "timestamp": "2025-01-30T02:10:42.281416",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,807",
+    "fork": "8,290",
+    "timestamp": "2025-01-30T02:10:42.281693",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "29,266",
+    "fork": "847",
+    "timestamp": "2025-01-30T02:10:42.281975",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,377",
+    "fork": "1,003",
+    "timestamp": "2025-01-30T02:10:42.282294",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-fuego/fuego",
+    "href": "https://github.com/go-fuego/fuego",
+    "about": "Golang Fuego - web framework generating OpenAPI 3 spec from source code",
+    "star": "1,178",
+    "fork": "72",
+    "timestamp": "2025-01-30T02:10:42.282571",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "8,732",
+    "fork": "1,096",
+    "timestamp": "2025-01-30T02:10:42.282845",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,281",
+    "fork": "590",
+    "timestamp": "2025-01-30T02:10:42.283130",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "owasp-amass/amass",
+    "href": "https://github.com/owasp-amass/amass",
+    "about": "In-depth attack surface mapping and asset discovery",
+    "star": "12,393",
+    "fork": "1,927",
+    "timestamp": "2025-01-30T02:10:42.283406",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "1,787",
+    "fork": "2,670",
+    "timestamp": "2025-01-30T02:10:42.283682",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "7,666",
+    "fork": "446",
+    "timestamp": "2025-01-30T02:10:42.283954",
+    "stars_today": "32 stars today"
+  }
+]

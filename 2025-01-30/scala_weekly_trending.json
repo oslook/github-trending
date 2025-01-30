@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,914",
+    "fork": "2,796",
+    "timestamp": "2025-01-30T02:11:02.639277",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,255",
+    "fork": "458",
+    "timestamp": "2025-01-30T02:11:02.639581",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,781",
+    "fork": "1,754",
+    "timestamp": "2025-01-30T02:11:02.639863",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,106",
+    "fork": "2,310",
+    "timestamp": "2025-01-30T02:11:02.640175",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,906",
+    "fork": "719",
+    "timestamp": "2025-01-30T02:11:02.640457",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,416",
+    "fork": "28,472",
+    "timestamp": "2025-01-30T02:11:02.640734",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,302",
+    "fork": "370",
+    "timestamp": "2025-01-30T02:11:02.641015",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,525",
+    "fork": "633",
+    "timestamp": "2025-01-30T02:11:02.641309",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "803",
+    "fork": "179",
+    "timestamp": "2025-01-30T02:11:02.641589",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,355",
+    "fork": "545",
+    "timestamp": "2025-01-30T02:11:02.641865",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,549",
+    "fork": "4,099",
+    "timestamp": "2025-01-30T02:11:02.642180",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,094",
+    "fork": "3,591",
+    "timestamp": "2025-01-30T02:11:02.642456",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,524",
+    "fork": "1,199",
+    "timestamp": "2025-01-30T02:11:02.642730",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,122",
+    "fork": "340",
+    "timestamp": "2025-01-30T02:11:02.643004",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,820",
+    "fork": "940",
+    "timestamp": "2025-01-30T02:11:02.643298",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,161",
+    "fork": "1,319",
+    "timestamp": "2025-01-30T02:11:02.643577",
+    "stars_today": "3 stars this week"
+  }
+]
