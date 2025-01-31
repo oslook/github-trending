@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "5,880",
+    "fork": "821",
+    "timestamp": "2025-01-31T02:12:35.122842",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,030",
+    "fork": "4,743",
+    "timestamp": "2025-01-31T02:12:35.123141",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "meetrevision/playbook",
+    "href": "https://github.com/meetrevision/playbook",
+    "about": "A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility",
+    "star": "1,069",
+    "fork": "85",
+    "timestamp": "2025-01-31T02:12:35.123433",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mandiant/flare-vm",
+    "href": "https://github.com/mandiant/flare-vm",
+    "about": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+    "star": "6,832",
+    "fork": "949",
+    "timestamp": "2025-01-31T02:12:35.123712",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "cisagov/ScubaGear",
+    "href": "https://github.com/cisagov/ScubaGear",
+    "about": "Automation to assess the state of your M365 tenant against CISA's baselines",
+    "star": "1,942",
+    "fork": "250",
+    "timestamp": "2025-01-31T02:12:35.123982",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "SpecterOps/BloodHound-Legacy",
+    "href": "https://github.com/SpecterOps/BloodHound-Legacy",
+    "about": "Six Degrees of Domain Admin",
+    "star": "10,015",
+    "fork": "1,745",
+    "timestamp": "2025-01-31T02:12:35.124254",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ansible-collections/ansible.windows",
+    "href": "https://github.com/ansible-collections/ansible.windows",
+    "about": "Windows core collection for Ansible",
+    "star": "258",
+    "fork": "177",
+    "timestamp": "2025-01-31T02:12:35.124540",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Azure/Enterprise-Scale",
+    "href": "https://github.com/Azure/Enterprise-Scale",
+    "about": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",
+    "star": "1,750",
+    "fork": "990",
+    "timestamp": "2025-01-31T02:12:35.124813",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "MicrosoftDocs/PowerShell-Docs",
+    "href": "https://github.com/MicrosoftDocs/PowerShell-Docs",
+    "about": "The official PowerShell documentation sources",
+    "star": "2,072",
+    "fork": "1,586",
+    "timestamp": "2025-01-31T02:12:35.125085",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "okieselbach/Intune",
+    "href": "https://github.com/okieselbach/Intune",
+    "about": "Intune Scripts and Helpers.",
+    "star": "484",
+    "fork": "186",
+    "timestamp": "2025-01-31T02:12:35.125370",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "10,636",
+    "fork": "3,224",
+    "timestamp": "2025-01-31T02:12:35.125640",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "samratashok/nishang",
+    "href": "https://github.com/samratashok/nishang",
+    "about": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security.",
+    "star": "8,949",
+    "fork": "2,464",
+    "timestamp": "2025-01-31T02:12:35.125911",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoftgraph/powershell-intune-samples",
+    "href": "https://github.com/microsoftgraph/powershell-intune-samples",
+    "about": "This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.",
+    "star": "1,389",
+    "fork": "664",
+    "timestamp": "2025-01-31T02:12:35.126181",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "1,680",
+    "fork": "523",
+    "timestamp": "2025-01-31T02:12:35.126462",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,265",
+    "fork": "229",
+    "timestamp": "2025-01-31T02:12:35.126733",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Romanitho/Winget-AutoUpdate",
+    "href": "https://github.com/Romanitho/Winget-AutoUpdate",
+    "about": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
+    "star": "1,264",
+    "fork": "145",
+    "timestamp": "2025-01-31T02:12:35.127027",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "microsoft/AL",
+    "href": "https://github.com/microsoft/AL",
+    "about": "Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.",
+    "star": "767",
+    "fork": "248",
+    "timestamp": "2025-01-31T02:12:35.127296",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "href": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "about": "Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.",
+    "star": "5,633",
+    "fork": "711",
+    "timestamp": "2025-01-31T02:12:35.127606",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "vmware/PowerCLI-Example-Scripts",
+    "href": "https://github.com/vmware/PowerCLI-Example-Scripts",
+    "about": "",
+    "star": "766",
+    "fork": "610",
+    "timestamp": "2025-01-31T02:12:35.127899",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CrowdStrike/falcon-scripts",
+    "href": "https://github.com/CrowdStrike/falcon-scripts",
+    "about": "Scripts to streamline the deployment and use of the CrowdStrike Falcon sensor",
+    "star": "159",
+    "fork": "91",
+    "timestamp": "2025-01-31T02:12:35.128173",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CrowdStrike/psfalcon",
+    "href": "https://github.com/CrowdStrike/psfalcon",
+    "about": "PowerShell for CrowdStrike's OAuth2 APIs",
+    "star": "384",
+    "fork": "72",
+    "timestamp": "2025-01-31T02:12:35.128473",
+    "stars_today": "1 star today"
+  }
+]

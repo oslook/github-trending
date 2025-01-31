@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "115,481",
+    "fork": "9,199",
+    "timestamp": "2025-01-31T02:12:21.888273",
+    "stars_today": "5,687 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "8,793",
+    "fork": "278",
+    "timestamp": "2025-01-31T02:12:21.888586",
+    "stars_today": "345 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,156",
+    "fork": "1,307",
+    "timestamp": "2025-01-31T02:12:21.888895",
+    "stars_today": "647 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,463",
+    "fork": "467",
+    "timestamp": "2025-01-31T02:12:21.889174",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "yassinebenaid/bunster",
+    "href": "https://github.com/yassinebenaid/bunster",
+    "about": "Compile shell scripts to static binaries.",
+    "star": "1,516",
+    "fork": "33",
+    "timestamp": "2025-01-31T02:12:21.889466",
+    "stars_today": "1,243 stars this week"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,143",
+    "fork": "636",
+    "timestamp": "2025-01-31T02:12:21.889769",
+    "stars_today": "733 stars this week"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,627",
+    "fork": "250",
+    "timestamp": "2025-01-31T02:12:21.890045",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,781",
+    "fork": "1,533",
+    "timestamp": "2025-01-31T02:12:21.890320",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "4,637",
+    "fork": "633",
+    "timestamp": "2025-01-31T02:12:21.890608",
+    "stars_today": "223 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "28,508",
+    "fork": "3,053",
+    "timestamp": "2025-01-31T02:12:21.890872",
+    "stars_today": "356 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,055",
+    "fork": "9,323",
+    "timestamp": "2025-01-31T02:12:21.891146",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,577",
+    "fork": "246",
+    "timestamp": "2025-01-31T02:12:21.891436",
+    "stars_today": "610 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "36,598",
+    "fork": "2,619",
+    "timestamp": "2025-01-31T02:12:21.891741",
+    "stars_today": "346 stars this week"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "379",
+    "fork": "200",
+    "timestamp": "2025-01-31T02:12:21.892014",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "ffuf/ffuf",
+    "href": "https://github.com/ffuf/ffuf",
+    "about": "Fast web fuzzer written in Go",
+    "star": "13,284",
+    "fork": "1,349",
+    "timestamp": "2025-01-31T02:12:21.892285",
+    "stars_today": "211 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,677",
+    "fork": "883",
+    "timestamp": "2025-01-31T02:12:21.892573",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "authelia/authelia",
+    "href": "https://github.com/authelia/authelia",
+    "about": "The Single Sign-On Multi-Factor portal for web apps",
+    "star": "22,639",
+    "fork": "1,162",
+    "timestamp": "2025-01-31T02:12:21.892847",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,968",
+    "fork": "1,760",
+    "timestamp": "2025-01-31T02:12:21.893119",
+    "stars_today": "117 stars this week"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "9,900",
+    "fork": "1,378",
+    "timestamp": "2025-01-31T02:12:21.893402",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,121",
+    "fork": "1,490",
+    "timestamp": "2025-01-31T02:12:21.893678",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "55,779",
+    "fork": "1,935",
+    "timestamp": "2025-01-31T02:12:21.893978",
+    "stars_today": "356 stars this week"
+  },
+  {
+    "repo": "miniflux/v2",
+    "href": "https://github.com/miniflux/v2",
+    "about": "Minimalist and opinionated feed reader",
+    "star": "7,214",
+    "fork": "742",
+    "timestamp": "2025-01-31T02:12:21.894249",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,153",
+    "fork": "1,972",
+    "timestamp": "2025-01-31T02:12:21.894550",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "charmbracelet/gum",
+    "href": "https://github.com/charmbracelet/gum",
+    "about": "A tool for glamorous shell scripts 🎀",
+    "star": "18,778",
+    "fork": "359",
+    "timestamp": "2025-01-31T02:12:21.894823",
+    "stars_today": "113 stars this week"
+  }
+]

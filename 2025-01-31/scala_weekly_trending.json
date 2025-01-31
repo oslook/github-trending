@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,917",
+    "fork": "2,795",
+    "timestamp": "2025-01-31T02:12:42.378491",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,255",
+    "fork": "458",
+    "timestamp": "2025-01-31T02:12:42.378791",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,112",
+    "fork": "2,310",
+    "timestamp": "2025-01-31T02:12:42.379070",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,907",
+    "fork": "718",
+    "timestamp": "2025-01-31T02:12:42.379355",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,303",
+    "fork": "371",
+    "timestamp": "2025-01-31T02:12:42.379633",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,783",
+    "fork": "1,754",
+    "timestamp": "2025-01-31T02:12:42.379906",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,549",
+    "fork": "4,099",
+    "timestamp": "2025-01-31T02:12:42.380205",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,420",
+    "fork": "28,474",
+    "timestamp": "2025-01-31T02:12:42.380495",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "803",
+    "fork": "179",
+    "timestamp": "2025-01-31T02:12:42.380770",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,355",
+    "fork": "545",
+    "timestamp": "2025-01-31T02:12:42.381043",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "230",
+    "fork": "76",
+    "timestamp": "2025-01-31T02:12:42.381316",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,094",
+    "fork": "3,591",
+    "timestamp": "2025-01-31T02:12:42.381604",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,122",
+    "fork": "340",
+    "timestamp": "2025-01-31T02:12:42.381881",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,524",
+    "fork": "1,199",
+    "timestamp": "2025-01-31T02:12:42.382156",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,353",
+    "fork": "3,115",
+    "timestamp": "2025-01-31T02:12:42.382444",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,137",
+    "fork": "931",
+    "timestamp": "2025-01-31T02:12:42.382719",
+    "stars_today": "9 stars this week"
+  }
+]

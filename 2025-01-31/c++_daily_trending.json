@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "72,336",
+    "fork": "10,424",
+    "timestamp": "2025-01-31T02:12:06.727849",
+    "stars_today": "306 stars today"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,334",
+    "fork": "1,717",
+    "timestamp": "2025-01-31T02:12:06.728150",
+    "stars_today": "96 stars today"
+  },
+  {
+    "repo": "hyprwm/Hyprland",
+    "href": "https://github.com/hyprwm/Hyprland",
+    "about": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "star": "23,028",
+    "fork": "975",
+    "timestamp": "2025-01-31T02:12:06.728443",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "187,514",
+    "fork": "74,457",
+    "timestamp": "2025-01-31T02:12:06.728725",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "mavlink/qgroundcontrol",
+    "href": "https://github.com/mavlink/qgroundcontrol",
+    "about": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+    "star": "3,476",
+    "fork": "3,778",
+    "timestamp": "2025-01-31T02:12:06.729002",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ROCm/HIP",
+    "href": "https://github.com/ROCm/HIP",
+    "about": "HIP: C++ Heterogeneous-Compute Interface for Portability",
+    "star": "3,861",
+    "fork": "548",
+    "timestamp": "2025-01-31T02:12:06.729282",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "google/re2",
+    "href": "https://github.com/google/re2",
+    "about": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "star": "9,099",
+    "fork": "1,151",
+    "timestamp": "2025-01-31T02:12:06.729597",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ceph/ceph",
+    "href": "https://github.com/ceph/ceph",
+    "about": "Ceph is a distributed object, block, and file storage platform",
+    "star": "14,512",
+    "fork": "6,067",
+    "timestamp": "2025-01-31T02:12:06.729879",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "about": "ClickHouse® is a real-time analytics database management system",
+    "star": "38,693",
+    "fork": "7,062",
+    "timestamp": "2025-01-31T02:12:06.730155",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "topjohnwu/Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "about": "The Magic Mask for Android",
+    "star": "50,511",
+    "fork": "13,019",
+    "timestamp": "2025-01-31T02:12:06.730443",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "96,614",
+    "fork": "8,418",
+    "timestamp": "2025-01-31T02:12:06.730716",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "5,938",
+    "fork": "1,517",
+    "timestamp": "2025-01-31T02:12:06.730988",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "epezent/implot",
+    "href": "https://github.com/epezent/implot",
+    "about": "Immediate Mode Plotting",
+    "star": "5,027",
+    "fork": "549",
+    "timestamp": "2025-01-31T02:12:06.731261",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "18,971",
+    "fork": "3,073",
+    "timestamp": "2025-01-31T02:12:06.731546",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "stephenberry/glaze",
+    "href": "https://github.com/stephenberry/glaze",
+    "about": "Extremely fast, in memory, JSON and interface library for modern C++",
+    "star": "1,657",
+    "fork": "144",
+    "timestamp": "2025-01-31T02:12:06.731822",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "scylladb/scylladb",
+    "href": "https://github.com/scylladb/scylladb",
+    "about": "NoSQL data store using the seastar framework, compatible with Apache Cassandra",
+    "star": "14,019",
+    "fork": "1,329",
+    "timestamp": "2025-01-31T02:12:06.732096",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "carbon-language/carbon-lang",
+    "href": "https://github.com/carbon-language/carbon-lang",
+    "about": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+    "star": "32,527",
+    "fork": "1,492",
+    "timestamp": "2025-01-31T02:12:06.732388",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "bpftrace/bpftrace",
+    "href": "https://github.com/bpftrace/bpftrace",
+    "about": "High-level tracing language for Linux",
+    "star": "8,878",
+    "fork": "1,368",
+    "timestamp": "2025-01-31T02:12:06.732662",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "autowarefoundation/autoware.universe",
+    "href": "https://github.com/autowarefoundation/autoware.universe",
+    "about": "",
+    "star": "1,074",
+    "fork": "677",
+    "timestamp": "2025-01-31T02:12:06.732953",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "href": "https://github.com/ml-explore/mlx",
+    "about": "MLX: An array framework for Apple silicon",
+    "star": "18,706",
+    "fork": "1,071",
+    "timestamp": "2025-01-31T02:12:06.733221",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "microsoft/wil",
+    "href": "https://github.com/microsoft/wil",
+    "about": "Windows Implementation Library",
+    "star": "2,634",
+    "fork": "242",
+    "timestamp": "2025-01-31T02:12:06.733508",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "organicmaps/organicmaps",
+    "href": "https://github.com/organicmaps/organicmaps",
+    "about": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+    "star": "10,410",
+    "fork": "1,012",
+    "timestamp": "2025-01-31T02:12:06.733816",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,373",
+    "fork": "10,241",
+    "timestamp": "2025-01-31T02:12:06.734088",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ClassicOldSong/Apollo",
+    "href": "https://github.com/ClassicOldSong/Apollo",
+    "about": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+    "star": "1,429",
+    "fork": "24",
+    "timestamp": "2025-01-31T02:12:06.734365",
+    "stars_today": "45 stars today"
+  }
+]

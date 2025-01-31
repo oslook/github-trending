@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "115,481",
+    "fork": "9,199",
+    "timestamp": "2025-01-31T02:12:18.321391",
+    "stars_today": "1,162 stars today"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "28,508",
+    "fork": "3,053",
+    "timestamp": "2025-01-31T02:12:18.321688",
+    "stars_today": "96 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,126",
+    "fork": "2,942",
+    "timestamp": "2025-01-31T02:12:18.321997",
+    "stars_today": "94 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "11,970",
+    "fork": "559",
+    "timestamp": "2025-01-31T02:12:18.322302",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "379",
+    "fork": "200",
+    "timestamp": "2025-01-31T02:12:18.322590",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "884",
+    "fork": "634",
+    "timestamp": "2025-01-31T02:12:18.322864",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,968",
+    "fork": "1,760",
+    "timestamp": "2025-01-31T02:12:18.323140",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "href": "https://github.com/open-policy-agent/gatekeeper",
+    "about": "🐊 Gatekeeper - Policy Controller for Kubernetes",
+    "star": "3,778",
+    "fork": "776",
+    "timestamp": "2025-01-31T02:12:18.323425",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,725",
+    "fork": "1,526",
+    "timestamp": "2025-01-31T02:12:18.323704",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "22,483",
+    "fork": "1,457",
+    "timestamp": "2025-01-31T02:12:18.323982",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,003",
+    "fork": "9,644",
+    "timestamp": "2025-01-31T02:12:18.324259",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,171",
+    "fork": "1,371",
+    "timestamp": "2025-01-31T02:12:18.324549",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,876",
+    "fork": "2,613",
+    "timestamp": "2025-01-31T02:12:18.324824",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "centrifugal/centrifugo",
+    "href": "https://github.com/centrifugal/centrifugo",
+    "about": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",
+    "star": "8,668",
+    "fork": "607",
+    "timestamp": "2025-01-31T02:12:18.325126",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,234",
+    "fork": "2,510",
+    "timestamp": "2025-01-31T02:12:18.325414",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,499",
+    "fork": "2,423",
+    "timestamp": "2025-01-31T02:12:18.325690",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "stonith404/pocket-id",
+    "href": "https://github.com/stonith404/pocket-id",
+    "about": "A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
+    "star": "1,243",
+    "fork": "26",
+    "timestamp": "2025-01-31T02:12:18.325992",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "43,331",
+    "fork": "2,069",
+    "timestamp": "2025-01-31T02:12:18.326267",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "charmbracelet/mods",
+    "href": "https://github.com/charmbracelet/mods",
+    "about": "AI on the command line",
+    "star": "3,291",
+    "fork": "134",
+    "timestamp": "2025-01-31T02:12:18.326551",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,760",
+    "fork": "23,135",
+    "timestamp": "2025-01-31T02:12:18.326827",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "getsops/sops",
+    "href": "https://github.com/getsops/sops",
+    "about": "Simple and flexible tool for managing secrets",
+    "star": "17,626",
+    "fork": "899",
+    "timestamp": "2025-01-31T02:12:18.327101",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "5,510",
+    "fork": "577",
+    "timestamp": "2025-01-31T02:12:18.327385",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "lxc/incus",
+    "href": "https://github.com/lxc/incus",
+    "about": "Powerful system container and virtual machine manager",
+    "star": "3,057",
+    "fork": "246",
+    "timestamp": "2025-01-31T02:12:18.327664",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,554",
+    "fork": "542",
+    "timestamp": "2025-01-31T02:12:18.327939",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-operator",
+    "href": "https://github.com/open-telemetry/opentelemetry-operator",
+    "about": "Kubernetes Operator for OpenTelemetry Collector",
+    "star": "1,301",
+    "fork": "483",
+    "timestamp": "2025-01-31T02:12:18.328217",
+    "stars_today": "4 stars today"
+  }
+]

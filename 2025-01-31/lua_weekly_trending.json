@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "9,335",
+    "fork": "355",
+    "timestamp": "2025-01-31T02:12:27.986009",
+    "stars_today": "318 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,583",
+    "fork": "141",
+    "timestamp": "2025-01-31T02:12:27.986508",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "omerxx/dotfiles",
+    "href": "https://github.com/omerxx/dotfiles",
+    "about": "My dotfiles synced from localhost and remote machines",
+    "star": "1,499",
+    "fork": "128",
+    "timestamp": "2025-01-31T02:12:27.986955",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "3,562",
+    "fork": "177",
+    "timestamp": "2025-01-31T02:12:27.987401",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "mrjones2014/smart-splits.nvim",
+    "href": "https://github.com/mrjones2014/smart-splits.nvim",
+    "about": "🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of \"up/down/left/right\".",
+    "star": "1,137",
+    "fork": "46",
+    "timestamp": "2025-01-31T02:12:27.987940",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "mistweaverco/kulala.nvim",
+    "href": "https://github.com/mistweaverco/kulala.nvim",
+    "about": "A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
+    "star": "768",
+    "fork": "40",
+    "timestamp": "2025-01-31T02:12:27.988523",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "overextended/ox_lib",
+    "href": "https://github.com/overextended/ox_lib",
+    "about": "A FiveM resource and script library for Lua and JS.",
+    "star": "341",
+    "fork": "448",
+    "timestamp": "2025-01-31T02:12:27.988970",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,159",
+    "fork": "2,114",
+    "timestamp": "2025-01-31T02:12:27.989490",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,698",
+    "fork": "442",
+    "timestamp": "2025-01-31T02:12:27.989979",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "5,765",
+    "fork": "188",
+    "timestamp": "2025-01-31T02:12:27.990466",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "nvimdev/lspsaga.nvim",
+    "href": "https://github.com/nvimdev/lspsaga.nvim",
+    "about": "improve neovim lsp experience",
+    "star": "3,550",
+    "fork": "290",
+    "timestamp": "2025-01-31T02:12:27.990921",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "MathIsFun0/Cryptid",
+    "href": "https://github.com/MathIsFun0/Cryptid",
+    "about": "An unbalanced Balatro mod",
+    "star": "217",
+    "fork": "61",
+    "timestamp": "2025-01-31T02:12:27.991389",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,023",
+    "fork": "80",
+    "timestamp": "2025-01-31T02:12:27.991717",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,149",
+    "fork": "236",
+    "timestamp": "2025-01-31T02:12:27.991996",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "1,025",
+    "fork": "49",
+    "timestamp": "2025-01-31T02:12:27.992267",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "frankroeder/parrot.nvim",
+    "href": "https://github.com/frankroeder/parrot.nvim",
+    "about": "parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
+    "star": "451",
+    "fork": "25",
+    "timestamp": "2025-01-31T02:12:27.992568",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "overextended/ox_inventory",
+    "href": "https://github.com/overextended/ox_inventory",
+    "about": "Slot-based inventory with metadata.",
+    "star": "480",
+    "fork": "731",
+    "timestamp": "2025-01-31T02:12:27.992844",
+    "stars_today": "0 stars this week"
+  }
+]
