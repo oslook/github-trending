@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "116,374",
+    "fork": "9,269",
+    "timestamp": "2025-02-01T02:15:46.380003",
+    "stars_today": "6,278 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "8,816",
+    "fork": "281",
+    "timestamp": "2025-02-01T02:15:46.380320",
+    "stars_today": "297 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,237",
+    "fork": "1,310",
+    "timestamp": "2025-02-01T02:15:46.380631",
+    "stars_today": "706 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,152",
+    "fork": "1,972",
+    "timestamp": "2025-02-01T02:15:46.380914",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,162",
+    "fork": "638",
+    "timestamp": "2025-02-01T02:15:46.381233",
+    "stars_today": "740 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "36,622",
+    "fork": "2,618",
+    "timestamp": "2025-02-01T02:15:46.381538",
+    "stars_today": "359 stars this week"
+  },
+  {
+    "repo": "yassinebenaid/bunster",
+    "href": "https://github.com/yassinebenaid/bunster",
+    "about": "Compile shell scripts to static binaries.",
+    "star": "1,553",
+    "fork": "33",
+    "timestamp": "2025-02-01T02:15:46.381814",
+    "stars_today": "741 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "28,525",
+    "fork": "3,053",
+    "timestamp": "2025-02-01T02:15:46.382091",
+    "stars_today": "374 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "55,828",
+    "fork": "1,935",
+    "timestamp": "2025-02-01T02:15:46.382407",
+    "stars_today": "384 stars this week"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "383",
+    "fork": "201",
+    "timestamp": "2025-02-01T02:15:46.382686",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,122",
+    "fork": "1,490",
+    "timestamp": "2025-02-01T02:15:46.382955",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,406",
+    "fork": "17,825",
+    "timestamp": "2025-02-01T02:15:46.383242",
+    "stars_today": "188 stars this week"
+  },
+  {
+    "repo": "ffuf/ffuf",
+    "href": "https://github.com/ffuf/ffuf",
+    "about": "Fast web fuzzer written in Go",
+    "star": "13,305",
+    "fork": "1,351",
+    "timestamp": "2025-02-01T02:15:46.383515",
+    "stars_today": "125 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,781",
+    "fork": "1,534",
+    "timestamp": "2025-02-01T02:15:46.383789",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "mk6i/retro-aim-server",
+    "href": "https://github.com/mk6i/retro-aim-server",
+    "about": "Open-source instant messaging server that makes classic AIM and ICQ clients work again.",
+    "star": "563",
+    "fork": "27",
+    "timestamp": "2025-02-01T02:15:46.384062",
+    "stars_today": "114 stars this week"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "5,240",
+    "fork": "344",
+    "timestamp": "2025-02-01T02:15:46.384348",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "17,975",
+    "fork": "1,763",
+    "timestamp": "2025-02-01T02:15:46.384620",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,056",
+    "fork": "9,325",
+    "timestamp": "2025-02-01T02:15:46.384892",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,161",
+    "fork": "2,944",
+    "timestamp": "2025-02-01T02:15:46.385204",
+    "stars_today": "527 stars this week"
+  },
+  {
+    "repo": "authelia/authelia",
+    "href": "https://github.com/authelia/authelia",
+    "about": "The Single Sign-On Multi-Factor portal for web apps",
+    "star": "22,646",
+    "fork": "1,161",
+    "timestamp": "2025-02-01T02:15:46.385478",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,680",
+    "fork": "883",
+    "timestamp": "2025-02-01T02:15:46.385751",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,354",
+    "fork": "4,436",
+    "timestamp": "2025-02-01T02:15:46.386025",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "15,981",
+    "fork": "1,440",
+    "timestamp": "2025-02-01T02:15:46.386309",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "5,993",
+    "fork": "935",
+    "timestamp": "2025-02-01T02:15:46.386583",
+    "stars_today": "16 stars this week"
+  }
+]

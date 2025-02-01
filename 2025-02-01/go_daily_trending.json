@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "116,374",
+    "fork": "9,269",
+    "timestamp": "2025-02-01T02:15:46.185468",
+    "stars_today": "905 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,354",
+    "fork": "4,436",
+    "timestamp": "2025-02-01T02:15:46.185770",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,262",
+    "fork": "545",
+    "timestamp": "2025-02-01T02:15:46.186062",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "go-acme/lego",
+    "href": "https://github.com/go-acme/lego",
+    "about": "Let's Encrypt/ACME client and library written in Go",
+    "star": "8,219",
+    "fork": "1,044",
+    "timestamp": "2025-02-01T02:15:46.186367",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "52,084",
+    "fork": "2,746",
+    "timestamp": "2025-02-01T02:15:46.186682",
+    "stars_today": "94 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,114",
+    "fork": "2,120",
+    "timestamp": "2025-02-01T02:15:46.186969",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,481",
+    "fork": "3,540",
+    "timestamp": "2025-02-01T02:15:46.187274",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,506",
+    "fork": "2,423",
+    "timestamp": "2025-02-01T02:15:46.187561",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "10,323",
+    "fork": "1,640",
+    "timestamp": "2025-02-01T02:15:46.187853",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,409",
+    "fork": "2,124",
+    "timestamp": "2025-02-01T02:15:46.188137",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "20,904",
+    "fork": "419",
+    "timestamp": "2025-02-01T02:15:46.188466",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "6,755",
+    "fork": "625",
+    "timestamp": "2025-02-01T02:15:46.188753",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,205",
+    "fork": "2,545",
+    "timestamp": "2025-02-01T02:15:46.189044",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,410",
+    "fork": "445",
+    "timestamp": "2025-02-01T02:15:46.189337",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,237",
+    "fork": "1,310",
+    "timestamp": "2025-02-01T02:15:46.189643",
+    "stars_today": "90 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,966",
+    "fork": "2,586",
+    "timestamp": "2025-02-01T02:15:46.189923",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "46,858",
+    "fork": "5,632",
+    "timestamp": "2025-02-01T02:15:46.190240",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "9,817",
+    "fork": "990",
+    "timestamp": "2025-02-01T02:15:46.190515",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,245",
+    "fork": "20,485",
+    "timestamp": "2025-02-01T02:15:46.190790",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,286",
+    "fork": "591",
+    "timestamp": "2025-02-01T02:15:46.191067",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "6,621",
+    "fork": "1,994",
+    "timestamp": "2025-02-01T02:15:46.191354",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "5,993",
+    "fork": "935",
+    "timestamp": "2025-02-01T02:15:46.191629",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "2,886",
+    "fork": "1,601",
+    "timestamp": "2025-02-01T02:15:46.191902",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "stonith404/pocket-id",
+    "href": "https://github.com/stonith404/pocket-id",
+    "about": "A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
+    "star": "1,270",
+    "fork": "29",
+    "timestamp": "2025-02-01T02:15:46.192219",
+    "stars_today": "39 stars today"
+  }
+]

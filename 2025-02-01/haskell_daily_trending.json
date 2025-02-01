@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,638",
+    "fork": "423",
+    "timestamp": "2025-02-01T02:15:47.815061",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "35,626",
+    "fork": "3,430",
+    "timestamp": "2025-02-01T02:15:47.815416",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "koka-lang/koka",
+    "href": "https://github.com/koka-lang/koka",
+    "about": "Koka language compiler and interpreter",
+    "star": "3,401",
+    "fork": "169",
+    "timestamp": "2025-02-01T02:15:47.815715",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "36,845",
+    "fork": "1,791",
+    "timestamp": "2025-02-01T02:15:47.816006",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,003",
+    "fork": "44",
+    "timestamp": "2025-02-01T02:15:47.816305",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,099",
+    "fork": "721",
+    "timestamp": "2025-02-01T02:15:47.816595",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "agda/agda",
+    "href": "https://github.com/agda/agda",
+    "about": "Agda is a dependently typed programming language / interactive theorem prover.",
+    "star": "2,560",
+    "fork": "366",
+    "timestamp": "2025-02-01T02:15:47.816887",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "992",
+    "fork": "29",
+    "timestamp": "2025-02-01T02:15:47.817207",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-network",
+    "href": "https://github.com/IntersectMBO/ouroboros-network",
+    "about": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+    "star": "281",
+    "fork": "88",
+    "timestamp": "2025-02-01T02:15:47.817492",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nmattia/niv",
+    "href": "https://github.com/nmattia/niv",
+    "about": "Easy dependency management for Nix projects",
+    "star": "1,656",
+    "fork": "77",
+    "timestamp": "2025-02-01T02:15:47.817811",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "well-typed/grapesy",
+    "href": "https://github.com/well-typed/grapesy",
+    "about": "Native Haskell gRPC client and server based on `http2`",
+    "star": "56",
+    "fork": "4",
+    "timestamp": "2025-02-01T02:15:47.818091",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,502",
+    "fork": "1,053",
+    "timestamp": "2025-02-01T02:15:47.818383",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cardano-scaling/hydra",
+    "href": "https://github.com/cardano-scaling/hydra",
+    "about": "Implementation of the Hydra Head protocol",
+    "star": "294",
+    "fork": "88",
+    "timestamp": "2025-02-01T02:15:47.818667",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,749",
+    "fork": "372",
+    "timestamp": "2025-02-01T02:15:47.818954",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "obsidiansystems/obelisk",
+    "href": "https://github.com/obsidiansystems/obelisk",
+    "about": "Functional reactive web and mobile applications, with batteries included.",
+    "star": "978",
+    "fork": "108",
+    "timestamp": "2025-02-01T02:15:47.819257",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "575",
+    "fork": "67",
+    "timestamp": "2025-02-01T02:15:47.819572",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "wireapp/wire-server",
+    "href": "https://github.com/wireapp/wire-server",
+    "about": "🇪🇺 Wire back-end services",
+    "star": "2,653",
+    "fork": "325",
+    "timestamp": "2025-02-01T02:15:47.819863",
+    "stars_today": "0 stars today"
+  }
+]
