@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "117,183",
+    "fork": "9,339",
+    "timestamp": "2025-02-02T02:14:56.098550",
+    "stars_today": "901 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,123",
+    "fork": "6,135",
+    "timestamp": "2025-02-02T02:14:56.098841",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "7,385",
+    "fork": "217",
+    "timestamp": "2025-02-02T02:14:56.099171",
+    "stars_today": "60 stars today"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "971",
+    "fork": "38",
+    "timestamp": "2025-02-02T02:14:56.099490",
+    "stars_today": "135 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,045",
+    "fork": "1,010",
+    "timestamp": "2025-02-02T02:14:56.099767",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,146",
+    "fork": "2,125",
+    "timestamp": "2025-02-02T02:14:56.100038",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "23,721",
+    "fork": "3,006",
+    "timestamp": "2025-02-02T02:14:56.100324",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,038",
+    "fork": "9,325",
+    "timestamp": "2025-02-02T02:14:56.100596",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,417",
+    "fork": "17,826",
+    "timestamp": "2025-02-02T02:14:56.100869",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "19,748",
+    "fork": "782",
+    "timestamp": "2025-02-02T02:14:56.101167",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,556",
+    "fork": "795",
+    "timestamp": "2025-02-02T02:14:56.101449",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "star": "9,776",
+    "fork": "868",
+    "timestamp": "2025-02-02T02:14:56.101723",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "lightningnetwork/lnd",
+    "href": "https://github.com/lightningnetwork/lnd",
+    "about": "Lightning Network Daemon ⚡️",
+    "star": "7,814",
+    "fork": "2,114",
+    "timestamp": "2025-02-02T02:14:56.101994",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,361",
+    "fork": "4,435",
+    "timestamp": "2025-02-02T02:14:56.102278",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,979",
+    "fork": "2,588",
+    "timestamp": "2025-02-02T02:14:56.102557",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "NVIDIA/nvidia-container-toolkit",
+    "href": "https://github.com/NVIDIA/nvidia-container-toolkit",
+    "about": "Build and run containers leveraging NVIDIA GPUs",
+    "star": "2,756",
+    "fork": "303",
+    "timestamp": "2025-02-02T02:14:56.102829",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "1,950",
+    "fork": "168",
+    "timestamp": "2025-02-02T02:14:56.103104",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "href": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "about": "The most customisable and low-latency cross platform/shell prompt renderer",
+    "star": "18,149",
+    "fork": "2,447",
+    "timestamp": "2025-02-02T02:14:56.103412",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,506",
+    "fork": "3,541",
+    "timestamp": "2025-02-02T02:14:56.103680",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,880",
+    "fork": "2,615",
+    "timestamp": "2025-02-02T02:14:56.103952",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "6,964",
+    "fork": "460",
+    "timestamp": "2025-02-02T02:14:56.104257",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "FiloSottile/age",
+    "href": "https://github.com/FiloSottile/age",
+    "about": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "star": "18,082",
+    "fork": "531",
+    "timestamp": "2025-02-02T02:14:56.104566",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,511",
+    "fork": "2,424",
+    "timestamp": "2025-02-02T02:14:56.104835",
+    "stars_today": "10 stars today"
+  }
+]

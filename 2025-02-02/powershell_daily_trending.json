@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,035",
+    "fork": "4,749",
+    "timestamp": "2025-02-02T02:15:10.948831",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Romanitho/Winget-AutoUpdate",
+    "href": "https://github.com/Romanitho/Winget-AutoUpdate",
+    "about": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
+    "star": "1,284",
+    "fork": "146",
+    "timestamp": "2025-02-02T02:15:10.949155",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Scoop",
+    "href": "https://github.com/ScoopInstaller/Scoop",
+    "about": "A command-line installer for Windows.",
+    "star": "21,687",
+    "fork": "1,429",
+    "timestamp": "2025-02-02T02:15:10.949473",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "1,683",
+    "fork": "525",
+    "timestamp": "2025-02-02T02:15:10.949749",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "meetrevision/playbook",
+    "href": "https://github.com/meetrevision/playbook",
+    "about": "A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility",
+    "star": "1,074",
+    "fork": "87",
+    "timestamp": "2025-02-02T02:15:10.950023",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "28,431",
+    "fork": "1,653",
+    "timestamp": "2025-02-02T02:15:10.950344",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "10,636",
+    "fork": "3,224",
+    "timestamp": "2025-02-02T02:15:10.950622",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Azure/Enterprise-Scale",
+    "href": "https://github.com/Azure/Enterprise-Scale",
+    "about": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",
+    "star": "1,751",
+    "fork": "991",
+    "timestamp": "2025-02-02T02:15:10.950898",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,270",
+    "fork": "230",
+    "timestamp": "2025-02-02T02:15:10.951179",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cisagov/ScubaGear",
+    "href": "https://github.com/cisagov/ScubaGear",
+    "about": "Automation to assess the state of your M365 tenant against CISA's baselines",
+    "star": "1,943",
+    "fork": "251",
+    "timestamp": "2025-02-02T02:15:10.951468",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ansible-collections/ansible.windows",
+    "href": "https://github.com/ansible-collections/ansible.windows",
+    "about": "Windows core collection for Ansible",
+    "star": "258",
+    "fork": "177",
+    "timestamp": "2025-02-02T02:15:10.951747",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "PowerShellMafia/PowerSploit",
+    "href": "https://github.com/PowerShellMafia/PowerSploit",
+    "about": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "star": "12,073",
+    "fork": "4,629",
+    "timestamp": "2025-02-02T02:15:10.952022",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ChrisTitusTech/powershell-profile",
+    "href": "https://github.com/ChrisTitusTech/powershell-profile",
+    "about": "Pretty PowerShell that looks good and functions almost as good as Linux terminal",
+    "star": "706",
+    "fork": "380",
+    "timestamp": "2025-02-02T02:15:10.952346",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Sycnex/Windows10Debloater",
+    "href": "https://github.com/Sycnex/Windows10Debloater",
+    "about": "Script to remove Windows 10 bloatware.",
+    "star": "18,342",
+    "fork": "2,052",
+    "timestamp": "2025-02-02T02:15:10.952626",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mandiant/flare-vm",
+    "href": "https://github.com/mandiant/flare-vm",
+    "about": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+    "star": "6,850",
+    "fork": "949",
+    "timestamp": "2025-02-02T02:15:10.952897",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "dartraiden/NVIDIA-patcher",
+    "href": "https://github.com/dartraiden/NVIDIA-patcher",
+    "about": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP and RTX 3080 Ti 20GB.",
+    "star": "456",
+    "fork": "37",
+    "timestamp": "2025-02-02T02:15:10.953166",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Main",
+    "href": "https://github.com/ScoopInstaller/Main",
+    "about": "📦 The default bucket for Scoop.",
+    "star": "1,632",
+    "fork": "986",
+    "timestamp": "2025-02-02T02:15:10.953469",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mandiant/commando-vm",
+    "href": "https://github.com/mandiant/commando-vm",
+    "about": "Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com",
+    "star": "7,059",
+    "fork": "1,308",
+    "timestamp": "2025-02-02T02:15:10.953741",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "jamesstringerparsec/Easy-GPU-PV",
+    "href": "https://github.com/jamesstringerparsec/Easy-GPU-PV",
+    "about": "A Project dedicated to making GPU Partitioning on Windows easier!",
+    "star": "4,587",
+    "fork": "470",
+    "timestamp": "2025-02-02T02:15:10.954010",
+    "stars_today": "1 star today"
+  }
+]
