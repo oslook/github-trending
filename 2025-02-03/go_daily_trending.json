@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "117,819",
+    "fork": "9,400",
+    "timestamp": "2025-02-03T02:12:59.417664",
+    "stars_today": "725 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,377",
+    "fork": "7,172",
+    "timestamp": "2025-02-03T02:12:59.417997",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "21,704",
+    "fork": "2,586",
+    "timestamp": "2025-02-03T02:12:59.418285",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "1,005",
+    "fork": "40",
+    "timestamp": "2025-02-03T02:12:59.418592",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,168",
+    "fork": "2,129",
+    "timestamp": "2025-02-03T02:12:59.418866",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "21,994",
+    "fork": "2,589",
+    "timestamp": "2025-02-03T02:12:59.419162",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "6,651",
+    "fork": "1,999",
+    "timestamp": "2025-02-03T02:12:59.419440",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "WireGuard/wireguard-go",
+    "href": "https://github.com/WireGuard/wireguard-go",
+    "about": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+    "star": "3,287",
+    "fork": "1,133",
+    "timestamp": "2025-02-03T02:12:59.419720",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hajimehoshi/ebiten",
+    "href": "https://github.com/hajimehoshi/ebiten",
+    "about": "Ebitengine - A dead simple 2D game engine for Go",
+    "star": "11,492",
+    "fork": "683",
+    "timestamp": "2025-02-03T02:12:59.420033",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "19,783",
+    "fork": "783",
+    "timestamp": "2025-02-03T02:12:59.420336",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "11,416",
+    "fork": "987",
+    "timestamp": "2025-02-03T02:12:59.420612",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "iyear/tdl",
+    "href": "https://github.com/iyear/tdl",
+    "about": "📥 A Telegram toolkit written in Golang",
+    "star": "4,876",
+    "fork": "480",
+    "timestamp": "2025-02-03T02:12:59.420887",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "67,280",
+    "fork": "4,380",
+    "timestamp": "2025-02-03T02:12:59.421204",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "href": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "star": "28,373",
+    "fork": "1,532",
+    "timestamp": "2025-02-03T02:12:59.421477",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "star": "27,045",
+    "fork": "4,108",
+    "timestamp": "2025-02-03T02:12:59.421748",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "30,258",
+    "fork": "4,730",
+    "timestamp": "2025-02-03T02:12:59.422050",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "3,916",
+    "fork": "729",
+    "timestamp": "2025-02-03T02:12:59.422352",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,743",
+    "fork": "1,020",
+    "timestamp": "2025-02-03T02:12:59.422624",
+    "stars_today": "16 stars today"
+  }
+]

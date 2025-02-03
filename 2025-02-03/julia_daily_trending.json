@@ -1,0 +1,65 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "615",
+    "fork": "479",
+    "timestamp": "2025-02-03T02:13:05.434605",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,295",
+    "fork": "5,531",
+    "timestamp": "2025-02-03T02:13:05.434940",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "90",
+    "fork": "19",
+    "timestamp": "2025-02-03T02:13:05.435220",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,034",
+    "fork": "206",
+    "timestamp": "2025-02-03T02:13:05.435505",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaPlots/Plots.jl",
+    "href": "https://github.com/JuliaPlots/Plots.jl",
+    "about": "Powerful convenience for Julia visualizations and data analysis",
+    "star": "1,860",
+    "fork": "358",
+    "timestamp": "2025-02-03T02:13:05.435809",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "FluxML/Flux.jl",
+    "href": "https://github.com/FluxML/Flux.jl",
+    "about": "Relax! Flux is the ML library that doesn't make you tensor",
+    "star": "4,568",
+    "fork": "609",
+    "timestamp": "2025-02-03T02:13:05.436125",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ITensor/ITensors.jl",
+    "href": "https://github.com/ITensor/ITensors.jl",
+    "about": "A Julia library for efficient tensor computations and tensor network calculations. ITensor is supported by the Simons Foundation's Flatiron Institute.",
+    "star": "562",
+    "fork": "125",
+    "timestamp": "2025-02-03T02:13:05.436399",
+    "stars_today": "0 stars today"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "tidyverse/ggplot2",
+    "href": "https://github.com/tidyverse/ggplot2",
+    "about": "An implementation of the Grammar of Graphics in R",
+    "star": "6,601",
+    "fork": "2,071",
+    "timestamp": "2025-02-03T02:13:19.632135",
+    "stars_today": "30 stars this month"
+  },
+  {
+    "repo": "swirldev/swirl_courses",
+    "href": "https://github.com/swirldev/swirl_courses",
+    "about": "🎓 A collection of interactive courses for the swirl R package.",
+    "star": "4,361",
+    "fork": "7,244",
+    "timestamp": "2025-02-03T02:13:19.632583",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "hadley/r4ds",
+    "href": "https://github.com/hadley/r4ds",
+    "about": "R for data science: a book",
+    "star": "4,658",
+    "fork": "4,247",
+    "timestamp": "2025-02-03T02:13:19.633067",
+    "stars_today": "43 stars this month"
+  },
+  {
+    "repo": "rmaia/pavo",
+    "href": "https://github.com/rmaia/pavo",
+    "about": "tools for the analysis of color data in R",
+    "star": "71",
+    "fork": "17",
+    "timestamp": "2025-02-03T02:13:19.633524",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "r-lib/tree-sitter-r",
+    "href": "https://github.com/r-lib/tree-sitter-r",
+    "about": "",
+    "star": "118",
+    "fork": "33",
+    "timestamp": "2025-02-03T02:13:19.634040",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "satijalab/seurat",
+    "href": "https://github.com/satijalab/seurat",
+    "about": "R toolkit for single cell genomics",
+    "star": "2,356",
+    "fork": "929",
+    "timestamp": "2025-02-03T02:13:19.634591",
+    "stars_today": "29 stars this month"
+  },
+  {
+    "repo": "Rdatatable/data.table",
+    "href": "https://github.com/Rdatatable/data.table",
+    "about": "R's data.table package extends data.frame:",
+    "star": "3,649",
+    "fork": "998",
+    "timestamp": "2025-02-03T02:13:19.635130",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "rstudio/tinytex",
+    "href": "https://github.com/rstudio/tinytex",
+    "about": "A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",
+    "star": "1,002",
+    "fork": "117",
+    "timestamp": "2025-02-03T02:13:19.635589",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "joey711/phyloseq",
+    "href": "https://github.com/joey711/phyloseq",
+    "about": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+    "star": "596",
+    "fork": "188",
+    "timestamp": "2025-02-03T02:13:19.636067",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "rstudio/renv",
+    "href": "https://github.com/rstudio/renv",
+    "about": "renv: Project environments for R.",
+    "star": "1,035",
+    "fork": "153",
+    "timestamp": "2025-02-03T02:13:19.636548",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "REditorSupport/languageserver",
+    "href": "https://github.com/REditorSupport/languageserver",
+    "about": "An implementation of the Language Server Protocol for R",
+    "star": "601",
+    "fork": "95",
+    "timestamp": "2025-02-03T02:13:19.637043",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "tidyverse/ellmer",
+    "href": "https://github.com/tidyverse/ellmer",
+    "about": "Call LLM APIs from R",
+    "star": "319",
+    "fork": "39",
+    "timestamp": "2025-02-03T02:13:19.637345",
+    "stars_today": "65 stars this month"
+  },
+  {
+    "repo": "r-lib/devtools",
+    "href": "https://github.com/r-lib/devtools",
+    "about": "Tools to make an R developer's life easier",
+    "star": "2,416",
+    "fork": "761",
+    "timestamp": "2025-02-03T02:13:19.637631",
+    "stars_today": "8 stars this month"
+  },
+  {
+    "repo": "mojaveazure/seurat-disk",
+    "href": "https://github.com/mojaveazure/seurat-disk",
+    "about": "Interfaces for HDF5-based Single Cell File Formats",
+    "star": "155",
+    "fork": "50",
+    "timestamp": "2025-02-03T02:13:19.637942",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "broadinstitute/infercnv",
+    "href": "https://github.com/broadinstitute/infercnv",
+    "about": "Inferring CNV from Single-Cell RNA-Seq",
+    "star": "589",
+    "fork": "170",
+    "timestamp": "2025-02-03T02:13:19.638226",
+    "stars_today": "8 stars this month"
+  },
+  {
+    "repo": "sqjin/CellChat",
+    "href": "https://github.com/sqjin/CellChat",
+    "about": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+    "star": "658",
+    "fork": "152",
+    "timestamp": "2025-02-03T02:13:19.638504",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "r-lib/remotes",
+    "href": "https://github.com/r-lib/remotes",
+    "about": "Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",
+    "star": "340",
+    "fork": "152",
+    "timestamp": "2025-02-03T02:13:19.638773",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "rstudio/shiny",
+    "href": "https://github.com/rstudio/shiny",
+    "about": "Easy interactive web applications with R",
+    "star": "5,411",
+    "fork": "1,870",
+    "timestamp": "2025-02-03T02:13:19.639072",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "karthik/wesanderson",
+    "href": "https://github.com/karthik/wesanderson",
+    "about": "A Wes Anderson color palette for R",
+    "star": "1,977",
+    "fork": "148",
+    "timestamp": "2025-02-03T02:13:19.639377",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "rstudio/reticulate",
+    "href": "https://github.com/rstudio/reticulate",
+    "about": "R Interface to Python",
+    "star": "1,688",
+    "fork": "333",
+    "timestamp": "2025-02-03T02:13:19.639651",
+    "stars_today": "7 stars this month"
+  }
+]
