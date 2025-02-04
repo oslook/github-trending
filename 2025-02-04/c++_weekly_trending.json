@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "72,881",
+    "fork": "10,496",
+    "timestamp": "2025-02-04T02:12:18.703815",
+    "stars_today": "1,370 stars this week"
+  },
+  {
+    "repo": "Mozilla-Ocho/llamafile",
+    "href": "https://github.com/Mozilla-Ocho/llamafile",
+    "about": "Distribute and run LLMs with a single file.",
+    "star": "21,530",
+    "fork": "1,118",
+    "timestamp": "2025-02-04T02:12:18.704133",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "href": "https://github.com/ml-explore/mlx",
+    "about": "MLX: An array framework for Apple silicon",
+    "star": "18,796",
+    "fork": "1,073",
+    "timestamp": "2025-02-04T02:12:18.704421",
+    "stars_today": "227 stars this week"
+  },
+  {
+    "repo": "hyprwm/Hyprland",
+    "href": "https://github.com/hyprwm/Hyprland",
+    "about": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "star": "23,108",
+    "fork": "979",
+    "timestamp": "2025-02-04T02:12:18.704704",
+    "stars_today": "207 stars this week"
+  },
+  {
+    "repo": "ceph/ceph",
+    "href": "https://github.com/ceph/ceph",
+    "about": "Ceph is a distributed object, block, and file storage platform",
+    "star": "14,529",
+    "fork": "6,070",
+    "timestamp": "2025-02-04T02:12:18.704998",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "187,717",
+    "fork": "74,488",
+    "timestamp": "2025-02-04T02:12:18.705279",
+    "stars_today": "325 stars this week"
+  },
+  {
+    "repo": "jank-lang/jank",
+    "href": "https://github.com/jank-lang/jank",
+    "about": "The native Clojure dialect hosted on LLVM",
+    "star": "2,305",
+    "fork": "77",
+    "timestamp": "2025-02-04T02:12:18.705558",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,433",
+    "fork": "1,723",
+    "timestamp": "2025-02-04T02:12:18.705858",
+    "stars_today": "327 stars this week"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "href": "https://github.com/nomic-ai/gpt4all",
+    "about": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "star": "72,146",
+    "fork": "7,853",
+    "timestamp": "2025-02-04T02:12:18.706146",
+    "stars_today": "242 stars this week"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,348",
+    "fork": "3,860",
+    "timestamp": "2025-02-04T02:12:18.706455",
+    "stars_today": "210 stars this week"
+  },
+  {
+    "repo": "mozilla/DeepSpeech",
+    "href": "https://github.com/mozilla/DeepSpeech",
+    "about": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "star": "25,732",
+    "fork": "4,001",
+    "timestamp": "2025-02-04T02:12:18.706735",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "ClassicOldSong/Apollo",
+    "href": "https://github.com/ClassicOldSong/Apollo",
+    "about": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+    "star": "1,522",
+    "fork": "28",
+    "timestamp": "2025-02-04T02:12:18.707029",
+    "stars_today": "169 stars this week"
+  },
+  {
+    "repo": "kiwibrowser/src.next",
+    "href": "https://github.com/kiwibrowser/src.next",
+    "about": "Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium",
+    "star": "2,540",
+    "fork": "348",
+    "timestamp": "2025-02-04T02:12:18.707312",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "redpanda-data/redpanda",
+    "href": "https://github.com/redpanda-data/redpanda",
+    "about": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "star": "9,953",
+    "fork": "602",
+    "timestamp": "2025-02-04T02:12:18.707593",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "typesense/typesense",
+    "href": "https://github.com/typesense/typesense",
+    "about": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+    "star": "21,956",
+    "fork": "680",
+    "timestamp": "2025-02-04T02:12:18.707911",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "ggerganov/ggml",
+    "href": "https://github.com/ggerganov/ggml",
+    "about": "Tensor library for machine learning",
+    "star": "11,714",
+    "fork": "1,105",
+    "timestamp": "2025-02-04T02:12:18.708219",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "IfcOpenShell/IfcOpenShell",
+    "href": "https://github.com/IfcOpenShell/IfcOpenShell",
+    "about": "Open source IFC library and geometry engine",
+    "star": "1,956",
+    "fork": "753",
+    "timestamp": "2025-02-04T02:12:18.708500",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "organicmaps/organicmaps",
+    "href": "https://github.com/organicmaps/organicmaps",
+    "about": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+    "star": "10,447",
+    "fork": "1,013",
+    "timestamp": "2025-02-04T02:12:18.708807",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "CoatiSoftware/Sourcetrail",
+    "href": "https://github.com/CoatiSoftware/Sourcetrail",
+    "about": "Sourcetrail - free and open-source interactive source explorer",
+    "star": "15,098",
+    "fork": "1,440",
+    "timestamp": "2025-02-04T02:12:18.709101",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "openxla/xla",
+    "href": "https://github.com/openxla/xla",
+    "about": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+    "star": "2,901",
+    "fork": "493",
+    "timestamp": "2025-02-04T02:12:18.709385",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "apache/arrow",
+    "href": "https://github.com/apache/arrow",
+    "about": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+    "star": "14,945",
+    "fork": "3,608",
+    "timestamp": "2025-02-04T02:12:18.709664",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "google/sentencepiece",
+    "href": "https://github.com/google/sentencepiece",
+    "about": "Unsupervised text tokenizer for Neural Network-based text generation.",
+    "star": "10,541",
+    "fork": "1,188",
+    "timestamp": "2025-02-04T02:12:18.709953",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "endless-sky/endless-sky",
+    "href": "https://github.com/endless-sky/endless-sky",
+    "about": "Space exploration, trading, and combat game.",
+    "star": "6,321",
+    "fork": "1,069",
+    "timestamp": "2025-02-04T02:12:18.710230",
+    "stars_today": "15 stars this week"
+  }
+]
