@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "72,994",
+    "fork": "10,517",
+    "timestamp": "2025-02-05T02:13:54.476563",
+    "stars_today": "1,308 stars this week"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,448",
+    "fork": "1,725",
+    "timestamp": "2025-02-05T02:13:54.476874",
+    "stars_today": "315 stars this week"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "href": "https://github.com/ml-explore/mlx",
+    "about": "MLX: An array framework for Apple silicon",
+    "star": "18,811",
+    "fork": "1,074",
+    "timestamp": "2025-02-05T02:13:54.477161",
+    "stars_today": "202 stars this week"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "187,740",
+    "fork": "74,489",
+    "timestamp": "2025-02-05T02:13:54.477444",
+    "stars_today": "329 stars this week"
+  },
+  {
+    "repo": "Mozilla-Ocho/llamafile",
+    "href": "https://github.com/Mozilla-Ocho/llamafile",
+    "about": "Distribute and run LLMs with a single file.",
+    "star": "21,537",
+    "fork": "1,119",
+    "timestamp": "2025-02-05T02:13:54.477730",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "jank-lang/jank",
+    "href": "https://github.com/jank-lang/jank",
+    "about": "The native Clojure dialect hosted on LLVM",
+    "star": "2,314",
+    "fork": "78",
+    "timestamp": "2025-02-05T02:13:54.478027",
+    "stars_today": "187 stars this week"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "href": "https://github.com/nomic-ai/gpt4all",
+    "about": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "star": "72,183",
+    "fork": "7,860",
+    "timestamp": "2025-02-05T02:13:54.478305",
+    "stars_today": "263 stars this week"
+  },
+  {
+    "repo": "ggerganov/ggml",
+    "href": "https://github.com/ggerganov/ggml",
+    "about": "Tensor library for machine learning",
+    "star": "11,723",
+    "fork": "1,109",
+    "timestamp": "2025-02-05T02:13:54.478611",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,386",
+    "fork": "3,861",
+    "timestamp": "2025-02-05T02:13:54.478930",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "hyprwm/Hyprland",
+    "href": "https://github.com/hyprwm/Hyprland",
+    "about": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "star": "23,133",
+    "fork": "980",
+    "timestamp": "2025-02-05T02:13:54.479206",
+    "stars_today": "202 stars this week"
+  },
+  {
+    "repo": "mozilla/DeepSpeech",
+    "href": "https://github.com/mozilla/DeepSpeech",
+    "about": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "star": "25,740",
+    "fork": "4,002",
+    "timestamp": "2025-02-05T02:13:54.479674",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "href": "https://github.com/LadybirdBrowser/ladybird",
+    "about": "Truly independent web browser",
+    "star": "27,774",
+    "fork": "1,196",
+    "timestamp": "2025-02-05T02:13:54.480015",
+    "stars_today": "236 stars this week"
+  },
+  {
+    "repo": "ClassicOldSong/Apollo",
+    "href": "https://github.com/ClassicOldSong/Apollo",
+    "about": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+    "star": "1,544",
+    "fork": "29",
+    "timestamp": "2025-02-05T02:13:54.480295",
+    "stars_today": "177 stars this week"
+  },
+  {
+    "repo": "CoatiSoftware/Sourcetrail",
+    "href": "https://github.com/CoatiSoftware/Sourcetrail",
+    "about": "Sourcetrail - free and open-source interactive source explorer",
+    "star": "15,103",
+    "fork": "1,441",
+    "timestamp": "2025-02-05T02:13:54.480572",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "ceph/ceph",
+    "href": "https://github.com/ceph/ceph",
+    "about": "Ceph is a distributed object, block, and file storage platform",
+    "star": "14,531",
+    "fork": "6,069",
+    "timestamp": "2025-02-05T02:13:54.480858",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "google/sentencepiece",
+    "href": "https://github.com/google/sentencepiece",
+    "about": "Unsupervised text tokenizer for Neural Network-based text generation.",
+    "star": "10,545",
+    "fork": "1,189",
+    "timestamp": "2025-02-05T02:13:54.481133",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "18,980",
+    "fork": "3,075",
+    "timestamp": "2025-02-05T02:13:54.481407",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "topjohnwu/Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "about": "The Magic Mask for Android",
+    "star": "50,640",
+    "fork": "13,070",
+    "timestamp": "2025-02-05T02:13:54.481684",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "redpanda-data/redpanda",
+    "href": "https://github.com/redpanda-data/redpanda",
+    "about": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "star": "9,954",
+    "fork": "601",
+    "timestamp": "2025-02-05T02:13:54.481973",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "120,405",
+    "fork": "24,471",
+    "timestamp": "2025-02-05T02:13:54.482247",
+    "stars_today": "143 stars this week"
+  },
+  {
+    "repo": "cdozdil/OptiScaler",
+    "href": "https://github.com/cdozdil/OptiScaler",
+    "about": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+    "star": "857",
+    "fork": "23",
+    "timestamp": "2025-02-05T02:13:54.482520",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "shadps4-emu/shadPS4",
+    "href": "https://github.com/shadps4-emu/shadPS4",
+    "about": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "star": "17,425",
+    "fork": "1,073",
+    "timestamp": "2025-02-05T02:13:54.482794",
+    "stars_today": "628 stars this week"
+  },
+  {
+    "repo": "organicmaps/organicmaps",
+    "href": "https://github.com/organicmaps/organicmaps",
+    "about": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+    "star": "10,449",
+    "fork": "1,016",
+    "timestamp": "2025-02-05T02:13:54.483113",
+    "stars_today": "63 stars this week"
+  }
+]

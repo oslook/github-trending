@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "118,985",
+    "fork": "9,521",
+    "timestamp": "2025-02-05T02:14:01.687202",
+    "stars_today": "6,236 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,451",
+    "fork": "1,314",
+    "timestamp": "2025-02-05T02:14:01.687540",
+    "stars_today": "546 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,491",
+    "fork": "17,837",
+    "timestamp": "2025-02-05T02:14:01.687842",
+    "stars_today": "221 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,166",
+    "fork": "6,161",
+    "timestamp": "2025-02-05T02:14:01.688135",
+    "stars_today": "132 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "28,563",
+    "fork": "3,056",
+    "timestamp": "2025-02-05T02:14:01.688425",
+    "stars_today": "350 stars this week"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "896",
+    "fork": "638",
+    "timestamp": "2025-02-05T02:14:01.688709",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "1,051",
+    "fork": "41",
+    "timestamp": "2025-02-05T02:14:01.689034",
+    "stars_today": "352 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,305",
+    "fork": "2,965",
+    "timestamp": "2025-02-05T02:14:01.689345",
+    "stars_today": "520 stars this week"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "396",
+    "fork": "205",
+    "timestamp": "2025-02-05T02:14:01.689636",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,167",
+    "fork": "1,974",
+    "timestamp": "2025-02-05T02:14:01.689934",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,617",
+    "fork": "545",
+    "timestamp": "2025-02-05T02:14:01.690220",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "2,974",
+    "fork": "1,230",
+    "timestamp": "2025-02-05T02:14:01.690507",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "18,005",
+    "fork": "1,764",
+    "timestamp": "2025-02-05T02:14:01.690793",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,584",
+    "fork": "800",
+    "timestamp": "2025-02-05T02:14:01.691097",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,004",
+    "fork": "1,937",
+    "timestamp": "2025-02-05T02:14:01.691415",
+    "stars_today": "385 stars this week"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,612",
+    "fork": "685",
+    "timestamp": "2025-02-05T02:14:01.691707",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "9,836",
+    "fork": "992",
+    "timestamp": "2025-02-05T02:14:01.692002",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "2,439",
+    "fork": "462",
+    "timestamp": "2025-02-05T02:14:01.692315",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,279",
+    "fork": "545",
+    "timestamp": "2025-02-05T02:14:01.692607",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "encoredev/encore",
+    "href": "https://github.com/encoredev/encore",
+    "about": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+    "star": "8,892",
+    "fork": "363",
+    "timestamp": "2025-02-05T02:14:01.692902",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "1,978",
+    "fork": "101",
+    "timestamp": "2025-02-05T02:14:01.693185",
+    "stars_today": "238 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/cluster-api",
+    "href": "https://github.com/kubernetes-sigs/cluster-api",
+    "about": "Home for Cluster API, a subproject of sig-cluster-lifecycle",
+    "star": "3,643",
+    "fork": "1,349",
+    "timestamp": "2025-02-05T02:14:01.693466",
+    "stars_today": "7 stars this week"
+  }
+]
