@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,143",
+    "fork": "2,320",
+    "timestamp": "2025-02-06T02:14:25.701737",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,944",
+    "fork": "1,078",
+    "timestamp": "2025-02-06T02:14:25.702049",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,467",
+    "fork": "28,476",
+    "timestamp": "2025-02-06T02:14:25.702332",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,320",
+    "fork": "373",
+    "timestamp": "2025-02-06T02:14:25.702613",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,911",
+    "fork": "719",
+    "timestamp": "2025-02-06T02:14:25.702893",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,920",
+    "fork": "2,798",
+    "timestamp": "2025-02-06T02:14:25.703209",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,141",
+    "fork": "346",
+    "timestamp": "2025-02-06T02:14:25.703494",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,536",
+    "fork": "633",
+    "timestamp": "2025-02-06T02:14:25.703769",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,099",
+    "fork": "3,591",
+    "timestamp": "2025-02-06T02:14:25.704055",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,008",
+    "fork": "359",
+    "timestamp": "2025-02-06T02:14:25.704331",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "802",
+    "fork": "181",
+    "timestamp": "2025-02-06T02:14:25.704604",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,358",
+    "fork": "545",
+    "timestamp": "2025-02-06T02:14:25.704877",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,162",
+    "fork": "1,319",
+    "timestamp": "2025-02-06T02:14:25.705163",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,798",
+    "fork": "433",
+    "timestamp": "2025-02-06T02:14:25.705437",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,737",
+    "fork": "678",
+    "timestamp": "2025-02-06T02:14:25.705715",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "231",
+    "fork": "76",
+    "timestamp": "2025-02-06T02:14:25.706003",
+    "stars_today": "1 star this week"
+  }
+]

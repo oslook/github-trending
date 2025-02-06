@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "120,107",
+    "fork": "9,612",
+    "timestamp": "2025-02-06T02:13:57.010625",
+    "stars_today": "5,970 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "28,584",
+    "fork": "3,058",
+    "timestamp": "2025-02-06T02:13:57.010922",
+    "stars_today": "181 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,181",
+    "fork": "6,163",
+    "timestamp": "2025-02-06T02:13:57.011215",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "900",
+    "fork": "639",
+    "timestamp": "2025-02-06T02:13:57.011493",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,514",
+    "fork": "17,839",
+    "timestamp": "2025-02-06T02:13:57.011770",
+    "stars_today": "230 stars this week"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,870",
+    "fork": "670",
+    "timestamp": "2025-02-06T02:13:57.012058",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/naabu",
+    "href": "https://github.com/projectdiscovery/naabu",
+    "about": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "star": "4,935",
+    "fork": "570",
+    "timestamp": "2025-02-06T02:13:57.012337",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,495",
+    "fork": "1,314",
+    "timestamp": "2025-02-06T02:13:57.012640",
+    "stars_today": "461 stars this week"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,595",
+    "fork": "802",
+    "timestamp": "2025-02-06T02:13:57.012915",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,172",
+    "fork": "1,974",
+    "timestamp": "2025-02-06T02:13:57.013203",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "52,147",
+    "fork": "2,748",
+    "timestamp": "2025-02-06T02:13:57.013503",
+    "stars_today": "300 stars this week"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "2,442",
+    "fork": "463",
+    "timestamp": "2025-02-06T02:13:57.013801",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "1,076",
+    "fork": "42",
+    "timestamp": "2025-02-06T02:13:57.014114",
+    "stars_today": "364 stars this week"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,614",
+    "fork": "685",
+    "timestamp": "2025-02-06T02:13:57.014391",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,282",
+    "fork": "547",
+    "timestamp": "2025-02-06T02:13:57.014666",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,220",
+    "fork": "2,142",
+    "timestamp": "2025-02-06T02:13:57.014941",
+    "stars_today": "181 stars this week"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "1,999",
+    "fork": "101",
+    "timestamp": "2025-02-06T02:13:57.015295",
+    "stars_today": "274 stars this week"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "6,776",
+    "fork": "624",
+    "timestamp": "2025-02-06T02:13:57.015569",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,343",
+    "fork": "2,968",
+    "timestamp": "2025-02-06T02:13:57.015867",
+    "stars_today": "323 stars this week"
+  },
+  {
+    "repo": "chainflag/eth-faucet",
+    "href": "https://github.com/chainflag/eth-faucet",
+    "about": "Ether faucet server built with Go and Svelte.",
+    "star": "398",
+    "fork": "206",
+    "timestamp": "2025-02-06T02:13:57.016155",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,561",
+    "fork": "2,432",
+    "timestamp": "2025-02-06T02:13:57.016437",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "6,694",
+    "fork": "2,005",
+    "timestamp": "2025-02-06T02:13:57.016708",
+    "stars_today": "117 stars this week"
+  }
+]

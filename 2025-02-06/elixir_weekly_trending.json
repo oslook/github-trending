@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "21,357",
+    "fork": "1,130",
+    "timestamp": "2025-02-06T02:13:53.731430",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "kieraneglin/pinchflat",
+    "href": "https://github.com/kieraneglin/pinchflat",
+    "about": "Your next YouTube media manager",
+    "star": "2,214",
+    "fork": "48",
+    "timestamp": "2025-02-06T02:13:53.731725",
+    "stars_today": "117 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "21,681",
+    "fork": "2,901",
+    "timestamp": "2025-02-06T02:13:53.732024",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,372",
+    "fork": "952",
+    "timestamp": "2025-02-06T02:13:53.732308",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "elixir-lsp/elixir_sense",
+    "href": "https://github.com/elixir-lsp/elixir_sense",
+    "about": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+    "star": "314",
+    "fork": "41",
+    "timestamp": "2025-02-06T02:13:53.732616",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "elixir-lsp/elixir-ls",
+    "href": "https://github.com/elixir-lsp/elixir-ls",
+    "about": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "star": "1,545",
+    "fork": "205",
+    "timestamp": "2025-02-06T02:13:53.732926",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "elixir-grpc/grpc",
+    "href": "https://github.com/elixir-grpc/grpc",
+    "about": "An Elixir implementation of gRPC",
+    "star": "1,409",
+    "fork": "215",
+    "timestamp": "2025-02-06T02:13:53.733220",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "elixir-protobuf/protobuf",
+    "href": "https://github.com/elixir-protobuf/protobuf",
+    "about": "A pure Elixir implementation of Google Protobuf.",
+    "star": "840",
+    "fork": "145",
+    "timestamp": "2025-02-06T02:13:53.733499",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "valpackett/httpotion",
+    "href": "https://github.com/valpackett/httpotion",
+    "about": "[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)",
+    "star": "725",
+    "fork": "100",
+    "timestamp": "2025-02-06T02:13:53.733805",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "24,823",
+    "fork": "3,405",
+    "timestamp": "2025-02-06T02:13:53.734093",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "pentacent/keila",
+    "href": "https://github.com/pentacent/keila",
+    "about": "Open Source Newsletter Tool.",
+    "star": "1,549",
+    "fork": "89",
+    "timestamp": "2025-02-06T02:13:53.734403",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "6,911",
+    "fork": "322",
+    "timestamp": "2025-02-06T02:13:53.734711",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "firezone/firezone",
+    "href": "https://github.com/firezone/firezone",
+    "about": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "star": "7,014",
+    "fork": "292",
+    "timestamp": "2025-02-06T02:13:53.735001",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "ash-project/ash",
+    "href": "https://github.com/ash-project/ash",
+    "about": "A declarative, extensible framework for building Elixir applications.",
+    "star": "1,726",
+    "fork": "232",
+    "timestamp": "2025-02-06T02:13:53.735282",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "brainlid/langchain",
+    "href": "https://github.com/brainlid/langchain",
+    "about": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
+    "star": "758",
+    "fork": "86",
+    "timestamp": "2025-02-06T02:13:53.735561",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "bitwalker/timex",
+    "href": "https://github.com/bitwalker/timex",
+    "about": "A complete date/time library for Elixir projects.",
+    "star": "1,763",
+    "fork": "384",
+    "timestamp": "2025-02-06T02:13:53.735838",
+    "stars_today": "2 stars this week"
+  }
+]
