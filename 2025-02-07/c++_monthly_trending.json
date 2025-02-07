@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "73,283",
+    "fork": "10,564",
+    "timestamp": "2025-02-07T02:14:31.628260",
+    "stars_today": "3,267 stars this month"
+  },
+  {
+    "repo": "shadps4-emu/shadPS4",
+    "href": "https://github.com/shadps4-emu/shadPS4",
+    "about": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "star": "17,518",
+    "fork": "1,083",
+    "timestamp": "2025-02-07T02:14:31.628552",
+    "stars_today": "4,802 stars this month"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "4,352",
+    "fork": "679",
+    "timestamp": "2025-02-07T02:14:31.628830",
+    "stars_today": "3,259 stars this month"
+  },
+  {
+    "repo": "ton-blockchain/ton",
+    "href": "https://github.com/ton-blockchain/ton",
+    "about": "Main TON monorepo",
+    "star": "3,444",
+    "fork": "1,118",
+    "timestamp": "2025-02-07T02:14:31.629106",
+    "stars_today": "315 stars this month"
+  },
+  {
+    "repo": "zhongyang219/TrafficMonitor",
+    "href": "https://github.com/zhongyang219/TrafficMonitor",
+    "about": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "star": "36,765",
+    "fork": "3,345",
+    "timestamp": "2025-02-07T02:14:31.629408",
+    "stars_today": "1,160 stars this month"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",
+    "star": "4,543",
+    "fork": "519",
+    "timestamp": "2025-02-07T02:14:31.629686",
+    "stars_today": "535 stars this month"
+  },
+  {
+    "repo": "LizardByte/Sunshine",
+    "href": "https://github.com/LizardByte/Sunshine",
+    "about": "Self-hosted game stream host for Moonlight.",
+    "star": "22,416",
+    "fork": "1,063",
+    "timestamp": "2025-02-07T02:14:31.629990",
+    "stars_today": "1,037 stars this month"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "28,953",
+    "fork": "5,640",
+    "timestamp": "2025-02-07T02:14:31.630278",
+    "stars_today": "363 stars this month"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "href": "https://github.com/nomic-ai/gpt4all",
+    "about": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "star": "72,259",
+    "fork": "7,871",
+    "timestamp": "2025-02-07T02:14:31.630553",
+    "stars_today": "898 stars this month"
+  },
+  {
+    "repo": "lich0821/WeChatFerry",
+    "href": "https://github.com/lich0821/WeChatFerry",
+    "about": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
+    "star": "4,989",
+    "fork": "1,043",
+    "timestamp": "2025-02-07T02:14:31.630827",
+    "stars_today": "340 stars this month"
+  },
+  {
+    "repo": "MAZHARMIK/Interview_DS_Algo",
+    "href": "https://github.com/MAZHARMIK/Interview_DS_Algo",
+    "about": "Super Repository for Coding Interview Preperation",
+    "star": "2,089",
+    "fork": "1,131",
+    "timestamp": "2025-02-07T02:14:31.631107",
+    "stars_today": "165 stars this month"
+  },
+  {
+    "repo": "ggerganov/ggml",
+    "href": "https://github.com/ggerganov/ggml",
+    "about": "Tensor library for machine learning",
+    "star": "11,751",
+    "fork": "1,112",
+    "timestamp": "2025-02-07T02:14:31.631411",
+    "stars_today": "285 stars this month"
+  },
+  {
+    "repo": "kiwibrowser/src.next",
+    "href": "https://github.com/kiwibrowser/src.next",
+    "about": "Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium",
+    "star": "2,549",
+    "fork": "352",
+    "timestamp": "2025-02-07T02:14:31.631687",
+    "stars_today": "216 stars this month"
+  },
+  {
+    "repo": "openxla/xla",
+    "href": "https://github.com/openxla/xla",
+    "about": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+    "star": "2,913",
+    "fork": "494",
+    "timestamp": "2025-02-07T02:14:31.631962",
+    "stars_today": "102 stars this month"
+  },
+  {
+    "repo": "kevmo314/scuda",
+    "href": "https://github.com/kevmo314/scuda",
+    "about": "SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.",
+    "star": "1,617",
+    "fork": "54",
+    "timestamp": "2025-02-07T02:14:31.632244",
+    "stars_today": "948 stars this month"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,501",
+    "fork": "1,729",
+    "timestamp": "2025-02-07T02:14:31.632510",
+    "stars_today": "613 stars this month"
+  },
+  {
+    "repo": "MaaAssistantArknights/MaaAssistantArknights",
+    "href": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "about": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "star": "14,818",
+    "fork": "2,001",
+    "timestamp": "2025-02-07T02:14:31.632784",
+    "stars_today": "331 stars this month"
+  },
+  {
+    "repo": "WasmEdge/WasmEdge",
+    "href": "https://github.com/WasmEdge/WasmEdge",
+    "about": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+    "star": "8,932",
+    "fork": "797",
+    "timestamp": "2025-02-07T02:14:31.633056",
+    "stars_today": "233 stars this month"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "93,598",
+    "fork": "21,585",
+    "timestamp": "2025-02-07T02:14:31.633342",
+    "stars_today": "1,263 stars this month"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "11,635",
+    "fork": "1,737",
+    "timestamp": "2025-02-07T02:14:31.633615",
+    "stars_today": "267 stars this month"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "68,049",
+    "fork": "10,403",
+    "timestamp": "2025-02-07T02:14:31.633887",
+    "stars_today": "312 stars this month"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,468",
+    "fork": "3,868",
+    "timestamp": "2025-02-07T02:14:31.634187",
+    "stars_today": "822 stars this month"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "5,955",
+    "fork": "1,524",
+    "timestamp": "2025-02-07T02:14:31.634472",
+    "stars_today": "217 stars this month"
+  }
+]

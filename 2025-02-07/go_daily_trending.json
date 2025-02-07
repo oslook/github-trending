@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "121,176",
+    "fork": "9,714",
+    "timestamp": "2025-02-07T02:14:40.167920",
+    "stars_today": "1,122 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,072",
+    "fork": "9,656",
+    "timestamp": "2025-02-07T02:14:40.168296",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,884",
+    "fork": "671",
+    "timestamp": "2025-02-07T02:14:40.168582",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "29,815",
+    "fork": "4,022",
+    "timestamp": "2025-02-07T02:14:40.168888",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,214",
+    "fork": "4,022",
+    "timestamp": "2025-02-07T02:14:40.169163",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "photoprism/photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "about": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+    "star": "36,338",
+    "fork": "2,015",
+    "timestamp": "2025-02-07T02:14:40.169484",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,218",
+    "fork": "875",
+    "timestamp": "2025-02-07T02:14:40.169763",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "monasticacademy/httptap",
+    "href": "https://github.com/monasticacademy/httptap",
+    "about": "View HTTP/HTTPS requests made by any Linux program",
+    "star": "2,993",
+    "fork": "42",
+    "timestamp": "2025-02-07T02:14:40.170042",
+    "stars_today": "629 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,065",
+    "fork": "9,335",
+    "timestamp": "2025-02-07T02:14:40.170326",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "4,817",
+    "fork": "655",
+    "timestamp": "2025-02-07T02:14:40.170602",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "3,206",
+    "fork": "529",
+    "timestamp": "2025-02-07T02:14:40.170874",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "9,312",
+    "fork": "1,121",
+    "timestamp": "2025-02-07T02:14:40.171149",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,581",
+    "fork": "2,435",
+    "timestamp": "2025-02-07T02:14:40.171468",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "13,118",
+    "fork": "1,276",
+    "timestamp": "2025-02-07T02:14:40.171748",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,113",
+    "fork": "18,683",
+    "timestamp": "2025-02-07T02:14:40.172024",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "etcd-io/bbolt",
+    "href": "https://github.com/etcd-io/bbolt",
+    "about": "An embedded key/value database for Go.",
+    "star": "8,489",
+    "fork": "654",
+    "timestamp": "2025-02-07T02:14:40.172339",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,262",
+    "fork": "2,525",
+    "timestamp": "2025-02-07T02:14:40.172616",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,201",
+    "fork": "3,019",
+    "timestamp": "2025-02-07T02:14:40.172891",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,329",
+    "fork": "9,854",
+    "timestamp": "2025-02-07T02:14:40.173166",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "1,978",
+    "fork": "173",
+    "timestamp": "2025-02-07T02:14:40.173457",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,464",
+    "fork": "7,644",
+    "timestamp": "2025-02-07T02:14:40.173735",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,897",
+    "fork": "2,615",
+    "timestamp": "2025-02-07T02:14:40.174007",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,831",
+    "fork": "1,037",
+    "timestamp": "2025-02-07T02:14:40.174308",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "8,642",
+    "fork": "807",
+    "timestamp": "2025-02-07T02:14:40.174586",
+    "stars_today": "9 stars today"
+  }
+]

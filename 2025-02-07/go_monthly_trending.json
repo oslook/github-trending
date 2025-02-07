@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "121,176",
+    "fork": "9,714",
+    "timestamp": "2025-02-07T02:14:42.222285",
+    "stars_today": "15,141 stars this month"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,364",
+    "fork": "2,969",
+    "timestamp": "2025-02-07T02:14:42.222604",
+    "stars_today": "2,028 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "30,078",
+    "fork": "2,257",
+    "timestamp": "2025-02-07T02:14:42.222913",
+    "stars_today": "2,624 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,734",
+    "fork": "250",
+    "timestamp": "2025-02-07T02:14:42.223193",
+    "stars_today": "2,208 stars this month"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,238",
+    "fork": "2,146",
+    "timestamp": "2025-02-07T02:14:42.223479",
+    "stars_today": "890 stars this month"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "13,722",
+    "fork": "3,846",
+    "timestamp": "2025-02-07T02:14:42.223779",
+    "stars_today": "341 stars this month"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,489",
+    "fork": "473",
+    "timestamp": "2025-02-07T02:14:42.224050",
+    "stars_today": "260 stars this month"
+  },
+  {
+    "repo": "apache/answer",
+    "href": "https://github.com/apache/answer",
+    "about": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",
+    "star": "13,871",
+    "fork": "1,093",
+    "timestamp": "2025-02-07T02:14:42.224337",
+    "stars_today": "727 stars this month"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,812",
+    "fork": "1,531",
+    "timestamp": "2025-02-07T02:14:42.224608",
+    "stars_today": "540 stars this month"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "25,123",
+    "fork": "2,500",
+    "timestamp": "2025-02-07T02:14:42.224881",
+    "stars_today": "824 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,547",
+    "fork": "1,316",
+    "timestamp": "2025-02-07T02:14:42.225180",
+    "stars_today": "1,706 stars this month"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "21,059",
+    "fork": "419",
+    "timestamp": "2025-02-07T02:14:42.225492",
+    "stars_today": "816 stars this month"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,884",
+    "fork": "671",
+    "timestamp": "2025-02-07T02:14:42.225763",
+    "stars_today": "147 stars this month"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "19,855",
+    "fork": "788",
+    "timestamp": "2025-02-07T02:14:42.226062",
+    "stars_today": "790 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,703",
+    "fork": "888",
+    "timestamp": "2025-02-07T02:14:42.226349",
+    "stars_today": "116 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "77,761",
+    "fork": "7,666",
+    "timestamp": "2025-02-07T02:14:42.226622",
+    "stars_today": "968 stars this month"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,072",
+    "fork": "9,656",
+    "timestamp": "2025-02-07T02:14:42.226893",
+    "stars_today": "660 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "48,648",
+    "fork": "4,329",
+    "timestamp": "2025-02-07T02:14:42.227190",
+    "stars_today": "708 stars this month"
+  },
+  {
+    "repo": "authelia/authelia",
+    "href": "https://github.com/authelia/authelia",
+    "about": "The Single Sign-On Multi-Factor portal for web apps",
+    "star": "22,713",
+    "fork": "1,162",
+    "timestamp": "2025-02-07T02:14:42.227472",
+    "stars_today": "556 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "53,100",
+    "fork": "5,211",
+    "timestamp": "2025-02-07T02:14:42.227771",
+    "stars_today": "1,089 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,537",
+    "fork": "17,840",
+    "timestamp": "2025-02-07T02:14:42.228045",
+    "stars_today": "823 stars this month"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "1,065",
+    "fork": "69",
+    "timestamp": "2025-02-07T02:14:42.228328",
+    "stars_today": "284 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "20,802",
+    "fork": "1,654",
+    "timestamp": "2025-02-07T02:14:42.228599",
+    "stars_today": "667 stars this month"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,713",
+    "fork": "4,271",
+    "timestamp": "2025-02-07T02:14:42.228871",
+    "stars_today": "270 stars this month"
+  }
+]

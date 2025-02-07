@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "73,283",
+    "fork": "10,564",
+    "timestamp": "2025-02-07T02:14:30.470905",
+    "stars_today": "1,016 stars this week"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "href": "https://github.com/LadybirdBrowser/ladybird",
+    "about": "Truly independent web browser",
+    "star": "27,868",
+    "fork": "1,201",
+    "timestamp": "2025-02-07T02:14:30.471201",
+    "stars_today": "324 stars this week"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,501",
+    "fork": "1,729",
+    "timestamp": "2025-02-07T02:14:30.471493",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "187,783",
+    "fork": "74,500",
+    "timestamp": "2025-02-07T02:14:30.471770",
+    "stars_today": "331 stars this week"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "href": "https://github.com/nomic-ai/gpt4all",
+    "about": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "star": "72,259",
+    "fork": "7,871",
+    "timestamp": "2025-02-07T02:14:30.472043",
+    "stars_today": "291 stars this week"
+  },
+  {
+    "repo": "ggerganov/ggml",
+    "href": "https://github.com/ggerganov/ggml",
+    "about": "Tensor library for machine learning",
+    "star": "11,751",
+    "fork": "1,112",
+    "timestamp": "2025-02-07T02:14:30.472357",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,468",
+    "fork": "3,868",
+    "timestamp": "2025-02-07T02:14:30.472660",
+    "stars_today": "256 stars this week"
+  },
+  {
+    "repo": "Mozilla-Ocho/llamafile",
+    "href": "https://github.com/Mozilla-Ocho/llamafile",
+    "about": "Distribute and run LLMs with a single file.",
+    "star": "21,568",
+    "fork": "1,124",
+    "timestamp": "2025-02-07T02:14:30.472940",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "mamedev/mame",
+    "href": "https://github.com/mamedev/mame",
+    "about": "MAME",
+    "star": "8,732",
+    "fork": "2,087",
+    "timestamp": "2025-02-07T02:14:30.473211",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "32,804",
+    "fork": "3,739",
+    "timestamp": "2025-02-07T02:14:30.473501",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "hyprwm/Hyprland",
+    "href": "https://github.com/hyprwm/Hyprland",
+    "about": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "star": "23,171",
+    "fork": "983",
+    "timestamp": "2025-02-07T02:14:30.473776",
+    "stars_today": "178 stars this week"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "120,437",
+    "fork": "24,478",
+    "timestamp": "2025-02-07T02:14:30.474051",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "11,635",
+    "fork": "1,737",
+    "timestamp": "2025-02-07T02:14:30.474337",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "CoatiSoftware/Sourcetrail",
+    "href": "https://github.com/CoatiSoftware/Sourcetrail",
+    "about": "Sourcetrail - free and open-source interactive source explorer",
+    "star": "15,115",
+    "fork": "1,441",
+    "timestamp": "2025-02-07T02:14:30.474610",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "tensorflow/tflite-micro",
+    "href": "https://github.com/tensorflow/tflite-micro",
+    "about": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
+    "star": "2,064",
+    "fork": "852",
+    "timestamp": "2025-02-07T02:14:30.474880",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "jank-lang/jank",
+    "href": "https://github.com/jank-lang/jank",
+    "about": "The native Clojure dialect hosted on LLVM",
+    "star": "2,321",
+    "fork": "78",
+    "timestamp": "2025-02-07T02:14:30.475152",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "typesense/typesense",
+    "href": "https://github.com/typesense/typesense",
+    "about": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+    "star": "21,993",
+    "fork": "681",
+    "timestamp": "2025-02-07T02:14:30.475465",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "ClassicOldSong/Apollo",
+    "href": "https://github.com/ClassicOldSong/Apollo",
+    "about": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+    "star": "1,580",
+    "fork": "29",
+    "timestamp": "2025-02-07T02:14:30.475739",
+    "stars_today": "148 stars this week"
+  },
+  {
+    "repo": "microsoft/winget-cli",
+    "href": "https://github.com/microsoft/winget-cli",
+    "about": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+    "star": "23,753",
+    "fork": "1,509",
+    "timestamp": "2025-02-07T02:14:30.476009",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "o3de/o3de",
+    "href": "https://github.com/o3de/o3de",
+    "about": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "star": "8,032",
+    "fork": "2,252",
+    "timestamp": "2025-02-07T02:14:30.476292",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "topjohnwu/Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "about": "The Magic Mask for Android",
+    "star": "50,686",
+    "fork": "13,085",
+    "timestamp": "2025-02-07T02:14:30.476568",
+    "stars_today": "214 stars this week"
+  },
+  {
+    "repo": "M2Team/NanaZip",
+    "href": "https://github.com/M2Team/NanaZip",
+    "about": "The 7-Zip derivative intended for the modern Windows experience",
+    "star": "9,564",
+    "fork": "243",
+    "timestamp": "2025-02-07T02:14:30.476837",
+    "stars_today": "104 stars this week"
+  },
+  {
+    "repo": "mozilla/DeepSpeech",
+    "href": "https://github.com/mozilla/DeepSpeech",
+    "about": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "star": "25,771",
+    "fork": "4,005",
+    "timestamp": "2025-02-07T02:14:30.477106",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,396",
+    "fork": "10,259",
+    "timestamp": "2025-02-07T02:14:30.477385",
+    "stars_today": "31 stars this week"
+  }
+]

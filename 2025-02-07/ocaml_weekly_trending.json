@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,613",
+    "fork": "1,115",
+    "timestamp": "2025-02-07T02:14:53.612458",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "coq/coq",
+    "href": "https://github.com/coq/coq",
+    "about": "Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+    "star": "4,924",
+    "fork": "667",
+    "timestamp": "2025-02-07T02:14:53.612749",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,083",
+    "fork": "2,027",
+    "timestamp": "2025-02-07T02:14:53.613069",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "10,987",
+    "fork": "657",
+    "timestamp": "2025-02-07T02:14:53.613364",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "chshersh/github-tui",
+    "href": "https://github.com/chshersh/github-tui",
+    "about": "🌒 A TUI for GitHub",
+    "star": "177",
+    "fork": "10",
+    "timestamp": "2025-02-07T02:14:53.613667",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "facebook/flow",
+    "href": "https://github.com/facebook/flow",
+    "about": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+    "star": "22,112",
+    "fork": "1,865",
+    "timestamp": "2025-02-07T02:14:53.613939",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "ocaml/dune",
+    "href": "https://github.com/ocaml/dune",
+    "about": "A composable build system for OCaml.",
+    "star": "1,686",
+    "fork": "413",
+    "timestamp": "2025-02-07T02:14:53.614210",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "janestreet/magic-trace",
+    "href": "https://github.com/janestreet/magic-trace",
+    "about": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "star": "4,781",
+    "fork": "96",
+    "timestamp": "2025-02-07T02:14:53.614493",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "astrada/google-drive-ocamlfuse",
+    "href": "https://github.com/astrada/google-drive-ocamlfuse",
+    "about": "FUSE filesystem over Google Drive",
+    "star": "5,651",
+    "fork": "354",
+    "timestamp": "2025-02-07T02:14:53.614765",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "terrateamio/terrateam",
+    "href": "https://github.com/terrateamio/terrateam",
+    "about": "Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi operations via pull requests.",
+    "star": "564",
+    "fork": "20",
+    "timestamp": "2025-02-07T02:14:53.615036",
+    "stars_today": "26 stars this week"
+  }
+]
