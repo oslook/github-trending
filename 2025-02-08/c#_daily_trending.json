@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "2,993",
+    "fork": "1,196",
+    "timestamp": "2025-02-08T02:10:37.383782",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,670",
+    "fork": "717",
+    "timestamp": "2025-02-08T02:10:37.384098",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "TelegramMessenger/Telegram-iOS",
+    "href": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "about": "Telegram-iOS",
+    "star": "6,552",
+    "fork": "1,724",
+    "timestamp": "2025-02-08T02:10:37.384433",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "18,235",
+    "fork": "3,423",
+    "timestamp": "2025-02-08T02:10:37.384749",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "freebsd/freebsd-src",
+    "href": "https://github.com/freebsd/freebsd-src",
+    "about": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+    "star": "8,103",
+    "fork": "2,926",
+    "timestamp": "2025-02-08T02:10:37.385055",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "immortalwrt/immortalwrt",
+    "href": "https://github.com/immortalwrt/immortalwrt",
+    "about": "An opensource OpenWrt variant for mainland China users.",
+    "star": "7,191",
+    "fork": "2,018",
+    "timestamp": "2025-02-08T02:10:37.385342",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-instrumentation",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+    "about": "OpenTelemetry Auto Instrumentation using eBPF",
+    "star": "652",
+    "fork": "100",
+    "timestamp": "2025-02-08T02:10:37.385623",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,049",
+    "fork": "503",
+    "timestamp": "2025-02-08T02:10:37.385924",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "4,863",
+    "fork": "2,620",
+    "timestamp": "2025-02-08T02:10:37.386218",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "href": "https://github.com/NVIDIA/cuda-samples",
+    "about": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+    "star": "6,865",
+    "fork": "1,925",
+    "timestamp": "2025-02-08T02:10:37.386502",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "21,426",
+    "fork": "10,833",
+    "timestamp": "2025-02-08T02:10:37.386785",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "9,378",
+    "fork": "2,434",
+    "timestamp": "2025-02-08T02:10:37.387083",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,678",
+    "fork": "2,641",
+    "timestamp": "2025-02-08T02:10:37.387372",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "36,691",
+    "fork": "6,551",
+    "timestamp": "2025-02-08T02:10:37.387687",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,323",
+    "fork": "3,409",
+    "timestamp": "2025-02-08T02:10:37.387983",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,488",
+    "fork": "879",
+    "timestamp": "2025-02-08T02:10:37.388269",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ipxe/ipxe",
+    "href": "https://github.com/ipxe/ipxe",
+    "about": "iPXE network bootloader",
+    "star": "1,603",
+    "fork": "675",
+    "timestamp": "2025-02-08T02:10:37.388551",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,573",
+    "fork": "431",
+    "timestamp": "2025-02-08T02:10:37.388833",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "iovisor/bcc",
+    "href": "https://github.com/iovisor/bcc",
+    "about": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "star": "20,926",
+    "fork": "3,922",
+    "timestamp": "2025-02-08T02:10:37.389127",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+    "star": "18,326",
+    "fork": "903",
+    "timestamp": "2025-02-08T02:10:37.389408",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "RfidResearchGroup/proxmark3",
+    "href": "https://github.com/RfidResearchGroup/proxmark3",
+    "about": "Iceman Fork - Proxmark3",
+    "star": "4,261",
+    "fork": "1,105",
+    "timestamp": "2025-02-08T02:10:37.389714",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "10,610",
+    "fork": "1,403",
+    "timestamp": "2025-02-08T02:10:37.390004",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "href": "https://github.com/obsproject/obs-studio",
+    "about": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "star": "62,044",
+    "fork": "8,167",
+    "timestamp": "2025-02-08T02:10:37.390283",
+    "stars_today": "26 stars today"
+  }
+]

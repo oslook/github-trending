@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,706",
+    "fork": "811",
+    "timestamp": "2025-02-08T02:10:47.340428",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "122,182",
+    "fork": "9,802",
+    "timestamp": "2025-02-08T02:10:47.340736",
+    "stars_today": "972 stars today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,524",
+    "fork": "1,196",
+    "timestamp": "2025-02-08T02:10:47.341055",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "12,591",
+    "fork": "2,699",
+    "timestamp": "2025-02-08T02:10:47.341339",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "24,772",
+    "fork": "4,804",
+    "timestamp": "2025-02-08T02:10:47.341619",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "29,821",
+    "fork": "4,024",
+    "timestamp": "2025-02-08T02:10:47.341945",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,231",
+    "fork": "3,019",
+    "timestamp": "2025-02-08T02:10:47.342228",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,485",
+    "fork": "1,103",
+    "timestamp": "2025-02-08T02:10:47.342508",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,763",
+    "fork": "253",
+    "timestamp": "2025-02-08T02:10:47.342788",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "3,739",
+    "fork": "509",
+    "timestamp": "2025-02-08T02:10:47.343083",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "volcano-sh/volcano",
+    "href": "https://github.com/volcano-sh/volcano",
+    "about": "A Cloud Native Batch System (Project under CNCF)",
+    "star": "4,399",
+    "fork": "1,017",
+    "timestamp": "2025-02-08T02:10:47.343366",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "13,132",
+    "fork": "1,278",
+    "timestamp": "2025-02-08T02:10:47.343654",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "4,948",
+    "fork": "1,165",
+    "timestamp": "2025-02-08T02:10:47.343945",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "4,889",
+    "fork": "658",
+    "timestamp": "2025-02-08T02:10:47.344226",
+    "stars_today": "96 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,192",
+    "fork": "13,684",
+    "timestamp": "2025-02-08T02:10:47.344521",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "9,332",
+    "fork": "1,121",
+    "timestamp": "2025-02-08T02:10:47.344797",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,253",
+    "fork": "2,971",
+    "timestamp": "2025-02-08T02:10:47.345087",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,599",
+    "fork": "2,435",
+    "timestamp": "2025-02-08T02:10:47.345365",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "1,087",
+    "fork": "70",
+    "timestamp": "2025-02-08T02:10:47.345642",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "href": "https://github.com/ehang-io/nps",
+    "about": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "star": "31,236",
+    "fork": "5,671",
+    "timestamp": "2025-02-08T02:10:47.345933",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "NVIDIA/k8s-device-plugin",
+    "href": "https://github.com/NVIDIA/k8s-device-plugin",
+    "about": "NVIDIA device plugin for Kubernetes",
+    "star": "3,001",
+    "fork": "653",
+    "timestamp": "2025-02-08T02:10:47.346212",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "37,862",
+    "fork": "5,884",
+    "timestamp": "2025-02-08T02:10:47.346489",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "metallb/metallb",
+    "href": "https://github.com/metallb/metallb",
+    "about": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+    "star": "7,291",
+    "fork": "932",
+    "timestamp": "2025-02-08T02:10:47.346765",
+    "stars_today": "2 stars today"
+  }
+]

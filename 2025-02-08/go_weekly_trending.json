@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "122,182",
+    "fork": "9,802",
+    "timestamp": "2025-02-08T02:10:50.816750",
+    "stars_today": "6,040 stars this week"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,706",
+    "fork": "811",
+    "timestamp": "2025-02-08T02:10:50.817072",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,883",
+    "fork": "671",
+    "timestamp": "2025-02-08T02:10:50.817361",
+    "stars_today": "101 stars this week"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "903",
+    "fork": "639",
+    "timestamp": "2025-02-08T02:10:50.817646",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,556",
+    "fork": "17,848",
+    "timestamp": "2025-02-08T02:10:50.817943",
+    "stars_today": "212 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/naabu",
+    "href": "https://github.com/projectdiscovery/naabu",
+    "about": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "star": "4,942",
+    "fork": "571",
+    "timestamp": "2025-02-08T02:10:50.818232",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "21,806",
+    "fork": "2,605",
+    "timestamp": "2025-02-08T02:10:50.818516",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,599",
+    "fork": "2,435",
+    "timestamp": "2025-02-08T02:10:50.818798",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "1,116",
+    "fork": "43",
+    "timestamp": "2025-02-08T02:10:50.819119",
+    "stars_today": "254 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,205",
+    "fork": "6,170",
+    "timestamp": "2025-02-08T02:10:50.819398",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,655",
+    "fork": "545",
+    "timestamp": "2025-02-08T02:10:50.819680",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "berachain/beacon-kit",
+    "href": "https://github.com/berachain/beacon-kit",
+    "about": "A modular framework for building EVM consensus clients ⛵️✨",
+    "star": "248",
+    "fork": "202",
+    "timestamp": "2025-02-08T02:10:50.819987",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,284",
+    "fork": "549",
+    "timestamp": "2025-02-08T02:10:50.820275",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,184",
+    "fork": "1,975",
+    "timestamp": "2025-02-08T02:10:50.820563",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "1,985",
+    "fork": "173",
+    "timestamp": "2025-02-08T02:10:50.820849",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "3,215",
+    "fork": "530",
+    "timestamp": "2025-02-08T02:10:50.821148",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,545",
+    "fork": "1,473",
+    "timestamp": "2025-02-08T02:10:50.821462",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "2,450",
+    "fork": "463",
+    "timestamp": "2025-02-08T02:10:50.821776",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,861",
+    "fork": "1,040",
+    "timestamp": "2025-02-08T02:10:50.822075",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "nevalang/neva",
+    "href": "https://github.com/nevalang/neva",
+    "about": "🌊 Next-generation programming language that solves programmers' problems",
+    "star": "652",
+    "fork": "25",
+    "timestamp": "2025-02-08T02:10:50.822360",
+    "stars_today": "172 stars this week"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,279",
+    "fork": "163",
+    "timestamp": "2025-02-08T02:10:50.822642",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,475",
+    "fork": "7,651",
+    "timestamp": "2025-02-08T02:10:50.822935",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,485",
+    "fork": "1,103",
+    "timestamp": "2025-02-08T02:10:50.823217",
+    "stars_today": "19 stars this week"
+  }
+]
