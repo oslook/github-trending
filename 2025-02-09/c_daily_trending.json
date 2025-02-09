@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "11,393",
+    "fork": "6,924",
+    "timestamp": "2025-02-09T02:16:50.549969",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,674",
+    "fork": "717",
+    "timestamp": "2025-02-09T02:16:50.550270",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,488",
+    "fork": "878",
+    "timestamp": "2025-02-09T02:16:50.550559",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "4,865",
+    "fork": "2,621",
+    "timestamp": "2025-02-09T02:16:50.550856",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "18,733",
+    "fork": "714",
+    "timestamp": "2025-02-09T02:16:50.551138",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,680",
+    "fork": "2,641",
+    "timestamp": "2025-02-09T02:16:50.551420",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "36,713",
+    "fork": "6,553",
+    "timestamp": "2025-02-09T02:16:50.551742",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "2,998",
+    "fork": "1,197",
+    "timestamp": "2025-02-09T02:16:50.552026",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,456",
+    "fork": "1,075",
+    "timestamp": "2025-02-09T02:16:50.552337",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,323",
+    "fork": "3,408",
+    "timestamp": "2025-02-09T02:16:50.552629",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "coolsnowwolf/lede",
+    "href": "https://github.com/coolsnowwolf/lede",
+    "about": "Lean's LEDE source",
+    "star": "30,264",
+    "fork": "19,562",
+    "timestamp": "2025-02-09T02:16:50.552913",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "coturn/coturn",
+    "href": "https://github.com/coturn/coturn",
+    "about": "coturn TURN server project",
+    "star": "11,775",
+    "fork": "2,060",
+    "timestamp": "2025-02-09T02:16:50.553194",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "openssh/openssh-portable",
+    "href": "https://github.com/openssh/openssh-portable",
+    "about": "Portable OpenSSH",
+    "star": "3,221",
+    "fork": "1,834",
+    "timestamp": "2025-02-09T02:16:50.553472",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,719",
+    "fork": "1,203",
+    "timestamp": "2025-02-09T02:16:50.553770",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Genymobile/scrcpy",
+    "href": "https://github.com/Genymobile/scrcpy",
+    "about": "Display and control your Android device",
+    "star": "117,257",
+    "fork": "11,109",
+    "timestamp": "2025-02-09T02:16:50.554050",
+    "stars_today": "54 stars today"
+  },
+  {
+    "repo": "immortalwrt/immortalwrt",
+    "href": "https://github.com/immortalwrt/immortalwrt",
+    "about": "An opensource OpenWrt variant for mainland China users.",
+    "star": "7,204",
+    "fork": "2,019",
+    "timestamp": "2025-02-09T02:16:50.554328",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "uber/h3",
+    "href": "https://github.com/uber/h3",
+    "about": "Hexagonal hierarchical geospatial indexing system",
+    "star": "5,046",
+    "fork": "480",
+    "timestamp": "2025-02-09T02:16:50.554608",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ffmpegwasm/ffmpeg.wasm",
+    "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+    "about": "FFmpeg for browser, powered by WebAssembly",
+    "star": "15,028",
+    "fork": "889",
+    "timestamp": "2025-02-09T02:16:50.554903",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "21,439",
+    "fork": "10,833",
+    "timestamp": "2025-02-09T02:16:50.555188",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "karpathy/llama2.c",
+    "href": "https://github.com/karpathy/llama2.c",
+    "about": "Inference Llama 2 in one file of pure C",
+    "star": "17,998",
+    "fork": "2,191",
+    "timestamp": "2025-02-09T02:16:50.555466",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "eclipse-paho/paho.mqtt.c",
+    "href": "https://github.com/eclipse-paho/paho.mqtt.c",
+    "about": "An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/",
+    "star": "2,013",
+    "fork": "1,106",
+    "timestamp": "2025-02-09T02:16:50.555758",
+    "stars_today": "1 star today"
+  }
+]

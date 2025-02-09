@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,357",
+    "fork": "5,534",
+    "timestamp": "2025-02-09T02:17:06.641106",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "615",
+    "fork": "481",
+    "timestamp": "2025-02-09T02:17:06.641402",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,038",
+    "fork": "207",
+    "timestamp": "2025-02-09T02:17:06.641692",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "91",
+    "fork": "20",
+    "timestamp": "2025-02-09T02:17:06.641987",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/CloudMicrophysics.jl",
+    "href": "https://github.com/CliMA/CloudMicrophysics.jl",
+    "about": "A library of cloud microphysics parameterizations",
+    "star": "39",
+    "fork": "8",
+    "timestamp": "2025-02-09T02:17:06.642264",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "oscar-system/Oscar.jl",
+    "href": "https://github.com/oscar-system/Oscar.jl",
+    "about": "A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.",
+    "star": "384",
+    "fork": "134",
+    "timestamp": "2025-02-09T02:17:06.642538",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/www.julialang.org",
+    "href": "https://github.com/JuliaLang/www.julialang.org",
+    "about": "Julia Project website",
+    "star": "370",
+    "fork": "456",
+    "timestamp": "2025-02-09T02:17:06.642850",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaLand.jl",
+    "href": "https://github.com/CliMA/ClimaLand.jl",
+    "about": "Clima's Land Model",
+    "star": "39",
+    "fork": "10",
+    "timestamp": "2025-02-09T02:17:06.643124",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Nemocas/Nemo.jl",
+    "href": "https://github.com/Nemocas/Nemo.jl",
+    "about": "Julia bindings for the FLINT number theory C library",
+    "star": "200",
+    "fork": "62",
+    "timestamp": "2025-02-09T02:17:06.643396",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaArrays/BlockArrays.jl",
+    "href": "https://github.com/JuliaArrays/BlockArrays.jl",
+    "about": "BlockArrays for Julia",
+    "star": "212",
+    "fork": "31",
+    "timestamp": "2025-02-09T02:17:06.643685",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Enzyme.jl",
+    "href": "https://github.com/EnzymeAD/Enzyme.jl",
+    "about": "Julia bindings for the Enzyme automatic differentiator",
+    "star": "477",
+    "fork": "70",
+    "timestamp": "2025-02-09T02:17:06.643964",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/DataInterpolations.jl",
+    "href": "https://github.com/SciML/DataInterpolations.jl",
+    "about": "A library of data interpolation and smoothing functions",
+    "star": "240",
+    "fork": "47",
+    "timestamp": "2025-02-09T02:17:06.644268",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "trixi-framework/Trixi.jl",
+    "href": "https://github.com/trixi-framework/Trixi.jl",
+    "about": "Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia",
+    "star": "562",
+    "fork": "114",
+    "timestamp": "2025-02-09T02:17:06.644595",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaGPU/CUDA.jl",
+    "href": "https://github.com/JuliaGPU/CUDA.jl",
+    "about": "CUDA programming in Julia.",
+    "star": "1,241",
+    "fork": "234",
+    "timestamp": "2025-02-09T02:17:06.645036",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/ModelingToolkit.jl",
+    "href": "https://github.com/SciML/ModelingToolkit.jl",
+    "about": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+    "star": "1,464",
+    "fork": "211",
+    "timestamp": "2025-02-09T02:17:06.645338",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "TuringLang/DynamicPPL.jl",
+    "href": "https://github.com/TuringLang/DynamicPPL.jl",
+    "about": "Implementation of domain-specific language (DSL) for dynamic probabilistic programming",
+    "star": "188",
+    "fork": "32",
+    "timestamp": "2025-02-09T02:17:06.645606",
+    "stars_today": "0 stars today"
+  }
+]

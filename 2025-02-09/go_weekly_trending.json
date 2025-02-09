@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "122,995",
+    "fork": "9,878",
+    "timestamp": "2025-02-09T02:17:02.018784",
+    "stars_today": "6,114 stars this week"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,761",
+    "fork": "812",
+    "timestamp": "2025-02-09T02:17:02.019080",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,612",
+    "fork": "2,436",
+    "timestamp": "2025-02-09T02:17:02.019355",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "905",
+    "fork": "640",
+    "timestamp": "2025-02-09T02:17:02.019640",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "21,834",
+    "fork": "2,611",
+    "timestamp": "2025-02-09T02:17:02.019915",
+    "stars_today": "172 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,585",
+    "fork": "17,848",
+    "timestamp": "2025-02-09T02:17:02.020186",
+    "stars_today": "214 stars this week"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,886",
+    "fork": "670",
+    "timestamp": "2025-02-09T02:17:02.020455",
+    "stars_today": "104 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "3,972",
+    "fork": "738",
+    "timestamp": "2025-02-09T02:17:02.020766",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,431",
+    "fork": "452",
+    "timestamp": "2025-02-09T02:17:02.021036",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/naabu",
+    "href": "https://github.com/projectdiscovery/naabu",
+    "about": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "star": "4,949",
+    "fork": "571",
+    "timestamp": "2025-02-09T02:17:02.021309",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,484",
+    "fork": "7,658",
+    "timestamp": "2025-02-09T02:17:02.021579",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,189",
+    "fork": "1,975",
+    "timestamp": "2025-02-09T02:17:02.021881",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "berachain/beacon-kit",
+    "href": "https://github.com/berachain/beacon-kit",
+    "about": "A modular framework for building EVM consensus clients ⛵️✨",
+    "star": "253",
+    "fork": "203",
+    "timestamp": "2025-02-09T02:17:02.022153",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "volcano-sh/volcano",
+    "href": "https://github.com/volcano-sh/volcano",
+    "about": "A Cloud Native Batch System (Project under CNCF)",
+    "star": "4,406",
+    "fork": "1,017",
+    "timestamp": "2025-02-09T02:17:02.022426",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,571",
+    "fork": "3,550",
+    "timestamp": "2025-02-09T02:17:02.022720",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,190",
+    "fork": "1,947",
+    "timestamp": "2025-02-09T02:17:02.023019",
+    "stars_today": "374 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "4,896",
+    "fork": "1,045",
+    "timestamp": "2025-02-09T02:17:02.023288",
+    "stars_today": "180 stars this week"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "3,225",
+    "fork": "531",
+    "timestamp": "2025-02-09T02:17:02.023558",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "href": "https://github.com/hashicorp/packer",
+    "about": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "star": "15,228",
+    "fork": "3,334",
+    "timestamp": "2025-02-09T02:17:02.023840",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "2,021",
+    "fork": "102",
+    "timestamp": "2025-02-09T02:17:02.024109",
+    "stars_today": "278 stars this week"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,283",
+    "fork": "163",
+    "timestamp": "2025-02-09T02:17:02.024373",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "yusing/go-proxy",
+    "href": "https://github.com/yusing/go-proxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "1,133",
+    "fork": "44",
+    "timestamp": "2025-02-09T02:17:02.024683",
+    "stars_today": "172 stars this week"
+  }
+]

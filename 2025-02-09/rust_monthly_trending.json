@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "TabbyML/tabby",
+    "href": "https://github.com/TabbyML/tabby",
+    "about": "Self-hosted AI coding assistant",
+    "star": "29,594",
+    "fork": "1,347",
+    "timestamp": "2025-02-09T02:17:24.941123",
+    "stars_today": "7,263 stars this month"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "35,679",
+    "fork": "2,653",
+    "timestamp": "2025-02-09T02:17:24.941473",
+    "stars_today": "988 stars this month"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "6,707",
+    "fork": "425",
+    "timestamp": "2025-02-09T02:17:24.941775",
+    "stars_today": "6,364 stars this month"
+  },
+  {
+    "repo": "quickwit-oss/quickwit",
+    "href": "https://github.com/quickwit-oss/quickwit",
+    "about": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+    "star": "9,640",
+    "fork": "422",
+    "timestamp": "2025-02-09T02:17:24.942054",
+    "stars_today": "1,185 stars this month"
+  },
+  {
+    "repo": "mufeedvh/code2prompt",
+    "href": "https://github.com/mufeedvh/code2prompt",
+    "about": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+    "star": "4,172",
+    "fork": "238",
+    "timestamp": "2025-02-09T02:17:24.942360",
+    "stars_today": "1,551 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "5,038",
+    "fork": "162",
+    "timestamp": "2025-02-09T02:17:24.942678",
+    "stars_today": "606 stars this month"
+  },
+  {
+    "repo": "google/comprehensive-rust",
+    "href": "https://github.com/google/comprehensive-rust",
+    "about": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "star": "29,112",
+    "fork": "1,737",
+    "timestamp": "2025-02-09T02:17:24.942957",
+    "stars_today": "878 stars this month"
+  },
+  {
+    "repo": "qarmin/czkawka",
+    "href": "https://github.com/qarmin/czkawka",
+    "about": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "star": "21,866",
+    "fork": "699",
+    "timestamp": "2025-02-09T02:17:24.943259",
+    "stars_today": "794 stars this month"
+  },
+  {
+    "repo": "GyulyVGC/sniffnet",
+    "href": "https://github.com/GyulyVGC/sniffnet",
+    "about": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "star": "21,352",
+    "fork": "628",
+    "timestamp": "2025-02-09T02:17:24.943563",
+    "stars_today": "2,476 stars this month"
+  },
+  {
+    "repo": "quickwit-oss/tantivy",
+    "href": "https://github.com/quickwit-oss/tantivy",
+    "about": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "star": "12,649",
+    "fork": "715",
+    "timestamp": "2025-02-09T02:17:24.943873",
+    "stars_today": "272 stars this month"
+  },
+  {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "href": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+    "about": "A self-paced course to learn Rust, one exercise at a time.",
+    "star": "7,259",
+    "fork": "1,336",
+    "timestamp": "2025-02-09T02:17:24.944180",
+    "stars_today": "776 stars this month"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "13,278",
+    "fork": "1,389",
+    "timestamp": "2025-02-09T02:17:24.944457",
+    "stars_today": "513 stars this month"
+  },
+  {
+    "repo": "coral-xyz/anchor",
+    "href": "https://github.com/coral-xyz/anchor",
+    "about": "⚓ Solana Sealevel Framework",
+    "star": "3,983",
+    "fork": "1,450",
+    "timestamp": "2025-02-09T02:17:24.944749",
+    "stars_today": "135 stars this month"
+  },
+  {
+    "repo": "solana-labs/solana",
+    "href": "https://github.com/solana-labs/solana",
+    "about": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "star": "13,838",
+    "fork": "4,576",
+    "timestamp": "2025-02-09T02:17:24.945022",
+    "stars_today": "318 stars this month"
+  },
+  {
+    "repo": "esp-rs/esp-hal",
+    "href": "https://github.com/esp-rs/esp-hal",
+    "about": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+    "star": "936",
+    "fork": "248",
+    "timestamp": "2025-02-09T02:17:24.945293",
+    "stars_today": "88 stars this month"
+  },
+  {
+    "repo": "BoundaryML/baml",
+    "href": "https://github.com/BoundaryML/baml",
+    "about": "BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground",
+    "star": "2,173",
+    "fork": "80",
+    "timestamp": "2025-02-09T02:17:24.945566",
+    "stars_today": "468 stars this month"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "18,264",
+    "fork": "1,310",
+    "timestamp": "2025-02-09T02:17:24.945878",
+    "stars_today": "361 stars this month"
+  },
+  {
+    "repo": "ekzhang/bore",
+    "href": "https://github.com/ekzhang/bore",
+    "about": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+    "star": "9,313",
+    "fork": "389",
+    "timestamp": "2025-02-09T02:17:24.946180",
+    "stars_today": "482 stars this month"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "6,196",
+    "fork": "897",
+    "timestamp": "2025-02-09T02:17:24.946454",
+    "stars_today": "316 stars this month"
+  },
+  {
+    "repo": "alexpasmantier/television",
+    "href": "https://github.com/alexpasmantier/television",
+    "about": "The revolution will (not) be televised 📺",
+    "star": "2,185",
+    "fork": "40",
+    "timestamp": "2025-02-09T02:17:24.946741",
+    "stars_today": "1,329 stars this month"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "81,679",
+    "fork": "11,427",
+    "timestamp": "2025-02-09T02:17:24.947042",
+    "stars_today": "2,867 stars this month"
+  },
+  {
+    "repo": "Schniz/fnm",
+    "href": "https://github.com/Schniz/fnm",
+    "about": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "star": "19,383",
+    "fork": "501",
+    "timestamp": "2025-02-09T02:17:24.947314",
+    "stars_today": "502 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-rs",
+    "href": "https://github.com/delta-io/delta-rs",
+    "about": "A native Rust library for Delta Lake, with bindings into Python",
+    "star": "2,557",
+    "fork": "440",
+    "timestamp": "2025-02-09T02:17:24.947584",
+    "stars_today": "119 stars this month"
+  }
+]
