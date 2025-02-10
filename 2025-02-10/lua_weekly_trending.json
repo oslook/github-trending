@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "3,353",
+    "fork": "127",
+    "timestamp": "2025-02-10T02:15:25.464509",
+    "stars_today": "350 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "9,713",
+    "fork": "383",
+    "timestamp": "2025-02-10T02:15:25.464803",
+    "stars_today": "296 stars this week"
+  },
+  {
+    "repo": "omerxx/dotfiles",
+    "href": "https://github.com/omerxx/dotfiles",
+    "about": "My dotfiles synced from localhost and remote machines",
+    "star": "1,580",
+    "fork": "138",
+    "timestamp": "2025-02-10T02:15:25.465085",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "2,198",
+    "fork": "140",
+    "timestamp": "2025-02-10T02:15:25.465404",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "16,164",
+    "fork": "394",
+    "timestamp": "2025-02-10T02:15:25.465689",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "5,960",
+    "fork": "275",
+    "timestamp": "2025-02-10T02:15:25.465996",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "5,933",
+    "fork": "217",
+    "timestamp": "2025-02-10T02:15:25.466318",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,191",
+    "fork": "237",
+    "timestamp": "2025-02-10T02:15:25.466596",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,211",
+    "fork": "2,116",
+    "timestamp": "2025-02-10T02:15:25.466901",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "19,166",
+    "fork": "1,339",
+    "timestamp": "2025-02-10T02:15:25.467191",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "jake-stewart/multicursor.nvim",
+    "href": "https://github.com/jake-stewart/multicursor.nvim",
+    "about": "multiple cursors in neovim",
+    "star": "810",
+    "fork": "8",
+    "timestamp": "2025-02-10T02:15:25.467470",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "566",
+    "fork": "38",
+    "timestamp": "2025-02-10T02:15:25.467739",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "mistweaverco/kulala.nvim",
+    "href": "https://github.com/mistweaverco/kulala.nvim",
+    "about": "A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
+    "star": "846",
+    "fork": "41",
+    "timestamp": "2025-02-10T02:15:25.468017",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,729",
+    "fork": "115",
+    "timestamp": "2025-02-10T02:15:25.468306",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "j-hui/fidget.nvim",
+    "href": "https://github.com/j-hui/fidget.nvim",
+    "about": "💫 Extensible UI for Neovim notifications and LSP progress messages.",
+    "star": "2,114",
+    "fork": "60",
+    "timestamp": "2025-02-10T02:15:25.468582",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "2,113",
+    "fork": "103",
+    "timestamp": "2025-02-10T02:15:25.468855",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "overextended/ox_lib",
+    "href": "https://github.com/overextended/ox_lib",
+    "about": "A FiveM resource and script library for Lua and JS.",
+    "star": "346",
+    "fork": "456",
+    "timestamp": "2025-02-10T02:15:25.469140",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 13.x for OpenTibia community.",
+    "star": "408",
+    "fork": "662",
+    "timestamp": "2025-02-10T02:15:25.469447",
+    "stars_today": "2 stars this week"
+  }
+]
