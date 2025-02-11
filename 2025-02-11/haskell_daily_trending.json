@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,753",
+    "fork": "373",
+    "timestamp": "2025-02-11T02:15:27.115640",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "composewell/streamly",
+    "href": "https://github.com/composewell/streamly",
+    "about": "High performance, concurrent functional programming abstractions",
+    "star": "879",
+    "fork": "66",
+    "timestamp": "2025-02-11T02:15:27.115950",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,553",
+    "fork": "1,055",
+    "timestamp": "2025-02-11T02:15:27.116247",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,277",
+    "fork": "326",
+    "timestamp": "2025-02-11T02:15:27.116554",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "35,748",
+    "fork": "3,434",
+    "timestamp": "2025-02-11T02:15:27.116872",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-ledger",
+    "href": "https://github.com/IntersectMBO/cardano-ledger",
+    "about": "The ledger implementation and specifications of the Cardano blockchain.",
+    "star": "268",
+    "fork": "156",
+    "timestamp": "2025-02-11T02:15:27.117160",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "commercialhaskell/stack",
+    "href": "https://github.com/commercialhaskell/stack",
+    "about": "The Haskell Tool Stack",
+    "star": "3,991",
+    "fork": "843",
+    "timestamp": "2025-02-11T02:15:27.117447",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,673",
+    "fork": "428",
+    "timestamp": "2025-02-11T02:15:27.117776",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "36,897",
+    "fork": "1,795",
+    "timestamp": "2025-02-11T02:15:27.118063",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "HigherOrderCO/Kind",
+    "href": "https://github.com/HigherOrderCO/Kind",
+    "about": "A modern proof language",
+    "star": "3,625",
+    "fork": "146",
+    "timestamp": "2025-02-11T02:15:27.118348",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-consensus",
+    "href": "https://github.com/IntersectMBO/ouroboros-consensus",
+    "about": "Implementation of a Consensus Layer for the Ouroboros family of protocols",
+    "star": "47",
+    "fork": "25",
+    "timestamp": "2025-02-11T02:15:27.118671",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "haskell/cabal",
+    "href": "https://github.com/haskell/cabal",
+    "about": "Official upstream development repository for Cabal and cabal-install",
+    "star": "1,647",
+    "fork": "703",
+    "timestamp": "2025-02-11T02:15:27.118957",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "runtimeverification/haskell-backend",
+    "href": "https://github.com/runtimeverification/haskell-backend",
+    "about": "The symbolic execution engine powering the K Framework",
+    "star": "214",
+    "fork": "44",
+    "timestamp": "2025-02-11T02:15:27.119243",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/plutus",
+    "href": "https://github.com/IntersectMBO/plutus",
+    "about": "The Plutus language implementation and tools",
+    "star": "1,585",
+    "fork": "483",
+    "timestamp": "2025-02-11T02:15:27.119543",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "GaloisInc/llvm-pretty",
+    "href": "https://github.com/GaloisInc/llvm-pretty",
+    "about": "An llvm pretty printer inspired by the haskell llvm binding",
+    "star": "29",
+    "fork": "16",
+    "timestamp": "2025-02-11T02:15:27.119831",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucsd-progsys/liquid-fixpoint",
+    "href": "https://github.com/ucsd-progsys/liquid-fixpoint",
+    "about": "Horn Clause Constraint Solving for Liquid Types",
+    "star": "143",
+    "fork": "62",
+    "timestamp": "2025-02-11T02:15:27.120117",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "576",
+    "fork": "68",
+    "timestamp": "2025-02-11T02:15:27.120437",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "xmonad/xmonad",
+    "href": "https://github.com/xmonad/xmonad",
+    "about": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager",
+    "star": "3,412",
+    "fork": "296",
+    "timestamp": "2025-02-11T02:15:27.120767",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "olivierverdier/zsh-git-prompt",
+    "href": "https://github.com/olivierverdier/zsh-git-prompt",
+    "about": "Informative git prompt for zsh",
+    "star": "1,729",
+    "fork": "399",
+    "timestamp": "2025-02-11T02:15:27.121055",
+    "stars_today": "0 stars today"
+  }
+]

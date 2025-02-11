@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "19,178",
+    "fork": "1,343",
+    "timestamp": "2025-02-11T02:15:36.946234",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "3,386",
+    "fork": "130",
+    "timestamp": "2025-02-11T02:15:36.946556",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "6,522",
+    "fork": "222",
+    "timestamp": "2025-02-11T02:15:36.946853",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "9,765",
+    "fork": "383",
+    "timestamp": "2025-02-11T02:15:36.947145",
+    "stars_today": "56 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "21,727",
+    "fork": "28,117",
+    "timestamp": "2025-02-11T02:15:36.947433",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 13.x for OpenTibia community.",
+    "star": "408",
+    "fork": "663",
+    "timestamp": "2025-02-11T02:15:36.947763",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,462",
+    "fork": "193",
+    "timestamp": "2025-02-11T02:15:36.948086",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "craftzdog/dotfiles-public",
+    "href": "https://github.com/craftzdog/dotfiles-public",
+    "about": "My personal dotfiles",
+    "star": "6,577",
+    "fork": "1,169",
+    "timestamp": "2025-02-11T02:15:36.948374",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "williamboman/mason.nvim",
+    "href": "https://github.com/williamboman/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "8,365",
+    "fork": "282",
+    "timestamp": "2025-02-11T02:15:36.948703",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "2,948",
+    "fork": "176",
+    "timestamp": "2025-02-11T02:15:36.948998",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,730",
+    "fork": "115",
+    "timestamp": "2025-02-11T02:15:36.949293",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "href": "https://github.com/ThePrimeagen/init.lua",
+    "about": "",
+    "star": "3,536",
+    "fork": "632",
+    "timestamp": "2025-02-11T02:15:36.949652",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "10,624",
+    "fork": "692",
+    "timestamp": "2025-02-11T02:15:36.949956",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "EdenEast/nightfox.nvim",
+    "href": "https://github.com/EdenEast/nightfox.nvim",
+    "about": "🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
+    "star": "3,342",
+    "fork": "157",
+    "timestamp": "2025-02-11T02:15:36.950256",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,217",
+    "fork": "2,117",
+    "timestamp": "2025-02-11T02:15:36.950596",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "6,581",
+    "fork": "484",
+    "timestamp": "2025-02-11T02:15:36.950897",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Exafunction/codeium.nvim",
+    "href": "https://github.com/Exafunction/codeium.nvim",
+    "about": "A native neovim extension for Codeium",
+    "star": "919",
+    "fork": "77",
+    "timestamp": "2025-02-11T02:15:36.951203",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "epwalsh/obsidian.nvim",
+    "href": "https://github.com/epwalsh/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "4,756",
+    "fork": "227",
+    "timestamp": "2025-02-11T02:15:36.951515",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/harpoon",
+    "href": "https://github.com/ThePrimeagen/harpoon",
+    "about": "",
+    "star": "7,555",
+    "fork": "407",
+    "timestamp": "2025-02-11T02:15:36.951866",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "MathIsFun0/Cryptid",
+    "href": "https://github.com/MathIsFun0/Cryptid",
+    "about": "An unbalanced Balatro mod",
+    "star": "241",
+    "fork": "64",
+    "timestamp": "2025-02-11T02:15:36.952165",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "18,226",
+    "fork": "1,327",
+    "timestamp": "2025-02-11T02:15:36.952459",
+    "stars_today": "16 stars today"
+  }
+]
