@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,449",
+    "fork": "458",
+    "timestamp": "2025-02-12T02:14:00.020430",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,264",
+    "fork": "2,977",
+    "timestamp": "2025-02-12T02:14:00.020769",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "openimsdk/open-im-server",
+    "href": "https://github.com/openimsdk/open-im-server",
+    "about": "IM Chat ChatGPT",
+    "star": "14,330",
+    "fork": "2,534",
+    "timestamp": "2025-02-12T02:14:00.021066",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,464",
+    "fork": "2,404",
+    "timestamp": "2025-02-12T02:14:00.021347",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "techschool/simplebank",
+    "href": "https://github.com/techschool/simplebank",
+    "about": "Backend master class: build a simple bank service in Go",
+    "star": "5,776",
+    "fork": "1,038",
+    "timestamp": "2025-02-12T02:14:00.021623",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,313",
+    "fork": "649",
+    "timestamp": "2025-02-12T02:14:00.021940",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,678",
+    "fork": "4,039",
+    "timestamp": "2025-02-12T02:14:00.022246",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,966",
+    "fork": "1,613",
+    "timestamp": "2025-02-12T02:14:00.022522",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "47,054",
+    "fork": "5,651",
+    "timestamp": "2025-02-12T02:14:00.022826",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,141",
+    "fork": "18,682",
+    "timestamp": "2025-02-12T02:14:00.023115",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "17,936",
+    "fork": "3,529",
+    "timestamp": "2025-02-12T02:14:00.023390",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "30,272",
+    "fork": "2,272",
+    "timestamp": "2025-02-12T02:14:00.023697",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,335",
+    "fork": "3,023",
+    "timestamp": "2025-02-12T02:14:00.024003",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "hyperledger/fabric",
+    "href": "https://github.com/hyperledger/fabric",
+    "about": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "star": "15,932",
+    "fork": "8,903",
+    "timestamp": "2025-02-12T02:14:00.024282",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,238",
+    "fork": "1,228",
+    "timestamp": "2025-02-12T02:14:00.024558",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "11,004",
+    "fork": "392",
+    "timestamp": "2025-02-12T02:14:00.024832",
+    "stars_today": "66 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,868",
+    "fork": "1,343",
+    "timestamp": "2025-02-12T02:14:00.025118",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,361",
+    "fork": "9,857",
+    "timestamp": "2025-02-12T02:14:00.025393",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,849",
+    "fork": "8,299",
+    "timestamp": "2025-02-12T02:14:00.025666",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,216",
+    "fork": "2,279",
+    "timestamp": "2025-02-12T02:14:00.025949",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "10,954",
+    "fork": "578",
+    "timestamp": "2025-02-12T02:14:00.026224",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,140",
+    "fork": "1,500",
+    "timestamp": "2025-02-12T02:14:00.026497",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "lib/pq",
+    "href": "https://github.com/lib/pq",
+    "about": "Pure Go Postgres driver for database/sql",
+    "star": "9,307",
+    "fork": "914",
+    "timestamp": "2025-02-12T02:14:00.026774",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "v2rayA/v2rayA",
+    "href": "https://github.com/v2rayA/v2rayA",
+    "about": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",
+    "star": "12,147",
+    "fork": "1,284",
+    "timestamp": "2025-02-12T02:14:00.027061",
+    "stars_today": "16 stars today"
+  }
+]

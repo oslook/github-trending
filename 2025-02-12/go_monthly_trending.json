@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "124,684",
+    "fork": "10,050",
+    "timestamp": "2025-02-12T02:14:01.411046",
+    "stars_today": "17,946 stars this month"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,514",
+    "fork": "2,979",
+    "timestamp": "2025-02-12T02:14:01.411371",
+    "stars_today": "1,894 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,840",
+    "fork": "256",
+    "timestamp": "2025-02-12T02:14:01.411651",
+    "stars_today": "2,252 stars this month"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,299",
+    "fork": "2,161",
+    "timestamp": "2025-02-12T02:14:01.411944",
+    "stars_today": "924 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "30,272",
+    "fork": "2,272",
+    "timestamp": "2025-02-12T02:14:01.412254",
+    "stars_today": "2,215 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,806",
+    "fork": "816",
+    "timestamp": "2025-02-12T02:14:01.412528",
+    "stars_today": "421 stars this month"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,510",
+    "fork": "478",
+    "timestamp": "2025-02-12T02:14:01.412802",
+    "stars_today": "259 stars this month"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,121",
+    "fork": "9,666",
+    "timestamp": "2025-02-12T02:14:01.413086",
+    "stars_today": "674 stars this month"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,896",
+    "fork": "669",
+    "timestamp": "2025-02-12T02:14:01.413359",
+    "stars_today": "147 stars this month"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "21,143",
+    "fork": "420",
+    "timestamp": "2025-02-12T02:14:01.413658",
+    "stars_today": "779 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,044",
+    "fork": "235",
+    "timestamp": "2025-02-12T02:14:01.413944",
+    "stars_today": "3,249 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,719",
+    "fork": "892",
+    "timestamp": "2025-02-12T02:14:01.414222",
+    "stars_today": "122 stars this month"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "1,123",
+    "fork": "74",
+    "timestamp": "2025-02-12T02:14:01.414496",
+    "stars_today": "303 stars this month"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,206",
+    "fork": "1,975",
+    "timestamp": "2025-02-12T02:14:01.414768",
+    "stars_today": "131 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,705",
+    "fork": "1,323",
+    "timestamp": "2025-02-12T02:14:01.415084",
+    "stars_today": "1,688 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,648",
+    "fork": "17,854",
+    "timestamp": "2025-02-12T02:14:01.415360",
+    "stars_today": "833 stars this month"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "24,240",
+    "fork": "944",
+    "timestamp": "2025-02-12T02:14:01.415635",
+    "stars_today": "489 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,319",
+    "fork": "1,954",
+    "timestamp": "2025-02-12T02:14:01.415949",
+    "stars_today": "1,393 stars this month"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,257",
+    "fork": "6,187",
+    "timestamp": "2025-02-12T02:14:01.416225",
+    "stars_today": "473 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "20,916",
+    "fork": "1,661",
+    "timestamp": "2025-02-12T02:14:01.416499",
+    "stars_today": "699 stars this month"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "908",
+    "fork": "640",
+    "timestamp": "2025-02-12T02:14:01.416777",
+    "stars_today": "56 stars this month"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,854",
+    "fork": "1,534",
+    "timestamp": "2025-02-12T02:14:01.417064",
+    "stars_today": "489 stars this month"
+  },
+  {
+    "repo": "ltaoo/wx_channels_download",
+    "href": "https://github.com/ltaoo/wx_channels_download",
+    "about": "微信视频号下载器",
+    "star": "910",
+    "fork": "135",
+    "timestamp": "2025-02-12T02:14:01.417336",
+    "stars_today": "462 stars this month"
+  }
+]
