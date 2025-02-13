@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "1,354",
+    "fork": "142",
+    "timestamp": "2025-02-13T02:14:45.663160",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,401",
+    "fork": "3,428",
+    "timestamp": "2025-02-13T02:14:45.663485",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "50,096",
+    "fork": "5,647",
+    "timestamp": "2025-02-13T02:14:45.663786",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,143",
+    "fork": "1,500",
+    "timestamp": "2025-02-13T02:14:45.664066",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,685",
+    "fork": "4,041",
+    "timestamp": "2025-02-13T02:14:45.664369",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "25,327",
+    "fork": "1,389",
+    "timestamp": "2025-02-13T02:14:45.664643",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,827",
+    "fork": "1,548",
+    "timestamp": "2025-02-13T02:14:45.664946",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,021",
+    "fork": "40,203",
+    "timestamp": "2025-02-13T02:14:45.665220",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,602",
+    "fork": "3,556",
+    "timestamp": "2025-02-13T02:14:45.665495",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,399",
+    "fork": "4,440",
+    "timestamp": "2025-02-13T02:14:45.665781",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "6,671",
+    "fork": "896",
+    "timestamp": "2025-02-13T02:14:45.666085",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "techschool/simplebank",
+    "href": "https://github.com/techschool/simplebank",
+    "about": "Backend master class: build a simple bank service in Go",
+    "star": "5,792",
+    "fork": "1,038",
+    "timestamp": "2025-02-13T02:14:45.666359",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "22,125",
+    "fork": "2,605",
+    "timestamp": "2025-02-13T02:14:45.666633",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,151",
+    "fork": "18,683",
+    "timestamp": "2025-02-13T02:14:45.666914",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,650",
+    "fork": "5,698",
+    "timestamp": "2025-02-13T02:14:45.667186",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "FerretDB/FerretDB",
+    "href": "https://github.com/FerretDB/FerretDB",
+    "about": "A truly Open Source MongoDB alternative",
+    "star": "9,567",
+    "fork": "417",
+    "timestamp": "2025-02-13T02:14:45.667457",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,359",
+    "fork": "13,702",
+    "timestamp": "2025-02-13T02:14:45.667773",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "fullstorydev/grpcurl",
+    "href": "https://github.com/fullstorydev/grpcurl",
+    "about": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+    "star": "11,232",
+    "fork": "517",
+    "timestamp": "2025-02-13T02:14:45.668049",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "onsi/ginkgo",
+    "href": "https://github.com/onsi/ginkgo",
+    "about": "A Modern Testing Framework for Go",
+    "star": "8,519",
+    "fork": "667",
+    "timestamp": "2025-02-13T02:14:45.668351",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "37,891",
+    "fork": "5,889",
+    "timestamp": "2025-02-13T02:14:45.668626",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "12,329",
+    "fork": "862",
+    "timestamp": "2025-02-13T02:14:45.668915",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,373",
+    "fork": "1,954",
+    "timestamp": "2025-02-13T02:14:45.669215",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,264",
+    "fork": "8,101",
+    "timestamp": "2025-02-13T02:14:45.669486",
+    "stars_today": "23 stars today"
+  }
+]

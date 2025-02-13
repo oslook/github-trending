@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,511",
+    "fork": "28,498",
+    "timestamp": "2025-02-13T02:15:10.795495",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,801",
+    "fork": "1,761",
+    "timestamp": "2025-02-13T02:15:10.795831",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,319",
+    "fork": "375",
+    "timestamp": "2025-02-13T02:15:10.796334",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,914",
+    "fork": "720",
+    "timestamp": "2025-02-13T02:15:10.796626",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,142",
+    "fork": "614",
+    "timestamp": "2025-02-13T02:15:10.796924",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "802",
+    "fork": "182",
+    "timestamp": "2025-02-13T02:15:10.797238",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,922",
+    "fork": "2,801",
+    "timestamp": "2025-02-13T02:15:10.797522",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,548",
+    "fork": "636",
+    "timestamp": "2025-02-13T02:15:10.797815",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,261",
+    "fork": "461",
+    "timestamp": "2025-02-13T02:15:10.798096",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "478",
+    "fork": "150",
+    "timestamp": "2025-02-13T02:15:10.798379",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,344",
+    "fork": "1,148",
+    "timestamp": "2025-02-13T02:15:10.798659",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,364",
+    "fork": "546",
+    "timestamp": "2025-02-13T02:15:10.798951",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,198",
+    "fork": "1,251",
+    "timestamp": "2025-02-13T02:15:10.799230",
+    "stars_today": "3 stars this week"
+  }
+]
