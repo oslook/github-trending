@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,582",
+    "fork": "1,485",
+    "timestamp": "2025-02-14T02:14:36.299634",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,698",
+    "fork": "4,039",
+    "timestamp": "2025-02-14T02:14:36.299955",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,158",
+    "fork": "18,685",
+    "timestamp": "2025-02-14T02:14:36.300249",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "securego/gosec",
+    "href": "https://github.com/securego/gosec",
+    "about": "Go security checker",
+    "star": "8,004",
+    "fork": "622",
+    "timestamp": "2025-02-14T02:14:36.300526",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,948",
+    "fork": "787",
+    "timestamp": "2025-02-14T02:14:36.300798",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "MartialBE/one-hub",
+    "href": "https://github.com/MartialBE/one-hub",
+    "about": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
+    "star": "1,627",
+    "fork": "310",
+    "timestamp": "2025-02-14T02:14:36.301071",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "1,364",
+    "fork": "143",
+    "timestamp": "2025-02-14T02:14:36.301360",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,567",
+    "fork": "247",
+    "timestamp": "2025-02-14T02:14:36.301633",
+    "stars_today": "261 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,037",
+    "fork": "40,213",
+    "timestamp": "2025-02-14T02:14:36.301903",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,226",
+    "fork": "2,279",
+    "timestamp": "2025-02-14T02:14:36.302185",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,208",
+    "fork": "538",
+    "timestamp": "2025-02-14T02:14:36.302457",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,296",
+    "fork": "2,125",
+    "timestamp": "2025-02-14T02:14:36.302734",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "EndlessCheng/codeforces-go",
+    "href": "https://github.com/EndlessCheng/codeforces-go",
+    "about": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "star": "5,750",
+    "fork": "619",
+    "timestamp": "2025-02-14T02:14:36.303007",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "wagoodman/dive",
+    "href": "https://github.com/wagoodman/dive",
+    "about": "A tool for exploring each layer in a docker image",
+    "star": "49,447",
+    "fork": "1,850",
+    "timestamp": "2025-02-14T02:14:36.303318",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,287",
+    "fork": "8,104",
+    "timestamp": "2025-02-14T02:14:36.303588",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "23,976",
+    "fork": "1,613",
+    "timestamp": "2025-02-14T02:14:36.303862",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "18,014",
+    "fork": "1,807",
+    "timestamp": "2025-02-14T02:14:36.304129",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "77,950",
+    "fork": "7,671",
+    "timestamp": "2025-02-14T02:14:36.304422",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "href": "https://github.com/jaegertracing/jaeger",
+    "about": "CNCF Jaeger, a Distributed Tracing Platform",
+    "star": "20,910",
+    "fork": "2,521",
+    "timestamp": "2025-02-14T02:14:36.304693",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,406",
+    "fork": "4,441",
+    "timestamp": "2025-02-14T02:14:36.304965",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "26,741",
+    "fork": "1,283",
+    "timestamp": "2025-02-14T02:14:36.305247",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,461",
+    "fork": "2,128",
+    "timestamp": "2025-02-14T02:14:36.305520",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "10,970",
+    "fork": "578",
+    "timestamp": "2025-02-14T02:14:36.305789",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "href": "https://github.com/kubernetes/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "14,659",
+    "fork": "4,185",
+    "timestamp": "2025-02-14T02:14:36.306058",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,390",
+    "fork": "13,702",
+    "timestamp": "2025-02-14T02:14:36.306368",
+    "stars_today": "31 stars today"
+  }
+]

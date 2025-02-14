@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "125,674",
+    "fork": "10,157",
+    "timestamp": "2025-02-14T02:14:38.268719",
+    "stars_today": "18,614 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,567",
+    "fork": "247",
+    "timestamp": "2025-02-14T02:14:38.269019",
+    "stars_today": "3,461 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "10,891",
+    "fork": "257",
+    "timestamp": "2025-02-14T02:14:38.269318",
+    "stars_today": "2,296 stars this month"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,570",
+    "fork": "2,984",
+    "timestamp": "2025-02-14T02:14:38.269628",
+    "stars_today": "1,882 stars this month"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,141",
+    "fork": "9,672",
+    "timestamp": "2025-02-14T02:14:38.269908",
+    "stars_today": "691 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "30,330",
+    "fork": "2,275",
+    "timestamp": "2025-02-14T02:14:38.270231",
+    "stars_today": "2,123 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,837",
+    "fork": "821",
+    "timestamp": "2025-02-14T02:14:38.270513",
+    "stars_today": "446 stars this month"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,520",
+    "fork": "479",
+    "timestamp": "2025-02-14T02:14:38.270798",
+    "stars_today": "263 stars this month"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "21,188",
+    "fork": "420",
+    "timestamp": "2025-02-14T02:14:38.271115",
+    "stars_today": "781 stars this month"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "1,150",
+    "fork": "74",
+    "timestamp": "2025-02-14T02:14:38.271414",
+    "stars_today": "312 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,726",
+    "fork": "894",
+    "timestamp": "2025-02-14T02:14:38.271696",
+    "stars_today": "124 stars this month"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,215",
+    "fork": "1,977",
+    "timestamp": "2025-02-14T02:14:38.271977",
+    "stars_today": "138 stars this month"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,898",
+    "fork": "669",
+    "timestamp": "2025-02-14T02:14:38.272267",
+    "stars_today": "146 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,422",
+    "fork": "1,955",
+    "timestamp": "2025-02-14T02:14:38.272580",
+    "stars_today": "1,450 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,703",
+    "fork": "17,863",
+    "timestamp": "2025-02-14T02:14:38.272863",
+    "stars_today": "866 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,761",
+    "fork": "1,321",
+    "timestamp": "2025-02-14T02:14:38.273181",
+    "stars_today": "1,636 stars this month"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,279",
+    "fork": "6,195",
+    "timestamp": "2025-02-14T02:14:38.273462",
+    "stars_today": "468 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "20,952",
+    "fork": "1,670",
+    "timestamp": "2025-02-14T02:14:38.273743",
+    "stars_today": "681 stars this month"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,461",
+    "fork": "2,128",
+    "timestamp": "2025-02-14T02:14:38.274023",
+    "stars_today": "133 stars this month"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "9,359",
+    "fork": "1,124",
+    "timestamp": "2025-02-14T02:14:38.274316",
+    "stars_today": "189 stars this month"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,318",
+    "fork": "2,166",
+    "timestamp": "2025-02-14T02:14:38.274597",
+    "stars_today": "941 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "2,983",
+    "fork": "1,236",
+    "timestamp": "2025-02-14T02:14:38.274874",
+    "stars_today": "39 stars this month"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,270",
+    "fork": "2,976",
+    "timestamp": "2025-02-14T02:14:38.275162",
+    "stars_today": "80 stars this month"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,704",
+    "fork": "548",
+    "timestamp": "2025-02-14T02:14:38.275440",
+    "stars_today": "272 stars this month"
+  }
+]

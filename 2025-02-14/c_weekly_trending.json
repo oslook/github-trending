@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,650",
+    "fork": "10,320",
+    "timestamp": "2025-02-14T02:14:19.628614",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,695",
+    "fork": "719",
+    "timestamp": "2025-02-14T02:14:19.628913",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,594",
+    "fork": "436",
+    "timestamp": "2025-02-14T02:14:19.629211",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,014",
+    "fork": "1,200",
+    "timestamp": "2025-02-14T02:14:19.629498",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "36,810",
+    "fork": "6,562",
+    "timestamp": "2025-02-14T02:14:19.629809",
+    "stars_today": "151 stars this week"
+  },
+  {
+    "repo": "systemd/systemd",
+    "href": "https://github.com/systemd/systemd",
+    "about": "The systemd System and Service Manager",
+    "star": "13,771",
+    "fork": "3,899",
+    "timestamp": "2025-02-14T02:14:19.630099",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "fastfetch-cli/fastfetch",
+    "href": "https://github.com/fastfetch-cli/fastfetch",
+    "about": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+    "star": "12,374",
+    "fork": "470",
+    "timestamp": "2025-02-14T02:14:19.630394",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "lwfinger/rtw88",
+    "href": "https://github.com/lwfinger/rtw88",
+    "about": "A backport of the Realtek Wifi 5 drivers from the wireless-next repo.",
+    "star": "735",
+    "fork": "192",
+    "timestamp": "2025-02-14T02:14:19.630674",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "TelegramMessenger/Telegram-iOS",
+    "href": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "about": "Telegram-iOS",
+    "star": "6,565",
+    "fork": "1,730",
+    "timestamp": "2025-02-14T02:14:19.630952",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "tmux/tmux",
+    "href": "https://github.com/tmux/tmux",
+    "about": "tmux source code",
+    "star": "36,453",
+    "fork": "2,161",
+    "timestamp": "2025-02-14T02:14:19.631269",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "18,798",
+    "fork": "716",
+    "timestamp": "2025-02-14T02:14:19.631547",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "24,798",
+    "fork": "3,644",
+    "timestamp": "2025-02-14T02:14:19.631826",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "pymumu/smartdns",
+    "href": "https://github.com/pymumu/smartdns",
+    "about": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。",
+    "star": "8,694",
+    "fork": "1,098",
+    "timestamp": "2025-02-14T02:14:19.632102",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,695",
+    "fork": "2,645",
+    "timestamp": "2025-02-14T02:14:19.632391",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "TA-Lib/ta-lib",
+    "href": "https://github.com/TA-Lib/ta-lib",
+    "about": "TA-Lib (Core C Library)",
+    "star": "778",
+    "fork": "174",
+    "timestamp": "2025-02-14T02:14:19.632665",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-instrumentation",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+    "about": "OpenTelemetry Auto Instrumentation using eBPF",
+    "star": "667",
+    "fork": "100",
+    "timestamp": "2025-02-14T02:14:19.632943",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "21,505",
+    "fork": "10,858",
+    "timestamp": "2025-02-14T02:14:19.633232",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "netdata/netdata",
+    "href": "https://github.com/netdata/netdata",
+    "about": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+    "star": "73,389",
+    "fork": "6,008",
+    "timestamp": "2025-02-14T02:14:19.633508",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "11,423",
+    "fork": "6,950",
+    "timestamp": "2025-02-14T02:14:19.633783",
+    "stars_today": "53 stars this week"
+  }
+]
