@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,810",
+    "fork": "1,763",
+    "timestamp": "2025-02-15T02:14:04.012749",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,146",
+    "fork": "615",
+    "timestamp": "2025-02-15T02:14:04.013092",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,104",
+    "fork": "3,588",
+    "timestamp": "2025-02-15T02:14:04.013389",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,263",
+    "fork": "461",
+    "timestamp": "2025-02-15T02:14:04.013673",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,554",
+    "fork": "4,100",
+    "timestamp": "2025-02-15T02:14:04.013979",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "479",
+    "fork": "150",
+    "timestamp": "2025-02-15T02:14:04.014256",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,519",
+    "fork": "28,504",
+    "timestamp": "2025-02-15T02:14:04.014542",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "803",
+    "fork": "182",
+    "timestamp": "2025-02-15T02:14:04.014811",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "857",
+    "fork": "244",
+    "timestamp": "2025-02-15T02:14:04.015082",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,540",
+    "fork": "1,201",
+    "timestamp": "2025-02-15T02:14:04.015366",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,009",
+    "fork": "360",
+    "timestamp": "2025-02-15T02:14:04.015647",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,324",
+    "fork": "375",
+    "timestamp": "2025-02-15T02:14:04.015919",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "810",
+    "fork": "205",
+    "timestamp": "2025-02-15T02:14:04.016188",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,140",
+    "fork": "930",
+    "timestamp": "2025-02-15T02:14:04.016472",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "spotify/scio",
+    "href": "https://github.com/spotify/scio",
+    "about": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+    "star": "2,578",
+    "fork": "513",
+    "timestamp": "2025-02-15T02:14:04.016747",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Yubico/java-webauthn-server",
+    "href": "https://github.com/Yubico/java-webauthn-server",
+    "about": "Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations",
+    "star": "490",
+    "fork": "146",
+    "timestamp": "2025-02-15T02:14:04.017023",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "VirtusLab/scala-cli",
+    "href": "https://github.com/VirtusLab/scala-cli",
+    "about": "Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)",
+    "star": "580",
+    "fork": "138",
+    "timestamp": "2025-02-15T02:14:04.017294",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "airbnb/chronon",
+    "href": "https://github.com/airbnb/chronon",
+    "about": "Chronon is a data platform for serving for AI/ML applications.",
+    "star": "772",
+    "fork": "63",
+    "timestamp": "2025-02-15T02:14:04.017585",
+    "stars_today": "0 stars today"
+  }
+]

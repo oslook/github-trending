@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,798",
+    "fork": "17,870",
+    "timestamp": "2025-02-15T02:13:44.183055",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,545",
+    "fork": "1,343",
+    "timestamp": "2025-02-15T02:13:44.183364",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,966",
+    "fork": "788",
+    "timestamp": "2025-02-15T02:13:44.183706",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,682",
+    "fork": "259",
+    "timestamp": "2025-02-15T02:13:44.183992",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,220",
+    "fork": "539",
+    "timestamp": "2025-02-15T02:13:44.184269",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,458",
+    "fork": "1,459",
+    "timestamp": "2025-02-15T02:13:44.184567",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,089",
+    "fork": "9,347",
+    "timestamp": "2025-02-15T02:13:44.184847",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,300",
+    "fork": "557",
+    "timestamp": "2025-02-15T02:13:44.185123",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,724",
+    "fork": "5,305",
+    "timestamp": "2025-02-15T02:13:44.185411",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "techschool/simplebank",
+    "href": "https://github.com/techschool/simplebank",
+    "about": "Backend master class: build a simple bank service in Go",
+    "star": "5,812",
+    "fork": "1,045",
+    "timestamp": "2025-02-15T02:13:44.185686",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,946",
+    "fork": "3,488",
+    "timestamp": "2025-02-15T02:13:44.185962",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,711",
+    "fork": "251",
+    "timestamp": "2025-02-15T02:13:44.186236",
+    "stars_today": "249 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "11,575",
+    "fork": "995",
+    "timestamp": "2025-02-15T02:13:44.186527",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "12,138",
+    "fork": "2,144",
+    "timestamp": "2025-02-15T02:13:44.186849",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,896",
+    "fork": "1,539",
+    "timestamp": "2025-02-15T02:13:44.187127",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,304",
+    "fork": "8,104",
+    "timestamp": "2025-02-15T02:13:44.187428",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,210",
+    "fork": "9,353",
+    "timestamp": "2025-02-15T02:13:44.187710",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gotenberg/gotenberg",
+    "href": "https://github.com/gotenberg/gotenberg",
+    "about": "A developer-friendly API for converting numerous document formats into PDF files, and more!",
+    "star": "8,598",
+    "fork": "576",
+    "timestamp": "2025-02-15T02:13:44.187983",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,686",
+    "fork": "2,441",
+    "timestamp": "2025-02-15T02:13:44.188259",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "MartialBE/one-hub",
+    "href": "https://github.com/MartialBE/one-hub",
+    "about": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
+    "star": "1,645",
+    "fork": "312",
+    "timestamp": "2025-02-15T02:13:44.188552",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "wagoodman/dive",
+    "href": "https://github.com/wagoodman/dive",
+    "about": "A tool for exploring each layer in a docker image",
+    "star": "49,467",
+    "fork": "1,850",
+    "timestamp": "2025-02-15T02:13:44.188856",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,719",
+    "fork": "548",
+    "timestamp": "2025-02-15T02:13:44.189127",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "shopspring/decimal",
+    "href": "https://github.com/shopspring/decimal",
+    "about": "Arbitrary-precision fixed-point decimal numbers in Go",
+    "star": "6,567",
+    "fork": "630",
+    "timestamp": "2025-02-15T02:13:44.189409",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,438",
+    "fork": "7,184",
+    "timestamp": "2025-02-15T02:13:44.189682",
+    "stars_today": "7 stars today"
+  }
+]

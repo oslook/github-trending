@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,519",
+    "fork": "28,504",
+    "timestamp": "2025-02-15T02:14:05.738501",
+    "stars_today": "259 stars this month"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,922",
+    "fork": "2,803",
+    "timestamp": "2025-02-15T02:14:05.738795",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,186",
+    "fork": "2,324",
+    "timestamp": "2025-02-15T02:14:05.739075",
+    "stars_today": "195 stars this month"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,914",
+    "fork": "720",
+    "timestamp": "2025-02-15T02:14:05.739376",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,810",
+    "fork": "1,763",
+    "timestamp": "2025-02-15T02:14:05.739660",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "803",
+    "fork": "182",
+    "timestamp": "2025-02-15T02:14:05.739941",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,363",
+    "fork": "547",
+    "timestamp": "2025-02-15T02:14:05.740220",
+    "stars_today": "22 stars this month"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,324",
+    "fork": "375",
+    "timestamp": "2025-02-15T02:14:05.740515",
+    "stars_today": "56 stars this month"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,104",
+    "fork": "3,588",
+    "timestamp": "2025-02-15T02:14:05.740798",
+    "stars_today": "27 stars this month"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,549",
+    "fork": "636",
+    "timestamp": "2025-02-15T02:14:05.741077",
+    "stars_today": "47 stars this month"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,320",
+    "fork": "550",
+    "timestamp": "2025-02-15T02:14:05.741394",
+    "stars_today": "56 stars this month"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,140",
+    "fork": "930",
+    "timestamp": "2025-02-15T02:14:05.741677",
+    "stars_today": "16 stars this month"
+  }
+]

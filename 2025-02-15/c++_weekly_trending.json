@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "97,021",
+    "fork": "8,453",
+    "timestamp": "2025-02-15T02:13:30.666079",
+    "stars_today": "416 stars this week"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",
+    "star": "4,818",
+    "fork": "537",
+    "timestamp": "2025-02-15T02:13:30.666402",
+    "stars_today": "257 stars this week"
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "74,280",
+    "fork": "10,726",
+    "timestamp": "2025-02-15T02:13:30.666723",
+    "stars_today": "959 stars this week"
+  },
+  {
+    "repo": "abseil/abseil-cpp",
+    "href": "https://github.com/abseil/abseil-cpp",
+    "about": "Abseil Common Libraries (C++)",
+    "star": "15,448",
+    "fork": "2,704",
+    "timestamp": "2025-02-15T02:13:30.667005",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "xournalpp/xournalpp",
+    "href": "https://github.com/xournalpp/xournalpp",
+    "about": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",
+    "star": "12,126",
+    "fork": "861",
+    "timestamp": "2025-02-15T02:13:30.667284",
+    "stars_today": "249 stars this week"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "star": "14,563",
+    "fork": "3,552",
+    "timestamp": "2025-02-15T02:13:30.667577",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "26,489",
+    "fork": "2,081",
+    "timestamp": "2025-02-15T02:13:30.667853",
+    "stars_today": "199 stars this week"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,626",
+    "fork": "1,742",
+    "timestamp": "2025-02-15T02:13:30.668133",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,730",
+    "fork": "3,895",
+    "timestamp": "2025-02-15T02:13:30.668454",
+    "stars_today": "252 stars this week"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "star": "9,409",
+    "fork": "1,101",
+    "timestamp": "2025-02-15T02:13:30.668740",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "about": "ClickHouse® is a real-time analytics database management system",
+    "star": "38,989",
+    "fork": "7,088",
+    "timestamp": "2025-02-15T02:13:30.669026",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "15,591",
+    "fork": "3,048",
+    "timestamp": "2025-02-15T02:13:30.669301",
+    "stars_today": "120 stars this week"
+  },
+  {
+    "repo": "UZ-SLAMLab/ORB_SLAM3",
+    "href": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+    "about": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+    "star": "6,894",
+    "fork": "2,639",
+    "timestamp": "2025-02-15T02:13:30.669587",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "93,970",
+    "fork": "21,657",
+    "timestamp": "2025-02-15T02:13:30.669856",
+    "stars_today": "404 stars this week"
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "href": "https://github.com/espressif/arduino-esp32",
+    "about": "Arduino core for the ESP32",
+    "star": "14,255",
+    "fork": "7,530",
+    "timestamp": "2025-02-15T02:13:30.670128",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "notepad-plus-plus/notepad-plus-plus",
+    "href": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+    "about": "Notepad++ official repository",
+    "star": "23,789",
+    "fork": "4,700",
+    "timestamp": "2025-02-15T02:13:30.670410",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "href": "https://github.com/nomic-ai/gpt4all",
+    "about": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "star": "72,451",
+    "fork": "7,897",
+    "timestamp": "2025-02-15T02:13:30.670681",
+    "stars_today": "224 stars this week"
+  },
+  {
+    "repo": "diasurgical/DevilutionX",
+    "href": "https://github.com/diasurgical/DevilutionX",
+    "about": "Diablo build for modern operating systems",
+    "star": "8,398",
+    "fork": "824",
+    "timestamp": "2025-02-15T02:13:30.670952",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "grpc/grpc",
+    "href": "https://github.com/grpc/grpc",
+    "about": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "star": "42,428",
+    "fork": "10,650",
+    "timestamp": "2025-02-15T02:13:30.671232",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "aria2/aria2",
+    "href": "https://github.com/aria2/aria2",
+    "about": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+    "star": "36,686",
+    "fork": "3,653",
+    "timestamp": "2025-02-15T02:13:30.671523",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "rhasspy/piper",
+    "href": "https://github.com/rhasspy/piper",
+    "about": "A fast, local neural text to speech system",
+    "star": "7,834",
+    "fork": "574",
+    "timestamp": "2025-02-15T02:13:30.671797",
+    "stars_today": "94 stars this week"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "4,916",
+    "fork": "801",
+    "timestamp": "2025-02-15T02:13:30.672067",
+    "stars_today": "507 stars this week"
+  },
+  {
+    "repo": "NVIDIA/nccl",
+    "href": "https://github.com/NVIDIA/nccl",
+    "about": "Optimized primitives for collective multi-GPU communication",
+    "star": "3,457",
+    "fork": "858",
+    "timestamp": "2025-02-15T02:13:30.672355",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "pytorch/executorch",
+    "href": "https://github.com/pytorch/executorch",
+    "about": "On-device AI across mobile, embedded and edge for PyTorch",
+    "star": "2,505",
+    "fork": "443",
+    "timestamp": "2025-02-15T02:13:30.672642",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "jomjol/AI-on-the-edge-device",
+    "href": "https://github.com/jomjol/AI-on-the-edge-device",
+    "about": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
+    "star": "6,629",
+    "fork": "702",
+    "timestamp": "2025-02-15T02:13:30.672915",
+    "stars_today": "159 stars this week"
+  }
+]

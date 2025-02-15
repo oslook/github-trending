@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,851",
+    "fork": "821",
+    "timestamp": "2025-02-15T02:13:44.956646",
+    "stars_today": "211 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,112",
+    "fork": "1,077",
+    "timestamp": "2025-02-15T02:13:44.956948",
+    "stars_today": "254 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "126,064",
+    "fork": "10,214",
+    "timestamp": "2025-02-15T02:13:44.957234",
+    "stars_today": "4,214 stars this week"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,459",
+    "fork": "462",
+    "timestamp": "2025-02-15T02:13:44.957528",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,694",
+    "fork": "721",
+    "timestamp": "2025-02-15T02:13:44.957808",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,798",
+    "fork": "17,870",
+    "timestamp": "2025-02-15T02:13:44.958085",
+    "stars_today": "253 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "5,093",
+    "fork": "675",
+    "timestamp": "2025-02-15T02:13:44.958374",
+    "stars_today": "222 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,464",
+    "fork": "1,958",
+    "timestamp": "2025-02-15T02:13:44.958669",
+    "stars_today": "348 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,422",
+    "fork": "3,026",
+    "timestamp": "2025-02-15T02:13:44.958945",
+    "stars_today": "205 stars this week"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "12,362",
+    "fork": "862",
+    "timestamp": "2025-02-15T02:13:44.959223",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,348",
+    "fork": "20,547",
+    "timestamp": "2025-02-15T02:13:44.959518",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "semaphoreui/semaphore",
+    "href": "https://github.com/semaphoreui/semaphore",
+    "about": "Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",
+    "star": "11,322",
+    "fork": "1,105",
+    "timestamp": "2025-02-15T02:13:44.959828",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,479",
+    "fork": "2,404",
+    "timestamp": "2025-02-15T02:13:44.960107",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,699",
+    "fork": "4,039",
+    "timestamp": "2025-02-15T02:13:44.960425",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,025",
+    "fork": "750",
+    "timestamp": "2025-02-15T02:13:44.960732",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,711",
+    "fork": "251",
+    "timestamp": "2025-02-15T02:13:44.961008",
+    "stars_today": "1,059 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,304",
+    "fork": "8,104",
+    "timestamp": "2025-02-15T02:13:44.961288",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,592",
+    "fork": "1,487",
+    "timestamp": "2025-02-15T02:13:44.961613",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "30,375",
+    "fork": "4,739",
+    "timestamp": "2025-02-15T02:13:44.961891",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "11,000",
+    "fork": "1,285",
+    "timestamp": "2025-02-15T02:13:44.962197",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,079",
+    "fork": "2,133",
+    "timestamp": "2025-02-15T02:13:44.962484",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "67,896",
+    "fork": "2,451",
+    "timestamp": "2025-02-15T02:13:44.962791",
+    "stars_today": "236 stars this week"
+  }
+]

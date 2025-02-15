@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ggerganov/llama.cpp",
+    "href": "https://github.com/ggerganov/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "74,280",
+    "fork": "10,726",
+    "timestamp": "2025-02-15T02:13:32.547780",
+    "stars_today": "3,911 stars this month"
+  },
+  {
+    "repo": "shadps4-emu/shadPS4",
+    "href": "https://github.com/shadps4-emu/shadPS4",
+    "about": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "star": "17,944",
+    "fork": "1,107",
+    "timestamp": "2025-02-15T02:13:32.548091",
+    "stars_today": "4,961 stars this month"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "4,916",
+    "fork": "801",
+    "timestamp": "2025-02-15T02:13:32.548387",
+    "stars_today": "2,005 stars this month"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "37,730",
+    "fork": "3,895",
+    "timestamp": "2025-02-15T02:13:32.548697",
+    "stars_today": "925 stars this month"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "href": "https://github.com/nomic-ai/gpt4all",
+    "about": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "star": "72,451",
+    "fork": "7,897",
+    "timestamp": "2025-02-15T02:13:32.548974",
+    "stars_today": "955 stars this month"
+  },
+  {
+    "repo": "lich0821/WeChatFerry",
+    "href": "https://github.com/lich0821/WeChatFerry",
+    "about": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
+    "star": "5,159",
+    "fork": "1,066",
+    "timestamp": "2025-02-15T02:13:32.549251",
+    "stars_today": "418 stars this month"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",
+    "star": "4,818",
+    "fork": "537",
+    "timestamp": "2025-02-15T02:13:32.549541",
+    "stars_today": "665 stars this month"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "97,021",
+    "fork": "8,453",
+    "timestamp": "2025-02-15T02:13:32.549816",
+    "stars_today": "816 stars this month"
+  },
+  {
+    "repo": "Mozilla-Ocho/llamafile",
+    "href": "https://github.com/Mozilla-Ocho/llamafile",
+    "about": "Distribute and run LLMs with a single file.",
+    "star": "21,704",
+    "fork": "1,134",
+    "timestamp": "2025-02-15T02:13:32.550091",
+    "stars_today": "528 stars this month"
+  },
+  {
+    "repo": "ggml-org/ggml",
+    "href": "https://github.com/ggml-org/ggml",
+    "about": "Tensor library for machine learning",
+    "star": "11,851",
+    "fork": "1,123",
+    "timestamp": "2025-02-15T02:13:32.550390",
+    "stars_today": "339 stars this month"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "28,976",
+    "fork": "5,638",
+    "timestamp": "2025-02-15T02:13:32.550671",
+    "stars_today": "360 stars this month"
+  },
+  {
+    "repo": "ton-blockchain/ton",
+    "href": "https://github.com/ton-blockchain/ton",
+    "about": "Main TON monorepo",
+    "star": "3,462",
+    "fork": "1,135",
+    "timestamp": "2025-02-15T02:13:32.550944",
+    "stars_today": "304 stars this month"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "href": "https://github.com/ml-explore/mlx",
+    "about": "MLX: An array framework for Apple silicon",
+    "star": "19,024",
+    "fork": "1,088",
+    "timestamp": "2025-02-15T02:13:32.551225",
+    "stars_today": "748 stars this month"
+  },
+  {
+    "repo": "kiwibrowser/src.next",
+    "href": "https://github.com/kiwibrowser/src.next",
+    "about": "Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium",
+    "star": "2,581",
+    "fork": "357",
+    "timestamp": "2025-02-15T02:13:32.551523",
+    "stars_today": "243 stars this month"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/README.md)",
+    "star": "9,626",
+    "fork": "1,742",
+    "timestamp": "2025-02-15T02:13:32.551798",
+    "stars_today": "739 stars this month"
+  },
+  {
+    "repo": "zhongyang219/TrafficMonitor",
+    "href": "https://github.com/zhongyang219/TrafficMonitor",
+    "about": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "star": "37,035",
+    "fork": "3,362",
+    "timestamp": "2025-02-15T02:13:32.552069",
+    "stars_today": "1,331 stars this month"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "6,202",
+    "fork": "1,069",
+    "timestamp": "2025-02-15T02:13:32.552354",
+    "stars_today": "213 stars this month"
+  },
+  {
+    "repo": "WasmEdge/WasmEdge",
+    "href": "https://github.com/WasmEdge/WasmEdge",
+    "about": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+    "star": "8,948",
+    "fork": "799",
+    "timestamp": "2025-02-15T02:13:32.552638",
+    "stars_today": "222 stars this month"
+  },
+  {
+    "repo": "pixie-io/pixie",
+    "href": "https://github.com/pixie-io/pixie",
+    "about": "Instant Kubernetes-Native Application Observability",
+    "star": "5,807",
+    "fork": "452",
+    "timestamp": "2025-02-15T02:13:32.552913",
+    "stars_today": "123 stars this month"
+  },
+  {
+    "repo": "mixxxdj/mixxx",
+    "href": "https://github.com/mixxxdj/mixxx",
+    "about": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.",
+    "star": "5,065",
+    "fork": "1,325",
+    "timestamp": "2025-02-15T02:13:32.553186",
+    "stars_today": "422 stars this month"
+  },
+  {
+    "repo": "MAZHARMIK/Interview_DS_Algo",
+    "href": "https://github.com/MAZHARMIK/Interview_DS_Algo",
+    "about": "Super Repository for Coding Interview Preperation",
+    "star": "2,115",
+    "fork": "1,136",
+    "timestamp": "2025-02-15T02:13:32.553494",
+    "stars_today": "169 stars this month"
+  },
+  {
+    "repo": "NVIDIA/cccl",
+    "href": "https://github.com/NVIDIA/cccl",
+    "about": "CUDA Core Compute Libraries",
+    "star": "1,459",
+    "fork": "188",
+    "timestamp": "2025-02-15T02:13:32.553757",
+    "stars_today": "78 stars this month"
+  },
+  {
+    "repo": "MaaAssistantArknights/MaaAssistantArknights",
+    "href": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "about": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "star": "14,895",
+    "fork": "2,009",
+    "timestamp": "2025-02-15T02:13:32.554028",
+    "stars_today": "368 stars this month"
+  }
+]
