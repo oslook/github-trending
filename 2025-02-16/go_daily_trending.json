@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,700",
+    "fork": "2,442",
+    "timestamp": "2025-02-16T02:20:16.079480",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,625",
+    "fork": "3,562",
+    "timestamp": "2025-02-16T02:20:16.080019",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,582",
+    "fork": "1,347",
+    "timestamp": "2025-02-16T02:20:16.080535",
+    "stars_today": "70 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "12,372",
+    "fork": "2,173",
+    "timestamp": "2025-02-16T02:20:16.081078",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "22,427",
+    "fork": "1,162",
+    "timestamp": "2025-02-16T02:20:16.081595",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,508",
+    "fork": "1,106",
+    "timestamp": "2025-02-16T02:20:16.082140",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "61,456",
+    "fork": "4,177",
+    "timestamp": "2025-02-16T02:20:16.082653",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "8,981",
+    "fork": "789",
+    "timestamp": "2025-02-16T02:20:16.083242",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,740",
+    "fork": "549",
+    "timestamp": "2025-02-16T02:20:16.083744",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,346",
+    "fork": "3,241",
+    "timestamp": "2025-02-16T02:20:16.084281",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "8,314",
+    "fork": "455",
+    "timestamp": "2025-02-16T02:20:16.084785",
+    "stars_today": "65 stars today"
+  },
+  {
+    "repo": "gotenberg/gotenberg",
+    "href": "https://github.com/gotenberg/gotenberg",
+    "about": "A developer-friendly API for converting numerous document formats into PDF files, and more!",
+    "star": "8,612",
+    "fork": "576",
+    "timestamp": "2025-02-16T02:20:16.085313",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/lws",
+    "href": "https://github.com/kubernetes-sigs/lws",
+    "about": "LeaderWorkerSet: An API for deploying a group of pods as a unit of replication",
+    "star": "244",
+    "fork": "44",
+    "timestamp": "2025-02-16T02:20:16.085817",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,091",
+    "fork": "9,352",
+    "timestamp": "2025-02-16T02:20:16.086337",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "13,210",
+    "fork": "1,287",
+    "timestamp": "2025-02-16T02:20:16.086849",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,164",
+    "fork": "5,622",
+    "timestamp": "2025-02-16T02:20:16.087384",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "126,352",
+    "fork": "10,250",
+    "timestamp": "2025-02-16T02:20:16.087975",
+    "stars_today": "281 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,915",
+    "fork": "1,540",
+    "timestamp": "2025-02-16T02:20:16.088475",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,921",
+    "fork": "2,619",
+    "timestamp": "2025-02-16T02:20:16.089015",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,396",
+    "fork": "9,865",
+    "timestamp": "2025-02-16T02:20:16.089526",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,292",
+    "fork": "2,552",
+    "timestamp": "2025-02-16T02:20:16.090057",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,947",
+    "fork": "3,488",
+    "timestamp": "2025-02-16T02:20:16.090577",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,226",
+    "fork": "539",
+    "timestamp": "2025-02-16T02:20:16.090905",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "11,238",
+    "fork": "996",
+    "timestamp": "2025-02-16T02:20:16.091273",
+    "stars_today": "6 stars today"
+  }
+]
