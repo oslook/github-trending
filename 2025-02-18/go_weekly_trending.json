@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,896",
+    "fork": "17,882",
+    "timestamp": "2025-02-18T02:14:04.381143",
+    "stars_today": "342 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,191",
+    "fork": "1,086",
+    "timestamp": "2025-02-18T02:14:04.381442",
+    "stars_today": "233 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,631",
+    "fork": "1,961",
+    "timestamp": "2025-02-18T02:14:04.381750",
+    "stars_today": "376 stars this week"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,712",
+    "fork": "4,040",
+    "timestamp": "2025-02-18T02:14:04.382068",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,469",
+    "fork": "463",
+    "timestamp": "2025-02-18T02:14:04.382352",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,883",
+    "fork": "823",
+    "timestamp": "2025-02-18T02:14:04.382633",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "30,412",
+    "fork": "4,743",
+    "timestamp": "2025-02-18T02:14:04.382910",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,522",
+    "fork": "13,713",
+    "timestamp": "2025-02-18T02:14:04.383230",
+    "stars_today": "282 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,882",
+    "fork": "254",
+    "timestamp": "2025-02-18T02:14:04.383505",
+    "stars_today": "1,003 stars this week"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,616",
+    "fork": "1,489",
+    "timestamp": "2025-02-18T02:14:04.383815",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,114",
+    "fork": "2,136",
+    "timestamp": "2025-02-18T02:14:04.384107",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,420",
+    "fork": "9,867",
+    "timestamp": "2025-02-18T02:14:04.384380",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "37,934",
+    "fork": "5,894",
+    "timestamp": "2025-02-18T02:14:04.384652",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,185",
+    "fork": "18,693",
+    "timestamp": "2025-02-18T02:14:04.384926",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "11,429",
+    "fork": "397",
+    "timestamp": "2025-02-18T02:14:04.385213",
+    "stars_today": "504 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,144",
+    "fork": "1,701",
+    "timestamp": "2025-02-18T02:14:04.385493",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "22,021",
+    "fork": "2,639",
+    "timestamp": "2025-02-18T02:14:04.385767",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,494",
+    "fork": "2,404",
+    "timestamp": "2025-02-18T02:14:04.386039",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "fastenhealth/fasten-onprem",
+    "href": "https://github.com/fastenhealth/fasten-onprem",
+    "about": "Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics",
+    "star": "2,115",
+    "fork": "124",
+    "timestamp": "2025-02-18T02:14:04.386350",
+    "stars_today": "120 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,279",
+    "fork": "1,234",
+    "timestamp": "2025-02-18T02:14:04.386621",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,503",
+    "fork": "3,436",
+    "timestamp": "2025-02-18T02:14:04.386920",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,764",
+    "fork": "549",
+    "timestamp": "2025-02-18T02:14:04.387210",
+    "stars_today": "92 stars this week"
+  }
+]
