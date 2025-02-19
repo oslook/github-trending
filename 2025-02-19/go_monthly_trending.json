@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "127,418",
+    "fork": "10,362",
+    "timestamp": "2025-02-19T02:15:16.911573",
+    "stars_today": "19,528 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "11,015",
+    "fork": "259",
+    "timestamp": "2025-02-19T02:15:16.911873",
+    "stars_today": "2,307 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,897",
+    "fork": "824",
+    "timestamp": "2025-02-19T02:15:16.912173",
+    "stars_today": "476 stars this month"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,548",
+    "fork": "478",
+    "timestamp": "2025-02-19T02:15:16.912455",
+    "stars_today": "272 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,979",
+    "fork": "256",
+    "timestamp": "2025-02-19T02:15:16.912735",
+    "stars_today": "3,338 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,922",
+    "fork": "17,881",
+    "timestamp": "2025-02-19T02:15:16.913024",
+    "stars_today": "993 stars this month"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,244",
+    "fork": "1,974",
+    "timestamp": "2025-02-19T02:15:16.913306",
+    "stars_today": "150 stars this month"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,412",
+    "fork": "656",
+    "timestamp": "2025-02-19T02:15:16.913610",
+    "stars_today": "1,076 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,951",
+    "fork": "1,324",
+    "timestamp": "2025-02-19T02:15:16.913916",
+    "stars_today": "1,709 stars this month"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,739",
+    "fork": "726",
+    "timestamp": "2025-02-19T02:15:16.914206",
+    "stars_today": "375 stars this month"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,976",
+    "fork": "3,005",
+    "timestamp": "2025-02-19T02:15:16.914512",
+    "stars_today": "2,018 stars this month"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,476",
+    "fork": "463",
+    "timestamp": "2025-02-19T02:15:16.914788",
+    "stars_today": "89 stars this month"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,772",
+    "fork": "551",
+    "timestamp": "2025-02-19T02:15:16.915079",
+    "stars_today": "320 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,734",
+    "fork": "896",
+    "timestamp": "2025-02-19T02:15:16.915356",
+    "stars_today": "116 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "18,121",
+    "fork": "1,775",
+    "timestamp": "2025-02-19T02:15:16.915632",
+    "stars_today": "347 stars this month"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,308",
+    "fork": "560",
+    "timestamp": "2025-02-19T02:15:16.915996",
+    "stars_today": "76 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,166",
+    "fork": "40,255",
+    "timestamp": "2025-02-19T02:15:16.916400",
+    "stars_today": "895 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,238",
+    "fork": "1,417",
+    "timestamp": "2025-02-19T02:15:16.916711",
+    "stars_today": "216 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,676",
+    "fork": "1,963",
+    "timestamp": "2025-02-19T02:15:16.917036",
+    "stars_today": "1,521 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "2,992",
+    "fork": "1,242",
+    "timestamp": "2025-02-19T02:15:16.917323",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "21,282",
+    "fork": "422",
+    "timestamp": "2025-02-19T02:15:16.917630",
+    "stars_today": "684 stars this month"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,620",
+    "fork": "1,350",
+    "timestamp": "2025-02-19T02:15:16.917916",
+    "stars_today": "322 stars this month"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,617",
+    "fork": "1,490",
+    "timestamp": "2025-02-19T02:15:16.918238",
+    "stars_today": "177 stars this month"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,922",
+    "fork": "17,881",
+    "timestamp": "2025-02-19T02:15:11.645481",
+    "stars_today": "342 stars this week"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,620",
+    "fork": "1,350",
+    "timestamp": "2025-02-19T02:15:11.645790",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,562",
+    "fork": "13,717",
+    "timestamp": "2025-02-19T02:15:11.646116",
+    "stars_today": "266 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,230",
+    "fork": "1,092",
+    "timestamp": "2025-02-19T02:15:11.646401",
+    "stars_today": "235 stars this week"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,132",
+    "fork": "2,136",
+    "timestamp": "2025-02-19T02:15:11.646685",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "26,841",
+    "fork": "1,287",
+    "timestamp": "2025-02-19T02:15:11.646968",
+    "stars_today": "142 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,522",
+    "fork": "3,440",
+    "timestamp": "2025-02-19T02:15:11.647350",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,720",
+    "fork": "4,040",
+    "timestamp": "2025-02-19T02:15:11.647663",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "30,421",
+    "fork": "4,745",
+    "timestamp": "2025-02-19T02:15:11.647943",
+    "stars_today": "101 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "8,979",
+    "fork": "256",
+    "timestamp": "2025-02-19T02:15:11.648246",
+    "stars_today": "950 stars this week"
+  },
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "2,903",
+    "fork": "1,614",
+    "timestamp": "2025-02-19T02:15:11.648529",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,676",
+    "fork": "1,963",
+    "timestamp": "2025-02-19T02:15:11.648839",
+    "stars_today": "387 stars this week"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,772",
+    "fork": "551",
+    "timestamp": "2025-02-19T02:15:11.649133",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "10,609",
+    "fork": "376",
+    "timestamp": "2025-02-19T02:15:11.649446",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An engine to run your pipelines in containers",
+    "star": "11,930",
+    "fork": "636",
+    "timestamp": "2025-02-19T02:15:11.649722",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,432",
+    "fork": "9,870",
+    "timestamp": "2025-02-19T02:15:11.649998",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "quii/learn-go-with-tests",
+    "href": "https://github.com/quii/learn-go-with-tests",
+    "about": "Learn Go with test-driven development",
+    "star": "22,499",
+    "fork": "2,853",
+    "timestamp": "2025-02-19T02:15:11.650315",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "sqlc-dev/sqlc",
+    "href": "https://github.com/sqlc-dev/sqlc",
+    "about": "Generate type-safe code from SQL",
+    "star": "14,269",
+    "fork": "839",
+    "timestamp": "2025-02-19T02:15:11.650590",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,283",
+    "fork": "1,234",
+    "timestamp": "2025-02-19T02:15:11.650866",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "22,042",
+    "fork": "2,639",
+    "timestamp": "2025-02-19T02:15:11.651155",
+    "stars_today": "152 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,201",
+    "fork": "18,695",
+    "timestamp": "2025-02-19T02:15:11.651435",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,158",
+    "fork": "1,703",
+    "timestamp": "2025-02-19T02:15:11.651710",
+    "stars_today": "78 stars this week"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,275",
+    "fork": "2,883",
+    "timestamp": "2025-02-19T02:15:10.958285",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "28,976",
+    "fork": "3,005",
+    "timestamp": "2025-02-19T02:15:10.958615",
+    "stars_today": "174 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,393",
+    "fork": "20,565",
+    "timestamp": "2025-02-19T02:15:10.958895",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "docker/cli",
+    "href": "https://github.com/docker/cli",
+    "about": "The Docker CLI",
+    "star": "5,095",
+    "fork": "1,968",
+    "timestamp": "2025-02-19T02:15:10.959198",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,538",
+    "fork": "3,977",
+    "timestamp": "2025-02-19T02:15:10.959479",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,201",
+    "fork": "18,695",
+    "timestamp": "2025-02-19T02:15:10.959758",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "veops/oneterm",
+    "href": "https://github.com/veops/oneterm",
+    "about": "Provide secure access and control over all infrastructure",
+    "star": "685",
+    "fork": "80",
+    "timestamp": "2025-02-19T02:15:10.960049",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,847",
+    "fork": "1,552",
+    "timestamp": "2025-02-19T02:15:10.960328",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,283",
+    "fork": "1,234",
+    "timestamp": "2025-02-19T02:15:10.960604",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gorilla/mux",
+    "href": "https://github.com/gorilla/mux",
+    "about": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
+    "star": "21,138",
+    "fork": "1,860",
+    "timestamp": "2025-02-19T02:15:10.960883",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,293",
+    "fork": "3,745",
+    "timestamp": "2025-02-19T02:15:10.961173",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,751",
+    "fork": "5,315",
+    "timestamp": "2025-02-19T02:15:10.961450",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "16,059",
+    "fork": "1,445",
+    "timestamp": "2025-02-19T02:15:10.961724",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,625",
+    "fork": "849",
+    "timestamp": "2025-02-19T02:15:10.962048",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,086",
+    "fork": "3,517",
+    "timestamp": "2025-02-19T02:15:10.962325",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "26,841",
+    "fork": "1,287",
+    "timestamp": "2025-02-19T02:15:10.962599",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "href": "https://github.com/jmoiron/sqlx",
+    "about": "general purpose extensions to golang's database/sql",
+    "star": "16,616",
+    "fork": "1,091",
+    "timestamp": "2025-02-19T02:15:10.962873",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "68,017",
+    "fork": "2,454",
+    "timestamp": "2025-02-19T02:15:10.963190",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,932",
+    "fork": "2,618",
+    "timestamp": "2025-02-19T02:15:10.963470",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "61,724",
+    "fork": "4,181",
+    "timestamp": "2025-02-19T02:15:10.963745",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "go-delve/delve",
+    "href": "https://github.com/go-delve/delve",
+    "about": "Delve is a debugger for the Go programming language.",
+    "star": "23,406",
+    "fork": "2,156",
+    "timestamp": "2025-02-19T02:15:10.964036",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "qdm12/ddns-updater",
+    "href": "https://github.com/qdm12/ddns-updater",
+    "about": "Container to update DNS records periodically with WebUI for many DNS providers",
+    "star": "2,083",
+    "fork": "189",
+    "timestamp": "2025-02-19T02:15:10.964344",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "41,951",
+    "fork": "1,324",
+    "timestamp": "2025-02-19T02:15:10.964647",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "17,963",
+    "fork": "3,531",
+    "timestamp": "2025-02-19T02:15:10.964921",
+    "stars_today": "7 stars today"
+  }
+]
