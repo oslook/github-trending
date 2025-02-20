@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,628",
+    "fork": "1,350",
+    "timestamp": "2025-02-20T02:15:41.913877",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,949",
+    "fork": "17,887",
+    "timestamp": "2025-02-20T02:15:41.914169",
+    "stars_today": "339 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,359",
+    "fork": "2,888",
+    "timestamp": "2025-02-20T02:15:41.914463",
+    "stars_today": "201 stars this week"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,144",
+    "fork": "2,138",
+    "timestamp": "2025-02-20T02:15:41.914780",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,274",
+    "fork": "1,095",
+    "timestamp": "2025-02-20T02:15:41.915055",
+    "stars_today": "234 stars this week"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "61,757",
+    "fork": "4,181",
+    "timestamp": "2025-02-20T02:15:41.915328",
+    "stars_today": "443 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,610",
+    "fork": "13,727",
+    "timestamp": "2025-02-20T02:15:41.915643",
+    "stars_today": "280 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,545",
+    "fork": "3,442",
+    "timestamp": "2025-02-20T02:15:41.915947",
+    "stars_today": "167 stars this week"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "26,854",
+    "fork": "1,289",
+    "timestamp": "2025-02-20T02:15:41.916221",
+    "stars_today": "147 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,637",
+    "fork": "852",
+    "timestamp": "2025-02-20T02:15:41.916535",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "9,075",
+    "fork": "260",
+    "timestamp": "2025-02-20T02:15:41.916808",
+    "stars_today": "893 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,435",
+    "fork": "9,872",
+    "timestamp": "2025-02-20T02:15:41.917081",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "10,725",
+    "fork": "383",
+    "timestamp": "2025-02-20T02:15:41.917399",
+    "stars_today": "374 stars this week"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "30,426",
+    "fork": "4,744",
+    "timestamp": "2025-02-20T02:15:41.917675",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,548",
+    "fork": "3,978",
+    "timestamp": "2025-02-20T02:15:41.917948",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,508",
+    "fork": "2,407",
+    "timestamp": "2025-02-20T02:15:41.918222",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,761",
+    "fork": "5,317",
+    "timestamp": "2025-02-20T02:15:41.918508",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.",
+    "star": "281",
+    "fork": "37",
+    "timestamp": "2025-02-20T02:15:41.918782",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "78,141",
+    "fork": "7,677",
+    "timestamp": "2025-02-20T02:15:41.919056",
+    "stars_today": "264 stars this week"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,325",
+    "fork": "9,367",
+    "timestamp": "2025-02-20T02:15:41.919329",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,288",
+    "fork": "1,234",
+    "timestamp": "2025-02-20T02:15:41.919624",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,781",
+    "fork": "550",
+    "timestamp": "2025-02-20T02:15:41.919901",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,192",
+    "fork": "40,266",
+    "timestamp": "2025-02-20T02:15:41.920174",
+    "stars_today": "196 stars this week"
+  },
+  {
+    "repo": "quii/learn-go-with-tests",
+    "href": "https://github.com/quii/learn-go-with-tests",
+    "about": "Learn Go with test-driven development",
+    "star": "22,504",
+    "fork": "2,853",
+    "timestamp": "2025-02-20T02:15:41.920487",
+    "stars_today": "45 stars this week"
+  }
+]
