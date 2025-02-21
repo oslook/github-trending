@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,538",
+    "fork": "2,983",
+    "timestamp": "2025-02-21T02:16:03.227976",
+    "stars_today": "54 stars this month"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,343",
+    "fork": "431",
+    "timestamp": "2025-02-21T02:16:03.228273",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "906",
+    "fork": "230",
+    "timestamp": "2025-02-21T02:16:03.228552",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,340",
+    "fork": "1,169",
+    "timestamp": "2025-02-21T02:16:03.228842",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "252",
+    "fork": "84",
+    "timestamp": "2025-02-21T02:16:03.229119",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "66",
+    "fork": "38",
+    "timestamp": "2025-02-21T02:16:03.229393",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "175",
+    "timestamp": "2025-02-21T02:16:03.229665",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "316",
+    "fork": "103",
+    "timestamp": "2025-02-21T02:16:03.229951",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "94",
+    "fork": "49",
+    "timestamp": "2025-02-21T02:16:03.230224",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "819",
+    "fork": "232",
+    "timestamp": "2025-02-21T02:16:03.230520",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "886",
+    "fork": "167",
+    "timestamp": "2025-02-21T02:16:03.230791",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,716",
+    "fork": "519",
+    "timestamp": "2025-02-21T02:16:03.231074",
+    "stars_today": "2 stars this month"
+  }
+]
