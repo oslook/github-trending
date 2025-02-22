@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "128,386",
+    "fork": "10,456",
+    "timestamp": "2025-02-22T02:12:16.055274",
+    "stars_today": "20,013 stars this month"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,253",
+    "fork": "1,974",
+    "timestamp": "2025-02-22T02:12:16.055587",
+    "stars_today": "157 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "42,103",
+    "fork": "1,329",
+    "timestamp": "2025-02-22T02:12:16.055895",
+    "stars_today": "1,736 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "22,934",
+    "fork": "828",
+    "timestamp": "2025-02-22T02:12:16.056173",
+    "stars_today": "499 stars this month"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,799",
+    "fork": "733",
+    "timestamp": "2025-02-22T02:12:16.056446",
+    "stars_today": "414 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "125,984",
+    "fork": "17,898",
+    "timestamp": "2025-02-22T02:12:16.056734",
+    "stars_today": "1,019 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,481",
+    "fork": "2,893",
+    "timestamp": "2025-02-22T02:12:16.057010",
+    "stars_today": "616 stars this month"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "29,449",
+    "fork": "3,025",
+    "timestamp": "2025-02-22T02:12:16.057317",
+    "stars_today": "2,078 stars this month"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,321",
+    "fork": "561",
+    "timestamp": "2025-02-22T02:12:16.057608",
+    "stars_today": "84 stars this month"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "9,442",
+    "fork": "661",
+    "timestamp": "2025-02-22T02:12:16.057913",
+    "stars_today": "1,078 stars this month"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,704",
+    "fork": "265",
+    "timestamp": "2025-02-22T02:12:16.058188",
+    "stars_today": "106 stars this month"
+  },
+  {
+    "repo": "charmbracelet/gum",
+    "href": "https://github.com/charmbracelet/gum",
+    "about": "A tool for glamorous shell scripts 🎀",
+    "star": "18,926",
+    "fork": "367",
+    "timestamp": "2025-02-22T02:12:16.058475",
+    "stars_today": "305 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "9,159",
+    "fork": "261",
+    "timestamp": "2025-02-22T02:12:16.058747",
+    "stars_today": "2,771 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,100",
+    "fork": "758",
+    "timestamp": "2025-02-22T02:12:16.059046",
+    "stars_today": "247 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "56,827",
+    "fork": "1,966",
+    "timestamp": "2025-02-22T02:12:16.059343",
+    "stars_today": "1,575 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,244",
+    "fork": "40,282",
+    "timestamp": "2025-02-22T02:12:16.059627",
+    "stars_today": "930 stars this month"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,490",
+    "fork": "469",
+    "timestamp": "2025-02-22T02:12:16.059898",
+    "stars_today": "96 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,743",
+    "fork": "899",
+    "timestamp": "2025-02-22T02:12:16.060171",
+    "stars_today": "115 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,276",
+    "fork": "1,418",
+    "timestamp": "2025-02-22T02:12:16.060506",
+    "stars_today": "243 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "18,169",
+    "fork": "1,776",
+    "timestamp": "2025-02-22T02:12:16.060808",
+    "stars_today": "363 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "2,996",
+    "fork": "1,242",
+    "timestamp": "2025-02-22T02:12:16.061087",
+    "stars_today": "44 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,319",
+    "fork": "2,572",
+    "timestamp": "2025-02-22T02:12:16.061358",
+    "stars_today": "111 stars this month"
+  },
+  {
+    "repo": "cloudflare/terraform-provider-cloudflare",
+    "href": "https://github.com/cloudflare/terraform-provider-cloudflare",
+    "about": "Cloudflare Terraform Provider",
+    "star": "921",
+    "fork": "643",
+    "timestamp": "2025-02-22T02:12:16.061661",
+    "stars_today": "49 stars this month"
+  }
+]

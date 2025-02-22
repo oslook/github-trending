@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,481",
+    "fork": "2,893",
+    "timestamp": "2025-02-22T02:12:13.785917",
+    "stars_today": "70 stars today"
+  },
+  {
+    "repo": "subtrace/subtrace",
+    "href": "https://github.com/subtrace/subtrace",
+    "about": "Wireshark for Docker containers",
+    "star": "1,532",
+    "fork": "28",
+    "timestamp": "2025-02-22T02:12:13.786220",
+    "stars_today": "316 stars today"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "15,564",
+    "fork": "942",
+    "timestamp": "2025-02-22T02:12:13.786501",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!",
+    "star": "5,723",
+    "fork": "565",
+    "timestamp": "2025-02-22T02:12:13.786802",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "k8sgpt-ai/k8sgpt",
+    "href": "https://github.com/k8sgpt-ai/k8sgpt",
+    "about": "Giving Kubernetes Superpowers to everyone",
+    "star": "6,263",
+    "fork": "741",
+    "timestamp": "2025-02-22T02:12:13.787075",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "18,985",
+    "fork": "1,545",
+    "timestamp": "2025-02-22T02:12:13.787361",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "29,449",
+    "fork": "3,025",
+    "timestamp": "2025-02-22T02:12:13.787685",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "kubernetes/test-infra",
+    "href": "https://github.com/kubernetes/test-infra",
+    "about": "Test infrastructure for the Kubernetes project.",
+    "star": "3,909",
+    "fork": "2,697",
+    "timestamp": "2025-02-22T02:12:13.787962",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "18,169",
+    "fork": "1,776",
+    "timestamp": "2025-02-22T02:12:13.788245",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,427",
+    "fork": "1,010",
+    "timestamp": "2025-02-22T02:12:13.788560",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "13,430",
+    "fork": "1,623",
+    "timestamp": "2025-02-22T02:12:13.788837",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,228",
+    "fork": "580",
+    "timestamp": "2025-02-22T02:12:13.789137",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,584",
+    "fork": "1,795",
+    "timestamp": "2025-02-22T02:12:13.789442",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "photoprism/photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "about": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+    "star": "36,499",
+    "fork": "2,020",
+    "timestamp": "2025-02-22T02:12:13.789759",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "27,090",
+    "fork": "1,930",
+    "timestamp": "2025-02-22T02:12:13.790034",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "42,103",
+    "fork": "1,329",
+    "timestamp": "2025-02-22T02:12:13.790334",
+    "stars_today": "62 stars today"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "6,835",
+    "fork": "630",
+    "timestamp": "2025-02-22T02:12:13.790618",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "6,617",
+    "fork": "605",
+    "timestamp": "2025-02-22T02:12:13.790891",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,836",
+    "fork": "2,199",
+    "timestamp": "2025-02-22T02:12:13.791170",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "57,913",
+    "fork": "1,461",
+    "timestamp": "2025-02-22T02:12:13.791443",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,941",
+    "fork": "2,623",
+    "timestamp": "2025-02-22T02:12:13.791757",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "68,136",
+    "fork": "2,461",
+    "timestamp": "2025-02-22T02:12:13.792062",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,095",
+    "fork": "1,032",
+    "timestamp": "2025-02-22T02:12:13.792338",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "11,680",
+    "fork": "2,427",
+    "timestamp": "2025-02-22T02:12:13.792625",
+    "stars_today": "7 stars today"
+  }
+]
