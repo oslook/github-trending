@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,674",
+    "fork": "1,056",
+    "timestamp": "2025-02-24T02:19:56.146458",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "fossas/fossa-cli",
+    "href": "https://github.com/fossas/fossa-cli",
+    "about": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
+    "star": "1,330",
+    "fork": "178",
+    "timestamp": "2025-02-24T02:19:56.146766",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "36,972",
+    "fork": "1,797",
+    "timestamp": "2025-02-24T02:19:56.147068",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "xmonad/xmonad",
+    "href": "https://github.com/xmonad/xmonad",
+    "about": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager",
+    "star": "3,419",
+    "fork": "296",
+    "timestamp": "2025-02-24T02:19:56.147381",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,760",
+    "fork": "377",
+    "timestamp": "2025-02-24T02:19:56.147665",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "clash-lang/clash-compiler",
+    "href": "https://github.com/clash-lang/clash-compiler",
+    "about": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+    "star": "1,469",
+    "fork": "156",
+    "timestamp": "2025-02-24T02:19:56.147949",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "augustss/MicroHs",
+    "href": "https://github.com/augustss/MicroHs",
+    "about": "Haskell implemented with combinators",
+    "star": "426",
+    "fork": "33",
+    "timestamp": "2025-02-24T02:19:56.148245",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-network",
+    "href": "https://github.com/IntersectMBO/ouroboros-network",
+    "about": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+    "star": "281",
+    "fork": "87",
+    "timestamp": "2025-02-24T02:19:56.148529",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,714",
+    "fork": "429",
+    "timestamp": "2025-02-24T02:19:56.148842",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,105",
+    "fork": "720",
+    "timestamp": "2025-02-24T02:19:56.149139",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,308",
+    "fork": "329",
+    "timestamp": "2025-02-24T02:19:56.149428",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "35,968",
+    "fork": "3,446",
+    "timestamp": "2025-02-24T02:19:56.149741",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-db-sync",
+    "href": "https://github.com/IntersectMBO/cardano-db-sync",
+    "about": "A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL",
+    "star": "302",
+    "fork": "162",
+    "timestamp": "2025-02-24T02:19:56.150033",
+    "stars_today": "0 stars today"
+  }
+]
