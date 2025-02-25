@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "fossas/fossa-cli",
+    "href": "https://github.com/fossas/fossa-cli",
+    "about": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
+    "star": "1,331",
+    "fork": "179",
+    "timestamp": "2025-02-25T02:18:15.865056",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,678",
+    "fork": "1,057",
+    "timestamp": "2025-02-25T02:18:15.865355",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,762",
+    "fork": "377",
+    "timestamp": "2025-02-25T02:18:15.865650",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,169",
+    "fork": "321",
+    "timestamp": "2025-02-25T02:18:15.865958",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ghc/ghc",
+    "href": "https://github.com/ghc/ghc",
+    "about": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+    "star": "3,100",
+    "fork": "711",
+    "timestamp": "2025-02-25T02:18:15.866243",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "35,991",
+    "fork": "3,447",
+    "timestamp": "2025-02-25T02:18:15.866559",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-network",
+    "href": "https://github.com/IntersectMBO/ouroboros-network",
+    "about": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+    "star": "281",
+    "fork": "87",
+    "timestamp": "2025-02-25T02:18:15.866837",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,035",
+    "fork": "46",
+    "timestamp": "2025-02-25T02:18:15.867114",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-db-sync",
+    "href": "https://github.com/IntersectMBO/cardano-db-sync",
+    "about": "A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL",
+    "star": "302",
+    "fork": "162",
+    "timestamp": "2025-02-25T02:18:15.867389",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "xmonad/xmonad",
+    "href": "https://github.com/xmonad/xmonad",
+    "about": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager",
+    "star": "3,419",
+    "fork": "296",
+    "timestamp": "2025-02-25T02:18:15.867706",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,310",
+    "fork": "329",
+    "timestamp": "2025-02-25T02:18:15.867981",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "haskell/cabal",
+    "href": "https://github.com/haskell/cabal",
+    "about": "Official upstream development repository for Cabal and cabal-install",
+    "star": "1,651",
+    "fork": "704",
+    "timestamp": "2025-02-25T02:18:15.868260",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "36,981",
+    "fork": "1,796",
+    "timestamp": "2025-02-25T02:18:15.868546",
+    "stars_today": "7 stars today"
+  }
+]
