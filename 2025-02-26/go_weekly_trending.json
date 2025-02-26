@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,534",
+    "fork": "2,899",
+    "timestamp": "2025-02-26T02:17:52.344175",
+    "stars_today": "318 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "29,575",
+    "fork": "3,038",
+    "timestamp": "2025-02-26T02:17:52.344518",
+    "stars_today": "722 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "11,017",
+    "fork": "392",
+    "timestamp": "2025-02-26T02:17:52.344832",
+    "stars_today": "452 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,217",
+    "fork": "290",
+    "timestamp": "2025-02-26T02:17:52.345116",
+    "stars_today": "1,188 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,356",
+    "fork": "834",
+    "timestamp": "2025-02-26T02:17:52.345440",
+    "stars_today": "1,123 stars this week"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,673",
+    "fork": "1,797",
+    "timestamp": "2025-02-26T02:17:52.345748",
+    "stars_today": "187 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "13,476",
+    "fork": "1,628",
+    "timestamp": "2025-02-26T02:17:52.346030",
+    "stars_today": "94 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,245",
+    "fork": "18,705",
+    "timestamp": "2025-02-26T02:17:52.346314",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,825",
+    "fork": "13,745",
+    "timestamp": "2025-02-26T02:17:52.346634",
+    "stars_today": "290 stars this week"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,595",
+    "fork": "3,979",
+    "timestamp": "2025-02-26T02:17:52.346914",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,535",
+    "fork": "2,410",
+    "timestamp": "2025-02-26T02:17:52.347190",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,125",
+    "fork": "1,720",
+    "timestamp": "2025-02-26T02:17:52.347513",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "27,171",
+    "fork": "1,940",
+    "timestamp": "2025-02-26T02:17:52.347792",
+    "stars_today": "224 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,324",
+    "fork": "40,303",
+    "timestamp": "2025-02-26T02:17:52.348068",
+    "stars_today": "204 stars this week"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,409",
+    "fork": "9,381",
+    "timestamp": "2025-02-26T02:17:52.348356",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "12,397",
+    "fork": "409",
+    "timestamp": "2025-02-26T02:17:52.348636",
+    "stars_today": "851 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,503",
+    "fork": "8,120",
+    "timestamp": "2025-02-26T02:17:52.348913",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,315",
+    "fork": "884",
+    "timestamp": "2025-02-26T02:17:52.349189",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,496",
+    "fork": "9,885",
+    "timestamp": "2025-02-26T02:17:52.349477",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An engine to run your pipelines in containers",
+    "star": "12,084",
+    "fork": "641",
+    "timestamp": "2025-02-26T02:17:52.349751",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "15,643",
+    "fork": "950",
+    "timestamp": "2025-02-26T02:17:52.350025",
+    "stars_today": "188 stars this week"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "6,857",
+    "fork": "630",
+    "timestamp": "2025-02-26T02:17:52.350297",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,675",
+    "fork": "3,452",
+    "timestamp": "2025-02-26T02:17:52.350613",
+    "stars_today": "174 stars this week"
+  }
+]
