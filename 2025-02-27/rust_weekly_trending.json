@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "22,575",
+    "fork": "494",
+    "timestamp": "2025-02-27T02:18:59.224370",
+    "stars_today": "368 stars this week"
+  },
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "34,999",
+    "fork": "1,066",
+    "timestamp": "2025-02-27T02:18:59.224665",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "41,454",
+    "fork": "1,163",
+    "timestamp": "2025-02-27T02:18:59.224958",
+    "stars_today": "1,158 stars this week"
+  },
+  {
+    "repo": "nexus-xyz/network-api",
+    "href": "https://github.com/nexus-xyz/network-api",
+    "about": "High-performance interface for supplying compute to the Nexus network.",
+    "star": "647",
+    "fork": "235",
+    "timestamp": "2025-02-27T02:18:59.225236",
+    "stars_today": "296 stars this week"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "35,303",
+    "fork": "6,337",
+    "timestamp": "2025-02-27T02:18:59.225540",
+    "stars_today": "393 stars this week"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "37,959",
+    "fork": "1,033",
+    "timestamp": "2025-02-27T02:18:59.225842",
+    "stars_today": "399 stars this week"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "101,528",
+    "fork": "13,142",
+    "timestamp": "2025-02-27T02:18:59.226133",
+    "stars_today": "220 stars this week"
+  },
+  {
+    "repo": "libp2p/rust-libp2p",
+    "href": "https://github.com/libp2p/rust-libp2p",
+    "about": "The Rust Implementation of the libp2p networking stack.",
+    "star": "4,846",
+    "fork": "1,027",
+    "timestamp": "2025-02-27T02:18:59.226409",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "nkaz001/hftbacktest",
+    "href": "https://github.com/nkaz001/hftbacktest",
+    "about": "A high frequency trading and market making backtesting and trading bot in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, with real-world crypto market-making examples for Binance Futures",
+    "star": "2,304",
+    "fork": "456",
+    "timestamp": "2025-02-27T02:18:59.226685",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "83,037",
+    "fork": "11,614",
+    "timestamp": "2025-02-27T02:18:59.227004",
+    "stars_today": "700 stars this week"
+  },
+  {
+    "repo": "dandavison/delta",
+    "href": "https://github.com/dandavison/delta",
+    "about": "A syntax-highlighting pager for git, diff, grep, and blame output",
+    "star": "25,500",
+    "fork": "408",
+    "timestamp": "2025-02-27T02:18:59.227312",
+    "stars_today": "124 stars this week"
+  },
+  {
+    "repo": "apache/opendal",
+    "href": "https://github.com/apache/opendal",
+    "about": "Apache OpenDAL: One Layer, All Storage.",
+    "star": "3,857",
+    "fork": "530",
+    "timestamp": "2025-02-27T02:18:59.227590",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "cube-js/cube",
+    "href": "https://github.com/cube-js/cube",
+    "about": "📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics",
+    "star": "18,284",
+    "fork": "1,806",
+    "timestamp": "2025-02-27T02:18:59.227869",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "8,638",
+    "fork": "1,869",
+    "timestamp": "2025-02-27T02:18:59.228164",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "about": "A curated list of Rust code and resources.",
+    "star": "48,915",
+    "fork": "2,856",
+    "timestamp": "2025-02-27T02:18:59.228446",
+    "stars_today": "195 stars this week"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,057",
+    "fork": "2,096",
+    "timestamp": "2025-02-27T02:18:59.228724",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "href": "https://github.com/chroma-core/chroma",
+    "about": "the AI-native open-source embedding database",
+    "star": "18,080",
+    "fork": "1,491",
+    "timestamp": "2025-02-27T02:18:59.229040",
+    "stars_today": "231 stars this week"
+  },
+  {
+    "repo": "rust-lang/rust-clippy",
+    "href": "https://github.com/rust-lang/rust-clippy",
+    "about": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+    "star": "11,751",
+    "fork": "1,594",
+    "timestamp": "2025-02-27T02:18:59.229326",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,376",
+    "fork": "1,431",
+    "timestamp": "2025-02-27T02:18:59.229604",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "28,772",
+    "fork": "961",
+    "timestamp": "2025-02-27T02:18:59.229882",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "25,440",
+    "fork": "992",
+    "timestamp": "2025-02-27T02:18:59.230202",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "loco-rs/loco",
+    "href": "https://github.com/loco-rs/loco",
+    "about": "🚂 🦀 The one-person framework for Rust for side-projects and startups",
+    "star": "7,311",
+    "fork": "299",
+    "timestamp": "2025-02-27T02:18:59.230502",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "50,635",
+    "fork": "2,065",
+    "timestamp": "2025-02-27T02:18:59.230805",
+    "stars_today": "231 stars this week"
+  }
+]

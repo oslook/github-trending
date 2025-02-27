@@ -1,0 +1,56 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,487",
+    "fork": "5,544",
+    "timestamp": "2025-02-27T02:18:47.349729",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "619",
+    "fork": "479",
+    "timestamp": "2025-02-27T02:18:47.350037",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaGPU/CUDA.jl",
+    "href": "https://github.com/JuliaGPU/CUDA.jl",
+    "about": "CUDA programming in Julia.",
+    "star": "1,253",
+    "fork": "238",
+    "timestamp": "2025-02-27T02:18:47.350358",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/ModelingToolkit.jl",
+    "href": "https://github.com/SciML/ModelingToolkit.jl",
+    "about": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+    "star": "1,470",
+    "fork": "212",
+    "timestamp": "2025-02-27T02:18:47.350661",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "577",
+    "fork": "220",
+    "timestamp": "2025-02-27T02:18:47.350971",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/SciMLSensitivity.jl",
+    "href": "https://github.com/SciML/SciMLSensitivity.jl",
+    "about": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
+    "star": "338",
+    "fork": "73",
+    "timestamp": "2025-02-27T02:18:47.351271",
+    "stars_today": "0 stars today"
+  }
+]

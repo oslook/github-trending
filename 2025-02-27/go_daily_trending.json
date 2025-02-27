@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,457",
+    "fork": "836",
+    "timestamp": "2025-02-27T02:18:41.657028",
+    "stars_today": "234 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,380",
+    "fork": "3,250",
+    "timestamp": "2025-02-27T02:18:41.657329",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,269",
+    "fork": "9,696",
+    "timestamp": "2025-02-27T02:18:41.657613",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "11,714",
+    "fork": "1,017",
+    "timestamp": "2025-02-27T02:18:41.657890",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,778",
+    "fork": "5,745",
+    "timestamp": "2025-02-27T02:18:41.658176",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "smallstep/certificates",
+    "href": "https://github.com/smallstep/certificates",
+    "about": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
+    "star": "7,057",
+    "fork": "458",
+    "timestamp": "2025-02-27T02:18:41.658457",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "9,606",
+    "fork": "469",
+    "timestamp": "2025-02-27T02:18:41.658729",
+    "stars_today": "194 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,455",
+    "fork": "4,446",
+    "timestamp": "2025-02-27T02:18:41.659023",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "10,557",
+    "fork": "1,659",
+    "timestamp": "2025-02-27T02:18:41.659293",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,968",
+    "fork": "3,507",
+    "timestamp": "2025-02-27T02:18:41.659564",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "8,504",
+    "fork": "1,213",
+    "timestamp": "2025-02-27T02:18:41.659834",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "12,547",
+    "fork": "411",
+    "timestamp": "2025-02-27T02:18:41.660114",
+    "stars_today": "202 stars today"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source in-memory reactive database with query subscriptions.",
+    "star": "7,690",
+    "fork": "1,163",
+    "timestamp": "2025-02-27T02:18:41.660406",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,107",
+    "fork": "9,368",
+    "timestamp": "2025-02-27T02:18:41.660679",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,733",
+    "fork": "268",
+    "timestamp": "2025-02-27T02:18:41.660964",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "metallb/metallb",
+    "href": "https://github.com/metallb/metallb",
+    "about": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+    "star": "7,338",
+    "fork": "940",
+    "timestamp": "2025-02-27T02:18:41.661241",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,749",
+    "fork": "3,047",
+    "timestamp": "2025-02-27T02:18:41.661510",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "68,293",
+    "fork": "2,465",
+    "timestamp": "2025-02-27T02:18:41.661805",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "27,909",
+    "fork": "2,028",
+    "timestamp": "2025-02-27T02:18:41.662091",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,473",
+    "fork": "3,806",
+    "timestamp": "2025-02-27T02:18:41.662362",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,676",
+    "fork": "1,352",
+    "timestamp": "2025-02-27T02:18:41.662632",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "16,103",
+    "fork": "1,448",
+    "timestamp": "2025-02-27T02:18:41.662899",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware",
+    "star": "1,306",
+    "fork": "260",
+    "timestamp": "2025-02-27T02:18:41.663179",
+    "stars_today": "7 stars today"
+  }
+]
