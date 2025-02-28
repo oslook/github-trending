@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "fluent/fluent-bit",
+    "href": "https://github.com/fluent/fluent-bit",
+    "about": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+    "star": "6,615",
+    "fork": "1,643",
+    "timestamp": "2025-02-28T02:19:17.312612",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "OpenEtherCATsociety/SOEM",
+    "href": "https://github.com/OpenEtherCATsociety/SOEM",
+    "about": "Simple Open Source EtherCAT Master",
+    "star": "1,437",
+    "fork": "701",
+    "timestamp": "2025-02-28T02:19:17.312963",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,224",
+    "fork": "2,865",
+    "timestamp": "2025-02-28T02:19:17.313258",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,723",
+    "fork": "2,643",
+    "timestamp": "2025-02-28T02:19:17.313548",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,086",
+    "fork": "515",
+    "timestamp": "2025-02-28T02:19:17.313850",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,508",
+    "fork": "1,086",
+    "timestamp": "2025-02-28T02:19:17.314168",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "href": "https://github.com/NVIDIA/cuda-samples",
+    "about": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+    "star": "7,010",
+    "fork": "1,939",
+    "timestamp": "2025-02-28T02:19:17.314459",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "micropython/micropython",
+    "href": "https://github.com/micropython/micropython",
+    "about": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+    "star": "19,944",
+    "fork": "7,981",
+    "timestamp": "2025-02-28T02:19:17.314786",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "taosdata/TDengine",
+    "href": "https://github.com/taosdata/TDengine",
+    "about": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+    "star": "23,612",
+    "fork": "4,890",
+    "timestamp": "2025-02-28T02:19:17.315085",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "yugabyte/yugabyte-db",
+    "href": "https://github.com/yugabyte/yugabyte-db",
+    "about": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+    "star": "9,290",
+    "fork": "1,110",
+    "timestamp": "2025-02-28T02:19:17.315368",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "olikraus/u8g2",
+    "href": "https://github.com/olikraus/u8g2",
+    "about": "U8glib library for monochrome displays, version 2",
+    "star": "5,406",
+    "fork": "1,083",
+    "timestamp": "2025-02-28T02:19:17.315650",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cesanta/mongoose",
+    "href": "https://github.com/cesanta/mongoose",
+    "about": "Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client",
+    "star": "11,430",
+    "fork": "2,759",
+    "timestamp": "2025-02-28T02:19:17.315946",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,045",
+    "fork": "1,208",
+    "timestamp": "2025-02-28T02:19:17.316232",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "bytecodealliance/wasm-micro-runtime",
+    "href": "https://github.com/bytecodealliance/wasm-micro-runtime",
+    "about": "WebAssembly Micro Runtime (WAMR)",
+    "star": "5,196",
+    "fork": "662",
+    "timestamp": "2025-02-28T02:19:17.316519",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+    "star": "18,458",
+    "fork": "915",
+    "timestamp": "2025-02-28T02:19:17.316820",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables. Put it on, speak, transcribe, automatically",
+    "star": "4,231",
+    "fork": "617",
+    "timestamp": "2025-02-28T02:19:17.317132",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "esnet/iperf",
+    "href": "https://github.com/esnet/iperf",
+    "about": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+    "star": "7,273",
+    "fork": "1,310",
+    "timestamp": "2025-02-28T02:19:17.317414",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "10,671",
+    "fork": "1,407",
+    "timestamp": "2025-02-28T02:19:17.317702",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jqlang/jq",
+    "href": "https://github.com/jqlang/jq",
+    "about": "Command-line JSON processor",
+    "star": "31,300",
+    "fork": "1,609",
+    "timestamp": "2025-02-28T02:19:17.317999",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "9,444",
+    "fork": "2,449",
+    "timestamp": "2025-02-28T02:19:17.318287",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,300",
+    "fork": "1,008",
+    "timestamp": "2025-02-28T02:19:17.318603",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "RT-Thread/rt-thread",
+    "href": "https://github.com/RT-Thread/rt-thread",
+    "about": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+    "star": "10,837",
+    "fork": "5,102",
+    "timestamp": "2025-02-28T02:19:17.318898",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "iovisor/bcc",
+    "href": "https://github.com/iovisor/bcc",
+    "about": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "star": "21,004",
+    "fork": "3,931",
+    "timestamp": "2025-02-28T02:19:17.319179",
+    "stars_today": "7 stars today"
+  }
+]

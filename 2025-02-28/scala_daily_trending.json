@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,953",
+    "fork": "1,083",
+    "timestamp": "2025-02-28T02:19:55.415373",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,122",
+    "fork": "738",
+    "timestamp": "2025-02-28T02:19:55.415675",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,832",
+    "fork": "1,776",
+    "timestamp": "2025-02-28T02:19:55.415975",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,342",
+    "fork": "553",
+    "timestamp": "2025-02-28T02:19:55.416290",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,629",
+    "fork": "28,522",
+    "timestamp": "2025-02-28T02:19:55.416570",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,168",
+    "fork": "1,324",
+    "timestamp": "2025-02-28T02:19:55.416864",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "62,960",
+    "fork": "12,174",
+    "timestamp": "2025-02-28T02:19:55.417144",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "306",
+    "fork": "88",
+    "timestamp": "2025-02-28T02:19:55.417444",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,168",
+    "fork": "616",
+    "timestamp": "2025-02-28T02:19:55.417731",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,930",
+    "fork": "722",
+    "timestamp": "2025-02-28T02:19:55.418025",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,274",
+    "fork": "463",
+    "timestamp": "2025-02-28T02:19:55.418308",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,761",
+    "fork": "684",
+    "timestamp": "2025-02-28T02:19:55.418591",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,207",
+    "fork": "1,253",
+    "timestamp": "2025-02-28T02:19:55.418889",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,731",
+    "fork": "339",
+    "timestamp": "2025-02-28T02:19:55.419176",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,870",
+    "fork": "2,508",
+    "timestamp": "2025-02-28T02:19:55.419460",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,113",
+    "fork": "3,587",
+    "timestamp": "2025-02-28T02:19:55.419740",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,552",
+    "fork": "1,202",
+    "timestamp": "2025-02-28T02:19:55.420033",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,359",
+    "fork": "3,112",
+    "timestamp": "2025-02-28T02:19:55.420317",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "480",
+    "fork": "149",
+    "timestamp": "2025-02-28T02:19:55.420593",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,566",
+    "fork": "639",
+    "timestamp": "2025-02-28T02:19:55.420880",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,363",
+    "fork": "1,151",
+    "timestamp": "2025-02-28T02:19:55.421155",
+    "stars_today": "1 star today"
+  }
+]

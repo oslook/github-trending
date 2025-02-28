@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "ggerganov/ggwave",
+    "href": "https://github.com/ggerganov/ggwave",
+    "about": "Tiny data-over-sound library",
+    "star": "5,169",
+    "fork": "281",
+    "timestamp": "2025-02-28T02:19:19.064271",
+    "stars_today": "727 stars today"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "6,854",
+    "fork": "1,117",
+    "timestamp": "2025-02-28T02:19:19.064572",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "about": "Cloud-native high-performance edge/middle/service proxy",
+    "star": "25,578",
+    "fork": "4,898",
+    "timestamp": "2025-02-28T02:19:19.064890",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,521",
+    "fork": "10,285",
+    "timestamp": "2025-02-28T02:19:19.065184",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "75,491",
+    "fork": "10,912",
+    "timestamp": "2025-02-28T02:19:19.065462",
+    "stars_today": "97 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "star": "9,557",
+    "fork": "1,121",
+    "timestamp": "2025-02-28T02:19:19.065743",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "about": "ClickHouse® is a real-time analytics database management system",
+    "star": "39,239",
+    "fork": "7,131",
+    "timestamp": "2025-02-28T02:19:19.066040",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "assimp/assimp",
+    "href": "https://github.com/assimp/assimp",
+    "about": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "star": "11,361",
+    "fork": "2,977",
+    "timestamp": "2025-02-28T02:19:19.066345",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "19,108",
+    "fork": "3,087",
+    "timestamp": "2025-02-28T02:19:19.066624",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "33,303",
+    "fork": "3,772",
+    "timestamp": "2025-02-28T02:19:19.066914",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "star": "14,642",
+    "fork": "3,571",
+    "timestamp": "2025-02-28T02:19:19.067187",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "microsoft/winget-cli",
+    "href": "https://github.com/microsoft/winget-cli",
+    "about": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+    "star": "23,863",
+    "fork": "1,518",
+    "timestamp": "2025-02-28T02:19:19.067466",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "autowarefoundation/autoware.universe",
+    "href": "https://github.com/autowarefoundation/autoware.universe",
+    "about": "",
+    "star": "1,094",
+    "fork": "688",
+    "timestamp": "2025-02-28T02:19:19.067756",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "13,768",
+    "fork": "2,374",
+    "timestamp": "2025-02-28T02:19:19.068040",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "pytorch/executorch",
+    "href": "https://github.com/pytorch/executorch",
+    "about": "On-device AI across mobile, embedded and edge for PyTorch",
+    "star": "2,546",
+    "fork": "458",
+    "timestamp": "2025-02-28T02:19:19.068312",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "6,760",
+    "fork": "1,167",
+    "timestamp": "2025-02-28T02:19:19.068585",
+    "stars_today": "143 stars today"
+  },
+  {
+    "repo": "qinguoyi/TinyWebServer",
+    "href": "https://github.com/qinguoyi/TinyWebServer",
+    "about": "🔥 Linux下C++轻量级WebServer服务器",
+    "star": "17,493",
+    "fork": "4,040",
+    "timestamp": "2025-02-28T02:19:19.068871",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "25,413",
+    "fork": "4,687",
+    "timestamp": "2025-02-28T02:19:19.069156",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "href": "https://github.com/LadybirdBrowser/ladybird",
+    "about": "Truly independent web browser",
+    "star": "28,291",
+    "fork": "1,225",
+    "timestamp": "2025-02-28T02:19:19.069431",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "about": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "star": "63,466",
+    "fork": "10,624",
+    "timestamp": "2025-02-28T02:19:19.069705",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "NVIDIA/cccl",
+    "href": "https://github.com/NVIDIA/cccl",
+    "about": "CUDA Core Compute Libraries",
+    "star": "1,491",
+    "fork": "195",
+    "timestamp": "2025-02-28T02:19:19.069990",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "44,552",
+    "fork": "6,878",
+    "timestamp": "2025-02-28T02:19:19.070291",
+    "stars_today": "20 stars today"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "langgenius/dify",
+    "href": "https://github.com/langgenius/dify",
+    "about": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "star": "74,717",
+    "fork": "10,890",
+    "timestamp": "2025-02-28T02:20:01.150731",
+    "stars_today": "4,595 stars this week"
+  },
+  {
+    "repo": "docmost/docmost",
+    "href": "https://github.com/docmost/docmost",
+    "about": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+    "star": "10,968",
+    "fork": "498",
+    "timestamp": "2025-02-28T02:20:01.151058",
+    "stars_today": "1,406 stars this week"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "href": "https://github.com/infiniflow/ragflow",
+    "about": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "star": "41,343",
+    "fork": "3,649",
+    "timestamp": "2025-02-28T02:20:01.151344",
+    "stars_today": "3,251 stars this week"
+  },
+  {
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "href": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "about": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+    "star": "48,589",
+    "fork": "3,808",
+    "timestamp": "2025-02-28T02:20:01.151655",
+    "stars_today": "724 stars this week"
+  },
+  {
+    "repo": "chatchat-space/Langchain-Chatchat",
+    "href": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "about": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+    "star": "33,788",
+    "fork": "5,751",
+    "timestamp": "2025-02-28T02:20:01.151957",
+    "stars_today": "243 stars this week"
+  },
+  {
+    "repo": "CopilotKit/CopilotKit",
+    "href": "https://github.com/CopilotKit/CopilotKit",
+    "about": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "star": "17,072",
+    "fork": "2,444",
+    "timestamp": "2025-02-28T02:20:01.152243",
+    "stars_today": "414 stars this week"
+  },
+  {
+    "repo": "yamadashy/repomix",
+    "href": "https://github.com/yamadashy/repomix",
+    "about": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+    "star": "11,589",
+    "fork": "502",
+    "timestamp": "2025-02-28T02:20:01.152554",
+    "stars_today": "1,780 stars this week"
+  },
+  {
+    "repo": "siyuan-note/siyuan",
+    "href": "https://github.com/siyuan-note/siyuan",
+    "about": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+    "star": "32,349",
+    "fork": "1,974",
+    "timestamp": "2025-02-28T02:20:01.152903",
+    "stars_today": "2,891 stars this week"
+  },
+  {
+    "repo": "mastra-ai/mastra",
+    "href": "https://github.com/mastra-ai/mastra",
+    "about": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.",
+    "star": "8,062",
+    "fork": "319",
+    "timestamp": "2025-02-28T02:20:01.153192",
+    "stars_today": "5,628 stars this week"
+  },
+  {
+    "repo": "treetrum/amazon-kindle-bulk-downloader",
+    "href": "https://github.com/treetrum/amazon-kindle-bulk-downloader",
+    "about": "Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.",
+    "star": "892",
+    "fork": "62",
+    "timestamp": "2025-02-28T02:20:01.153475",
+    "stars_today": "678 stars this week"
+  },
+  {
+    "repo": "upscayl/upscayl",
+    "href": "https://github.com/upscayl/upscayl",
+    "about": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "star": "35,300",
+    "fork": "1,627",
+    "timestamp": "2025-02-28T02:20:01.153755",
+    "stars_today": "301 stars this week"
+  },
+  {
+    "repo": "fastapi/full-stack-fastapi-template",
+    "href": "https://github.com/fastapi/full-stack-fastapi-template",
+    "about": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "star": "30,600",
+    "fork": "5,590",
+    "timestamp": "2025-02-28T02:20:01.154049",
+    "stars_today": "689 stars this week"
+  },
+  {
+    "repo": "labring/FastGPT",
+    "href": "https://github.com/labring/FastGPT",
+    "about": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+    "star": "21,955",
+    "fork": "5,649",
+    "timestamp": "2025-02-28T02:20:01.154326",
+    "stars_today": "505 stars this week"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "href": "https://github.com/activepieces/activepieces",
+    "about": "Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative",
+    "star": "12,009",
+    "fork": "1,551",
+    "timestamp": "2025-02-28T02:20:01.154605",
+    "stars_today": "454 stars this week"
+  },
+  {
+    "repo": "twentyhq/twenty",
+    "href": "https://github.com/twentyhq/twenty",
+    "about": "Building a modern alternative to Salesforce, powered by the community.",
+    "star": "26,050",
+    "fork": "2,770",
+    "timestamp": "2025-02-28T02:20:01.154896",
+    "stars_today": "397 stars this week"
+  },
+  {
+    "repo": "ant-design/x",
+    "href": "https://github.com/ant-design/x",
+    "about": "Craft AI-driven interfaces effortlessly 🤖",
+    "star": "2,549",
+    "fork": "313",
+    "timestamp": "2025-02-28T02:20:01.155202",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "href": "https://github.com/n8n-io/n8n",
+    "about": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "star": "63,379",
+    "fork": "14,654",
+    "timestamp": "2025-02-28T02:20:01.155479",
+    "stars_today": "1,507 stars this week"
+  },
+  {
+    "repo": "Expensify/App",
+    "href": "https://github.com/Expensify/App",
+    "about": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+    "star": "4,077",
+    "fork": "3,045",
+    "timestamp": "2025-02-28T02:20:01.155759",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "getomni-ai/zerox",
+    "href": "https://github.com/getomni-ai/zerox",
+    "about": "OCR & Document Extraction using vision models",
+    "star": "10,054",
+    "fork": "659",
+    "timestamp": "2025-02-28T02:20:01.156050",
+    "stars_today": "358 stars this week"
+  },
+  {
+    "repo": "felixrieseberg/windows95",
+    "href": "https://github.com/felixrieseberg/windows95",
+    "about": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "star": "22,544",
+    "fork": "1,306",
+    "timestamp": "2025-02-28T02:20:01.156325",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "langgenius/webapp-conversation",
+    "href": "https://github.com/langgenius/webapp-conversation",
+    "about": "",
+    "star": "591",
+    "fork": "1,091",
+    "timestamp": "2025-02-28T02:20:01.156622",
+    "stars_today": "38 stars this week"
+  }
+]

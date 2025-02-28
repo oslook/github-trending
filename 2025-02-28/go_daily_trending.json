@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,531",
+    "fork": "1,467",
+    "timestamp": "2025-02-28T02:19:28.714150",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,856",
+    "fork": "4,283",
+    "timestamp": "2025-02-28T02:19:28.714503",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,835",
+    "fork": "2,451",
+    "timestamp": "2025-02-28T02:19:28.714801",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "zalando/postgres-operator",
+    "href": "https://github.com/zalando/postgres-operator",
+    "about": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
+    "star": "4,569",
+    "fork": "1,009",
+    "timestamp": "2025-02-28T02:19:28.715088",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "37,408",
+    "fork": "2,694",
+    "timestamp": "2025-02-28T02:19:28.715400",
+    "stars_today": "104 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,789",
+    "fork": "5,748",
+    "timestamp": "2025-02-28T02:19:28.715685",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,446",
+    "fork": "1,014",
+    "timestamp": "2025-02-28T02:19:28.716010",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gogf/gf",
+    "href": "https://github.com/gogf/gf",
+    "about": "A powerful framework for faster, easier, and more efficient project development.",
+    "star": "12,026",
+    "fork": "1,620",
+    "timestamp": "2025-02-28T02:19:28.716325",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,388",
+    "fork": "3,252",
+    "timestamp": "2025-02-28T02:19:28.716614",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "130,009",
+    "fork": "10,633",
+    "timestamp": "2025-02-28T02:19:28.716911",
+    "stars_today": "292 stars today"
+  },
+  {
+    "repo": "sourcegraph/conc",
+    "href": "https://github.com/sourcegraph/conc",
+    "about": "Better structured concurrency for go",
+    "star": "9,716",
+    "fork": "333",
+    "timestamp": "2025-02-28T02:19:28.717197",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "publicsuffix/list",
+    "href": "https://github.com/publicsuffix/list",
+    "about": "The Public Suffix List",
+    "star": "2,266",
+    "fork": "1,287",
+    "timestamp": "2025-02-28T02:19:28.717486",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "9,935",
+    "fork": "1,001",
+    "timestamp": "2025-02-28T02:19:28.717779",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,461",
+    "fork": "4,446",
+    "timestamp": "2025-02-28T02:19:28.718070",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,329",
+    "fork": "886",
+    "timestamp": "2025-02-28T02:19:28.718360",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,014",
+    "fork": "3,543",
+    "timestamp": "2025-02-28T02:19:28.718644",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "elastic/beats",
+    "href": "https://github.com/elastic/beats",
+    "about": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+    "star": "12,271",
+    "fork": "4,934",
+    "timestamp": "2025-02-28T02:19:28.718940",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "prometheus/blackbox_exporter",
+    "href": "https://github.com/prometheus/blackbox_exporter",
+    "about": "Blackbox prober exporter",
+    "star": "4,877",
+    "fork": "1,083",
+    "timestamp": "2025-02-28T02:19:28.719224",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,472",
+    "fork": "20,622",
+    "timestamp": "2025-02-28T02:19:28.719505",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,099",
+    "fork": "17,908",
+    "timestamp": "2025-02-28T02:19:28.719799",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,330",
+    "fork": "2,129",
+    "timestamp": "2025-02-28T02:19:28.720081",
+    "stars_today": "6 stars today"
+  }
+]

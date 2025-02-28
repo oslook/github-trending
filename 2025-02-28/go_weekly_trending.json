@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,566",
+    "fork": "2,898",
+    "timestamp": "2025-02-28T02:19:28.950060",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,727",
+    "fork": "1,801",
+    "timestamp": "2025-02-28T02:19:28.950407",
+    "stars_today": "178 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "68,308",
+    "fork": "2,467",
+    "timestamp": "2025-02-28T02:19:28.950735",
+    "stars_today": "247 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An engine to run your pipelines in containers",
+    "star": "12,102",
+    "fork": "640",
+    "timestamp": "2025-02-28T02:19:28.951052",
+    "stars_today": "145 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,782",
+    "fork": "3,049",
+    "timestamp": "2025-02-28T02:19:28.951346",
+    "stars_today": "223 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "13,509",
+    "fork": "1,632",
+    "timestamp": "2025-02-28T02:19:28.951640",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,256",
+    "fork": "18,704",
+    "timestamp": "2025-02-28T02:19:28.951952",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "12,573",
+    "fork": "411",
+    "timestamp": "2025-02-28T02:19:28.952243",
+    "stars_today": "869 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,148",
+    "fork": "765",
+    "timestamp": "2025-02-28T02:19:28.952563",
+    "stars_today": "83 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,506",
+    "fork": "1,126",
+    "timestamp": "2025-02-28T02:19:28.952870",
+    "stars_today": "201 stars this week"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,014",
+    "fork": "3,543",
+    "timestamp": "2025-02-28T02:19:28.953153",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,464",
+    "fork": "296",
+    "timestamp": "2025-02-28T02:19:28.953441",
+    "stars_today": "1,351 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,492",
+    "fork": "839",
+    "timestamp": "2025-02-28T02:19:28.953752",
+    "stars_today": "1,040 stars this week"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "9,632",
+    "fork": "469",
+    "timestamp": "2025-02-28T02:19:28.954057",
+    "stars_today": "846 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "3,917",
+    "fork": "569",
+    "timestamp": "2025-02-28T02:19:28.954341",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "15,675",
+    "fork": "953",
+    "timestamp": "2025-02-28T02:19:28.954623",
+    "stars_today": "167 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "27,201",
+    "fork": "1,941",
+    "timestamp": "2025-02-28T02:19:28.954932",
+    "stars_today": "166 stars this week"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "23,832",
+    "fork": "3,011",
+    "timestamp": "2025-02-28T02:19:28.955216",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "9,446",
+    "fork": "304",
+    "timestamp": "2025-02-28T02:19:28.955500",
+    "stars_today": "375 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,789",
+    "fork": "5,748",
+    "timestamp": "2025-02-28T02:19:28.955802",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "610",
+    "fork": "147",
+    "timestamp": "2025-02-28T02:19:28.956088",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "39,706",
+    "fork": "3,453",
+    "timestamp": "2025-02-28T02:19:28.956398",
+    "stars_today": "156 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,334",
+    "fork": "1,237",
+    "timestamp": "2025-02-28T02:19:28.956683",
+    "stars_today": "42 stars this week"
+  }
+]
