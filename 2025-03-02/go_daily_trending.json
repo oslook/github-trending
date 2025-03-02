@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "jaegertracing/jaeger",
+    "href": "https://github.com/jaegertracing/jaeger",
+    "about": "CNCF Jaeger, a Distributed Tracing Platform",
+    "star": "20,972",
+    "fork": "2,533",
+    "timestamp": "2025-03-02T02:22:16.464579",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,468",
+    "fork": "4,449",
+    "timestamp": "2025-03-02T02:22:16.464880",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,771",
+    "fork": "4,044",
+    "timestamp": "2025-03-02T02:22:16.465202",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,565",
+    "fork": "1,470",
+    "timestamp": "2025-03-02T02:22:16.465481",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "EndlessCheng/codeforces-go",
+    "href": "https://github.com/EndlessCheng/codeforces-go",
+    "about": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "star": "5,957",
+    "fork": "635",
+    "timestamp": "2025-03-02T02:22:16.465759",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "majd/ipatool",
+    "href": "https://github.com/majd/ipatool",
+    "about": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+    "star": "6,396",
+    "fork": "543",
+    "timestamp": "2025-03-02T02:22:16.466029",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "13,310",
+    "fork": "1,298",
+    "timestamp": "2025-03-02T02:22:16.466326",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "6,076",
+    "fork": "959",
+    "timestamp": "2025-03-02T02:22:16.466604",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,450",
+    "fork": "1,015",
+    "timestamp": "2025-03-02T02:22:16.466907",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,277",
+    "fork": "1,978",
+    "timestamp": "2025-03-02T02:22:16.467204",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "5,437",
+    "fork": "365",
+    "timestamp": "2025-03-02T02:22:16.467490",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "90,977",
+    "fork": "13,759",
+    "timestamp": "2025-03-02T02:22:16.467805",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "href": "https://github.com/ehang-io/nps",
+    "about": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "star": "31,330",
+    "fork": "5,687",
+    "timestamp": "2025-03-02T02:22:16.468100",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,868",
+    "fork": "4,288",
+    "timestamp": "2025-03-02T02:22:16.468381",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,591",
+    "fork": "7,744",
+    "timestamp": "2025-03-02T02:22:16.468662",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "href": "https://github.com/nats-io/nats.go",
+    "about": "Golang client for NATS, the cloud native messaging system.",
+    "star": "5,733",
+    "fork": "717",
+    "timestamp": "2025-03-02T02:22:16.468940",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ahmetb/kubectx",
+    "href": "https://github.com/ahmetb/kubectx",
+    "about": "Faster way to switch between clusters and namespaces in kubectl",
+    "star": "18,291",
+    "fork": "1,304",
+    "timestamp": "2025-03-02T02:22:16.469256",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,697",
+    "fork": "1,354",
+    "timestamp": "2025-03-02T02:22:16.469527",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "bitnami-labs/sealed-secrets",
+    "href": "https://github.com/bitnami-labs/sealed-secrets",
+    "about": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "star": "7,976",
+    "fork": "697",
+    "timestamp": "2025-03-02T02:22:16.469801",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,264",
+    "fork": "2,286",
+    "timestamp": "2025-03-02T02:22:16.470087",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "bytebase/bytebase",
+    "href": "https://github.com/bytebase/bytebase",
+    "about": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+    "star": "12,020",
+    "fork": "779",
+    "timestamp": "2025-03-02T02:22:16.470361",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware",
+    "star": "1,323",
+    "fork": "263",
+    "timestamp": "2025-03-02T02:22:16.470630",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,849",
+    "fork": "2,454",
+    "timestamp": "2025-03-02T02:22:16.470900",
+    "stars_today": "8 stars today"
+  }
+]

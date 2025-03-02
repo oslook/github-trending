@@ -1,0 +1,65 @@
+[
+  {
+    "repo": "nim-lang/Nim",
+    "href": "https://github.com/nim-lang/Nim",
+    "about": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "star": "16,861",
+    "fork": "1,479",
+    "timestamp": "2025-03-02T02:22:27.010463",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "status-im/nim-json-serialization",
+    "href": "https://github.com/status-im/nim-json-serialization",
+    "about": "Flexible JSON serialization not relying on run-time type information",
+    "star": "50",
+    "fork": "10",
+    "timestamp": "2025-03-02T02:22:27.010762",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-chronicles",
+    "href": "https://github.com/status-im/nim-chronicles",
+    "about": "A crafty implementation of structured logging for Nim.",
+    "star": "164",
+    "fork": "20",
+    "timestamp": "2025-03-02T02:22:27.011052",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nim-lang/nimony",
+    "href": "https://github.com/nim-lang/nimony",
+    "about": "Nimony is a new Nim implementation that is in heavy development.",
+    "star": "132",
+    "fork": "7",
+    "timestamp": "2025-03-02T02:22:27.011336",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "guzba/zippy",
+    "href": "https://github.com/guzba/zippy",
+    "about": "Pure Nim implementation of deflate, zlib, gzip and zip.",
+    "star": "259",
+    "fork": "31",
+    "timestamp": "2025-03-02T02:22:27.011613",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "cheatfate/nimcrypto",
+    "href": "https://github.com/cheatfate/nimcrypto",
+    "about": "Nim cryptographic library",
+    "star": "192",
+    "fork": "26",
+    "timestamp": "2025-03-02T02:22:27.011891",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nim-lang/langserver",
+    "href": "https://github.com/nim-lang/langserver",
+    "about": "The Nim language server implementation (based on nimsuggest)",
+    "star": "223",
+    "fork": "33",
+    "timestamp": "2025-03-02T02:22:27.012180",
+    "stars_today": "0 stars today"
+  }
+]

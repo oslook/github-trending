@@ -1,0 +1,128 @@
+[
+  {
+    "repo": "anoma/anoma",
+    "href": "https://github.com/anoma/anoma",
+    "about": "Reference implementation of Anoma",
+    "star": "26,992",
+    "fork": "3,793",
+    "timestamp": "2025-03-02T02:22:13.604338",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "firezone/firezone",
+    "href": "https://github.com/firezone/firezone",
+    "about": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "star": "7,061",
+    "fork": "294",
+    "timestamp": "2025-03-02T02:22:13.604631",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "electric-sql/electric",
+    "href": "https://github.com/electric-sql/electric",
+    "about": "Sync little subsets of your Postgres data into local apps and services.",
+    "star": "7,512",
+    "fork": "194",
+    "timestamp": "2025-03-02T02:22:13.604917",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "elixir-lsp/elixir_sense",
+    "href": "https://github.com/elixir-lsp/elixir_sense",
+    "about": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+    "star": "314",
+    "fork": "41",
+    "timestamp": "2025-03-02T02:22:13.605236",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "elixir-lsp/elixir-ls",
+    "href": "https://github.com/elixir-lsp/elixir-ls",
+    "about": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "star": "1,559",
+    "fork": "207",
+    "timestamp": "2025-03-02T02:22:13.605539",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "duffelhq/paginator",
+    "href": "https://github.com/duffelhq/paginator",
+    "about": "Cursor-based pagination for Elixir Ecto",
+    "star": "775",
+    "fork": "93",
+    "timestamp": "2025-03-02T02:22:13.605809",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,397",
+    "fork": "959",
+    "timestamp": "2025-03-02T02:22:13.606098",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "elixirs/faker",
+    "href": "https://github.com/elixirs/faker",
+    "about": "Faker is a pure Elixir library for generating fake data.",
+    "star": "1,099",
+    "fork": "219",
+    "timestamp": "2025-03-02T02:22:13.606370",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "teslamate-org/teslamate",
+    "href": "https://github.com/teslamate-org/teslamate",
+    "about": "A self-hosted data logger for your Tesla 🚘",
+    "star": "6,433",
+    "fork": "778",
+    "timestamp": "2025-03-02T02:22:13.606642",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "21,765",
+    "fork": "2,912",
+    "timestamp": "2025-03-02T02:22:13.606913",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "24,930",
+    "fork": "3,417",
+    "timestamp": "2025-03-02T02:22:13.607195",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "3,831",
+    "fork": "2,601",
+    "timestamp": "2025-03-02T02:22:13.607491",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "bitwalker/libcluster",
+    "href": "https://github.com/bitwalker/libcluster",
+    "about": "Automatic cluster formation/healing for Elixir applications",
+    "star": "2,019",
+    "fork": "191",
+    "timestamp": "2025-03-02T02:22:13.607762",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "elixir-protobuf/protobuf",
+    "href": "https://github.com/elixir-protobuf/protobuf",
+    "about": "A pure Elixir implementation of Google Protobuf.",
+    "star": "847",
+    "fork": "145",
+    "timestamp": "2025-03-02T02:22:13.608049",
+    "stars_today": "0 stars today"
+  }
+]

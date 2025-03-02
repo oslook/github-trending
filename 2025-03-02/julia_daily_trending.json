@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,495",
+    "fork": "5,545",
+    "timestamp": "2025-03-02T02:22:22.190283",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "618",
+    "fork": "481",
+    "timestamp": "2025-03-02T02:22:22.190577",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Jutho/TensorKit.jl",
+    "href": "https://github.com/Jutho/TensorKit.jl",
+    "about": "A Julia package for large-scale tensor computations, with a hint of category theory",
+    "star": "286",
+    "fork": "44",
+    "timestamp": "2025-03-02T02:22:22.190857",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,395",
+    "fork": "162",
+    "timestamp": "2025-03-02T02:22:22.191148",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "578",
+    "fork": "220",
+    "timestamp": "2025-03-02T02:22:22.191449",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/www.julialang.org",
+    "href": "https://github.com/JuliaLang/www.julialang.org",
+    "about": "Julia Project website",
+    "star": "375",
+    "fork": "462",
+    "timestamp": "2025-03-02T02:22:22.191747",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "250",
+    "fork": "46",
+    "timestamp": "2025-03-02T02:22:22.192055",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/SciMLSensitivity.jl",
+    "href": "https://github.com/SciML/SciMLSensitivity.jl",
+    "about": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
+    "star": "338",
+    "fork": "73",
+    "timestamp": "2025-03-02T02:22:22.192356",
+    "stars_today": "0 stars today"
+  }
+]

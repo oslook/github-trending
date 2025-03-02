@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "28,620",
+    "fork": "1,999",
+    "timestamp": "2025-03-02T02:22:36.986834",
+    "stars_today": "538 stars this week"
+  },
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "22,666",
+    "fork": "496",
+    "timestamp": "2025-03-02T02:22:36.987157",
+    "stars_today": "327 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "83,172",
+    "fork": "11,650",
+    "timestamp": "2025-03-02T02:22:36.987462",
+    "stars_today": "683 stars this week"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "89,963",
+    "fork": "2,750",
+    "timestamp": "2025-03-02T02:22:36.987759",
+    "stars_today": "324 stars this week"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "35,405",
+    "fork": "6,367",
+    "timestamp": "2025-03-02T02:22:36.988069",
+    "stars_today": "457 stars this week"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "41,790",
+    "fork": "1,174",
+    "timestamp": "2025-03-02T02:22:36.988345",
+    "stars_today": "971 stars this week"
+  },
+  {
+    "repo": "apache/arrow-rs",
+    "href": "https://github.com/apache/arrow-rs",
+    "about": "Official Rust implementation of Apache Arrow",
+    "star": "2,796",
+    "fork": "883",
+    "timestamp": "2025-03-02T02:22:36.988614",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,115",
+    "fork": "2,100",
+    "timestamp": "2025-03-02T02:22:36.988885",
+    "stars_today": "154 stars this week"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "25,515",
+    "fork": "999",
+    "timestamp": "2025-03-02T02:22:36.989196",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "louis-e/arnis",
+    "href": "https://github.com/louis-e/arnis",
+    "about": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+    "star": "6,453",
+    "fork": "385",
+    "timestamp": "2025-03-02T02:22:36.989468",
+    "stars_today": "418 stars this week"
+  },
+  {
+    "repo": "tokio-rs/axum",
+    "href": "https://github.com/tokio-rs/axum",
+    "about": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "star": "20,609",
+    "fork": "1,130",
+    "timestamp": "2025-03-02T02:22:36.989767",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "dandavison/delta",
+    "href": "https://github.com/dandavison/delta",
+    "about": "A syntax-highlighting pager for git, diff, grep, and blame output",
+    "star": "25,529",
+    "fork": "410",
+    "timestamp": "2025-03-02T02:22:36.990076",
+    "stars_today": "109 stars this week"
+  },
+  {
+    "repo": "libp2p/rust-libp2p",
+    "href": "https://github.com/libp2p/rust-libp2p",
+    "about": "The Rust Implementation of the libp2p networking stack.",
+    "star": "4,855",
+    "fork": "1,029",
+    "timestamp": "2025-03-02T02:22:36.990347",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "16,318",
+    "fork": "497",
+    "timestamp": "2025-03-02T02:22:36.990615",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "8,655",
+    "fork": "1,870",
+    "timestamp": "2025-03-02T02:22:36.990883",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,185",
+    "fork": "1,514",
+    "timestamp": "2025-03-02T02:22:36.991199",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "about": "A curated list of Rust code and resources.",
+    "star": "48,971",
+    "fork": "2,859",
+    "timestamp": "2025-03-02T02:22:36.991469",
+    "stars_today": "193 stars this week"
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "href": "https://github.com/openobserve/openobserve",
+    "about": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+    "star": "14,528",
+    "fork": "542",
+    "timestamp": "2025-03-02T02:22:36.991737",
+    "stars_today": "153 stars this week"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "6,434",
+    "fork": "291",
+    "timestamp": "2025-03-02T02:22:36.992044",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "19,727",
+    "fork": "1,654",
+    "timestamp": "2025-03-02T02:22:36.992342",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "38,031",
+    "fork": "1,038",
+    "timestamp": "2025-03-02T02:22:36.992635",
+    "stars_today": "231 stars this week"
+  },
+  {
+    "repo": "get-convex/convex-backend",
+    "href": "https://github.com/get-convex/convex-backend",
+    "about": "The open-source reactive database for app developers",
+    "star": "3,060",
+    "fork": "130",
+    "timestamp": "2025-03-02T02:22:36.992902",
+    "stars_today": "251 stars this week"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "29,512",
+    "fork": "3,093",
+    "timestamp": "2025-03-02T02:22:36.993208",
+    "stars_today": "164 stars this week"
+  }
+]

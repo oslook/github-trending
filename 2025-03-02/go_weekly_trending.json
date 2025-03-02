@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "23,840",
+    "fork": "3,012",
+    "timestamp": "2025-03-02T02:22:17.023496",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "37,466",
+    "fork": "2,700",
+    "timestamp": "2025-03-02T02:22:17.023839",
+    "stars_today": "311 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "3,937",
+    "fork": "571",
+    "timestamp": "2025-03-02T02:22:17.024146",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,032",
+    "fork": "3,546",
+    "timestamp": "2025-03-02T02:22:17.024440",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,817",
+    "fork": "3,050",
+    "timestamp": "2025-03-02T02:22:17.024728",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,565",
+    "fork": "1,470",
+    "timestamp": "2025-03-02T02:22:17.025018",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,468",
+    "fork": "4,449",
+    "timestamp": "2025-03-02T02:22:17.025315",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "9,491",
+    "fork": "306",
+    "timestamp": "2025-03-02T02:22:17.025601",
+    "stars_today": "376 stars this week"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "50,480",
+    "fork": "5,685",
+    "timestamp": "2025-03-02T02:22:17.025887",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,598",
+    "fork": "302",
+    "timestamp": "2025-03-02T02:22:17.026185",
+    "stars_today": "1,465 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,520",
+    "fork": "840",
+    "timestamp": "2025-03-02T02:22:17.026497",
+    "stars_today": "1,030 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,800",
+    "fork": "5,759",
+    "timestamp": "2025-03-02T02:22:17.026782",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "href": "https://github.com/tinygo-org/tinygo",
+    "about": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "star": "15,879",
+    "fork": "931",
+    "timestamp": "2025-03-02T02:22:17.027080",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "13,527",
+    "fork": "1,634",
+    "timestamp": "2025-03-02T02:22:17.027372",
+    "stars_today": "94 stars this week"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "22,283",
+    "fork": "1,784",
+    "timestamp": "2025-03-02T02:22:17.027658",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "subtrace/subtrace",
+    "href": "https://github.com/subtrace/subtrace",
+    "about": "Wireshark for Docker containers",
+    "star": "2,168",
+    "fork": "44",
+    "timestamp": "2025-03-02T02:22:17.027937",
+    "stars_today": "551 stars this week"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,519",
+    "fork": "478",
+    "timestamp": "2025-03-02T02:22:17.028220",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,173",
+    "fork": "1,725",
+    "timestamp": "2025-03-02T02:22:17.028529",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,486",
+    "fork": "20,630",
+    "timestamp": "2025-03-02T02:22:17.028814",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,389",
+    "fork": "3,253",
+    "timestamp": "2025-03-02T02:22:17.029111",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "EndlessCheng/codeforces-go",
+    "href": "https://github.com/EndlessCheng/codeforces-go",
+    "about": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "star": "5,957",
+    "fork": "635",
+    "timestamp": "2025-03-02T02:22:17.029393",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "Azure/azure-sdk-for-go",
+    "href": "https://github.com/Azure/azure-sdk-for-go",
+    "about": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:",
+    "star": "1,686",
+    "fork": "877",
+    "timestamp": "2025-03-02T02:22:17.029665",
+    "stars_today": "3 stars this week"
+  }
+]
