@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "130,544",
+    "fork": "10,689",
+    "timestamp": "2025-03-03T02:20:40.643707",
+    "stars_today": "13,399 stars this month"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,891",
+    "fork": "743",
+    "timestamp": "2025-03-03T02:20:40.644002",
+    "stars_today": "400 stars this month"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,578",
+    "fork": "1,133",
+    "timestamp": "2025-03-03T02:20:40.644284",
+    "stars_today": "865 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "23,028",
+    "fork": "832",
+    "timestamp": "2025-03-03T02:20:40.644573",
+    "stars_today": "525 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,166",
+    "fork": "772",
+    "timestamp": "2025-03-03T02:20:40.644877",
+    "stars_today": "277 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,583",
+    "fork": "2,898",
+    "timestamp": "2025-03-03T02:20:40.645154",
+    "stars_today": "599 stars this month"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,522",
+    "fork": "478",
+    "timestamp": "2025-03-03T02:20:40.645428",
+    "stars_today": "114 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,839",
+    "fork": "3,051",
+    "timestamp": "2025-03-03T02:20:40.645713",
+    "stars_today": "777 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,356",
+    "fork": "1,424",
+    "timestamp": "2025-03-03T02:20:40.646016",
+    "stars_today": "258 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,671",
+    "fork": "303",
+    "timestamp": "2025-03-03T02:20:40.646290",
+    "stars_today": "2,080 stars this month"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,263",
+    "fork": "18,704",
+    "timestamp": "2025-03-03T02:20:40.646573",
+    "stars_today": "260 stars this month"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "href": "https://github.com/hashicorp/nomad",
+    "about": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "star": "15,281",
+    "fork": "1,978",
+    "timestamp": "2025-03-03T02:20:40.646844",
+    "stars_today": "138 stars this month"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,682",
+    "fork": "1,507",
+    "timestamp": "2025-03-03T02:20:40.647144",
+    "stars_today": "182 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,350",
+    "fork": "2,592",
+    "timestamp": "2025-03-03T02:20:40.647416",
+    "stars_today": "114 stars this month"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "28,735",
+    "fork": "4,448",
+    "timestamp": "2025-03-03T02:20:40.647701",
+    "stars_today": "139 stars this month"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "7,860",
+    "fork": "554",
+    "timestamp": "2025-03-03T02:20:40.647974",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,142",
+    "fork": "17,917",
+    "timestamp": "2025-03-03T02:20:40.648250",
+    "stars_today": "927 stars this month"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,540",
+    "fork": "9,889",
+    "timestamp": "2025-03-03T02:20:40.648537",
+    "stars_today": "291 stars this month"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,529",
+    "fork": "7,194",
+    "timestamp": "2025-03-03T02:20:40.648816",
+    "stars_today": "185 stars this month"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,166",
+    "fork": "644",
+    "timestamp": "2025-03-03T02:20:40.649090",
+    "stars_today": "373 stars this month"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,760",
+    "fork": "1,803",
+    "timestamp": "2025-03-03T02:20:40.649391",
+    "stars_today": "551 stars this month"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,542",
+    "fork": "841",
+    "timestamp": "2025-03-03T02:20:40.649705",
+    "stars_today": "1,804 stars this month"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,343",
+    "fork": "568",
+    "timestamp": "2025-03-03T02:20:40.649980",
+    "stars_today": "74 stars this month"
+  }
+]
