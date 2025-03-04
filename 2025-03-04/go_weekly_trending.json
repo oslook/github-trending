@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,584",
+    "fork": "1,472",
+    "timestamp": "2025-03-04T02:19:58.687897",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "9,536",
+    "fork": "308",
+    "timestamp": "2025-03-04T02:19:58.688204",
+    "stars_today": "233 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,879",
+    "fork": "3,051",
+    "timestamp": "2025-03-04T02:19:58.688485",
+    "stars_today": "234 stars this week"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,041",
+    "fork": "3,546",
+    "timestamp": "2025-03-04T02:19:58.688763",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,480",
+    "fork": "4,450",
+    "timestamp": "2025-03-04T02:19:58.689038",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,505",
+    "fork": "20,636",
+    "timestamp": "2025-03-04T02:19:58.689325",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,726",
+    "fork": "305",
+    "timestamp": "2025-03-04T02:19:58.689601",
+    "stars_today": "828 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "3,955",
+    "fork": "572",
+    "timestamp": "2025-03-04T02:19:58.689875",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,573",
+    "fork": "842",
+    "timestamp": "2025-03-04T02:19:58.690189",
+    "stars_today": "979 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,209",
+    "fork": "1,729",
+    "timestamp": "2025-03-04T02:19:58.690492",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "18,815",
+    "fork": "5,766",
+    "timestamp": "2025-03-04T02:19:58.690764",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "EndlessCheng/codeforces-go",
+    "href": "https://github.com/EndlessCheng/codeforces-go",
+    "about": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "star": "5,996",
+    "fork": "639",
+    "timestamp": "2025-03-04T02:19:58.691034",
+    "stars_today": "152 stars this week"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.",
+    "star": "27,449",
+    "fork": "4,162",
+    "timestamp": "2025-03-04T02:19:58.691307",
+    "stars_today": "132 stars this week"
+  },
+  {
+    "repo": "simulot/immich-go",
+    "href": "https://github.com/simulot/immich-go",
+    "about": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+    "star": "2,556",
+    "fork": "75",
+    "timestamp": "2025-03-04T02:19:58.691613",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "valyala/fasthttp",
+    "href": "https://github.com/valyala/fasthttp",
+    "about": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "star": "22,290",
+    "fork": "1,784",
+    "timestamp": "2025-03-04T02:19:58.691887",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "13,543",
+    "fork": "1,638",
+    "timestamp": "2025-03-04T02:19:58.692176",
+    "stars_today": "94 stars this week"
+  },
+  {
+    "repo": "zalando/postgres-operator",
+    "href": "https://github.com/zalando/postgres-operator",
+    "about": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
+    "star": "4,578",
+    "fork": "1,013",
+    "timestamp": "2025-03-04T02:19:58.692479",
+    "stars_today": "60 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,400",
+    "fork": "3,257",
+    "timestamp": "2025-03-04T02:19:58.692754",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,184",
+    "fork": "644",
+    "timestamp": "2025-03-04T02:19:58.693059",
+    "stars_today": "113 stars this week"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,007",
+    "fork": "1,248",
+    "timestamp": "2025-03-04T02:19:58.693374",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,359",
+    "fork": "886",
+    "timestamp": "2025-03-04T02:19:58.693653",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "623",
+    "fork": "149",
+    "timestamp": "2025-03-04T02:19:58.693925",
+    "stars_today": "27 stars this week"
+  }
+]
