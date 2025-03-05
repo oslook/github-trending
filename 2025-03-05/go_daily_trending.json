@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,397",
+    "fork": "9,716",
+    "timestamp": "2025-03-05T02:19:53.690812",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "eksctl-io/eksctl",
+    "href": "https://github.com/eksctl-io/eksctl",
+    "about": "The official CLI for Amazon EKS",
+    "star": "5,011",
+    "fork": "1,433",
+    "timestamp": "2025-03-05T02:19:53.691115",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "href": "https://github.com/kubernetes/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "14,713",
+    "fork": "4,190",
+    "timestamp": "2025-03-05T02:19:53.691403",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "30,559",
+    "fork": "2,256",
+    "timestamp": "2025-03-05T02:19:53.691728",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,359",
+    "fork": "2,603",
+    "timestamp": "2025-03-05T02:19:53.692014",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,521",
+    "fork": "2,140",
+    "timestamp": "2025-03-05T02:19:53.692300",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,196",
+    "fork": "775",
+    "timestamp": "2025-03-05T02:19:53.692626",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "envoyproxy/gateway",
+    "href": "https://github.com/envoyproxy/gateway",
+    "about": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+    "star": "1,745",
+    "fork": "408",
+    "timestamp": "2025-03-05T02:19:53.692910",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "dapr/dapr",
+    "href": "https://github.com/dapr/dapr",
+    "about": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "star": "24,455",
+    "fork": "1,930",
+    "timestamp": "2025-03-05T02:19:53.693189",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,584",
+    "fork": "2,270",
+    "timestamp": "2025-03-05T02:19:53.693472",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "47,401",
+    "fork": "5,689",
+    "timestamp": "2025-03-05T02:19:53.693792",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,620",
+    "fork": "8,124",
+    "timestamp": "2025-03-05T02:19:53.694074",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,904",
+    "fork": "1,560",
+    "timestamp": "2025-03-05T02:19:53.694351",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,116",
+    "fork": "9,380",
+    "timestamp": "2025-03-05T02:19:53.694642",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "28,948",
+    "fork": "2,394",
+    "timestamp": "2025-03-05T02:19:53.694923",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "19,211",
+    "fork": "1,007",
+    "timestamp": "2025-03-05T02:19:53.695211",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,889",
+    "fork": "4,287",
+    "timestamp": "2025-03-05T02:19:53.695500",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-kit/kit",
+    "href": "https://github.com/go-kit/kit",
+    "about": "A standard library for microservices.",
+    "star": "26,852",
+    "fork": "2,450",
+    "timestamp": "2025-03-05T02:19:53.695796",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "google/cadvisor",
+    "href": "https://github.com/google/cadvisor",
+    "about": "Analyzes resource usage and performance characteristics of running containers.",
+    "star": "17,619",
+    "fork": "2,359",
+    "timestamp": "2025-03-05T02:19:53.696078",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,315",
+    "fork": "3,753",
+    "timestamp": "2025-03-05T02:19:53.696357",
+    "stars_today": "4 stars today"
+  }
+]
