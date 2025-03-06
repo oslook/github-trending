@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,507",
+    "fork": "2,275",
+    "timestamp": "2025-03-06T02:20:09.565804",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,559",
+    "fork": "2,985",
+    "timestamp": "2025-03-06T02:20:09.566096",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "318",
+    "fork": "103",
+    "timestamp": "2025-03-06T02:20:09.566373",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "94",
+    "fork": "49",
+    "timestamp": "2025-03-06T02:20:09.566660",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "99",
+    "fork": "33",
+    "timestamp": "2025-03-06T02:20:09.566934",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,413",
+    "fork": "1,044",
+    "timestamp": "2025-03-06T02:20:09.567206",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,075",
+    "fork": "232",
+    "timestamp": "2025-03-06T02:20:09.567504",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,207",
+    "fork": "1,525",
+    "timestamp": "2025-03-06T02:20:09.567787",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,564",
+    "fork": "352",
+    "timestamp": "2025-03-06T02:20:09.568059",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "643",
+    "fork": "138",
+    "timestamp": "2025-03-06T02:20:09.568333",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "for-GET/jesse",
+    "href": "https://github.com/for-GET/jesse",
+    "about": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+    "star": "129",
+    "fork": "63",
+    "timestamp": "2025-03-06T02:20:09.568615",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "886",
+    "fork": "167",
+    "timestamp": "2025-03-06T02:20:09.568885",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,123",
+    "fork": "455",
+    "timestamp": "2025-03-06T02:20:09.569156",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "694",
+    "fork": "218",
+    "timestamp": "2025-03-06T02:20:09.569424",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,345",
+    "fork": "434",
+    "timestamp": "2025-03-06T02:20:09.569737",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,123",
+    "fork": "153",
+    "timestamp": "2025-03-06T02:20:09.570016",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "818",
+    "fork": "232",
+    "timestamp": "2025-03-06T02:20:09.570318",
+    "stars_today": "0 stars today"
+  }
+]

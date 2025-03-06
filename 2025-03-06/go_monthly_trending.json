@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "131,224",
+    "fork": "10,766",
+    "timestamp": "2025-03-06T02:20:11.986329",
+    "stars_today": "11,682 stars this month"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,678",
+    "fork": "1,147",
+    "timestamp": "2025-03-06T02:20:11.986636",
+    "stars_today": "905 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "23,062",
+    "fork": "833",
+    "timestamp": "2025-03-06T02:20:11.986916",
+    "stars_today": "535 stars this month"
+  },
+  {
+    "repo": "monasticacademy/httptap",
+    "href": "https://github.com/monasticacademy/httptap",
+    "about": "View HTTP/HTTPS requests made by any Linux program",
+    "star": "3,877",
+    "fork": "55",
+    "timestamp": "2025-03-06T02:20:11.987195",
+    "stars_today": "1,616 stars this month"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,534",
+    "fork": "480",
+    "timestamp": "2025-03-06T02:20:11.987468",
+    "stars_today": "116 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,199",
+    "fork": "776",
+    "timestamp": "2025-03-06T02:20:11.987787",
+    "stars_today": "309 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,627",
+    "fork": "2,900",
+    "timestamp": "2025-03-06T02:20:11.988060",
+    "stars_today": "605 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "32,944",
+    "fork": "3,054",
+    "timestamp": "2025-03-06T02:20:11.988335",
+    "stars_today": "835 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,365",
+    "fork": "2,606",
+    "timestamp": "2025-03-06T02:20:11.988619",
+    "stars_today": "119 stars this month"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,210",
+    "fork": "644",
+    "timestamp": "2025-03-06T02:20:11.988890",
+    "stars_today": "419 stars this month"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "5,934",
+    "fork": "743",
+    "timestamp": "2025-03-06T02:20:11.989163",
+    "stars_today": "396 stars this month"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,559",
+    "fork": "9,889",
+    "timestamp": "2025-03-06T02:20:11.989434",
+    "stars_today": "301 stars this month"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,693",
+    "fork": "1,510",
+    "timestamp": "2025-03-06T02:20:11.989747",
+    "stars_today": "182 stars this month"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "1,825",
+    "fork": "114",
+    "timestamp": "2025-03-06T02:20:11.990016",
+    "stars_today": "1,255 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,392",
+    "fork": "1,424",
+    "timestamp": "2025-03-06T02:20:11.990310",
+    "stars_today": "280 stars this month"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,796",
+    "fork": "1,810",
+    "timestamp": "2025-03-06T02:20:11.990619",
+    "stars_today": "554 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,836",
+    "fork": "307",
+    "timestamp": "2025-03-06T02:20:11.990887",
+    "stars_today": "2,191 stars this month"
+  },
+  {
+    "repo": "slackhq/nebula",
+    "href": "https://github.com/slackhq/nebula",
+    "about": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "star": "15,125",
+    "fork": "1,011",
+    "timestamp": "2025-03-06T02:20:11.991155",
+    "stars_today": "217 stars this month"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "21,657",
+    "fork": "848",
+    "timestamp": "2025-03-06T02:20:11.991451",
+    "stars_today": "1,854 stars this month"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,877",
+    "fork": "5,328",
+    "timestamp": "2025-03-06T02:20:11.991731",
+    "stars_today": "301 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,206",
+    "fork": "17,927",
+    "timestamp": "2025-03-06T02:20:11.992000",
+    "stars_today": "911 stars this month"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,577",
+    "fork": "2,408",
+    "timestamp": "2025-03-06T02:20:11.992268",
+    "stars_today": "167 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,008",
+    "fork": "1,256",
+    "timestamp": "2025-03-06T02:20:11.992547",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "volcano-sh/volcano",
+    "href": "https://github.com/volcano-sh/volcano",
+    "about": "A Cloud Native Batch System (Project under CNCF)",
+    "star": "4,476",
+    "fork": "1,038",
+    "timestamp": "2025-03-06T02:20:11.992817",
+    "stars_today": "103 stars this month"
+  }
+]

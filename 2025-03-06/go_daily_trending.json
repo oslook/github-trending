@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,661",
+    "fork": "2,275",
+    "timestamp": "2025-03-06T02:20:10.263333",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,309",
+    "fork": "5,634",
+    "timestamp": "2025-03-06T02:20:10.263650",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "1,825",
+    "fork": "114",
+    "timestamp": "2025-03-06T02:20:10.263927",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,503",
+    "fork": "9,725",
+    "timestamp": "2025-03-06T02:20:10.264202",
+    "stars_today": "104 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,158",
+    "fork": "1,616",
+    "timestamp": "2025-03-06T02:20:10.264474",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "30,344",
+    "fork": "4,050",
+    "timestamp": "2025-03-06T02:20:10.264814",
+    "stars_today": "101 stars today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "9,991",
+    "fork": "1,380",
+    "timestamp": "2025-03-06T02:20:10.265086",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "30,564",
+    "fork": "2,257",
+    "timestamp": "2025-03-06T02:20:10.265387",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/cadvisor",
+    "href": "https://github.com/google/cadvisor",
+    "about": "Analyzes resource usage and performance characteristics of running containers.",
+    "star": "17,623",
+    "fork": "2,359",
+    "timestamp": "2025-03-06T02:20:10.265671",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,552",
+    "fork": "1,115",
+    "timestamp": "2025-03-06T02:20:10.265941",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,548",
+    "fork": "1,202",
+    "timestamp": "2025-03-06T02:20:10.266212",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "HavocFramework/Havoc",
+    "href": "https://github.com/HavocFramework/Havoc",
+    "about": "The Havoc Framework",
+    "star": "7,303",
+    "fork": "1,034",
+    "timestamp": "2025-03-06T02:20:10.266481",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "25,788",
+    "fork": "1,402",
+    "timestamp": "2025-03-06T02:20:10.266768",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "2,183",
+    "fork": "116",
+    "timestamp": "2025-03-06T02:20:10.267039",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "go-kit/kit",
+    "href": "https://github.com/go-kit/kit",
+    "about": "A standard library for microservices.",
+    "star": "26,857",
+    "fork": "2,451",
+    "timestamp": "2025-03-06T02:20:10.267305",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "dapr/dapr",
+    "href": "https://github.com/dapr/dapr",
+    "about": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "star": "24,465",
+    "fork": "1,932",
+    "timestamp": "2025-03-06T02:20:10.267593",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "25,570",
+    "fork": "2,537",
+    "timestamp": "2025-03-06T02:20:10.267859",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "7,697",
+    "fork": "364",
+    "timestamp": "2025-03-06T02:20:10.268124",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,627",
+    "fork": "2,900",
+    "timestamp": "2025-03-06T02:20:10.268396",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,577",
+    "fork": "2,408",
+    "timestamp": "2025-03-06T02:20:10.268676",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,506",
+    "fork": "9,398",
+    "timestamp": "2025-03-06T02:20:10.268945",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,908",
+    "fork": "1,561",
+    "timestamp": "2025-03-06T02:20:10.269217",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "28,962",
+    "fork": "2,396",
+    "timestamp": "2025-03-06T02:20:10.269488",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "25,053",
+    "fork": "2,270",
+    "timestamp": "2025-03-06T02:20:10.269770",
+    "stars_today": "3 stars today"
+  }
+]
