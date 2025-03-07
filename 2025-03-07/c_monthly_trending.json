@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "19,321",
+    "fork": "739",
+    "timestamp": "2025-03-07T02:20:41.047059",
+    "stars_today": "644 stars this month"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,776",
+    "fork": "733",
+    "timestamp": "2025-03-07T02:20:41.047364",
+    "stars_today": "123 stars this month"
+  },
+  {
+    "repo": "FreeRDP/FreeRDP",
+    "href": "https://github.com/FreeRDP/FreeRDP",
+    "about": "FreeRDP is a free remote desktop protocol library and clients",
+    "star": "11,450",
+    "fork": "15,029",
+    "timestamp": "2025-03-07T02:20:41.047686",
+    "stars_today": "278 stars this month"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,858",
+    "fork": "10,373",
+    "timestamp": "2025-03-07T02:20:41.048020",
+    "stars_today": "343 stars this month"
+  },
+  {
+    "repo": "ventoy/Ventoy",
+    "href": "https://github.com/ventoy/Ventoy",
+    "about": "A new bootable USB solution.",
+    "star": "65,281",
+    "fork": "4,197",
+    "timestamp": "2025-03-07T02:20:41.048300",
+    "stars_today": "875 stars this month"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables. Put it on, speak, transcribe, automatically",
+    "star": "4,356",
+    "fork": "639",
+    "timestamp": "2025-03-07T02:20:41.048610",
+    "stars_today": "263 stars this month"
+  },
+  {
+    "repo": "asg017/sqlite-vec",
+    "href": "https://github.com/asg017/sqlite-vec",
+    "about": "A vector search SQLite extension that runs anywhere!",
+    "star": "5,183",
+    "fork": "191",
+    "timestamp": "2025-03-07T02:20:41.048930",
+    "stars_today": "391 stars this month"
+  },
+  {
+    "repo": "pygame/pygame",
+    "href": "https://github.com/pygame/pygame",
+    "about": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+    "star": "7,838",
+    "fork": "3,535",
+    "timestamp": "2025-03-07T02:20:41.049209",
+    "stars_today": "129 stars this month"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,741",
+    "fork": "449",
+    "timestamp": "2025-03-07T02:20:41.049486",
+    "stars_today": "175 stars this month"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "37,081",
+    "fork": "6,600",
+    "timestamp": "2025-03-07T02:20:41.049810",
+    "stars_today": "470 stars this month"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+    "star": "13,014",
+    "fork": "1,403",
+    "timestamp": "2025-03-07T02:20:41.050118",
+    "stars_today": "297 stars this month"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "10,695",
+    "fork": "1,410",
+    "timestamp": "2025-03-07T02:20:41.050395",
+    "stars_today": "99 stars this month"
+  },
+  {
+    "repo": "espressif/esp-sr",
+    "href": "https://github.com/espressif/esp-sr",
+    "about": "Speech recognition",
+    "star": "758",
+    "fork": "120",
+    "timestamp": "2025-03-07T02:20:41.050673",
+    "stars_today": "74 stars this month"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,731",
+    "fork": "2,648",
+    "timestamp": "2025-03-07T02:20:41.050962",
+    "stars_today": "72 stars this month"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "14,451",
+    "fork": "688",
+    "timestamp": "2025-03-07T02:20:41.051240",
+    "stars_today": "595 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-instrumentation",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+    "about": "OpenTelemetry Auto Instrumentation using eBPF",
+    "star": "706",
+    "fork": "105",
+    "timestamp": "2025-03-07T02:20:41.051522",
+    "stars_today": "64 stars this month"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,768",
+    "fork": "1,218",
+    "timestamp": "2025-03-07T02:20:41.051809",
+    "stars_today": "67 stars this month"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,277",
+    "fork": "2,871",
+    "timestamp": "2025-03-07T02:20:41.052086",
+    "stars_today": "156 stars this month"
+  },
+  {
+    "repo": "oxters168/Pluvia",
+    "href": "https://github.com/oxters168/Pluvia",
+    "about": "Lightweight unofficial Steam client for Android",
+    "star": "832",
+    "fork": "16",
+    "timestamp": "2025-03-07T02:20:41.052361",
+    "stars_today": "389 stars this month"
+  },
+  {
+    "repo": "facebook/zstd",
+    "href": "https://github.com/facebook/zstd",
+    "about": "Zstandard - Fast real-time compression algorithm",
+    "star": "24,467",
+    "fork": "2,196",
+    "timestamp": "2025-03-07T02:20:41.052636",
+    "stars_today": "238 stars this month"
+  }
+]

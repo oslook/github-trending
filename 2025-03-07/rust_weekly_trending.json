@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "28,857",
+    "fork": "2,011",
+    "timestamp": "2025-03-07T02:21:18.399350",
+    "stars_today": "805 stars this week"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "29,663",
+    "fork": "3,106",
+    "timestamp": "2025-03-07T02:21:18.399674",
+    "stars_today": "257 stars this week"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "40,596",
+    "fork": "2,207",
+    "timestamp": "2025-03-07T02:21:18.399970",
+    "stars_today": "8,970 stars this week"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "36,586",
+    "fork": "6,511",
+    "timestamp": "2025-03-07T02:21:18.400276",
+    "stars_today": "1,289 stars this week"
+  },
+  {
+    "repo": "esp-rs/esp-hal",
+    "href": "https://github.com/esp-rs/esp-hal",
+    "about": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+    "star": "1,003",
+    "fork": "265",
+    "timestamp": "2025-03-07T02:21:18.400555",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "rust-lang/rustup",
+    "href": "https://github.com/rust-lang/rustup",
+    "about": "The Rust toolchain installer",
+    "star": "6,323",
+    "fork": "914",
+    "timestamp": "2025-03-07T02:21:18.400846",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "rust-lang/rust-analyzer",
+    "href": "https://github.com/rust-lang/rust-analyzer",
+    "about": "A Rust compiler front-end for IDEs",
+    "star": "14,726",
+    "fork": "1,693",
+    "timestamp": "2025-03-07T02:21:18.401123",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,303",
+    "fork": "1,528",
+    "timestamp": "2025-03-07T02:21:18.401426",
+    "stars_today": "166 stars this week"
+  },
+  {
+    "repo": "hatoo/oha",
+    "href": "https://github.com/hatoo/oha",
+    "about": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+    "star": "7,819",
+    "fork": "221",
+    "timestamp": "2025-03-07T02:21:18.401724",
+    "stars_today": "268 stars this week"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "AI-native (edge and LLM) proxy for agents. Move faster by letting Arch handle the pesky heavy lifting in building agentic apps -- ⚡️ query understanding and routing, seamless integration of prompts with tools, and unified access and observability of LLMs. Built by the contributors of Envoy proxy.",
+    "star": "1,898",
+    "fork": "94",
+    "timestamp": "2025-03-07T02:21:18.402010",
+    "stars_today": "172 stars this week"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "16,442",
+    "fork": "503",
+    "timestamp": "2025-03-07T02:21:18.402284",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "50,859",
+    "fork": "2,081",
+    "timestamp": "2025-03-07T02:21:18.402581",
+    "stars_today": "204 stars this week"
+  },
+  {
+    "repo": "lumina-ai-inc/chunkr",
+    "href": "https://github.com/lumina-ai-inc/chunkr",
+    "about": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+    "star": "1,840",
+    "fork": "97",
+    "timestamp": "2025-03-07T02:21:18.402862",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "quickwit-oss/tantivy",
+    "href": "https://github.com/quickwit-oss/tantivy",
+    "about": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "star": "12,800",
+    "fork": "726",
+    "timestamp": "2025-03-07T02:21:18.403135",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "5,879",
+    "fork": "1,108",
+    "timestamp": "2025-03-07T02:21:18.403408",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,219",
+    "fork": "2,108",
+    "timestamp": "2025-03-07T02:21:18.403676",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "6,355",
+    "fork": "933",
+    "timestamp": "2025-03-07T02:21:18.403958",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "0x192/universal-android-debloater",
+    "href": "https://github.com/0x192/universal-android-debloater",
+    "about": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+    "star": "16,483",
+    "fork": "852",
+    "timestamp": "2025-03-07T02:21:18.404237",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,297",
+    "fork": "3,773",
+    "timestamp": "2025-03-07T02:21:18.404531",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "mufeedvh/code2prompt",
+    "href": "https://github.com/mufeedvh/code2prompt",
+    "about": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+    "star": "4,955",
+    "fork": "287",
+    "timestamp": "2025-03-07T02:21:18.404842",
+    "stars_today": "257 stars this week"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "6,680",
+    "fork": "297",
+    "timestamp": "2025-03-07T02:21:18.405163",
+    "stars_today": "261 stars this week"
+  },
+  {
+    "repo": "huggingface/text-embeddings-inference",
+    "href": "https://github.com/huggingface/text-embeddings-inference",
+    "about": "A blazing fast inference solution for text embeddings models",
+    "star": "3,257",
+    "fork": "224",
+    "timestamp": "2025-03-07T02:21:18.405479",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "solana-labs/solana-program-library",
+    "href": "https://github.com/solana-labs/solana-program-library",
+    "about": "A collection of Solana programs maintained by Solana Labs",
+    "star": "3,815",
+    "fork": "2,228",
+    "timestamp": "2025-03-07T02:21:18.405794",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "tauri-apps/plugins-workspace",
+    "href": "https://github.com/tauri-apps/plugins-workspace",
+    "about": "All of the official Tauri plugins in one place!",
+    "star": "1,151",
+    "fork": "335",
+    "timestamp": "2025-03-07T02:21:18.406130",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "rust-lang/book",
+    "href": "https://github.com/rust-lang/book",
+    "about": "The Rust Programming Language",
+    "star": "15,795",
+    "fork": "3,546",
+    "timestamp": "2025-03-07T02:21:18.406413",
+    "stars_today": "50 stars this week"
+  }
+]
