@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,874",
+    "fork": "2,290",
+    "timestamp": "2025-03-08T01:56:49.744453",
+    "stars_today": "128 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "1,984",
+    "fork": "128",
+    "timestamp": "2025-03-08T01:56:49.744766",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,337",
+    "fork": "18,709",
+    "timestamp": "2025-03-08T01:56:49.745050",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,667",
+    "fork": "9,742",
+    "timestamp": "2025-03-08T01:56:49.745329",
+    "stars_today": "103 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,659",
+    "fork": "2,903",
+    "timestamp": "2025-03-08T01:56:49.745607",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,186",
+    "fork": "1,617",
+    "timestamp": "2025-03-08T01:56:49.745904",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,763",
+    "fork": "855",
+    "timestamp": "2025-03-08T01:56:49.746211",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "7,979",
+    "fork": "2,634",
+    "timestamp": "2025-03-08T01:56:49.746492",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,003",
+    "fork": "3,063",
+    "timestamp": "2025-03-08T01:56:49.746789",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,547",
+    "fork": "2,145",
+    "timestamp": "2025-03-08T01:56:49.747071",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,361",
+    "fork": "5,638",
+    "timestamp": "2025-03-08T01:56:49.747348",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "26,921",
+    "fork": "1,309",
+    "timestamp": "2025-03-08T01:56:49.747626",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,190",
+    "fork": "1,515",
+    "timestamp": "2025-03-08T01:56:49.747918",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "11,454",
+    "fork": "404",
+    "timestamp": "2025-03-08T01:56:49.748221",
+    "stars_today": "93 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,802",
+    "fork": "3,591",
+    "timestamp": "2025-03-08T01:56:49.748499",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,397",
+    "fork": "890",
+    "timestamp": "2025-03-08T01:56:49.748787",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "131,653",
+    "fork": "10,825",
+    "timestamp": "2025-03-08T01:56:49.749063",
+    "stars_today": "238 stars today"
+  },
+  {
+    "repo": "mostlygeek/llama-swap",
+    "href": "https://github.com/mostlygeek/llama-swap",
+    "about": "transparent proxy server for llama.cpp's server to provide automatic model swapping",
+    "star": "385",
+    "fork": "20",
+    "timestamp": "2025-03-08T01:56:49.749338",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "12,672",
+    "fork": "884",
+    "timestamp": "2025-03-08T01:56:49.749608",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "17,947",
+    "fork": "8,307",
+    "timestamp": "2025-03-08T01:56:49.749904",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mjl-/mox",
+    "href": "https://github.com/mjl-/mox",
+    "about": "modern full-featured open source secure mail server for low-maintenance self-hosted email",
+    "star": "4,444",
+    "fork": "133",
+    "timestamp": "2025-03-08T01:56:49.750208",
+    "stars_today": "66 stars today"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "href": "https://github.com/jaegertracing/jaeger",
+    "about": "CNCF Jaeger, a Distributed Tracing Platform",
+    "star": "21,004",
+    "fork": "2,539",
+    "timestamp": "2025-03-08T01:56:49.750482",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,623",
+    "fork": "490",
+    "timestamp": "2025-03-08T01:56:49.750766",
+    "stars_today": "5 stars today"
+  }
+]

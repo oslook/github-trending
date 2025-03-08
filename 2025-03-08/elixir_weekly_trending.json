@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "3,849",
+    "fork": "2,618",
+    "timestamp": "2025-03-08T01:56:45.903901",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "electric-sql/electric",
+    "href": "https://github.com/electric-sql/electric",
+    "about": "Realtime sync for Postgres.",
+    "star": "7,769",
+    "fork": "205",
+    "timestamp": "2025-03-08T01:56:45.904197",
+    "stars_today": "268 stars this week"
+  },
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "21,652",
+    "fork": "1,156",
+    "timestamp": "2025-03-08T01:56:45.904551",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,404",
+    "fork": "963",
+    "timestamp": "2025-03-08T01:56:45.904849",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "livebook-dev/livebook",
+    "href": "https://github.com/livebook-dev/livebook",
+    "about": "Automate code & data workflows with interactive Elixir notebooks",
+    "star": "5,206",
+    "fork": "451",
+    "timestamp": "2025-03-08T01:56:45.905133",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "duffelhq/paginator",
+    "href": "https://github.com/duffelhq/paginator",
+    "about": "Cursor-based pagination for Elixir Ecto",
+    "star": "779",
+    "fork": "93",
+    "timestamp": "2025-03-08T01:56:45.905411",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "elixir-lsp/elixir-ls",
+    "href": "https://github.com/elixir-lsp/elixir-ls",
+    "about": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "star": "1,568",
+    "fork": "208",
+    "timestamp": "2025-03-08T01:56:45.905730",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "elixir-lsp/elixir_sense",
+    "href": "https://github.com/elixir-lsp/elixir_sense",
+    "about": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+    "star": "314",
+    "fork": "41",
+    "timestamp": "2025-03-08T01:56:45.906038",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "elixirs/faker",
+    "href": "https://github.com/elixirs/faker",
+    "about": "Faker is a pure Elixir library for generating fake data.",
+    "star": "1,103",
+    "fork": "219",
+    "timestamp": "2025-03-08T01:56:45.906316",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "firezone/firezone",
+    "href": "https://github.com/firezone/firezone",
+    "about": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "star": "7,076",
+    "fork": "294",
+    "timestamp": "2025-03-08T01:56:45.906597",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "ntrepid8/ex_crypto",
+    "href": "https://github.com/ntrepid8/ex_crypto",
+    "about": "Wrapper around the Erlang crypto module for Elixir.",
+    "star": "153",
+    "fork": "50",
+    "timestamp": "2025-03-08T01:56:45.906891",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "24,947",
+    "fork": "3,418",
+    "timestamp": "2025-03-08T01:56:45.907183",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "elixir-ecto/postgrex",
+    "href": "https://github.com/elixir-ecto/postgrex",
+    "about": "PostgreSQL driver for Elixir",
+    "star": "1,142",
+    "fork": "278",
+    "timestamp": "2025-03-08T01:56:45.907463",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "teslamate-org/teslamate",
+    "href": "https://github.com/teslamate-org/teslamate",
+    "about": "A self-hosted data logger for your Tesla 🚘",
+    "star": "6,458",
+    "fork": "779",
+    "timestamp": "2025-03-08T01:56:45.907777",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "commanded/eventstore",
+    "href": "https://github.com/commanded/eventstore",
+    "about": "Event store using PostgreSQL for persistence",
+    "star": "1,096",
+    "fork": "151",
+    "timestamp": "2025-03-08T01:56:45.908057",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "6,952",
+    "fork": "328",
+    "timestamp": "2025-03-08T01:56:45.908362",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "OffchainLabs/blockscout",
+    "href": "https://github.com/OffchainLabs/blockscout",
+    "about": "",
+    "star": "45",
+    "fork": "24",
+    "timestamp": "2025-03-08T01:56:45.908661",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "software-mansion/live-debugger",
+    "href": "https://github.com/software-mansion/live-debugger",
+    "about": "Tool for debugging LiveView applications.",
+    "star": "301",
+    "fork": "7",
+    "timestamp": "2025-03-08T01:56:45.908983",
+    "stars_today": "36 stars this week"
+  }
+]
