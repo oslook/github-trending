@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,437",
+    "fork": "656",
+    "timestamp": "2025-03-09T02:01:46.639237",
+    "stars_today": "62 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,071",
+    "fork": "131",
+    "timestamp": "2025-03-09T02:01:46.639548",
+    "stars_today": "85 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "18,958",
+    "fork": "2,294",
+    "timestamp": "2025-03-09T02:01:46.639837",
+    "stars_today": "70 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "434",
+    "fork": "49",
+    "timestamp": "2025-03-09T02:01:46.640144",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,396",
+    "fork": "592",
+    "timestamp": "2025-03-09T02:01:46.640457",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,680",
+    "fork": "9,742",
+    "timestamp": "2025-03-09T02:01:46.640748",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "12,688",
+    "fork": "885",
+    "timestamp": "2025-03-09T02:01:46.641051",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "3,626",
+    "fork": "491",
+    "timestamp": "2025-03-09T02:01:46.641340",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "21,345",
+    "fork": "1,702",
+    "timestamp": "2025-03-09T02:01:46.641625",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "usual2970/certimate",
+    "href": "https://github.com/usual2970/certimate",
+    "about": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+    "star": "5,715",
+    "fork": "517",
+    "timestamp": "2025-03-09T02:01:46.641920",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.",
+    "star": "443",
+    "fork": "56",
+    "timestamp": "2025-03-09T02:01:46.642214",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "about": "Fast passive subdomain enumeration tool.",
+    "star": "11,282",
+    "fork": "1,338",
+    "timestamp": "2025-03-09T02:01:46.642501",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,369",
+    "fork": "5,638",
+    "timestamp": "2025-03-09T02:01:46.642794",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,359",
+    "fork": "18,708",
+    "timestamp": "2025-03-09T02:01:46.643096",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "uber-go/mock",
+    "href": "https://github.com/uber-go/mock",
+    "about": "GoMock is a mocking framework for the Go programming language.",
+    "star": "2,600",
+    "fork": "131",
+    "timestamp": "2025-03-09T02:01:46.643384",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,148",
+    "fork": "807",
+    "timestamp": "2025-03-09T02:01:46.643668",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,462",
+    "fork": "1,019",
+    "timestamp": "2025-03-09T02:01:46.644024",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "29,849",
+    "fork": "3,071",
+    "timestamp": "2025-03-09T02:01:46.644343",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "evrone/go-clean-template",
+    "href": "https://github.com/evrone/go-clean-template",
+    "about": "Clean Architecture template for Golang services",
+    "star": "6,550",
+    "fork": "552",
+    "timestamp": "2025-03-09T02:01:46.644633",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "9,687",
+    "fork": "278",
+    "timestamp": "2025-03-09T02:01:46.644927",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,758",
+    "fork": "1,357",
+    "timestamp": "2025-03-09T02:01:46.645214",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "href": "https://github.com/aquasecurity/kube-bench",
+    "about": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+    "star": "7,282",
+    "fork": "1,261",
+    "timestamp": "2025-03-09T02:01:46.645498",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+    "star": "131,798",
+    "fork": "10,839",
+    "timestamp": "2025-03-09T02:01:46.645782",
+    "stars_today": "168 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,249",
+    "fork": "618",
+    "timestamp": "2025-03-09T02:01:46.646077",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lightningnetwork/lnd",
+    "href": "https://github.com/lightningnetwork/lnd",
+    "about": "Lightning Network Daemon ⚡️",
+    "star": "7,852",
+    "fork": "2,124",
+    "timestamp": "2025-03-09T02:01:46.646363",
+    "stars_today": "3 stars today"
+  }
+]

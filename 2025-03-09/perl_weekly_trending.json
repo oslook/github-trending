@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "AlDanial/cloc",
+    "href": "https://github.com/AlDanial/cloc",
+    "about": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+    "star": "20,330",
+    "fork": "1,044",
+    "timestamp": "2025-03-09T02:02:00.531996",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "sullo/nikto",
+    "href": "https://github.com/sullo/nikto",
+    "about": "Nikto web server scanner",
+    "star": "8,998",
+    "fork": "1,288",
+    "timestamp": "2025-03-09T02:02:00.532313",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "holzschu/a-shell",
+    "href": "https://github.com/holzschu/a-shell",
+    "about": "A terminal for iOS, with multiple windows",
+    "star": "2,919",
+    "fork": "120",
+    "timestamp": "2025-03-09T02:02:00.532608",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "quran/quran.com-images",
+    "href": "https://github.com/quran/quran.com-images",
+    "about": "images using fonts from King Fahed Complex / qurancomplex.org",
+    "star": "426",
+    "fork": "130",
+    "timestamp": "2025-03-09T02:02:00.532911",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "Ensembl/ensembl-compara",
+    "href": "https://github.com/Ensembl/ensembl-compara",
+    "about": "The Ensembl Compara Perl API and SQL schema",
+    "star": "52",
+    "fork": "69",
+    "timestamp": "2025-03-09T02:02:00.533211",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "trinityrnaseq/trinityrnaseq",
+    "href": "https://github.com/trinityrnaseq/trinityrnaseq",
+    "about": "Trinity RNA-Seq de novo transcriptome assembly",
+    "star": "850",
+    "fork": "320",
+    "timestamp": "2025-03-09T02:02:00.533505",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "rjust/defects4j",
+    "href": "https://github.com/rjust/defects4j",
+    "about": "A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research",
+    "star": "798",
+    "fork": "320",
+    "timestamp": "2025-03-09T02:02:00.533797",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "brendangregg/FlameGraph",
+    "href": "https://github.com/brendangregg/FlameGraph",
+    "about": "Stack trace visualizer",
+    "star": "17,902",
+    "fork": "2,002",
+    "timestamp": "2025-03-09T02:02:00.534102",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "tseemann/prokka",
+    "href": "https://github.com/tseemann/prokka",
+    "about": "⚡ ♒ Rapid prokaryotic genome annotation",
+    "star": "877",
+    "fork": "227",
+    "timestamp": "2025-03-09T02:02:00.534394",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "FelixKrueger/TrimGalore",
+    "href": "https://github.com/FelixKrueger/TrimGalore",
+    "about": "A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",
+    "star": "490",
+    "fork": "150",
+    "timestamp": "2025-03-09T02:02:00.534680",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ocpi/ocpi",
+    "href": "https://github.com/ocpi/ocpi",
+    "about": "The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",
+    "star": "480",
+    "fork": "210",
+    "timestamp": "2025-03-09T02:02:00.534995",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "linux-test-project/lcov",
+    "href": "https://github.com/linux-test-project/lcov",
+    "about": "LCOV",
+    "star": "954",
+    "fork": "241",
+    "timestamp": "2025-03-09T02:02:00.535283",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "Perl/perl5",
+    "href": "https://github.com/Perl/perl5",
+    "about": "🐪 The Perl programming language",
+    "star": "2,050",
+    "fork": "566",
+    "timestamp": "2025-03-09T02:02:00.535573",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "centreon/centreon-plugins",
+    "href": "https://github.com/centreon/centreon-plugins",
+    "about": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
+    "star": "315",
+    "fork": "285",
+    "timestamp": "2025-03-09T02:02:00.535860",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "darold/ora2pg",
+    "href": "https://github.com/darold/ora2pg",
+    "about": "Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",
+    "star": "1,057",
+    "fork": "348",
+    "timestamp": "2025-03-09T02:02:00.536161",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "SpiderLabs/owasp-modsecurity-crs",
+    "href": "https://github.com/SpiderLabs/owasp-modsecurity-crs",
+    "about": "OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)",
+    "star": "2,457",
+    "fork": "728",
+    "timestamp": "2025-03-09T02:02:00.536449",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "major/MySQLTuner-perl",
+    "href": "https://github.com/major/MySQLTuner-perl",
+    "about": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+    "star": "9,114",
+    "fork": "1,289",
+    "timestamp": "2025-03-09T02:02:00.536735",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "owasp-modsecurity/ModSecurity-nginx",
+    "href": "https://github.com/owasp-modsecurity/ModSecurity-nginx",
+    "about": "ModSecurity v3 Nginx Connector",
+    "star": "1,633",
+    "fork": "286",
+    "timestamp": "2025-03-09T02:02:00.537032",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "yaml/yaml-test-suite",
+    "href": "https://github.com/yaml/yaml-test-suite",
+    "about": "Comprehensive, language independent Test Suite for YAML",
+    "star": "204",
+    "fork": "66",
+    "timestamp": "2025-03-09T02:02:00.537319",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "darold/pgbadger",
+    "href": "https://github.com/darold/pgbadger",
+    "about": "A fast PostgreSQL Log Analyzer",
+    "star": "3,667",
+    "fork": "357",
+    "timestamp": "2025-03-09T02:02:00.537606",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "lm-sensors/lm-sensors",
+    "href": "https://github.com/lm-sensors/lm-sensors",
+    "about": "lm-sensors repository",
+    "star": "960",
+    "fork": "275",
+    "timestamp": "2025-03-09T02:02:00.537892",
+    "stars_today": "1 star this week"
+  }
+]

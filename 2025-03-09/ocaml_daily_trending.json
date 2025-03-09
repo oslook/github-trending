@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,683",
+    "fork": "1,123",
+    "timestamp": "2025-03-09T02:01:58.341461",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "11,284",
+    "fork": "663",
+    "timestamp": "2025-03-09T02:01:58.341845",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "facebook/flow",
+    "href": "https://github.com/facebook/flow",
+    "about": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+    "star": "22,136",
+    "fork": "1,872",
+    "timestamp": "2025-03-09T02:01:58.342173",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "semgrep/ocaml-tree-sitter-core",
+    "href": "https://github.com/semgrep/ocaml-tree-sitter-core",
+    "about": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+    "star": "26",
+    "fork": "6",
+    "timestamp": "2025-03-09T02:01:58.342462",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "semgrep/testo",
+    "href": "https://github.com/semgrep/testo",
+    "about": "Test framework for OCaml",
+    "star": "20",
+    "fork": "4",
+    "timestamp": "2025-03-09T02:01:58.342817",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "janestreet/magic-trace",
+    "href": "https://github.com/janestreet/magic-trace",
+    "about": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "star": "4,826",
+    "fork": "98",
+    "timestamp": "2025-03-09T02:01:58.343330",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dfinity/motoko",
+    "href": "https://github.com/dfinity/motoko",
+    "about": "Simple high-level language for writing Internet Computer canisters",
+    "star": "531",
+    "fork": "107",
+    "timestamp": "2025-03-09T02:01:58.343827",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "terrateamio/terrateam",
+    "href": "https://github.com/terrateamio/terrateam",
+    "about": "Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi operations via pull requests.",
+    "star": "610",
+    "fork": "25",
+    "timestamp": "2025-03-09T02:01:58.344368",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "coq/coq",
+    "href": "https://github.com/coq/coq",
+    "about": "Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+    "star": "4,965",
+    "fork": "671",
+    "timestamp": "2025-03-09T02:01:58.344917",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,132",
+    "fork": "2,030",
+    "timestamp": "2025-03-09T02:01:58.345447",
+    "stars_today": "0 stars today"
+  }
+]

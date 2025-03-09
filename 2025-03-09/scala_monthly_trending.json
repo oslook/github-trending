@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,689",
+    "fork": "28,539",
+    "timestamp": "2025-03-09T02:02:10.050562",
+    "stars_today": "260 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,856",
+    "fork": "1,788",
+    "timestamp": "2025-03-09T02:02:10.050881",
+    "stars_today": "69 stars this month"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,931",
+    "fork": "2,815",
+    "timestamp": "2025-03-09T02:02:10.051185",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,373",
+    "fork": "1,151",
+    "timestamp": "2025-03-09T02:02:10.051474",
+    "stars_today": "37 stars this month"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,771",
+    "fork": "683",
+    "timestamp": "2025-03-09T02:02:10.051761",
+    "stars_today": "35 stars this month"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,349",
+    "fork": "390",
+    "timestamp": "2025-03-09T02:02:10.052067",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,316",
+    "fork": "2,350",
+    "timestamp": "2025-03-09T02:02:10.052357",
+    "stars_today": "186 stars this month"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "308",
+    "fork": "88",
+    "timestamp": "2025-03-09T02:02:10.052666",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "813",
+    "fork": "185",
+    "timestamp": "2025-03-09T02:02:10.052967",
+    "stars_today": "12 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,286",
+    "fork": "466",
+    "timestamp": "2025-03-09T02:02:10.053253",
+    "stars_today": "28 stars this month"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,559",
+    "fork": "1,203",
+    "timestamp": "2025-03-09T02:02:10.053536",
+    "stars_today": "30 stars this month"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,559",
+    "fork": "4,097",
+    "timestamp": "2025-03-09T02:02:10.053847",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,836",
+    "fork": "440",
+    "timestamp": "2025-03-09T02:02:10.054145",
+    "stars_today": "33 stars this month"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,881",
+    "fork": "2,508",
+    "timestamp": "2025-03-09T02:02:10.054429",
+    "stars_today": "27 stars this month"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,154",
+    "fork": "938",
+    "timestamp": "2025-03-09T02:02:10.054713",
+    "stars_today": "18 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,270",
+    "fork": "307",
+    "timestamp": "2025-03-09T02:02:10.055011",
+    "stars_today": "52 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "183",
+    "fork": "50",
+    "timestamp": "2025-03-09T02:02:10.055299",
+    "stars_today": "6 stars this month"
+  }
+]
