@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,858",
+    "fork": "1,791",
+    "timestamp": "2025-03-10T02:03:28.242008",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,186",
+    "fork": "618",
+    "timestamp": "2025-03-10T02:03:28.242317",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,694",
+    "fork": "28,539",
+    "timestamp": "2025-03-10T02:03:28.242603",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "308",
+    "fork": "88",
+    "timestamp": "2025-03-10T02:03:28.242903",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,373",
+    "fork": "1,150",
+    "timestamp": "2025-03-10T02:03:28.243195",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,163",
+    "fork": "745",
+    "timestamp": "2025-03-10T02:03:28.243475",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,772",
+    "fork": "683",
+    "timestamp": "2025-03-10T02:03:28.243757",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,317",
+    "fork": "2,350",
+    "timestamp": "2025-03-10T02:03:28.244033",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "62,976",
+    "fork": "12,166",
+    "timestamp": "2025-03-10T02:03:28.244334",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,838",
+    "fork": "439",
+    "timestamp": "2025-03-10T02:03:28.244604",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,826",
+    "fork": "948",
+    "timestamp": "2025-03-10T02:03:28.244880",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "airbnb/chronon",
+    "href": "https://github.com/airbnb/chronon",
+    "about": "Chronon is a data platform for serving for AI/ML applications.",
+    "star": "781",
+    "fork": "64",
+    "timestamp": "2025-03-10T02:03:28.245169",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,958",
+    "fork": "1,084",
+    "timestamp": "2025-03-10T02:03:28.245447",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenBankProject/OBP-API",
+    "href": "https://github.com/OpenBankProject/OBP-API",
+    "about": "An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.",
+    "star": "1,576",
+    "fork": "438",
+    "timestamp": "2025-03-10T02:03:28.245727",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,349",
+    "fork": "390",
+    "timestamp": "2025-03-10T02:03:28.246006",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,360",
+    "fork": "552",
+    "timestamp": "2025-03-10T02:03:28.246328",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,286",
+    "fork": "466",
+    "timestamp": "2025-03-10T02:03:28.246605",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,559",
+    "fork": "4,097",
+    "timestamp": "2025-03-10T02:03:28.246909",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "813",
+    "fork": "206",
+    "timestamp": "2025-03-10T02:03:28.247199",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,931",
+    "fork": "2,816",
+    "timestamp": "2025-03-10T02:03:28.247475",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,737",
+    "fork": "340",
+    "timestamp": "2025-03-10T02:03:28.247749",
+    "stars_today": "0 stars today"
+  }
+]

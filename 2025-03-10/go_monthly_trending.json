@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,801",
+    "fork": "1,170",
+    "timestamp": "2025-03-10T02:03:09.393144",
+    "stars_today": "908 stars this month"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,106",
+    "fork": "133",
+    "timestamp": "2025-03-10T02:03:09.393776",
+    "stars_today": "1,475 stars this month"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,649",
+    "fork": "669",
+    "timestamp": "2025-03-10T02:03:09.394411",
+    "stars_today": "780 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "39,683",
+    "fork": "2,902",
+    "timestamp": "2025-03-10T02:03:09.395084",
+    "stars_today": "610 stars this month"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,363",
+    "fork": "18,709",
+    "timestamp": "2025-03-10T02:03:09.395681",
+    "stars_today": "328 stars this month"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,001",
+    "fork": "2,298",
+    "timestamp": "2025-03-10T02:03:09.396253",
+    "stars_today": "541 stars this month"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "23,863",
+    "fork": "3,015",
+    "timestamp": "2025-03-10T02:03:09.396809",
+    "stars_today": "169 stars this month"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,542",
+    "fork": "480",
+    "timestamp": "2025-03-10T02:03:09.397454",
+    "stars_today": "111 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,374",
+    "fork": "2,614",
+    "timestamp": "2025-03-10T02:03:09.398099",
+    "stars_today": "111 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,290",
+    "fork": "17,933",
+    "timestamp": "2025-03-10T02:03:09.398656",
+    "stars_today": "905 stars this month"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,691",
+    "fork": "9,743",
+    "timestamp": "2025-03-10T02:03:09.399301",
+    "stars_today": "663 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "12,958",
+    "fork": "312",
+    "timestamp": "2025-03-10T02:03:09.399889",
+    "stars_today": "2,203 stars this month"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,764",
+    "fork": "1,360",
+    "timestamp": "2025-03-10T02:03:09.400475",
+    "stars_today": "340 stars this month"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "28,846",
+    "fork": "1,815",
+    "timestamp": "2025-03-10T02:03:09.401189",
+    "stars_today": "546 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,416",
+    "fork": "1,424",
+    "timestamp": "2025-03-10T02:03:09.401870",
+    "stars_today": "268 stars this month"
+  },
+  {
+    "repo": "sashabaranov/go-openai",
+    "href": "https://github.com/sashabaranov/go-openai",
+    "about": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+    "star": "9,706",
+    "fork": "1,511",
+    "timestamp": "2025-03-10T02:03:09.402551",
+    "stars_today": "178 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,045",
+    "fork": "3,068",
+    "timestamp": "2025-03-10T02:03:09.403179",
+    "stars_today": "858 stars this month"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "34,903",
+    "fork": "5,327",
+    "timestamp": "2025-03-10T02:03:09.403765",
+    "stars_today": "303 stars this month"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,296",
+    "fork": "549",
+    "timestamp": "2025-03-10T02:03:09.404437",
+    "stars_today": "112 stars this month"
+  },
+  {
+    "repo": "slackhq/nebula",
+    "href": "https://github.com/slackhq/nebula",
+    "about": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "star": "15,150",
+    "fork": "1,011",
+    "timestamp": "2025-03-10T02:03:09.405019",
+    "stars_today": "175 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "Solar Charging ☀️🚘",
+    "star": "4,216",
+    "fork": "781",
+    "timestamp": "2025-03-10T02:03:09.405670",
+    "stars_today": "262 stars this month"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,589",
+    "fork": "9,899",
+    "timestamp": "2025-03-10T02:03:09.406265",
+    "stars_today": "302 stars this month"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "23,090",
+    "fork": "833",
+    "timestamp": "2025-03-10T02:03:09.406843",
+    "stars_today": "377 stars this month"
+  }
+]

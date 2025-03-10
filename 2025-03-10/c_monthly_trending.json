@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "19,369",
+    "fork": "742",
+    "timestamp": "2025-03-10T02:02:53.908306",
+    "stars_today": "648 stars this month"
+  },
+  {
+    "repo": "asg017/sqlite-vec",
+    "href": "https://github.com/asg017/sqlite-vec",
+    "about": "A vector search SQLite extension that runs anywhere!",
+    "star": "5,209",
+    "fork": "192",
+    "timestamp": "2025-03-10T02:02:53.908634",
+    "stars_today": "395 stars this month"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables. Put it on, speak, transcribe, automatically",
+    "star": "4,365",
+    "fork": "645",
+    "timestamp": "2025-03-10T02:02:53.908955",
+    "stars_today": "256 stars this month"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,782",
+    "fork": "735",
+    "timestamp": "2025-03-10T02:02:53.909286",
+    "stars_today": "108 stars this month"
+  },
+  {
+    "repo": "ventoy/Ventoy",
+    "href": "https://github.com/ventoy/Ventoy",
+    "about": "A new bootable USB solution.",
+    "star": "65,349",
+    "fork": "4,199",
+    "timestamp": "2025-03-10T02:02:53.909569",
+    "stars_today": "877 stars this month"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,794",
+    "fork": "456",
+    "timestamp": "2025-03-10T02:02:53.909849",
+    "stars_today": "221 stars this month"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,886",
+    "fork": "10,381",
+    "timestamp": "2025-03-10T02:02:53.910232",
+    "stars_today": "344 stars this month"
+  },
+  {
+    "repo": "pygame/pygame",
+    "href": "https://github.com/pygame/pygame",
+    "about": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+    "star": "7,851",
+    "fork": "3,540",
+    "timestamp": "2025-03-10T02:02:53.910561",
+    "stars_today": "135 stars this month"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+    "star": "13,035",
+    "fork": "1,403",
+    "timestamp": "2025-03-10T02:02:53.910869",
+    "stars_today": "293 stars this month"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "14,493",
+    "fork": "693",
+    "timestamp": "2025-03-10T02:02:53.911164",
+    "stars_today": "581 stars this month"
+  },
+  {
+    "repo": "espressif/esp-sr",
+    "href": "https://github.com/espressif/esp-sr",
+    "about": "Speech recognition",
+    "star": "771",
+    "fork": "122",
+    "timestamp": "2025-03-10T02:02:53.911440",
+    "stars_today": "83 stars this month"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,775",
+    "fork": "1,219",
+    "timestamp": "2025-03-10T02:02:53.911718",
+    "stars_today": "67 stars this month"
+  },
+  {
+    "repo": "FreeRDP/FreeRDP",
+    "href": "https://github.com/FreeRDP/FreeRDP",
+    "about": "FreeRDP is a free remote desktop protocol library and clients",
+    "star": "11,463",
+    "fork": "15,026",
+    "timestamp": "2025-03-10T02:02:53.911992",
+    "stars_today": "280 stars this month"
+  },
+  {
+    "repo": "lwfinger/rtw88",
+    "href": "https://github.com/lwfinger/rtw88",
+    "about": "A backport of the Realtek Wifi 5 drivers from the wireless-next repo.",
+    "star": "790",
+    "fork": "198",
+    "timestamp": "2025-03-10T02:02:53.912278",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,290",
+    "fork": "2,870",
+    "timestamp": "2025-03-10T02:02:53.912555",
+    "stars_today": "162 stars this month"
+  },
+  {
+    "repo": "microsoft/msquic",
+    "href": "https://github.com/microsoft/msquic",
+    "about": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+    "star": "4,219",
+    "fork": "554",
+    "timestamp": "2025-03-10T02:02:53.912832",
+    "stars_today": "74 stars this month"
+  },
+  {
+    "repo": "i486/VxKex",
+    "href": "https://github.com/i486/VxKex",
+    "about": "Windows 7 API Extensions",
+    "star": "764",
+    "fork": "54",
+    "timestamp": "2025-03-10T02:02:53.913121",
+    "stars_today": "319 stars this month"
+  },
+  {
+    "repo": "DPDK/dpdk",
+    "href": "https://github.com/DPDK/dpdk",
+    "about": "Data Plane Development Kit",
+    "star": "3,565",
+    "fork": "1,278",
+    "timestamp": "2025-03-10T02:02:53.913387",
+    "stars_today": "59 stars this month"
+  },
+  {
+    "repo": "OpenMathLib/OpenBLAS",
+    "href": "https://github.com/OpenMathLib/OpenBLAS",
+    "about": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "star": "6,622",
+    "fork": "1,542",
+    "timestamp": "2025-03-10T02:02:53.913661",
+    "stars_today": "72 stars this month"
+  },
+  {
+    "repo": "haproxy/haproxy",
+    "href": "https://github.com/haproxy/haproxy",
+    "about": "HAProxy Load Balancer's development branch (mirror of git.haproxy.org)",
+    "star": "5,358",
+    "fork": "829",
+    "timestamp": "2025-03-10T02:02:53.913935",
+    "stars_today": "153 stars this month"
+  },
+  {
+    "repo": "arthenica/ffmpeg-kit",
+    "href": "https://github.com/arthenica/ffmpeg-kit",
+    "about": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+    "star": "4,929",
+    "fork": "1,112",
+    "timestamp": "2025-03-10T02:02:53.914222",
+    "stars_today": "143 stars this month"
+  }
+]

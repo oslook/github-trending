@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,001",
+    "fork": "2,298",
+    "timestamp": "2025-03-10T02:03:07.302346",
+    "stars_today": "450 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,691",
+    "fork": "9,743",
+    "timestamp": "2025-03-10T02:03:07.302652",
+    "stars_today": "415 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,649",
+    "fork": "669",
+    "timestamp": "2025-03-10T02:03:07.302934",
+    "stars_today": "423 stars this week"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "30,418",
+    "fork": "4,055",
+    "timestamp": "2025-03-10T02:03:07.303254",
+    "stars_today": "429 stars this week"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,106",
+    "fork": "133",
+    "timestamp": "2025-03-10T02:03:07.303530",
+    "stars_today": "478 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,373",
+    "fork": "5,638",
+    "timestamp": "2025-03-10T02:03:07.303815",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "37,977",
+    "fork": "2,719",
+    "timestamp": "2025-03-10T02:03:07.304132",
+    "stars_today": "497 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "19,259",
+    "fork": "1,010",
+    "timestamp": "2025-03-10T02:03:07.304409",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "475",
+    "fork": "49",
+    "timestamp": "2025-03-10T02:03:07.304693",
+    "stars_today": "142 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "641",
+    "fork": "154",
+    "timestamp": "2025-03-10T02:03:07.304966",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,193",
+    "fork": "1,617",
+    "timestamp": "2025-03-10T02:03:07.305256",
+    "stars_today": "116 stars this week"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,326",
+    "fork": "3,756",
+    "timestamp": "2025-03-10T02:03:07.305534",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,557",
+    "fork": "1,203",
+    "timestamp": "2025-03-10T02:03:07.305805",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,292",
+    "fork": "1,732",
+    "timestamp": "2025-03-10T02:03:07.306118",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "casibase/casibase",
+    "href": "https://github.com/casibase/casibase",
+    "about": "AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
+    "star": "3,169",
+    "fork": "388",
+    "timestamp": "2025-03-10T02:03:07.306401",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "dapr/dapr",
+    "href": "https://github.com/dapr/dapr",
+    "about": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "star": "24,490",
+    "fork": "1,934",
+    "timestamp": "2025-03-10T02:03:07.306678",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,413",
+    "fork": "890",
+    "timestamp": "2025-03-10T02:03:07.306953",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,780",
+    "fork": "855",
+    "timestamp": "2025-03-10T02:03:07.307267",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,564",
+    "fork": "1,118",
+    "timestamp": "2025-03-10T02:03:07.307540",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "9,896",
+    "fork": "659",
+    "timestamp": "2025-03-10T02:03:07.307808",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "15,596",
+    "fork": "2,185",
+    "timestamp": "2025-03-10T02:03:07.308094",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,045",
+    "fork": "3,068",
+    "timestamp": "2025-03-10T02:03:07.308367",
+    "stars_today": "240 stars this week"
+  }
+]
