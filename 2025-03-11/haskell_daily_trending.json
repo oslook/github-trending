@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "fossas/fossa-cli",
+    "href": "https://github.com/fossas/fossa-cli",
+    "about": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
+    "star": "1,341",
+    "fork": "181",
+    "timestamp": "2025-03-11T02:21:15.795911",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,747",
+    "fork": "433",
+    "timestamp": "2025-03-11T02:21:15.796237",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ucsd-progsys/liquid-fixpoint",
+    "href": "https://github.com/ucsd-progsys/liquid-fixpoint",
+    "about": "Horn Clause Constraint Solving for Liquid Types",
+    "star": "144",
+    "fork": "62",
+    "timestamp": "2025-03-11T02:21:15.796537",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,040",
+    "fork": "30",
+    "timestamp": "2025-03-11T02:21:15.796851",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,769",
+    "fork": "378",
+    "timestamp": "2025-03-11T02:21:15.797133",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "unisonweb/unison",
+    "href": "https://github.com/unisonweb/unison",
+    "about": "A friendly programming language from the future",
+    "star": "5,946",
+    "fork": "274",
+    "timestamp": "2025-03-11T02:21:15.797425",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "36,245",
+    "fork": "3,453",
+    "timestamp": "2025-03-11T02:21:15.797735",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "purescript/purescript",
+    "href": "https://github.com/purescript/purescript",
+    "about": "A strongly-typed language that compiles to JavaScript",
+    "star": "8,663",
+    "fork": "566",
+    "timestamp": "2025-03-11T02:21:15.798013",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "goldfirere/th-desugar",
+    "href": "https://github.com/goldfirere/th-desugar",
+    "about": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
+    "star": "20",
+    "fork": "14",
+    "timestamp": "2025-03-11T02:21:15.798292",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "koka-lang/koka",
+    "href": "https://github.com/koka-lang/koka",
+    "about": "Koka language compiler and interpreter",
+    "star": "3,446",
+    "fork": "174",
+    "timestamp": "2025-03-11T02:21:15.798583",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "GaloisInc/flexdis86",
+    "href": "https://github.com/GaloisInc/flexdis86",
+    "about": "A library for disassembling x86-64 binaries.",
+    "star": "39",
+    "fork": "10",
+    "timestamp": "2025-03-11T02:21:15.798861",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "change-metrics/monocle",
+    "href": "https://github.com/change-metrics/monocle",
+    "about": "Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.",
+    "star": "392",
+    "fork": "59",
+    "timestamp": "2025-03-11T02:21:15.799137",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "589",
+    "fork": "68",
+    "timestamp": "2025-03-11T02:21:15.799456",
+    "stars_today": "1 star today"
+  }
+]

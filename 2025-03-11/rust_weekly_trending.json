@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "43,195",
+    "fork": "2,320",
+    "timestamp": "2025-03-11T02:21:43.418554",
+    "stars_today": "8,974 stars this week"
+  },
+  {
+    "repo": "rust-lang/rustup",
+    "href": "https://github.com/rust-lang/rustup",
+    "about": "The Rust toolchain installer",
+    "star": "6,338",
+    "fork": "916",
+    "timestamp": "2025-03-11T02:21:43.418857",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,428",
+    "fork": "1,468",
+    "timestamp": "2025-03-11T02:21:43.419140",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "esp-rs/esp-hal",
+    "href": "https://github.com/esp-rs/esp-hal",
+    "about": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+    "star": "1,033",
+    "fork": "264",
+    "timestamp": "2025-03-11T02:21:43.419436",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "6,746",
+    "fork": "303",
+    "timestamp": "2025-03-11T02:21:43.419746",
+    "stars_today": "271 stars this week"
+  },
+  {
+    "repo": "lumina-ai-inc/chunkr",
+    "href": "https://github.com/lumina-ai-inc/chunkr",
+    "about": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+    "star": "1,933",
+    "fork": "106",
+    "timestamp": "2025-03-11T02:21:43.420027",
+    "stars_today": "231 stars this week"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "5,896",
+    "fork": "1,109",
+    "timestamp": "2025-03-11T02:21:43.420307",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,385",
+    "fork": "1,532",
+    "timestamp": "2025-03-11T02:21:43.420631",
+    "stars_today": "176 stars this week"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "36,667",
+    "fork": "6,537",
+    "timestamp": "2025-03-11T02:21:43.420940",
+    "stars_today": "667 stars this week"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "27,229",
+    "fork": "1,891",
+    "timestamp": "2025-03-11T02:21:43.421218",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "cube-js/cube",
+    "href": "https://github.com/cube-js/cube",
+    "about": "📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics",
+    "star": "18,323",
+    "fork": "1,811",
+    "timestamp": "2025-03-11T02:21:43.421511",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "17,545",
+    "fork": "542",
+    "timestamp": "2025-03-11T02:21:43.421827",
+    "stars_today": "209 stars this week"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "16,487",
+    "fork": "507",
+    "timestamp": "2025-03-11T02:21:43.422141",
+    "stars_today": "163 stars this week"
+  },
+  {
+    "repo": "quickwit-oss/tantivy",
+    "href": "https://github.com/quickwit-oss/tantivy",
+    "about": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "star": "12,821",
+    "fork": "728",
+    "timestamp": "2025-03-11T02:21:43.422441",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "AI-native (edge and LLM) proxy for agents. Move faster by letting Arch handle the pesky heavy lifting in building agentic apps -- ⚡️ query understanding and routing, seamless integration of prompts with tools, and unified access and observability of LLMs. Built by the contributors of Envoy proxy.",
+    "star": "1,951",
+    "fork": "96",
+    "timestamp": "2025-03-11T02:21:43.422727",
+    "stars_today": "201 stars this week"
+  },
+  {
+    "repo": "rust-lang/cargo",
+    "href": "https://github.com/rust-lang/cargo",
+    "about": "The Rust package manager",
+    "star": "13,265",
+    "fork": "2,515",
+    "timestamp": "2025-03-11T02:21:43.423007",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,292",
+    "fork": "2,112",
+    "timestamp": "2025-03-11T02:21:43.423288",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "tauri-apps/plugins-workspace",
+    "href": "https://github.com/tauri-apps/plugins-workspace",
+    "about": "All of the official Tauri plugins in one place!",
+    "star": "1,152",
+    "fork": "339",
+    "timestamp": "2025-03-11T02:21:43.423612",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "EricLBuehler/mistral.rs",
+    "href": "https://github.com/EricLBuehler/mistral.rs",
+    "about": "Blazingly fast LLM inference.",
+    "star": "5,201",
+    "fork": "372",
+    "timestamp": "2025-03-11T02:21:43.423891",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "prefix-dev/pixi",
+    "href": "https://github.com/prefix-dev/pixi",
+    "about": "Package management made easy",
+    "star": "3,983",
+    "fork": "232",
+    "timestamp": "2025-03-11T02:21:43.424170",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "Spotifyd/spotifyd",
+    "href": "https://github.com/Spotifyd/spotifyd",
+    "about": "A spotify daemon",
+    "star": "10,073",
+    "fork": "462",
+    "timestamp": "2025-03-11T02:21:43.424462",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "tensorzero/tensorzero",
+    "href": "https://github.com/tensorzero/tensorzero",
+    "about": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+    "star": "2,925",
+    "fork": "179",
+    "timestamp": "2025-03-11T02:21:43.424743",
+    "stars_today": "138 stars this week"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "49,695",
+    "fork": "1,948",
+    "timestamp": "2025-03-11T02:21:43.425022",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "spaceandtimelabs/sxt-proof-of-sql",
+    "href": "https://github.com/spaceandtimelabs/sxt-proof-of-sql",
+    "about": "Space and Time | Proof of SQL",
+    "star": "5,551",
+    "fork": "225",
+    "timestamp": "2025-03-11T02:21:43.425301",
+    "stars_today": "105 stars this week"
+  }
+]

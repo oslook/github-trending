@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,770",
+    "fork": "673",
+    "timestamp": "2025-03-11T02:21:15.598355",
+    "stars_today": "578 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,005",
+    "fork": "2,298",
+    "timestamp": "2025-03-11T02:21:15.598652",
+    "stars_today": "447 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,700",
+    "fork": "9,742",
+    "timestamp": "2025-03-11T02:21:15.598932",
+    "stars_today": "410 stars this week"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,137",
+    "fork": "134",
+    "timestamp": "2025-03-11T02:21:15.599214",
+    "stars_today": "488 stars this week"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "30,434",
+    "fork": "4,055",
+    "timestamp": "2025-03-11T02:21:15.599533",
+    "stars_today": "433 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "19,264",
+    "fork": "1,010",
+    "timestamp": "2025-03-11T02:21:15.599811",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "9,904",
+    "fork": "659",
+    "timestamp": "2025-03-11T02:21:15.600083",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,377",
+    "fork": "5,640",
+    "timestamp": "2025-03-11T02:21:15.600370",
+    "stars_today": "162 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,084",
+    "fork": "3,073",
+    "timestamp": "2025-03-11T02:21:15.600645",
+    "stars_today": "232 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "38,013",
+    "fork": "2,722",
+    "timestamp": "2025-03-11T02:21:15.600948",
+    "stars_today": "516 stars this week"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "15,600",
+    "fork": "2,185",
+    "timestamp": "2025-03-11T02:21:15.601222",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,557",
+    "fork": "2,145",
+    "timestamp": "2025-03-11T02:21:15.601507",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,160",
+    "fork": "807",
+    "timestamp": "2025-03-11T02:21:15.601778",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "516",
+    "fork": "51",
+    "timestamp": "2025-03-11T02:21:15.602047",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,786",
+    "fork": "854",
+    "timestamp": "2025-03-11T02:21:15.602357",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,560",
+    "fork": "1,203",
+    "timestamp": "2025-03-11T02:21:15.602631",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,199",
+    "fork": "1,618",
+    "timestamp": "2025-03-11T02:21:15.602902",
+    "stars_today": "116 stars this week"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "27,992",
+    "fork": "2,033",
+    "timestamp": "2025-03-11T02:21:15.603201",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,330",
+    "fork": "3,755",
+    "timestamp": "2025-03-11T02:21:15.603484",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "star": "22,552",
+    "fork": "3,496",
+    "timestamp": "2025-03-11T02:21:15.603758",
+    "stars_today": "114 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,422",
+    "fork": "890",
+    "timestamp": "2025-03-11T02:21:15.604031",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "16,396",
+    "fork": "639",
+    "timestamp": "2025-03-11T02:21:15.604302",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "30,604",
+    "fork": "2,257",
+    "timestamp": "2025-03-11T02:21:15.604672",
+    "stars_today": "63 stars this week"
+  }
+]

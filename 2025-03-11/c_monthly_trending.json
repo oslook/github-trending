@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "19,384",
+    "fork": "743",
+    "timestamp": "2025-03-11T02:21:01.655084",
+    "stars_today": "648 stars this month"
+  },
+  {
+    "repo": "asg017/sqlite-vec",
+    "href": "https://github.com/asg017/sqlite-vec",
+    "about": "A vector search SQLite extension that runs anywhere!",
+    "star": "5,219",
+    "fork": "192",
+    "timestamp": "2025-03-11T02:21:01.655427",
+    "stars_today": "402 stars this month"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables. Put it on, speak, transcribe, automatically",
+    "star": "4,371",
+    "fork": "648",
+    "timestamp": "2025-03-11T02:21:01.655740",
+    "stars_today": "255 stars this month"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,784",
+    "fork": "736",
+    "timestamp": "2025-03-11T02:21:01.656020",
+    "stars_today": "108 stars this month"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,894",
+    "fork": "10,385",
+    "timestamp": "2025-03-11T02:21:01.656342",
+    "stars_today": "338 stars this month"
+  },
+  {
+    "repo": "ventoy/Ventoy",
+    "href": "https://github.com/ventoy/Ventoy",
+    "about": "A new bootable USB solution.",
+    "star": "65,362",
+    "fork": "4,202",
+    "timestamp": "2025-03-11T02:21:01.656626",
+    "stars_today": "876 stars this month"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,799",
+    "fork": "457",
+    "timestamp": "2025-03-11T02:21:01.656904",
+    "stars_today": "223 stars this month"
+  },
+  {
+    "repo": "i486/VxKex",
+    "href": "https://github.com/i486/VxKex",
+    "about": "Windows 7 API Extensions",
+    "star": "770",
+    "fork": "54",
+    "timestamp": "2025-03-11T02:21:01.657183",
+    "stars_today": "324 stars this month"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,778",
+    "fork": "1,219",
+    "timestamp": "2025-03-11T02:21:01.657471",
+    "stars_today": "67 stars this month"
+  },
+  {
+    "repo": "pygame/pygame",
+    "href": "https://github.com/pygame/pygame",
+    "about": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+    "star": "7,856",
+    "fork": "3,546",
+    "timestamp": "2025-03-11T02:21:01.657752",
+    "stars_today": "134 stars this month"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "14,515",
+    "fork": "695",
+    "timestamp": "2025-03-11T02:21:01.658031",
+    "stars_today": "582 stars this month"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+    "star": "13,043",
+    "fork": "1,403",
+    "timestamp": "2025-03-11T02:21:01.658376",
+    "stars_today": "297 stars this month"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "star": "68,282",
+    "fork": "23,923",
+    "timestamp": "2025-03-11T02:21:01.658657",
+    "stars_today": "425 stars this month"
+  },
+  {
+    "repo": "espressif/esp-sr",
+    "href": "https://github.com/espressif/esp-sr",
+    "about": "Speech recognition",
+    "star": "773",
+    "fork": "123",
+    "timestamp": "2025-03-11T02:21:01.658932",
+    "stars_today": "86 stars this month"
+  },
+  {
+    "repo": "FreeRDP/FreeRDP",
+    "href": "https://github.com/FreeRDP/FreeRDP",
+    "about": "FreeRDP is a free remote desktop protocol library and clients",
+    "star": "11,464",
+    "fork": "15,023",
+    "timestamp": "2025-03-11T02:21:01.659208",
+    "stars_today": "275 stars this month"
+  },
+  {
+    "repo": "lwfinger/rtw88",
+    "href": "https://github.com/lwfinger/rtw88",
+    "about": "A backport of the Realtek Wifi 5 drivers from the wireless-next repo.",
+    "star": "791",
+    "fork": "198",
+    "timestamp": "2025-03-11T02:21:01.659496",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "DPDK/dpdk",
+    "href": "https://github.com/DPDK/dpdk",
+    "about": "Data Plane Development Kit",
+    "star": "3,568",
+    "fork": "1,278",
+    "timestamp": "2025-03-11T02:21:01.659769",
+    "stars_today": "61 stars this month"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "37,144",
+    "fork": "6,606",
+    "timestamp": "2025-03-11T02:21:01.660070",
+    "stars_today": "443 stars this month"
+  },
+  {
+    "repo": "microsoft/msquic",
+    "href": "https://github.com/microsoft/msquic",
+    "about": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+    "star": "4,221",
+    "fork": "554",
+    "timestamp": "2025-03-11T02:21:01.660356",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "netdata/netdata",
+    "href": "https://github.com/netdata/netdata",
+    "about": "X-Ray Vision for your infrastructure!",
+    "star": "73,723",
+    "fork": "6,022",
+    "timestamp": "2025-03-11T02:21:01.660633",
+    "stars_today": "611 stars this month"
+  }
+]
