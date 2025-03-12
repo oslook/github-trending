@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,853",
+    "fork": "673",
+    "timestamp": "2025-03-12T02:20:06.297515",
+    "stars_today": "644 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,012",
+    "fork": "2,300",
+    "timestamp": "2025-03-12T02:20:06.297815",
+    "stars_today": "442 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,711",
+    "fork": "9,743",
+    "timestamp": "2025-03-12T02:20:06.298097",
+    "stars_today": "372 stars this week"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,162",
+    "fork": "138",
+    "timestamp": "2025-03-12T02:20:06.298374",
+    "stars_today": "464 stars this week"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "30,440",
+    "fork": "4,059",
+    "timestamp": "2025-03-12T02:20:06.298695",
+    "stars_today": "225 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,382",
+    "fork": "5,641",
+    "timestamp": "2025-03-12T02:20:06.298973",
+    "stars_today": "152 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,879",
+    "fork": "1,181",
+    "timestamp": "2025-03-12T02:20:06.299250",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "9,922",
+    "fork": "659",
+    "timestamp": "2025-03-12T02:20:06.299540",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,996",
+    "fork": "3,525",
+    "timestamp": "2025-03-12T02:20:06.299826",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "38,047",
+    "fork": "2,724",
+    "timestamp": "2025-03-12T02:20:06.300129",
+    "stars_today": "505 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "19,277",
+    "fork": "1,010",
+    "timestamp": "2025-03-12T02:20:06.300402",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "5,601",
+    "fork": "969",
+    "timestamp": "2025-03-12T02:20:06.300690",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,795",
+    "fork": "853",
+    "timestamp": "2025-03-12T02:20:06.300993",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,163",
+    "fork": "811",
+    "timestamp": "2025-03-12T02:20:06.301272",
+    "stars_today": "83 stars this week"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "16,401",
+    "fork": "641",
+    "timestamp": "2025-03-12T02:20:06.301559",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "656",
+    "fork": "156",
+    "timestamp": "2025-03-12T02:20:06.301836",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "550",
+    "fork": "54",
+    "timestamp": "2025-03-12T02:20:06.302109",
+    "stars_today": "201 stars this week"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,207",
+    "fork": "1,618",
+    "timestamp": "2025-03-12T02:20:06.302385",
+    "stars_today": "114 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,121",
+    "fork": "3,079",
+    "timestamp": "2025-03-12T02:20:06.302675",
+    "stars_today": "244 stars this week"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "star": "22,560",
+    "fork": "3,496",
+    "timestamp": "2025-03-12T02:20:06.302950",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "27,997",
+    "fork": "2,033",
+    "timestamp": "2025-03-12T02:20:06.303251",
+    "stars_today": "60 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,426",
+    "fork": "890",
+    "timestamp": "2025-03-12T02:20:06.303542",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "dapr/dapr",
+    "href": "https://github.com/dapr/dapr",
+    "about": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "star": "24,499",
+    "fork": "1,935",
+    "timestamp": "2025-03-12T02:20:06.303815",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "11,631",
+    "fork": "411",
+    "timestamp": "2025-03-12T02:20:06.304115",
+    "stars_today": "433 stars this week"
+  }
+]

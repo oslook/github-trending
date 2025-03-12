@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "120,998",
+    "fork": "24,550",
+    "timestamp": "2025-03-12T02:19:49.604655",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "bytedance/flux",
+    "href": "https://github.com/bytedance/flux",
+    "about": "A fast communication-overlapping library for tensor/expert parallelism on GPUs.",
+    "star": "545",
+    "fork": "39",
+    "timestamp": "2025-03-12T02:19:49.604953",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "telegramdesktop/tdesktop",
+    "href": "https://github.com/telegramdesktop/tdesktop",
+    "about": "Telegram Desktop messaging app",
+    "star": "27,114",
+    "fork": "5,417",
+    "timestamp": "2025-03-12T02:19:49.605240",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "lich0821/WeChatFerry",
+    "href": "https://github.com/lich0821/WeChatFerry",
+    "about": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
+    "star": "5,575",
+    "fork": "1,135",
+    "timestamp": "2025-03-12T02:19:49.605538",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "cdozdil/OptiScaler",
+    "href": "https://github.com/cdozdil/OptiScaler",
+    "about": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+    "star": "1,512",
+    "fork": "40",
+    "timestamp": "2025-03-12T02:19:49.605816",
+    "stars_today": "206 stars today"
+  },
+  {
+    "repo": "ashishps1/awesome-low-level-design",
+    "href": "https://github.com/ashishps1/awesome-low-level-design",
+    "about": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+    "star": "12,332",
+    "fork": "3,001",
+    "timestamp": "2025-03-12T02:19:49.606096",
+    "stars_today": "54 stars today"
+  },
+  {
+    "repo": "thomasxm/BOAZ_beta",
+    "href": "https://github.com/thomasxm/BOAZ_beta",
+    "about": "Multilayered AV/EDR Evasion Framework",
+    "star": "499",
+    "fork": "91",
+    "timestamp": "2025-03-12T02:19:49.606375",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,583",
+    "fork": "10,301",
+    "timestamp": "2025-03-12T02:19:49.606659",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "PaddlePaddle/Paddle",
+    "href": "https://github.com/PaddlePaddle/Paddle",
+    "about": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "star": "22,560",
+    "fork": "5,682",
+    "timestamp": "2025-03-12T02:19:49.606938",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "33,572",
+    "fork": "3,786",
+    "timestamp": "2025-03-12T02:19:49.607215",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "ApolloAuto/apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "about": "An open autonomous driving platform",
+    "star": "25,563",
+    "fork": "9,767",
+    "timestamp": "2025-03-12T02:19:49.607502",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tdlib/td",
+    "href": "https://github.com/tdlib/td",
+    "about": "Cross-platform library for building Telegram clients",
+    "star": "7,479",
+    "fork": "1,545",
+    "timestamp": "2025-03-12T02:19:49.607777",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "UZ-SLAMLab/ORB_SLAM3",
+    "href": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+    "about": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+    "star": "6,993",
+    "fork": "2,663",
+    "timestamp": "2025-03-12T02:19:49.608052",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Neargye/magic_enum",
+    "href": "https://github.com/Neargye/magic_enum",
+    "about": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+    "star": "5,232",
+    "fork": "464",
+    "timestamp": "2025-03-12T02:19:49.608327",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "star": "9,673",
+    "fork": "1,147",
+    "timestamp": "2025-03-12T02:19:49.608616",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "mavlink/qgroundcontrol",
+    "href": "https://github.com/mavlink/qgroundcontrol",
+    "about": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+    "star": "3,545",
+    "fork": "3,868",
+    "timestamp": "2025-03-12T02:19:49.608895",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "project-chip/connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "about": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "star": "7,767",
+    "fork": "2,132",
+    "timestamp": "2025-03-12T02:19:49.609175",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "epezent/implot",
+    "href": "https://github.com/epezent/implot",
+    "about": "Immediate Mode Plotting",
+    "star": "5,140",
+    "fork": "563",
+    "timestamp": "2025-03-12T02:19:49.609474",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "11,918",
+    "fork": "1,781",
+    "timestamp": "2025-03-12T02:19:49.609752",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "8,450",
+    "fork": "1,479",
+    "timestamp": "2025-03-12T02:19:49.610027",
+    "stars_today": "200 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "13,852",
+    "fork": "2,381",
+    "timestamp": "2025-03-12T02:19:49.610302",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "google/leveldb",
+    "href": "https://github.com/google/leveldb",
+    "about": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "star": "37,225",
+    "fork": "7,944",
+    "timestamp": "2025-03-12T02:19:49.610588",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "44,700",
+    "fork": "6,895",
+    "timestamp": "2025-03-12T02:19:49.610888",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "iree-org/iree",
+    "href": "https://github.com/iree-org/iree",
+    "about": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+    "star": "3,038",
+    "fork": "671",
+    "timestamp": "2025-03-12T02:19:49.611163",
+    "stars_today": "4 stars today"
+  }
+]

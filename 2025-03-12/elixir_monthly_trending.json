@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "electric-sql/electric",
+    "href": "https://github.com/electric-sql/electric",
+    "about": "Realtime sync for Postgres.",
+    "star": "7,812",
+    "fork": "208",
+    "timestamp": "2025-03-12T02:20:03.073179",
+    "stars_today": "437 stars this month"
+  },
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "21,800",
+    "fork": "2,917",
+    "timestamp": "2025-03-12T02:20:03.073485",
+    "stars_today": "111 stars this month"
+  },
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "21,688",
+    "fork": "1,159",
+    "timestamp": "2025-03-12T02:20:03.073796",
+    "stars_today": "308 stars this month"
+  },
+  {
+    "repo": "teslamate-org/teslamate",
+    "href": "https://github.com/teslamate-org/teslamate",
+    "about": "A self-hosted data logger for your Tesla 🚘",
+    "star": "6,471",
+    "fork": "781",
+    "timestamp": "2025-03-12T02:20:03.074075",
+    "stars_today": "167 stars this month"
+  },
+  {
+    "repo": "livebook-dev/livebook",
+    "href": "https://github.com/livebook-dev/livebook",
+    "about": "Automate code & data workflows with interactive Elixir notebooks",
+    "star": "5,215",
+    "fork": "454",
+    "timestamp": "2025-03-12T02:20:03.074351",
+    "stars_today": "67 stars this month"
+  },
+  {
+    "repo": "duffelhq/paginator",
+    "href": "https://github.com/duffelhq/paginator",
+    "about": "Cursor-based pagination for Elixir Ecto",
+    "star": "782",
+    "fork": "93",
+    "timestamp": "2025-03-12T02:20:03.074655",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "software-mansion/live-debugger",
+    "href": "https://github.com/software-mansion/live-debugger",
+    "about": "Tool for debugging LiveView applications.",
+    "star": "306",
+    "fork": "7",
+    "timestamp": "2025-03-12T02:20:03.074958",
+    "stars_today": "201 stars this month"
+  },
+  {
+    "repo": "elixir-lsp/elixir_sense",
+    "href": "https://github.com/elixir-lsp/elixir_sense",
+    "about": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+    "star": "314",
+    "fork": "41",
+    "timestamp": "2025-03-12T02:20:03.075253",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "24,959",
+    "fork": "3,418",
+    "timestamp": "2025-03-12T02:20:03.075538",
+    "stars_today": "148 stars this month"
+  },
+  {
+    "repo": "elixir-lsp/elixir-ls",
+    "href": "https://github.com/elixir-lsp/elixir-ls",
+    "about": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "star": "1,570",
+    "fork": "209",
+    "timestamp": "2025-03-12T02:20:03.075836",
+    "stars_today": "20 stars this month"
+  },
+  {
+    "repo": "ntrepid8/ex_crypto",
+    "href": "https://github.com/ntrepid8/ex_crypto",
+    "about": "Wrapper around the Erlang crypto module for Elixir.",
+    "star": "154",
+    "fork": "50",
+    "timestamp": "2025-03-12T02:20:03.076108",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "elixir-ecto/ecto",
+    "href": "https://github.com/elixir-ecto/ecto",
+    "about": "A toolkit for data mapping and language integrated query.",
+    "star": "6,255",
+    "fork": "1,434",
+    "timestamp": "2025-03-12T02:20:03.076379",
+    "stars_today": "22 stars this month"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,409",
+    "fork": "964",
+    "timestamp": "2025-03-12T02:20:03.076709",
+    "stars_today": "35 stars this month"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "6,960",
+    "fork": "332",
+    "timestamp": "2025-03-12T02:20:03.077012",
+    "stars_today": "54 stars this month"
+  },
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "3,854",
+    "fork": "2,621",
+    "timestamp": "2025-03-12T02:20:03.077313",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "valpackett/httpotion",
+    "href": "https://github.com/valpackett/httpotion",
+    "about": "[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)",
+    "star": "725",
+    "fork": "100",
+    "timestamp": "2025-03-12T02:20:03.077630",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "firezone/firezone",
+    "href": "https://github.com/firezone/firezone",
+    "about": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "star": "7,085",
+    "fork": "295",
+    "timestamp": "2025-03-12T02:20:03.077905",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "elixir-grpc/grpc",
+    "href": "https://github.com/elixir-grpc/grpc",
+    "about": "An Elixir implementation of gRPC",
+    "star": "1,423",
+    "fork": "219",
+    "timestamp": "2025-03-12T02:20:03.078178",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "oban-bg/oban",
+    "href": "https://github.com/oban-bg/oban",
+    "about": "💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL",
+    "star": "3,477",
+    "fork": "324",
+    "timestamp": "2025-03-12T02:20:03.078462",
+    "stars_today": "24 stars this month"
+  }
+]

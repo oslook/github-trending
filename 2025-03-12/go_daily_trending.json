@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,942",
+    "fork": "4,296",
+    "timestamp": "2025-03-12T02:20:05.680594",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,612",
+    "fork": "9,907",
+    "timestamp": "2025-03-12T02:20:05.680884",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,027",
+    "fork": "576",
+    "timestamp": "2025-03-12T02:20:05.681165",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "10,608",
+    "fork": "477",
+    "timestamp": "2025-03-12T02:20:05.681454",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,328",
+    "fork": "604",
+    "timestamp": "2025-03-12T02:20:05.681736",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "13,580",
+    "fork": "420",
+    "timestamp": "2025-03-12T02:20:05.682020",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,853",
+    "fork": "673",
+    "timestamp": "2025-03-12T02:20:05.682296",
+    "stars_today": "83 stars today"
+  },
+  {
+    "repo": "projectdiscovery/httpx",
+    "href": "https://github.com/projectdiscovery/httpx",
+    "about": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+    "star": "8,212",
+    "fork": "879",
+    "timestamp": "2025-03-12T02:20:05.682583",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,613",
+    "fork": "40,399",
+    "timestamp": "2025-03-12T02:20:05.682856",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "TykTechnologies/tyk",
+    "href": "https://github.com/TykTechnologies/tyk",
+    "about": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+    "star": "9,939",
+    "fork": "1,107",
+    "timestamp": "2025-03-12T02:20:05.683128",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "8,435",
+    "fork": "612",
+    "timestamp": "2025-03-12T02:20:05.683399",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "href": "https://github.com/jaegertracing/jaeger",
+    "about": "CNCF Jaeger, a Distributed Tracing Platform",
+    "star": "21,033",
+    "fork": "2,544",
+    "timestamp": "2025-03-12T02:20:05.683685",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "656",
+    "fork": "156",
+    "timestamp": "2025-03-12T02:20:05.683959",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,930",
+    "fork": "1,565",
+    "timestamp": "2025-03-12T02:20:05.684232",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gophish/gophish",
+    "href": "https://github.com/gophish/gophish",
+    "about": "Open-Source Phishing Toolkit",
+    "star": "12,287",
+    "fork": "2,475",
+    "timestamp": "2025-03-12T02:20:05.684522",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "getsops/sops",
+    "href": "https://github.com/getsops/sops",
+    "about": "Simple and flexible tool for managing secrets",
+    "star": "17,943",
+    "fork": "913",
+    "timestamp": "2025-03-12T02:20:05.684802",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "testcontainers/testcontainers-go",
+    "href": "https://github.com/testcontainers/testcontainers-go",
+    "about": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+    "star": "3,895",
+    "fork": "525",
+    "timestamp": "2025-03-12T02:20:05.685103",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "GoogleContainerTools/kaniko",
+    "href": "https://github.com/GoogleContainerTools/kaniko",
+    "about": "Build Container Images In Kubernetes",
+    "star": "15,295",
+    "fork": "1,453",
+    "timestamp": "2025-03-12T02:20:05.685375",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "href": "https://github.com/jmoiron/sqlx",
+    "about": "general purpose extensions to golang's database/sql",
+    "star": "16,703",
+    "fork": "1,096",
+    "timestamp": "2025-03-12T02:20:05.685667",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,245",
+    "fork": "1,716",
+    "timestamp": "2025-03-12T02:20:05.685942",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "bytedance/sonic",
+    "href": "https://github.com/bytedance/sonic",
+    "about": "A blazingly fast JSON serializing & deserializing library",
+    "star": "7,649",
+    "fork": "371",
+    "timestamp": "2025-03-12T02:20:05.686215",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "6,124",
+    "fork": "966",
+    "timestamp": "2025-03-12T02:20:05.686501",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,520",
+    "fork": "4,454",
+    "timestamp": "2025-03-12T02:20:05.686775",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "21,648",
+    "fork": "432",
+    "timestamp": "2025-03-12T02:20:05.687073",
+    "stars_today": "25 stars today"
+  }
+]
