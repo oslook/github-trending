@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "12,921",
+    "fork": "675",
+    "timestamp": "2025-03-13T02:21:44.693315",
+    "stars_today": "704 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,015",
+    "fork": "2,301",
+    "timestamp": "2025-03-13T02:21:44.693614",
+    "stars_today": "410 stars this week"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,189",
+    "fork": "138",
+    "timestamp": "2025-03-13T02:21:44.693894",
+    "stars_today": "436 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,158",
+    "fork": "3,082",
+    "timestamp": "2025-03-13T02:21:44.694181",
+    "stars_today": "244 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,723",
+    "fork": "9,746",
+    "timestamp": "2025-03-13T02:21:44.694461",
+    "stars_today": "280 stars this week"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "30,449",
+    "fork": "4,059",
+    "timestamp": "2025-03-13T02:21:44.694763",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,392",
+    "fork": "18,710",
+    "timestamp": "2025-03-13T02:21:44.695034",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "9,945",
+    "fork": "660",
+    "timestamp": "2025-03-13T02:21:44.695318",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,172",
+    "fork": "813",
+    "timestamp": "2025-03-13T02:21:44.695590",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,390",
+    "fork": "5,641",
+    "timestamp": "2025-03-13T02:21:44.695860",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,297",
+    "fork": "771",
+    "timestamp": "2025-03-13T02:21:44.696132",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "5,602",
+    "fork": "967",
+    "timestamp": "2025-03-13T02:21:44.696416",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "670",
+    "fork": "159",
+    "timestamp": "2025-03-13T02:21:44.696693",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,635",
+    "fork": "40,404",
+    "timestamp": "2025-03-13T02:21:44.696968",
+    "stars_today": "205 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "574",
+    "fork": "55",
+    "timestamp": "2025-03-13T02:21:44.697253",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "26,968",
+    "fork": "1,315",
+    "timestamp": "2025-03-13T02:21:44.697527",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-plugin-daemon",
+    "href": "https://github.com/langgenius/dify-plugin-daemon",
+    "about": "",
+    "star": "80",
+    "fork": "55",
+    "timestamp": "2025-03-13T02:21:44.697819",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "38,076",
+    "fork": "2,726",
+    "timestamp": "2025-03-13T02:21:44.698120",
+    "stars_today": "364 stars this week"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,213",
+    "fork": "1,619",
+    "timestamp": "2025-03-13T02:21:44.698404",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "star": "22,571",
+    "fork": "3,499",
+    "timestamp": "2025-03-13T02:21:44.698679",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,569",
+    "fork": "2,148",
+    "timestamp": "2025-03-13T02:21:44.698960",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "19,282",
+    "fork": "1,010",
+    "timestamp": "2025-03-13T02:21:44.699244",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "daeuniverse/dae",
+    "href": "https://github.com/daeuniverse/dae",
+    "about": "eBPF-based Linux high-performance transparent proxy solution.",
+    "star": "3,804",
+    "fork": "239",
+    "timestamp": "2025-03-13T02:21:44.699516",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "5,999",
+    "fork": "3,526",
+    "timestamp": "2025-03-13T02:21:44.699789",
+    "stars_today": "13 stars this week"
+  }
+]

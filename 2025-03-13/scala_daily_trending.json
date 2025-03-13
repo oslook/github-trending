@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,331",
+    "fork": "2,353",
+    "timestamp": "2025-03-13T02:22:03.577419",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "62,987",
+    "fork": "12,163",
+    "timestamp": "2025-03-13T02:22:03.577757",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,156",
+    "fork": "938",
+    "timestamp": "2025-03-13T02:22:03.578030",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,867",
+    "fork": "1,794",
+    "timestamp": "2025-03-13T02:22:03.578324",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,719",
+    "fork": "28,541",
+    "timestamp": "2025-03-13T02:22:03.578602",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,934",
+    "fork": "2,818",
+    "timestamp": "2025-03-13T02:22:03.578881",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,178",
+    "fork": "746",
+    "timestamp": "2025-03-13T02:22:03.579158",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,289",
+    "fork": "466",
+    "timestamp": "2025-03-13T02:22:03.579449",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,374",
+    "fork": "552",
+    "timestamp": "2025-03-13T02:22:03.579727",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,565",
+    "fork": "1,203",
+    "timestamp": "2025-03-13T02:22:03.580001",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,363",
+    "fork": "552",
+    "timestamp": "2025-03-13T02:22:03.580373",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "904",
+    "fork": "606",
+    "timestamp": "2025-03-13T02:22:03.580654",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,573",
+    "fork": "640",
+    "timestamp": "2025-03-13T02:22:03.580925",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ghostdogpr/caliban",
+    "href": "https://github.com/ghostdogpr/caliban",
+    "about": "Functional GraphQL library for Scala",
+    "star": "952",
+    "fork": "251",
+    "timestamp": "2025-03-13T02:22:03.581238",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "481",
+    "fork": "149",
+    "timestamp": "2025-03-13T02:22:03.581512",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,361",
+    "fork": "3,112",
+    "timestamp": "2025-03-13T02:22:03.581795",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,377",
+    "fork": "1,152",
+    "timestamp": "2025-03-13T02:22:03.582067",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "813",
+    "fork": "186",
+    "timestamp": "2025-03-13T02:22:03.582349",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "870",
+    "fork": "245",
+    "timestamp": "2025-03-13T02:22:03.582627",
+    "stars_today": "0 stars today"
+  }
+]
