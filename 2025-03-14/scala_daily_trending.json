@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,725",
+    "fork": "28,543",
+    "timestamp": "2025-03-14T02:20:29.189554",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,869",
+    "fork": "1,795",
+    "timestamp": "2025-03-14T02:20:29.189860",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,333",
+    "fork": "2,352",
+    "timestamp": "2025-03-14T02:20:29.190144",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,183",
+    "fork": "746",
+    "timestamp": "2025-03-14T02:20:29.190448",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,290",
+    "fork": "467",
+    "timestamp": "2025-03-14T02:20:29.190728",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "870",
+    "fork": "245",
+    "timestamp": "2025-03-14T02:20:29.191005",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,570",
+    "fork": "1,204",
+    "timestamp": "2025-03-14T02:20:29.191306",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,827",
+    "fork": "948",
+    "timestamp": "2025-03-14T02:20:29.191587",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,560",
+    "fork": "4,099",
+    "timestamp": "2025-03-14T02:20:29.191887",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,956",
+    "fork": "1,083",
+    "timestamp": "2025-03-14T02:20:29.192161",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,216",
+    "fork": "1,254",
+    "timestamp": "2025-03-14T02:20:29.192465",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,375",
+    "fork": "552",
+    "timestamp": "2025-03-14T02:20:29.192738",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "904",
+    "fork": "606",
+    "timestamp": "2025-03-14T02:20:29.193009",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,780",
+    "fork": "682",
+    "timestamp": "2025-03-14T02:20:29.193294",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "813",
+    "fork": "186",
+    "timestamp": "2025-03-14T02:20:29.193566",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,575",
+    "fork": "641",
+    "timestamp": "2025-03-14T02:20:29.193835",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/SynapseML",
+    "href": "https://github.com/microsoft/SynapseML",
+    "about": "Simple and Distributed Machine Learning",
+    "star": "5,109",
+    "fork": "844",
+    "timestamp": "2025-03-14T02:20:29.194106",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "softwaremill/elasticmq",
+    "href": "https://github.com/softwaremill/elasticmq",
+    "about": "In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.",
+    "star": "2,613",
+    "fork": "198",
+    "timestamp": "2025-03-14T02:20:29.194388",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,092",
+    "fork": "537",
+    "timestamp": "2025-03-14T02:20:29.194657",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,378",
+    "fork": "1,152",
+    "timestamp": "2025-03-14T02:20:29.194929",
+    "stars_today": "2 stars today"
+  }
+]

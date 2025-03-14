@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "12,065",
+    "fork": "421",
+    "timestamp": "2025-03-14T02:20:04.009466",
+    "stars_today": "304 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "25,060",
+    "fork": "4,834",
+    "timestamp": "2025-03-14T02:20:04.009771",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,562",
+    "fork": "488",
+    "timestamp": "2025-03-14T02:20:04.010053",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "31,960",
+    "fork": "4,301",
+    "timestamp": "2025-03-14T02:20:04.010386",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,269",
+    "fork": "1,719",
+    "timestamp": "2025-03-14T02:20:04.010667",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,417",
+    "fork": "17,939",
+    "timestamp": "2025-03-14T02:20:04.010941",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,284",
+    "fork": "619",
+    "timestamp": "2025-03-14T02:20:04.011220",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "36,573",
+    "fork": "7,888",
+    "timestamp": "2025-03-14T02:20:04.011578",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "13,398",
+    "fork": "1,315",
+    "timestamp": "2025-03-14T02:20:04.011863",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,760",
+    "fork": "8,129",
+    "timestamp": "2025-03-14T02:20:04.012139",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "24,992",
+    "fork": "2,458",
+    "timestamp": "2025-03-14T02:20:04.012453",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,530",
+    "fork": "4,455",
+    "timestamp": "2025-03-14T02:20:04.012737",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "goravel/goravel",
+    "href": "https://github.com/goravel/goravel",
+    "about": "A Golang framework for web artisans. Tribute to Laravel.",
+    "star": "3,465",
+    "fork": "216",
+    "timestamp": "2025-03-14T02:20:04.013022",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,581",
+    "fork": "7,204",
+    "timestamp": "2025-03-14T02:20:04.013312",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "675",
+    "fork": "160",
+    "timestamp": "2025-03-14T02:20:04.013593",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "href": "https://github.com/vmware-tanzu/velero",
+    "about": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "star": "9,046",
+    "fork": "1,431",
+    "timestamp": "2025-03-14T02:20:04.013877",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "DataDog/dd-trace-go",
+    "href": "https://github.com/DataDog/dd-trace-go",
+    "about": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
+    "star": "723",
+    "fork": "450",
+    "timestamp": "2025-03-14T02:20:04.014154",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "langgenius/dify-plugin-daemon",
+    "href": "https://github.com/langgenius/dify-plugin-daemon",
+    "about": "",
+    "star": "84",
+    "fork": "57",
+    "timestamp": "2025-03-14T02:20:04.014460",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "dstotijn/hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "about": "An HTTP toolkit for security research.",
+    "star": "6,604",
+    "fork": "366",
+    "timestamp": "2025-03-14T02:20:04.014766",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "grafana/pyroscope",
+    "href": "https://github.com/grafana/pyroscope",
+    "about": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "star": "10,400",
+    "fork": "636",
+    "timestamp": "2025-03-14T02:20:04.015043",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,650",
+    "fork": "1,483",
+    "timestamp": "2025-03-14T02:20:04.015333",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,184",
+    "fork": "1,561",
+    "timestamp": "2025-03-14T02:20:04.015611",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "9,467",
+    "fork": "1,136",
+    "timestamp": "2025-03-14T02:20:04.015887",
+    "stars_today": "2 stars today"
+  }
+]

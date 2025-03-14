@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "cdozdil/OptiScaler",
+    "href": "https://github.com/cdozdil/OptiScaler",
+    "about": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+    "star": "1,829",
+    "fork": "56",
+    "timestamp": "2025-03-14T02:19:48.701752",
+    "stars_today": "198 stars today"
+  },
+  {
+    "repo": "bytedance/flux",
+    "href": "https://github.com/bytedance/flux",
+    "about": "A fast communication-overlapping library for tensor/expert parallelism on GPUs.",
+    "star": "725",
+    "fork": "45",
+    "timestamp": "2025-03-14T02:19:48.702053",
+    "stars_today": "129 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,602",
+    "fork": "10,301",
+    "timestamp": "2025-03-14T02:19:48.702356",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "29,104",
+    "fork": "5,646",
+    "timestamp": "2025-03-14T02:19:48.702637",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "27,503",
+    "fork": "2,158",
+    "timestamp": "2025-03-14T02:19:48.702917",
+    "stars_today": "161 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "76,485",
+    "fork": "11,068",
+    "timestamp": "2025-03-14T02:19:48.703198",
+    "stars_today": "127 stars today"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "188,604",
+    "fork": "74,591",
+    "timestamp": "2025-03-14T02:19:48.703488",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "href": "https://github.com/ml-explore/mlx",
+    "about": "MLX: An array framework for Apple silicon",
+    "star": "19,576",
+    "fork": "1,114",
+    "timestamp": "2025-03-14T02:19:48.703765",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "grpc/grpc",
+    "href": "https://github.com/grpc/grpc",
+    "about": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "star": "42,635",
+    "fork": "10,700",
+    "timestamp": "2025-03-14T02:19:48.704040",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "19,170",
+    "fork": "3,091",
+    "timestamp": "2025-03-14T02:19:48.704325",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "href": "https://github.com/microsoft/LightGBM",
+    "about": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+    "star": "17,030",
+    "fork": "3,870",
+    "timestamp": "2025-03-14T02:19:48.704596",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "qinguoyi/TinyWebServer",
+    "href": "https://github.com/qinguoyi/TinyWebServer",
+    "about": "🔥 Linux下C++轻量级WebServer服务器",
+    "star": "17,623",
+    "fork": "4,056",
+    "timestamp": "2025-03-14T02:19:48.704869",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "AGWA/git-crypt",
+    "href": "https://github.com/AGWA/git-crypt",
+    "about": "Transparent file encryption in git",
+    "star": "8,700",
+    "fork": "488",
+    "timestamp": "2025-03-14T02:19:48.705141",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "25,545",
+    "fork": "4,706",
+    "timestamp": "2025-03-14T02:19:48.705432",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "8,743",
+    "fork": "1,539",
+    "timestamp": "2025-03-14T02:19:48.705706",
+    "stars_today": "141 stars today"
+  },
+  {
+    "repo": "google/highway",
+    "href": "https://github.com/google/highway",
+    "about": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "star": "4,459",
+    "fork": "335",
+    "timestamp": "2025-03-14T02:19:48.705978",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mlc-ai/xgrammar",
+    "href": "https://github.com/mlc-ai/xgrammar",
+    "about": "Fast, Flexible and Portable Structured Generation",
+    "star": "785",
+    "fork": "54",
+    "timestamp": "2025-03-14T02:19:48.706249",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "uNetworking/uWebSockets",
+    "href": "https://github.com/uNetworking/uWebSockets",
+    "about": "Simple, secure & standards compliant web server for the most demanding of applications",
+    "star": "17,755",
+    "fork": "1,785",
+    "timestamp": "2025-03-14T02:19:48.706537",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gem5/gem5",
+    "href": "https://github.com/gem5/gem5",
+    "about": "The official repository for the gem5 computer-system architecture simulator.",
+    "star": "1,880",
+    "fork": "1,357",
+    "timestamp": "2025-03-14T02:19:48.706823",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "href": "https://github.com/ros-navigation/navigation2",
+    "about": "ROS 2 Navigation Framework and System",
+    "star": "2,945",
+    "fork": "1,394",
+    "timestamp": "2025-03-14T02:19:48.707115",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "11,941",
+    "fork": "1,786",
+    "timestamp": "2025-03-14T02:19:48.707407",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,068",
+    "fork": "1,554",
+    "timestamp": "2025-03-14T02:19:48.707700",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "15,955",
+    "fork": "3,093",
+    "timestamp": "2025-03-14T02:19:48.708050",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "ggerganov/whisper.cpp",
+    "href": "https://github.com/ggerganov/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "38,444",
+    "fork": "4,016",
+    "timestamp": "2025-03-14T02:19:48.708616",
+    "stars_today": "31 stars today"
+  }
+]
