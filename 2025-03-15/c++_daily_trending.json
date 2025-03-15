@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "27,566",
+    "fork": "2,161",
+    "timestamp": "2025-03-15T02:18:20.229244",
+    "stars_today": "95 stars today"
+  },
+  {
+    "repo": "cdozdil/OptiScaler",
+    "href": "https://github.com/cdozdil/OptiScaler",
+    "about": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+    "star": "1,879",
+    "fork": "56",
+    "timestamp": "2025-03-15T02:18:20.229557",
+    "stars_today": "64 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "76,553",
+    "fork": "11,078",
+    "timestamp": "2025-03-15T02:18:20.229867",
+    "stars_today": "93 stars today"
+  },
+  {
+    "repo": "google/gemma.cpp",
+    "href": "https://github.com/google/gemma.cpp",
+    "about": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+    "star": "6,237",
+    "fork": "530",
+    "timestamp": "2025-03-15T02:18:20.230149",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "bytedance/flux",
+    "href": "https://github.com/bytedance/flux",
+    "about": "A fast communication-overlapping library for tensor/expert parallelism on GPUs.",
+    "star": "740",
+    "fork": "47",
+    "timestamp": "2025-03-15T02:18:20.230434",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "zeromq/libzmq",
+    "href": "https://github.com/zeromq/libzmq",
+    "about": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+    "star": "10,015",
+    "fork": "2,389",
+    "timestamp": "2025-03-15T02:18:20.230726",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "zerotier/ZeroTierOne",
+    "href": "https://github.com/zerotier/ZeroTierOne",
+    "about": "A Smart Ethernet Switch for Earth",
+    "star": "15,128",
+    "fork": "1,769",
+    "timestamp": "2025-03-15T02:18:20.231030",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "33,656",
+    "fork": "3,789",
+    "timestamp": "2025-03-15T02:18:20.231314",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "jbeder/yaml-cpp",
+    "href": "https://github.com/jbeder/yaml-cpp",
+    "about": "A YAML parser and emitter in C++",
+    "star": "5,353",
+    "fork": "1,917",
+    "timestamp": "2025-03-15T02:18:20.231606",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "google-ai-edge/mediapipe",
+    "href": "https://github.com/google-ai-edge/mediapipe",
+    "about": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "star": "28,957",
+    "fork": "5,276",
+    "timestamp": "2025-03-15T02:18:20.231907",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "SoftFever/OrcaSlicer",
+    "href": "https://github.com/SoftFever/OrcaSlicer",
+    "about": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "star": "9,033",
+    "fork": "1,087",
+    "timestamp": "2025-03-15T02:18:20.232219",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "ceph/ceph",
+    "href": "https://github.com/ceph/ceph",
+    "about": "Ceph is a distributed object, block, and file storage platform",
+    "star": "14,723",
+    "fork": "6,099",
+    "timestamp": "2025-03-15T02:18:20.232504",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "97,394",
+    "fork": "8,481",
+    "timestamp": "2025-03-15T02:18:20.232795",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "star": "14,733",
+    "fork": "3,587",
+    "timestamp": "2025-03-15T02:18:20.233075",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "13,886",
+    "fork": "2,385",
+    "timestamp": "2025-03-15T02:18:20.233354",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "19,170",
+    "fork": "3,092",
+    "timestamp": "2025-03-15T02:18:20.233636",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "href": "https://github.com/ros-navigation/navigation2",
+    "about": "ROS 2 Navigation Framework and System",
+    "star": "2,945",
+    "fork": "1,395",
+    "timestamp": "2025-03-15T02:18:20.233958",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,069",
+    "fork": "1,553",
+    "timestamp": "2025-03-15T02:18:20.234239",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "meshtastic/firmware",
+    "href": "https://github.com/meshtastic/firmware",
+    "about": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+    "star": "4,366",
+    "fork": "1,109",
+    "timestamp": "2025-03-15T02:18:20.234559",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "unitreerobotics/unitree_ros",
+    "href": "https://github.com/unitreerobotics/unitree_ros",
+    "about": "",
+    "star": "781",
+    "fork": "301",
+    "timestamp": "2025-03-15T02:18:20.234873",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "pytorch/executorch",
+    "href": "https://github.com/pytorch/executorch",
+    "about": "On-device AI across mobile, embedded and edge for PyTorch",
+    "star": "2,595",
+    "fork": "477",
+    "timestamp": "2025-03-15T02:18:20.235162",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "about": "Open Source Routing Machine - C++ backend",
+    "star": "6,664",
+    "fork": "3,502",
+    "timestamp": "2025-03-15T02:18:20.235442",
+    "stars_today": "4 stars today"
+  }
+]
