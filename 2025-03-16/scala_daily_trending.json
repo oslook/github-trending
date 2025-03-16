@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,737",
+    "fork": "28,546",
+    "timestamp": "2025-03-16T02:26:11.861304",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,875",
+    "fork": "1,797",
+    "timestamp": "2025-03-16T02:26:11.861602",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,349",
+    "fork": "2,352",
+    "timestamp": "2025-03-16T02:26:11.861898",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "62,993",
+    "fork": "12,160",
+    "timestamp": "2025-03-16T02:26:11.862178",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,165",
+    "fork": "356",
+    "timestamp": "2025-03-16T02:26:11.862450",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,159",
+    "fork": "940",
+    "timestamp": "2025-03-16T02:26:11.862728",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,280",
+    "fork": "309",
+    "timestamp": "2025-03-16T02:26:11.863021",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,958",
+    "fork": "1,084",
+    "timestamp": "2025-03-16T02:26:11.863298",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,573",
+    "fork": "1,204",
+    "timestamp": "2025-03-16T02:26:11.863571",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,290",
+    "fork": "467",
+    "timestamp": "2025-03-16T02:26:11.863861",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,378",
+    "fork": "1,153",
+    "timestamp": "2025-03-16T02:26:11.864139",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,190",
+    "fork": "745",
+    "timestamp": "2025-03-16T02:26:11.864417",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "903",
+    "fork": "606",
+    "timestamp": "2025-03-16T02:26:11.864691",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,780",
+    "fork": "682",
+    "timestamp": "2025-03-16T02:26:11.864982",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,377",
+    "fork": "552",
+    "timestamp": "2025-03-16T02:26:11.865263",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "814",
+    "fork": "186",
+    "timestamp": "2025-03-16T02:26:11.865538",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,316",
+    "fork": "159",
+    "timestamp": "2025-03-16T02:26:11.865810",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,092",
+    "fork": "538",
+    "timestamp": "2025-03-16T02:26:11.866098",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,362",
+    "fork": "3,112",
+    "timestamp": "2025-03-16T02:26:11.866377",
+    "stars_today": "3 stars today"
+  }
+]

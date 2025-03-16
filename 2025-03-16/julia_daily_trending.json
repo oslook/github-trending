@@ -1,0 +1,128 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,587",
+    "fork": "5,555",
+    "timestamp": "2025-03-16T02:25:51.792724",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "622",
+    "fork": "485",
+    "timestamp": "2025-03-16T02:25:51.793037",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/StructuralIdentifiability.jl",
+    "href": "https://github.com/SciML/StructuralIdentifiability.jl",
+    "about": "Fast and automatic structural identifiability software for ODE systems",
+    "star": "113",
+    "fork": "18",
+    "timestamp": "2025-03-16T02:25:51.793354",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "AlgebraicJulia/Decapodes.jl",
+    "href": "https://github.com/AlgebraicJulia/Decapodes.jl",
+    "about": "A framework for composing and simulating multiphysics systems",
+    "star": "60",
+    "fork": "15",
+    "timestamp": "2025-03-16T02:25:51.793638",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "90",
+    "fork": "21",
+    "timestamp": "2025-03-16T02:25:51.793937",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "FluxML/Flux.jl",
+    "href": "https://github.com/FluxML/Flux.jl",
+    "about": "Relax! Flux is the ML library that doesn't make you tensor",
+    "star": "4,594",
+    "fork": "612",
+    "timestamp": "2025-03-16T02:25:51.794221",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,398",
+    "fork": "163",
+    "timestamp": "2025-03-16T02:25:51.794500",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "LuxDL/Lux.jl",
+    "href": "https://github.com/LuxDL/Lux.jl",
+    "about": "Elegant and Performant Scientific Machine Learning in Julia",
+    "star": "545",
+    "fork": "65",
+    "timestamp": "2025-03-16T02:25:51.794778",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "129",
+    "fork": "17",
+    "timestamp": "2025-03-16T02:25:51.795069",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "julia-actions/cache",
+    "href": "https://github.com/julia-actions/cache",
+    "about": "A shortcut action to cache Julia artifacts, packages, and registries.",
+    "star": "40",
+    "fork": "9",
+    "timestamp": "2025-03-16T02:25:51.795349",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TulipaEnergy/TulipaEnergyModel.jl",
+    "href": "https://github.com/TulipaEnergy/TulipaEnergyModel.jl",
+    "about": "An energy system optimization model that is flexible, computationally efficient, and academically robust.",
+    "star": "33",
+    "fork": "23",
+    "timestamp": "2025-03-16T02:25:51.795627",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "470",
+    "fork": "79",
+    "timestamp": "2025-03-16T02:25:51.795945",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/ModelingToolkit.jl",
+    "href": "https://github.com/SciML/ModelingToolkit.jl",
+    "about": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+    "star": "1,485",
+    "fork": "212",
+    "timestamp": "2025-03-16T02:25:51.796255",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.",
+    "star": "41",
+    "fork": "16",
+    "timestamp": "2025-03-16T02:25:51.796532",
+    "stars_today": "0 stars today"
+  }
+]

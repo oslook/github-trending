@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "13,045",
+    "fork": "680",
+    "timestamp": "2025-03-16T02:25:46.273559",
+    "stars_today": "712 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "13,439",
+    "fork": "472",
+    "timestamp": "2025-03-16T02:25:46.273897",
+    "stars_today": "1,579 stars this week"
+  },
+  {
+    "repo": "evrone/go-clean-template",
+    "href": "https://github.com/evrone/go-clean-template",
+    "about": "Clean Architecture template for Golang services",
+    "star": "6,629",
+    "fork": "555",
+    "timestamp": "2025-03-16T02:25:46.274185",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,238",
+    "fork": "3,093",
+    "timestamp": "2025-03-16T02:25:46.274465",
+    "stars_today": "229 stars this week"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,028",
+    "fork": "2,301",
+    "timestamp": "2025-03-16T02:25:46.274742",
+    "stars_today": "125 stars this week"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "28,201",
+    "fork": "3,183",
+    "timestamp": "2025-03-16T02:25:46.275032",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,080",
+    "fork": "580",
+    "timestamp": "2025-03-16T02:25:46.275309",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "8,955",
+    "fork": "429",
+    "timestamp": "2025-03-16T02:25:46.275583",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,807",
+    "fork": "285",
+    "timestamp": "2025-03-16T02:25:46.275868",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,937",
+    "fork": "3,604",
+    "timestamp": "2025-03-16T02:25:46.276144",
+    "stars_today": "133 stars this week"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "5,970",
+    "fork": "1,200",
+    "timestamp": "2025-03-16T02:25:46.276420",
+    "stars_today": "214 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "68,314",
+    "fork": "4,430",
+    "timestamp": "2025-03-16T02:25:46.276736",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,711",
+    "fork": "40,425",
+    "timestamp": "2025-03-16T02:25:46.277026",
+    "stars_today": "225 stars this week"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "star": "22,613",
+    "fork": "3,504",
+    "timestamp": "2025-03-16T02:25:46.277305",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "686",
+    "fork": "60",
+    "timestamp": "2025-03-16T02:25:46.277579",
+    "stars_today": "252 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "679",
+    "fork": "160",
+    "timestamp": "2025-03-16T02:25:46.277867",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "daeuniverse/dae",
+    "href": "https://github.com/daeuniverse/dae",
+    "about": "eBPF-based Linux high-performance transparent proxy solution.",
+    "star": "3,825",
+    "fork": "239",
+    "timestamp": "2025-03-16T02:25:46.278146",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,684",
+    "fork": "9,440",
+    "timestamp": "2025-03-16T02:25:46.278425",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "usual2970/certimate",
+    "href": "https://github.com/usual2970/certimate",
+    "about": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+    "star": "5,907",
+    "fork": "530",
+    "timestamp": "2025-03-16T02:25:46.278701",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "22,606",
+    "fork": "2,717",
+    "timestamp": "2025-03-16T02:25:46.278994",
+    "stars_today": "179 stars this week"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,293",
+    "fork": "619",
+    "timestamp": "2025-03-16T02:25:46.279271",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "FerretDB/FerretDB",
+    "href": "https://github.com/FerretDB/FerretDB",
+    "about": "A truly Open Source MongoDB alternative",
+    "star": "9,879",
+    "fork": "430",
+    "timestamp": "2025-03-16T02:25:46.279544",
+    "stars_today": "124 stars this week"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "13,579",
+    "fork": "997",
+    "timestamp": "2025-03-16T02:25:46.279818",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "shadow1ng/fscan",
+    "href": "https://github.com/shadow1ng/fscan",
+    "about": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "star": "11,683",
+    "fork": "1,695",
+    "timestamp": "2025-03-16T02:25:46.280103",
+    "stars_today": "69 stars this week"
+  }
+]

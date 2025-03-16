@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "13,439",
+    "fork": "472",
+    "timestamp": "2025-03-16T02:25:44.981797",
+    "stars_today": "735 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,673",
+    "fork": "1,485",
+    "timestamp": "2025-03-16T02:25:44.982113",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "686",
+    "fork": "60",
+    "timestamp": "2025-03-16T02:25:44.982396",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,574",
+    "fork": "491",
+    "timestamp": "2025-03-16T02:25:44.982676",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "casibase/casibase",
+    "href": "https://github.com/casibase/casibase",
+    "about": "⚡️Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
+    "star": "3,262",
+    "fork": "393",
+    "timestamp": "2025-03-16T02:25:44.982976",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nezhahq/nezha",
+    "href": "https://github.com/nezhahq/nezha",
+    "about": "Self-hosted, lightweight server and website monitoring and O&M tool",
+    "star": "8,374",
+    "fork": "1,404",
+    "timestamp": "2025-03-16T02:25:44.983255",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "36,593",
+    "fork": "7,891",
+    "timestamp": "2025-03-16T02:25:44.983535",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "1,332",
+    "fork": "91",
+    "timestamp": "2025-03-16T02:25:44.983815",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,787",
+    "fork": "8,132",
+    "timestamp": "2025-03-16T02:25:44.984104",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "18,447",
+    "fork": "1,800",
+    "timestamp": "2025-03-16T02:25:44.984380",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,486",
+    "fork": "17,947",
+    "timestamp": "2025-03-16T02:25:44.984654",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "23,886",
+    "fork": "4,049",
+    "timestamp": "2025-03-16T02:25:44.984969",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,937",
+    "fork": "3,604",
+    "timestamp": "2025-03-16T02:25:44.985243",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
+    "star": "133,106",
+    "fork": "10,990",
+    "timestamp": "2025-03-16T02:25:44.985519",
+    "stars_today": "154 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,807",
+    "fork": "285",
+    "timestamp": "2025-03-16T02:25:44.985793",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "drakkan/sftpgo",
+    "href": "https://github.com/drakkan/sftpgo",
+    "about": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+    "star": "10,104",
+    "fork": "789",
+    "timestamp": "2025-03-16T02:25:44.986106",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "star": "38,176",
+    "fork": "2,739",
+    "timestamp": "2025-03-16T02:25:44.986411",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "27,266",
+    "fork": "1,311",
+    "timestamp": "2025-03-16T02:25:44.986689",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,174",
+    "fork": "1,056",
+    "timestamp": "2025-03-16T02:25:44.986979",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,541",
+    "fork": "4,456",
+    "timestamp": "2025-03-16T02:25:44.987258",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,483",
+    "fork": "1,019",
+    "timestamp": "2025-03-16T02:25:44.987563",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "9,491",
+    "fork": "1,139",
+    "timestamp": "2025-03-16T02:25:44.987851",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
+    "href": "https://github.com/argoproj/argo-rollouts",
+    "about": "Progressive Delivery for Kubernetes",
+    "star": "2,916",
+    "fork": "923",
+    "timestamp": "2025-03-16T02:25:44.988131",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,711",
+    "fork": "40,425",
+    "timestamp": "2025-03-16T02:25:44.988406",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,220",
+    "fork": "1,564",
+    "timestamp": "2025-03-16T02:25:44.988682",
+    "stars_today": "20 stars today"
+  }
+]

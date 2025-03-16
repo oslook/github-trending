@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "36,347",
+    "fork": "3,460",
+    "timestamp": "2025-03-16T02:25:47.608274",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,070",
+    "fork": "1,799",
+    "timestamp": "2025-03-16T02:25:47.608568",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,760",
+    "fork": "435",
+    "timestamp": "2025-03-16T02:25:47.608888",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,109",
+    "fork": "725",
+    "timestamp": "2025-03-16T02:25:47.609169",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,051",
+    "fork": "30",
+    "timestamp": "2025-03-16T02:25:47.609475",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,857",
+    "fork": "1,065",
+    "timestamp": "2025-03-16T02:25:47.609753",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,192",
+    "fork": "323",
+    "timestamp": "2025-03-16T02:25:47.610073",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,060",
+    "fork": "48",
+    "timestamp": "2025-03-16T02:25:47.610362",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "purescript/purescript",
+    "href": "https://github.com/purescript/purescript",
+    "about": "A strongly-typed language that compiles to JavaScript",
+    "star": "8,671",
+    "fork": "566",
+    "timestamp": "2025-03-16T02:25:47.610636",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,772",
+    "fork": "378",
+    "timestamp": "2025-03-16T02:25:47.610925",
+    "stars_today": "2 stars this week"
+  }
+]

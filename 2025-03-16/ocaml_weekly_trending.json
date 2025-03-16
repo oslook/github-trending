@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,695",
+    "fork": "1,128",
+    "timestamp": "2025-03-16T02:25:58.687754",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "coq/coq",
+    "href": "https://github.com/coq/coq",
+    "about": "Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+    "star": "4,978",
+    "fork": "674",
+    "timestamp": "2025-03-16T02:25:58.688069",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "bcpierce00/unison",
+    "href": "https://github.com/bcpierce00/unison",
+    "about": "Unison file synchronizer",
+    "star": "4,437",
+    "fork": "240",
+    "timestamp": "2025-03-16T02:25:58.688355",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "11,330",
+    "fork": "667",
+    "timestamp": "2025-03-16T02:25:58.688639",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "facebook/flow",
+    "href": "https://github.com/facebook/flow",
+    "about": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+    "star": "22,132",
+    "fork": "1,870",
+    "timestamp": "2025-03-16T02:25:58.688937",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "facebook/pyre-check",
+    "href": "https://github.com/facebook/pyre-check",
+    "about": "Performant type-checking for python.",
+    "star": "6,953",
+    "fork": "445",
+    "timestamp": "2025-03-16T02:25:58.689220",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,143",
+    "fork": "2,028",
+    "timestamp": "2025-03-16T02:25:58.689494",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "astrada/google-drive-ocamlfuse",
+    "href": "https://github.com/astrada/google-drive-ocamlfuse",
+    "about": "FUSE filesystem over Google Drive",
+    "star": "5,682",
+    "fork": "355",
+    "timestamp": "2025-03-16T02:25:58.689770",
+    "stars_today": "3 stars this week"
+  }
+]

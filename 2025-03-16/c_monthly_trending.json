@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "19,456",
+    "fork": "746",
+    "timestamp": "2025-03-16T02:25:32.254113",
+    "stars_today": "642 stars this month"
+  },
+  {
+    "repo": "i486/VxKex",
+    "href": "https://github.com/i486/VxKex",
+    "about": "Windows 7 API Extensions",
+    "star": "794",
+    "fork": "60",
+    "timestamp": "2025-03-16T02:25:32.254419",
+    "stars_today": "334 stars this month"
+  },
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "53,881",
+    "fork": "25,992",
+    "timestamp": "2025-03-16T02:25:32.254695",
+    "stars_today": "444 stars this month"
+  },
+  {
+    "repo": "mit-pdos/xv6-public",
+    "href": "https://github.com/mit-pdos/xv6-public",
+    "about": "xv6 OS",
+    "star": "8,199",
+    "fork": "4,091",
+    "timestamp": "2025-03-16T02:25:32.254996",
+    "stars_today": "101 stars this month"
+  },
+  {
+    "repo": "asg017/sqlite-vec",
+    "href": "https://github.com/asg017/sqlite-vec",
+    "about": "A vector search SQLite extension that runs anywhere!",
+    "star": "5,257",
+    "fork": "195",
+    "timestamp": "2025-03-16T02:25:32.255306",
+    "stars_today": "411 stars this month"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables. Put it on, speak, transcribe, automatically",
+    "star": "4,411",
+    "fork": "662",
+    "timestamp": "2025-03-16T02:25:32.255618",
+    "stars_today": "266 stars this month"
+  },
+  {
+    "repo": "bellard/quickjs",
+    "href": "https://github.com/bellard/quickjs",
+    "about": "Public repository of the QuickJS Javascript Engine.",
+    "star": "8,925",
+    "fork": "945",
+    "timestamp": "2025-03-16T02:25:32.255923",
+    "stars_today": "132 stars this month"
+  },
+  {
+    "repo": "coturn/coturn",
+    "href": "https://github.com/coturn/coturn",
+    "about": "coturn TURN server project",
+    "star": "12,019",
+    "fork": "2,084",
+    "timestamp": "2025-03-16T02:25:32.256209",
+    "stars_today": "224 stars this month"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,787",
+    "fork": "1,218",
+    "timestamp": "2025-03-16T02:25:32.256491",
+    "stars_today": "67 stars this month"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "18,618",
+    "fork": "3,494",
+    "timestamp": "2025-03-16T02:25:32.256799",
+    "stars_today": "344 stars this month"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,812",
+    "fork": "459",
+    "timestamp": "2025-03-16T02:25:32.257089",
+    "stars_today": "222 stars this month"
+  },
+  {
+    "repo": "espressif/esp-adf",
+    "href": "https://github.com/espressif/esp-adf",
+    "about": "Espressif Audio Development Framework",
+    "star": "1,796",
+    "fork": "738",
+    "timestamp": "2025-03-16T02:25:32.257365",
+    "stars_today": "102 stars this month"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,939",
+    "fork": "10,394",
+    "timestamp": "2025-03-16T02:25:32.257668",
+    "stars_today": "323 stars this month"
+  },
+  {
+    "repo": "espressif/esp-sr",
+    "href": "https://github.com/espressif/esp-sr",
+    "about": "Speech recognition",
+    "star": "794",
+    "fork": "127",
+    "timestamp": "2025-03-16T02:25:32.257954",
+    "stars_today": "99 stars this month"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+    "star": "13,090",
+    "fork": "1,406",
+    "timestamp": "2025-03-16T02:25:32.258258",
+    "stars_today": "295 stars this month"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "star": "68,350",
+    "fork": "23,931",
+    "timestamp": "2025-03-16T02:25:32.258536",
+    "stars_today": "436 stars this month"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "14,602",
+    "fork": "701",
+    "timestamp": "2025-03-16T02:25:32.258808",
+    "stars_today": "578 stars this month"
+  },
+  {
+    "repo": "opa334/Dopamine",
+    "href": "https://github.com/opa334/Dopamine",
+    "about": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+    "star": "3,859",
+    "fork": "4,757",
+    "timestamp": "2025-03-16T02:25:32.259095",
+    "stars_today": "119 stars this month"
+  },
+  {
+    "repo": "hashcat/hashcat",
+    "href": "https://github.com/hashcat/hashcat",
+    "about": "World's fastest and most advanced password recovery utility",
+    "star": "22,178",
+    "fork": "3,011",
+    "timestamp": "2025-03-16T02:25:32.259370",
+    "stars_today": "256 stars this month"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "11,659",
+    "fork": "7,081",
+    "timestamp": "2025-03-16T02:25:32.259643",
+    "stars_today": "254 stars this month"
+  }
+]
