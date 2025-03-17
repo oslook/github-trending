@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "14,871",
+    "fork": "525",
+    "timestamp": "2025-03-17T02:23:54.044038",
+    "stars_today": "2,439 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "13,068",
+    "fork": "684",
+    "timestamp": "2025-03-17T02:23:54.044331",
+    "stars_today": "501 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,088",
+    "fork": "580",
+    "timestamp": "2025-03-17T02:23:54.044609",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "68,473",
+    "fork": "4,440",
+    "timestamp": "2025-03-17T02:23:54.044935",
+    "stars_today": "302 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,261",
+    "fork": "3,093",
+    "timestamp": "2025-03-17T02:23:54.045276",
+    "stars_today": "226 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "113,739",
+    "fork": "40,434",
+    "timestamp": "2025-03-17T02:23:54.045558",
+    "stars_today": "233 stars this week"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "28,222",
+    "fork": "3,182",
+    "timestamp": "2025-03-17T02:23:54.045845",
+    "stars_today": "133 stars this week"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,811",
+    "fork": "286",
+    "timestamp": "2025-03-17T02:23:54.046119",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "24,954",
+    "fork": "3,604",
+    "timestamp": "2025-03-17T02:23:54.046391",
+    "stars_today": "145 stars this week"
+  },
+  {
+    "repo": "Azure/azure-sdk-for-go",
+    "href": "https://github.com/Azure/azure-sdk-for-go",
+    "about": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:",
+    "star": "1,693",
+    "fork": "887",
+    "timestamp": "2025-03-17T02:23:54.046661",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "16,219",
+    "fork": "1,450",
+    "timestamp": "2025-03-17T02:23:54.046944",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "8,969",
+    "fork": "429",
+    "timestamp": "2025-03-17T02:23:54.047220",
+    "stars_today": "132 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,585",
+    "fork": "1,124",
+    "timestamp": "2025-03-17T02:23:54.047489",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "evrone/go-clean-template",
+    "href": "https://github.com/evrone/go-clean-template",
+    "about": "Clean Architecture template for Golang services",
+    "star": "6,636",
+    "fork": "555",
+    "timestamp": "2025-03-17T02:23:54.047756",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "736",
+    "fork": "61",
+    "timestamp": "2025-03-17T02:23:54.048036",
+    "stars_today": "258 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,534",
+    "fork": "598",
+    "timestamp": "2025-03-17T02:23:54.048332",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,951",
+    "fork": "1,568",
+    "timestamp": "2025-03-17T02:23:54.048599",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "star": "22,630",
+    "fork": "3,506",
+    "timestamp": "2025-03-17T02:23:54.048881",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "FerretDB/FerretDB",
+    "href": "https://github.com/FerretDB/FerretDB",
+    "about": "A truly Open Source MongoDB alternative",
+    "star": "9,893",
+    "fork": "431",
+    "timestamp": "2025-03-17T02:23:54.049150",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "683",
+    "fork": "160",
+    "timestamp": "2025-03-17T02:23:54.049416",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "aceberg/WatchYourLAN",
+    "href": "https://github.com/aceberg/WatchYourLAN",
+    "about": "Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history",
+    "star": "5,360",
+    "fork": "181",
+    "timestamp": "2025-03-17T02:23:54.049682",
+    "stars_today": "308 stars this week"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "href": "https://github.com/go-sql-driver/mysql",
+    "about": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "star": "14,693",
+    "fork": "2,335",
+    "timestamp": "2025-03-17T02:23:54.049961",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "18,935",
+    "fork": "854",
+    "timestamp": "2025-03-17T02:23:54.050253",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "daeuniverse/dae",
+    "href": "https://github.com/daeuniverse/dae",
+    "about": "eBPF-based Linux high-performance transparent proxy solution.",
+    "star": "3,832",
+    "fork": "239",
+    "timestamp": "2025-03-17T02:23:54.050519",
+    "stars_today": "93 stars this week"
+  }
+]

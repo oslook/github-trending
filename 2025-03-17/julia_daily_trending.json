@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "90",
+    "fork": "21",
+    "timestamp": "2025-03-17T02:23:59.237769",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "129",
+    "fork": "17",
+    "timestamp": "2025-03-17T02:23:59.238080",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,398",
+    "fork": "163",
+    "timestamp": "2025-03-17T02:23:59.238361",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "622",
+    "fork": "485",
+    "timestamp": "2025-03-17T02:23:59.238661",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "LuxDL/Lux.jl",
+    "href": "https://github.com/LuxDL/Lux.jl",
+    "about": "Elegant and Performant Scientific Machine Learning in Julia",
+    "star": "546",
+    "fork": "65",
+    "timestamp": "2025-03-17T02:23:59.238993",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "471",
+    "fork": "79",
+    "timestamp": "2025-03-17T02:23:59.239301",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.",
+    "star": "41",
+    "fork": "16",
+    "timestamp": "2025-03-17T02:23:59.239577",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,069",
+    "fork": "219",
+    "timestamp": "2025-03-17T02:23:59.239863",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,615",
+    "fork": "5,559",
+    "timestamp": "2025-03-17T02:23:59.240165",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "JuliaArrays/StaticArrays.jl",
+    "href": "https://github.com/JuliaArrays/StaticArrays.jl",
+    "about": "Statically sized arrays for Julia",
+    "star": "793",
+    "fork": "151",
+    "timestamp": "2025-03-17T02:23:59.240436",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gridap/Gridap.jl",
+    "href": "https://github.com/gridap/Gridap.jl",
+    "about": "Grid-based approximation of partial differential equations in Julia",
+    "star": "743",
+    "fork": "100",
+    "timestamp": "2025-03-17T02:23:59.240705",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "FluxML/Flux.jl",
+    "href": "https://github.com/FluxML/Flux.jl",
+    "about": "Relax! Flux is the ML library that doesn't make you tensor",
+    "star": "4,594",
+    "fork": "612",
+    "timestamp": "2025-03-17T02:23:59.240986",
+    "stars_today": "0 stars today"
+  }
+]
