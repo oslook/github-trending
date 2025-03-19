@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,759",
+    "fork": "28,478",
+    "timestamp": "2025-03-19T02:22:51.184539",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,883",
+    "fork": "1,797",
+    "timestamp": "2025-03-19T02:22:51.184832",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,373",
+    "fork": "2,354",
+    "timestamp": "2025-03-19T02:22:51.185125",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,826",
+    "fork": "949",
+    "timestamp": "2025-03-19T02:22:51.185402",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,293",
+    "fork": "468",
+    "timestamp": "2025-03-19T02:22:51.185682",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,386",
+    "fork": "553",
+    "timestamp": "2025-03-19T02:22:51.185995",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,782",
+    "fork": "684",
+    "timestamp": "2025-03-19T02:22:51.186269",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "483",
+    "fork": "150",
+    "timestamp": "2025-03-19T02:22:51.186542",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,285",
+    "fork": "310",
+    "timestamp": "2025-03-19T02:22:51.186822",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,218",
+    "fork": "1,253",
+    "timestamp": "2025-03-19T02:22:51.187108",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,559",
+    "fork": "4,099",
+    "timestamp": "2025-03-19T02:22:51.187407",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,004",
+    "fork": "12,161",
+    "timestamp": "2025-03-19T02:22:51.187677",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,161",
+    "fork": "934",
+    "timestamp": "2025-03-19T02:22:51.187941",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "camunda/feel-scala",
+    "href": "https://github.com/camunda/feel-scala",
+    "about": "FEEL parser and interpreter written in Scala",
+    "star": "127",
+    "fork": "52",
+    "timestamp": "2025-03-19T02:22:51.188223",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,318",
+    "fork": "161",
+    "timestamp": "2025-03-19T02:22:51.188494",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,380",
+    "fork": "1,153",
+    "timestamp": "2025-03-19T02:22:51.188763",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Quafadas/scautable",
+    "href": "https://github.com/Quafadas/scautable",
+    "about": "Table utils, one line CSV imports - a table is a Iterator (or iterable) of a `Named Tuple` or `Product`",
+    "star": "23",
+    "fork": "8",
+    "timestamp": "2025-03-19T02:22:51.189077",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,351",
+    "fork": "391",
+    "timestamp": "2025-03-19T02:22:51.189351",
+    "stars_today": "1 star today"
+  }
+]

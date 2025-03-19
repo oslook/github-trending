@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "18,359",
+    "fork": "651",
+    "timestamp": "2025-03-19T02:22:26.068256",
+    "stars_today": "2,158 stars today"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "8,957",
+    "fork": "1,247",
+    "timestamp": "2025-03-19T02:22:26.068554",
+    "stars_today": "462 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "57,752",
+    "fork": "9,451",
+    "timestamp": "2025-03-19T02:22:26.068836",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "ent/ent",
+    "href": "https://github.com/ent/ent",
+    "about": "An entity framework for Go",
+    "star": "15,974",
+    "fork": "955",
+    "timestamp": "2025-03-19T02:22:26.069129",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "href": "https://github.com/ehang-io/nps",
+    "about": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "star": "31,469",
+    "fork": "5,713",
+    "timestamp": "2025-03-19T02:22:26.069409",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,455",
+    "fork": "1,743",
+    "timestamp": "2025-03-19T02:22:26.069715",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,897",
+    "fork": "1,360",
+    "timestamp": "2025-03-19T02:22:26.070003",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,084",
+    "fork": "2,036",
+    "timestamp": "2025-03-19T02:22:26.070309",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "6,650",
+    "fork": "385",
+    "timestamp": "2025-03-19T02:22:26.070587",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "metoro-io/mcp-golang",
+    "href": "https://github.com/metoro-io/mcp-golang",
+    "about": "Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com",
+    "star": "384",
+    "fork": "38",
+    "timestamp": "2025-03-19T02:22:26.070865",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,337",
+    "fork": "608",
+    "timestamp": "2025-03-19T02:22:26.071149",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "expr-lang/expr",
+    "href": "https://github.com/expr-lang/expr",
+    "about": "Expression language and expression evaluation for Go",
+    "star": "6,667",
+    "fork": "429",
+    "timestamp": "2025-03-19T02:22:26.071427",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "vektra/mockery",
+    "href": "https://github.com/vektra/mockery",
+    "about": "A mock code autogenerator for Go",
+    "star": "6,384",
+    "fork": "428",
+    "timestamp": "2025-03-19T02:22:26.071706",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "8,870",
+    "fork": "1,117",
+    "timestamp": "2025-03-19T02:22:26.071993",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,120",
+    "fork": "3,548",
+    "timestamp": "2025-03-19T02:22:26.072268",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,456",
+    "fork": "3,263",
+    "timestamp": "2025-03-19T02:22:26.072543",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "27,063",
+    "fork": "1,323",
+    "timestamp": "2025-03-19T02:22:26.072820",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,260",
+    "fork": "1,623",
+    "timestamp": "2025-03-19T02:22:26.073111",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "href": "https://github.com/kubernetes-sigs/metrics-server",
+    "about": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+    "star": "6,027",
+    "fork": "1,917",
+    "timestamp": "2025-03-19T02:22:26.073387",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "21,150",
+    "fork": "3,126",
+    "timestamp": "2025-03-19T02:22:26.073663",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "8,002",
+    "fork": "2,637",
+    "timestamp": "2025-03-19T02:22:26.073934",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,234",
+    "fork": "3,524",
+    "timestamp": "2025-03-19T02:22:26.074214",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "1,384",
+    "fork": "95",
+    "timestamp": "2025-03-19T02:22:26.074488",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "80,870",
+    "fork": "8,135",
+    "timestamp": "2025-03-19T02:22:26.074762",
+    "stars_today": "36 stars today"
+  }
+]

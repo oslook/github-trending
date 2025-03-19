@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "621",
+    "fork": "484",
+    "timestamp": "2025-03-19T02:22:33.008228",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "471",
+    "fork": "79",
+    "timestamp": "2025-03-19T02:22:33.008549",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,631",
+    "fork": "5,557",
+    "timestamp": "2025-03-19T02:22:33.008861",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaLand.jl",
+    "href": "https://github.com/CliMA/ClimaLand.jl",
+    "about": "Clima's Land Model",
+    "star": "44",
+    "fork": "10",
+    "timestamp": "2025-03-19T02:22:33.009151",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/CellMLToolkit.jl",
+    "href": "https://github.com/SciML/CellMLToolkit.jl",
+    "about": "CellMLToolkit.jl is a Julia library that connects CellML models to the Scientific Julia ecosystem.",
+    "star": "63",
+    "fork": "17",
+    "timestamp": "2025-03-19T02:22:33.009480",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "92",
+    "fork": "21",
+    "timestamp": "2025-03-19T02:22:33.009758",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "LuxDL/Lux.jl",
+    "href": "https://github.com/LuxDL/Lux.jl",
+    "about": "Elegant and Performant Scientific Machine Learning in Julia",
+    "star": "547",
+    "fork": "65",
+    "timestamp": "2025-03-19T02:22:33.010051",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/Optimization.jl",
+    "href": "https://github.com/SciML/Optimization.jl",
+    "about": "Mathematical Optimization in Julia. Local, global, gradient-based and derivative-free. Linear, Quadratic, Convex, Mixed-Integer, and Nonlinear Optimization in one simple, fast, and differentiable interface.",
+    "star": "758",
+    "fork": "89",
+    "timestamp": "2025-03-19T02:22:33.010377",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FluxML/Flux.jl",
+    "href": "https://github.com/FluxML/Flux.jl",
+    "about": "Relax! Flux is the ML library that doesn't make you tensor",
+    "star": "4,595",
+    "fork": "613",
+    "timestamp": "2025-03-19T02:22:33.010695",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.",
+    "star": "41",
+    "fork": "15",
+    "timestamp": "2025-03-19T02:22:33.010993",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,071",
+    "fork": "220",
+    "timestamp": "2025-03-19T02:22:33.011271",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,398",
+    "fork": "164",
+    "timestamp": "2025-03-19T02:22:33.011544",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "MakieOrg/Makie.jl",
+    "href": "https://github.com/MakieOrg/Makie.jl",
+    "about": "Interactive data visualizations and plotting in Julia",
+    "star": "2,495",
+    "fork": "328",
+    "timestamp": "2025-03-19T02:22:33.011843",
+    "stars_today": "0 stars today"
+  }
+]

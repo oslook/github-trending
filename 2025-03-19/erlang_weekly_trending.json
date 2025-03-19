@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,559",
+    "fork": "2,284",
+    "timestamp": "2025-03-19T02:22:24.386740",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "josefs/Gradualizer",
+    "href": "https://github.com/josefs/Gradualizer",
+    "about": "A Gradual type system for Erlang",
+    "star": "618",
+    "fork": "35",
+    "timestamp": "2025-03-19T02:22:24.387052",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "644",
+    "fork": "138",
+    "timestamp": "2025-03-19T02:22:24.387333",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,581",
+    "fork": "2,987",
+    "timestamp": "2025-03-19T02:22:24.387613",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "694",
+    "fork": "218",
+    "timestamp": "2025-03-19T02:22:24.387890",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,720",
+    "fork": "520",
+    "timestamp": "2025-03-19T02:22:24.388180",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "887",
+    "fork": "168",
+    "timestamp": "2025-03-19T02:22:24.388452",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,123",
+    "fork": "455",
+    "timestamp": "2025-03-19T02:22:24.388727",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,077",
+    "fork": "232",
+    "timestamp": "2025-03-19T02:22:24.389039",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "318",
+    "fork": "103",
+    "timestamp": "2025-03-19T02:22:24.389316",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,875",
+    "fork": "474",
+    "timestamp": "2025-03-19T02:22:24.389592",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "422",
+    "fork": "59",
+    "timestamp": "2025-03-19T02:22:24.389867",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "66",
+    "fork": "38",
+    "timestamp": "2025-03-19T02:22:24.390154",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,566",
+    "fork": "352",
+    "timestamp": "2025-03-19T02:22:24.390428",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "694",
+    "fork": "232",
+    "timestamp": "2025-03-19T02:22:24.390725",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "175",
+    "timestamp": "2025-03-19T02:22:24.391013",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,129",
+    "fork": "153",
+    "timestamp": "2025-03-19T02:22:24.391288",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "93",
+    "fork": "49",
+    "timestamp": "2025-03-19T02:22:24.391579",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,432",
+    "fork": "1,046",
+    "timestamp": "2025-03-19T02:22:24.391883",
+    "stars_today": "14 stars this week"
+  }
+]
