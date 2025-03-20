@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "18,970",
+    "fork": "676",
+    "timestamp": "2025-03-20T02:21:19.135922",
+    "stars_today": "718 stars today"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "9,236",
+    "fork": "1,263",
+    "timestamp": "2025-03-20T02:21:19.136218",
+    "stars_today": "280 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "6,907",
+    "fork": "395",
+    "timestamp": "2025-03-20T02:21:19.136499",
+    "stars_today": "71 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "29,030",
+    "fork": "1,825",
+    "timestamp": "2025-03-20T02:21:19.136815",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "8,003",
+    "fork": "2,637",
+    "timestamp": "2025-03-20T02:21:19.137089",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,025",
+    "fork": "1,263",
+    "timestamp": "2025-03-20T02:21:19.137363",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,372",
+    "fork": "157",
+    "timestamp": "2025-03-20T02:21:19.137634",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "11,973",
+    "fork": "1,048",
+    "timestamp": "2025-03-20T02:21:19.137918",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "38,590",
+    "fork": "6,344",
+    "timestamp": "2025-03-20T02:21:19.138191",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "9,887",
+    "fork": "932",
+    "timestamp": "2025-03-20T02:21:19.138468",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,470",
+    "fork": "891",
+    "timestamp": "2025-03-20T02:21:19.138751",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,296",
+    "fork": "4,064",
+    "timestamp": "2025-03-20T02:21:19.139023",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,059",
+    "fork": "2,303",
+    "timestamp": "2025-03-20T02:21:19.139296",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "25,809",
+    "fork": "2,554",
+    "timestamp": "2025-03-20T02:21:19.139567",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "authelia/authelia",
+    "href": "https://github.com/authelia/authelia",
+    "about": "The Single Sign-On Multi-Factor portal for web apps",
+    "star": "23,139",
+    "fork": "1,191",
+    "timestamp": "2025-03-20T02:21:19.139847",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "btcsuite/btcd",
+    "href": "https://github.com/btcsuite/btcd",
+    "about": "An alternative full node bitcoin implementation written in Go (golang)",
+    "star": "6,403",
+    "fork": "2,426",
+    "timestamp": "2025-03-20T02:21:19.140117",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "EndlessCheng/codeforces-go",
+    "href": "https://github.com/EndlessCheng/codeforces-go",
+    "about": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "star": "6,185",
+    "fork": "650",
+    "timestamp": "2025-03-20T02:21:19.140384",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "href": "https://github.com/kubernetes/minikube",
+    "about": "Run Kubernetes locally",
+    "star": "30,094",
+    "fork": "4,949",
+    "timestamp": "2025-03-20T02:21:19.140643",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gogf/gf",
+    "href": "https://github.com/gogf/gf",
+    "about": "A powerful framework for faster, easier, and more efficient project development.",
+    "star": "12,106",
+    "fork": "1,630",
+    "timestamp": "2025-03-20T02:21:19.140952",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "runatlantis/atlantis",
+    "href": "https://github.com/runatlantis/atlantis",
+    "about": "Terraform Pull Request Automation",
+    "star": "8,112",
+    "fork": "1,087",
+    "timestamp": "2025-03-20T02:21:19.141224",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "qdm12/ddns-updater",
+    "href": "https://github.com/qdm12/ddns-updater",
+    "about": "Container to update DNS records periodically with WebUI for many DNS providers",
+    "star": "2,196",
+    "fork": "196",
+    "timestamp": "2025-03-20T02:21:19.141525",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
+    "star": "133,853",
+    "fork": "11,053",
+    "timestamp": "2025-03-20T02:21:19.141835",
+    "stars_today": "198 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "17,838",
+    "fork": "1,361",
+    "timestamp": "2025-03-20T02:21:19.142108",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "mark3labs/mcphost",
+    "href": "https://github.com/mark3labs/mcphost",
+    "about": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+    "star": "332",
+    "fork": "38",
+    "timestamp": "2025-03-20T02:21:19.142380",
+    "stars_today": "24 stars today"
+  }
+]

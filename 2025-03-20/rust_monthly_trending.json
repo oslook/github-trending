@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "19,383",
+    "fork": "1,376",
+    "timestamp": "2025-03-20T02:21:44.143650",
+    "stars_today": "1,031 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "6,327",
+    "fork": "210",
+    "timestamp": "2025-03-20T02:21:44.143997",
+    "stars_today": "1,193 stars this month"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "29,802",
+    "fork": "3,126",
+    "timestamp": "2025-03-20T02:21:44.144316",
+    "stars_today": "554 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustup",
+    "href": "https://github.com/rust-lang/rustup",
+    "about": "The Rust toolchain installer",
+    "star": "6,357",
+    "fork": "925",
+    "timestamp": "2025-03-20T02:21:44.144603",
+    "stars_today": "79 stars this month"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,580",
+    "fork": "1,545",
+    "timestamp": "2025-03-20T02:21:44.144930",
+    "stars_today": "639 stars this month"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "29,211",
+    "fork": "2,035",
+    "timestamp": "2025-03-20T02:21:44.145211",
+    "stars_today": "1,284 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "45,114",
+    "fork": "1,265",
+    "timestamp": "2025-03-20T02:21:44.145496",
+    "stars_today": "4,901 stars this month"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "38,465",
+    "fork": "1,055",
+    "timestamp": "2025-03-20T02:21:44.145819",
+    "stars_today": "962 stars this month"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,466",
+    "fork": "1,490",
+    "timestamp": "2025-03-20T02:21:44.146099",
+    "stars_today": "124 stars this month"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "47,630",
+    "fork": "2,470",
+    "timestamp": "2025-03-20T02:21:44.146383",
+    "stars_today": "19,846 stars this month"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "13,872",
+    "fork": "536",
+    "timestamp": "2025-03-20T02:21:44.146664",
+    "stars_today": "455 stars this month"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,052",
+    "fork": "546",
+    "timestamp": "2025-03-20T02:21:44.146985",
+    "stars_today": "603 stars this month"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "27,244",
+    "fork": "1,946",
+    "timestamp": "2025-03-20T02:21:44.147266",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "36,843",
+    "fork": "6,611",
+    "timestamp": "2025-03-20T02:21:44.147578",
+    "stars_today": "1,999 stars this month"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "6,830",
+    "fork": "312",
+    "timestamp": "2025-03-20T02:21:44.147901",
+    "stars_today": "530 stars this month"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "16,577",
+    "fork": "513",
+    "timestamp": "2025-03-20T02:21:44.148183",
+    "stars_today": "413 stars this month"
+  },
+  {
+    "repo": "mfontanini/presenterm",
+    "href": "https://github.com/mfontanini/presenterm",
+    "about": "A markdown terminal slideshow tool",
+    "star": "5,116",
+    "fork": "104",
+    "timestamp": "2025-03-20T02:21:44.148491",
+    "stars_today": "2,795 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "17,753",
+    "fork": "547",
+    "timestamp": "2025-03-20T02:21:44.148811",
+    "stars_today": "678 stars this month"
+  },
+  {
+    "repo": "tauri-apps/plugins-workspace",
+    "href": "https://github.com/tauri-apps/plugins-workspace",
+    "about": "All of the official Tauri plugins in one place!",
+    "star": "1,177",
+    "fork": "347",
+    "timestamp": "2025-03-20T02:21:44.149123",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "51,156",
+    "fork": "2,089",
+    "timestamp": "2025-03-20T02:21:44.149433",
+    "stars_today": "807 stars this month"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,471",
+    "fork": "2,121",
+    "timestamp": "2025-03-20T02:21:44.149731",
+    "stars_today": "600 stars this month"
+  },
+  {
+    "repo": "get-convex/convex-backend",
+    "href": "https://github.com/get-convex/convex-backend",
+    "about": "The open-source reactive database for app developers",
+    "star": "3,393",
+    "fork": "144",
+    "timestamp": "2025-03-20T02:21:44.150015",
+    "stars_today": "666 stars this month"
+  },
+  {
+    "repo": "web-infra-dev/rspack",
+    "href": "https://github.com/web-infra-dev/rspack",
+    "about": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+    "star": "11,112",
+    "fork": "651",
+    "timestamp": "2025-03-20T02:21:44.150296",
+    "stars_today": "327 stars this month"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "8,718",
+    "fork": "1,900",
+    "timestamp": "2025-03-20T02:21:44.150577",
+    "stars_today": "142 stars this month"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "49,829",
+    "fork": "1,957",
+    "timestamp": "2025-03-20T02:21:44.150865",
+    "stars_today": "611 stars this month"
+  }
+]

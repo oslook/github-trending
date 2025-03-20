@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,776",
+    "fork": "437",
+    "timestamp": "2025-03-20T02:21:20.086557",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,090",
+    "fork": "1,799",
+    "timestamp": "2025-03-20T02:21:20.086874",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ucsd-progsys/liquid-fixpoint",
+    "href": "https://github.com/ucsd-progsys/liquid-fixpoint",
+    "about": "Horn Clause Constraint Solving for Liquid Types",
+    "star": "144",
+    "fork": "62",
+    "timestamp": "2025-03-20T02:21:20.087163",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "runtimeverification/haskell-backend",
+    "href": "https://github.com/runtimeverification/haskell-backend",
+    "about": "The symbolic execution engine powering the K Framework",
+    "star": "216",
+    "fork": "45",
+    "timestamp": "2025-03-20T02:21:20.087452",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ethereum/hevm",
+    "href": "https://github.com/ethereum/hevm",
+    "about": "symbolic EVM evaluator",
+    "star": "269",
+    "fork": "55",
+    "timestamp": "2025-03-20T02:21:20.087744",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,882",
+    "fork": "1,065",
+    "timestamp": "2025-03-20T02:21:20.088030",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,111",
+    "fork": "725",
+    "timestamp": "2025-03-20T02:21:20.088311",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,774",
+    "fork": "378",
+    "timestamp": "2025-03-20T02:21:20.088595",
+    "stars_today": "0 stars today"
+  }
+]

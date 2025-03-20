@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "4,962",
+    "fork": "2,661",
+    "timestamp": "2025-03-20T02:21:09.197434",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "26,973",
+    "fork": "10,402",
+    "timestamp": "2025-03-20T02:21:09.197782",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "href": "https://github.com/fluent/fluent-bit",
+    "about": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+    "star": "6,666",
+    "fork": "1,652",
+    "timestamp": "2025-03-20T02:21:09.198072",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nginx/nginx",
+    "href": "https://github.com/nginx/nginx",
+    "about": "The official NGINX Open Source repository.",
+    "star": "26,335",
+    "fork": "7,215",
+    "timestamp": "2025-03-20T02:21:09.198356",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "mit-pdos/xv6-public",
+    "href": "https://github.com/mit-pdos/xv6-public",
+    "about": "xv6 OS",
+    "star": "8,218",
+    "fork": "4,139",
+    "timestamp": "2025-03-20T02:21:09.198642",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Circuit-Digest/ESP-Drone",
+    "href": "https://github.com/Circuit-Digest/ESP-Drone",
+    "about": "",
+    "star": "1,023",
+    "fork": "180",
+    "timestamp": "2025-03-20T02:21:09.198955",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,557",
+    "fork": "1,090",
+    "timestamp": "2025-03-20T02:21:09.199255",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ffmpegwasm/ffmpeg.wasm",
+    "href": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+    "about": "FFmpeg for browser, powered by WebAssembly",
+    "star": "15,311",
+    "fork": "917",
+    "timestamp": "2025-03-20T02:21:09.199536",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "10,731",
+    "fork": "1,416",
+    "timestamp": "2025-03-20T02:21:09.199828",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,126",
+    "fork": "525",
+    "timestamp": "2025-03-20T02:21:09.200108",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "18,664",
+    "fork": "3,502",
+    "timestamp": "2025-03-20T02:21:09.200413",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "intel/xess",
+    "href": "https://github.com/intel/xess",
+    "about": "Intel XeSS SDK",
+    "star": "682",
+    "fork": "46",
+    "timestamp": "2025-03-20T02:21:09.200688",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "arthenica/ffmpeg-kit",
+    "href": "https://github.com/arthenica/ffmpeg-kit",
+    "about": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+    "star": "4,974",
+    "fork": "1,211",
+    "timestamp": "2025-03-20T02:21:09.200969",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "521",
+    "fork": "3,177",
+    "timestamp": "2025-03-20T02:21:09.201244",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hathach/tinyusb",
+    "href": "https://github.com/hathach/tinyusb",
+    "about": "An open source cross-platform USB stack for embedded system",
+    "star": "5,403",
+    "fork": "1,137",
+    "timestamp": "2025-03-20T02:21:09.201517",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "37,240",
+    "fork": "6,612",
+    "timestamp": "2025-03-20T02:21:09.201832",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "vanhauser-thc/thc-hydra",
+    "href": "https://github.com/vanhauser-thc/thc-hydra",
+    "about": "hydra",
+    "star": "10,189",
+    "fork": "2,117",
+    "timestamp": "2025-03-20T02:21:09.202107",
+    "stars_today": "8 stars today"
+  }
+]

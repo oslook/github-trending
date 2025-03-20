@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "36,421",
+    "fork": "3,465",
+    "timestamp": "2025-03-20T02:21:21.004606",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,776",
+    "fork": "437",
+    "timestamp": "2025-03-20T02:21:21.004956",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,090",
+    "fork": "1,799",
+    "timestamp": "2025-03-20T02:21:21.005242",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,111",
+    "fork": "725",
+    "timestamp": "2025-03-20T02:21:21.005524",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "goldfirere/th-desugar",
+    "href": "https://github.com/goldfirere/th-desugar",
+    "about": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
+    "star": "20",
+    "fork": "14",
+    "timestamp": "2025-03-20T02:21:21.005819",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,882",
+    "fork": "1,065",
+    "timestamp": "2025-03-20T02:21:21.006099",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,355",
+    "fork": "330",
+    "timestamp": "2025-03-20T02:21:21.006378",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,053",
+    "fork": "30",
+    "timestamp": "2025-03-20T02:21:21.006684",
+    "stars_today": "7 stars this week"
+  }
+]
