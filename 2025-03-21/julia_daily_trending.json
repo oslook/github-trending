@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "622",
+    "fork": "485",
+    "timestamp": "2025-03-21T02:23:10.257979",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "255",
+    "fork": "46",
+    "timestamp": "2025-03-21T02:23:10.258318",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "471",
+    "fork": "79",
+    "timestamp": "2025-03-21T02:23:10.258625",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,398",
+    "fork": "164",
+    "timestamp": "2025-03-21T02:23:10.258900",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "578",
+    "fork": "221",
+    "timestamp": "2025-03-21T02:23:10.259203",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/NeuralPDE.jl",
+    "href": "https://github.com/SciML/NeuralPDE.jl",
+    "about": "Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation",
+    "star": "1,050",
+    "fork": "212",
+    "timestamp": "2025-03-21T02:23:10.259517",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaPlots/Plots.jl",
+    "href": "https://github.com/JuliaPlots/Plots.jl",
+    "about": "Powerful convenience for Julia visualizations and data analysis",
+    "star": "1,876",
+    "fork": "362",
+    "timestamp": "2025-03-21T02:23:10.259823",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/ClimaCore.jl",
+    "href": "https://github.com/CliMA/ClimaCore.jl",
+    "about": "CliMA model dycore",
+    "star": "94",
+    "fork": "15",
+    "timestamp": "2025-03-21T02:23:10.260099",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,642",
+    "fork": "5,555",
+    "timestamp": "2025-03-21T02:23:10.260416",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.",
+    "star": "41",
+    "fork": "16",
+    "timestamp": "2025-03-21T02:23:10.260695",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCoupler.jl",
+    "href": "https://github.com/CliMA/ClimaCoupler.jl",
+    "about": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+    "star": "31",
+    "fork": "5",
+    "timestamp": "2025-03-21T02:23:10.260970",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "LuxDL/Lux.jl",
+    "href": "https://github.com/LuxDL/Lux.jl",
+    "about": "Elegant and Performant Scientific Machine Learning in Julia",
+    "star": "549",
+    "fork": "67",
+    "timestamp": "2025-03-21T02:23:10.261256",
+    "stars_today": "1 star today"
+  }
+]
