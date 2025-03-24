@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "Devolutions/IronRDP",
+    "href": "https://github.com/Devolutions/IronRDP",
+    "about": "Rust implementation of the Microsoft Remote Desktop Protocol (RDP)",
+    "star": "1,580",
+    "fork": "79",
+    "timestamp": "2025-03-24T02:27:47.088008",
+    "stars_today": "279 stars today"
+  },
+  {
+    "repo": "tracel-ai/burn",
+    "href": "https://github.com/tracel-ai/burn",
+    "about": "Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.",
+    "star": "10,066",
+    "fork": "523",
+    "timestamp": "2025-03-24T02:27:47.088308",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,598",
+    "fork": "3,798",
+    "timestamp": "2025-03-24T02:27:47.088597",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-rust",
+    "href": "https://github.com/shadowsocks/shadowsocks-rust",
+    "about": "A Rust port of shadowsocks",
+    "star": "9,205",
+    "fork": "1,270",
+    "timestamp": "2025-03-24T02:27:47.088875",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "zellij-org/zellij",
+    "href": "https://github.com/zellij-org/zellij",
+    "about": "A terminal workspace with batteries included",
+    "star": "23,613",
+    "fork": "713",
+    "timestamp": "2025-03-24T02:27:47.089165",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "huggingface/candle",
+    "href": "https://github.com/huggingface/candle",
+    "about": "Minimalist ML framework for Rust",
+    "star": "16,865",
+    "fork": "1,063",
+    "timestamp": "2025-03-24T02:27:47.089445",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "emilk/egui",
+    "href": "https://github.com/emilk/egui",
+    "about": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "star": "24,130",
+    "fork": "1,695",
+    "timestamp": "2025-03-24T02:27:47.089725",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "EricLBuehler/mistral.rs",
+    "href": "https://github.com/EricLBuehler/mistral.rs",
+    "about": "Blazingly fast LLM inference.",
+    "star": "5,292",
+    "fork": "384",
+    "timestamp": "2025-03-24T02:27:47.090023",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "tikv/tikv",
+    "href": "https://github.com/tikv/tikv",
+    "about": "Distributed transactional key-value database, originally created to complement TiDB",
+    "star": "15,644",
+    "fork": "2,169",
+    "timestamp": "2025-03-24T02:27:47.090304",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "launchbadge/sqlx",
+    "href": "https://github.com/launchbadge/sqlx",
+    "about": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+    "star": "14,386",
+    "fork": "1,355",
+    "timestamp": "2025-03-24T02:27:47.090585",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "H-M-H/Weylus",
+    "href": "https://github.com/H-M-H/Weylus",
+    "about": "Use your tablet as graphic tablet/touch screen on your computer.",
+    "star": "7,637",
+    "fork": "300",
+    "timestamp": "2025-03-24T02:27:47.090892",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "23,342",
+    "fork": "511",
+    "timestamp": "2025-03-24T02:27:47.091182",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "aws/amazon-q-developer-cli",
+    "href": "https://github.com/aws/amazon-q-developer-cli",
+    "about": "Add autocomplete and AI to your existing terminal on macOS & Linux",
+    "star": "174",
+    "fork": "34",
+    "timestamp": "2025-03-24T02:27:47.091463",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "26,024",
+    "fork": "1,255",
+    "timestamp": "2025-03-24T02:27:47.091747",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+    "star": "2,065",
+    "fork": "104",
+    "timestamp": "2025-03-24T02:27:47.092041",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "about": "A curated list of Rust code and resources.",
+    "star": "49,411",
+    "fork": "2,873",
+    "timestamp": "2025-03-24T02:27:47.092322",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "29,707",
+    "fork": "3,593",
+    "timestamp": "2025-03-24T02:27:47.092601",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "leptos-rs/leptos",
+    "href": "https://github.com/leptos-rs/leptos",
+    "about": "Build fast web applications with Rust.",
+    "star": "17,985",
+    "fork": "725",
+    "timestamp": "2025-03-24T02:27:47.092880",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "42,837",
+    "fork": "2,027",
+    "timestamp": "2025-03-24T02:27:47.093201",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "href": "https://github.com/ratatui/ratatui",
+    "about": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+    "star": "12,314",
+    "fork": "385",
+    "timestamp": "2025-03-24T02:27:47.093510",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "14,778",
+    "fork": "582",
+    "timestamp": "2025-03-24T02:27:47.093783",
+    "stars_today": "44 stars today"
+  }
+]
