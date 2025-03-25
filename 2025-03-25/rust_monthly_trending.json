@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,487",
+    "fork": "1,499",
+    "timestamp": "2025-03-25T02:24:36.690652",
+    "stars_today": "127 stars this month"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "19,578",
+    "fork": "1,398",
+    "timestamp": "2025-03-25T02:24:36.690991",
+    "stars_today": "1,223 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "6,434",
+    "fork": "216",
+    "timestamp": "2025-03-25T02:24:36.691304",
+    "stars_today": "1,227 stars this month"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "29,868",
+    "fork": "3,131",
+    "timestamp": "2025-03-25T02:24:36.691610",
+    "stars_today": "541 stars this month"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "29,293",
+    "fork": "2,041",
+    "timestamp": "2025-03-25T02:24:36.691886",
+    "stars_today": "1,320 stars this month"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,127",
+    "fork": "551",
+    "timestamp": "2025-03-25T02:24:36.692201",
+    "stars_today": "652 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustup",
+    "href": "https://github.com/rust-lang/rustup",
+    "about": "The Rust toolchain installer",
+    "star": "6,368",
+    "fork": "926",
+    "timestamp": "2025-03-25T02:24:36.692476",
+    "stars_today": "77 stars this month"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,674",
+    "fork": "1,553",
+    "timestamp": "2025-03-25T02:24:36.692778",
+    "stars_today": "637 stars this month"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "href": "https://github.com/sharkdp/fd",
+    "about": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "37,099",
+    "fork": "861",
+    "timestamp": "2025-03-25T02:24:36.693093",
+    "stars_today": "1,457 stars this month"
+  },
+  {
+    "repo": "tauri-apps/plugins-workspace",
+    "href": "https://github.com/tauri-apps/plugins-workspace",
+    "about": "All of the official Tauri plugins in one place!",
+    "star": "1,189",
+    "fork": "350",
+    "timestamp": "2025-03-25T02:24:36.693396",
+    "stars_today": "79 stars this month"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "13,983",
+    "fork": "538",
+    "timestamp": "2025-03-25T02:24:36.693674",
+    "stars_today": "534 stars this month"
+  },
+  {
+    "repo": "mfontanini/presenterm",
+    "href": "https://github.com/mfontanini/presenterm",
+    "about": "A markdown terminal slideshow tool",
+    "star": "5,225",
+    "fork": "104",
+    "timestamp": "2025-03-25T02:24:36.693989",
+    "stars_today": "2,890 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "51,270",
+    "fork": "2,092",
+    "timestamp": "2025-03-25T02:24:36.694295",
+    "stars_today": "852 stars this month"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "36,906",
+    "fork": "6,634",
+    "timestamp": "2025-03-25T02:24:36.694598",
+    "stars_today": "1,829 stars this month"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "6,898",
+    "fork": "322",
+    "timestamp": "2025-03-25T02:24:36.694899",
+    "stars_today": "554 stars this month"
+  },
+  {
+    "repo": "huggingface/text-embeddings-inference",
+    "href": "https://github.com/huggingface/text-embeddings-inference",
+    "about": "A blazing fast inference solution for text embeddings models",
+    "star": "3,347",
+    "fork": "228",
+    "timestamp": "2025-03-25T02:24:36.695193",
+    "stars_today": "154 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "46,099",
+    "fork": "1,294",
+    "timestamp": "2025-03-25T02:24:36.695464",
+    "stars_today": "5,096 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+    "star": "2,072",
+    "fork": "105",
+    "timestamp": "2025-03-25T02:24:36.695737",
+    "stars_today": "379 stars this month"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,600",
+    "fork": "2,125",
+    "timestamp": "2025-03-25T02:24:36.696017",
+    "stars_today": "638 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "56,094",
+    "fork": "3,771",
+    "timestamp": "2025-03-25T02:24:36.696292",
+    "stars_today": "1,579 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "17,862",
+    "fork": "550",
+    "timestamp": "2025-03-25T02:24:36.696596",
+    "stars_today": "681 stars this month"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "27,285",
+    "fork": "1,945",
+    "timestamp": "2025-03-25T02:24:36.696869",
+    "stars_today": "297 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,617",
+    "fork": "3,802",
+    "timestamp": "2025-03-25T02:24:36.697153",
+    "stars_today": "607 stars this month"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "48,988",
+    "fork": "2,489",
+    "timestamp": "2025-03-25T02:24:36.697423",
+    "stars_today": "19,223 stars this month"
+  },
+  {
+    "repo": "ankitects/anki",
+    "href": "https://github.com/ankitects/anki",
+    "about": "Anki's shared backend and web components, and the Qt frontend",
+    "star": "20,484",
+    "fork": "2,262",
+    "timestamp": "2025-03-25T02:24:36.697692",
+    "stars_today": "456 stars this month"
+  }
+]

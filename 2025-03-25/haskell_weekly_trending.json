@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "36,516",
+    "fork": "3,470",
+    "timestamp": "2025-03-25T02:24:17.339719",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,117",
+    "fork": "1,800",
+    "timestamp": "2025-03-25T02:24:17.340023",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,787",
+    "fork": "437",
+    "timestamp": "2025-03-25T02:24:17.340330",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,207",
+    "fork": "323",
+    "timestamp": "2025-03-25T02:24:17.340629",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "24,916",
+    "fork": "1,069",
+    "timestamp": "2025-03-25T02:24:17.340902",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "koka-lang/koka",
+    "href": "https://github.com/koka-lang/koka",
+    "about": "Koka language compiler and interpreter",
+    "star": "3,460",
+    "fork": "176",
+    "timestamp": "2025-03-25T02:24:17.341188",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "haskell-suite/haskell-src-exts",
+    "href": "https://github.com/haskell-suite/haskell-src-exts",
+    "about": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+    "star": "197",
+    "fork": "94",
+    "timestamp": "2025-03-25T02:24:17.341461",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "github/semantic",
+    "href": "https://github.com/github/semantic",
+    "about": "Parsing, analyzing, and comparing source code across many languages",
+    "star": "9,026",
+    "fork": "453",
+    "timestamp": "2025-03-25T02:24:17.341729",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "GaloisInc/cryptol",
+    "href": "https://github.com/GaloisInc/cryptol",
+    "about": "Cryptol: The Language of Cryptography",
+    "star": "1,151",
+    "fork": "123",
+    "timestamp": "2025-03-25T02:24:17.342011",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "goldfirere/th-desugar",
+    "href": "https://github.com/goldfirere/th-desugar",
+    "about": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
+    "star": "20",
+    "fork": "14",
+    "timestamp": "2025-03-25T02:24:17.342324",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,774",
+    "fork": "379",
+    "timestamp": "2025-03-25T02:24:17.342599",
+    "stars_today": "2 stars this week"
+  }
+]

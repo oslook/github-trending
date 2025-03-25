@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "623",
+    "fork": "485",
+    "timestamp": "2025-03-25T02:24:22.393950",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/ModelingToolkit.jl",
+    "href": "https://github.com/SciML/ModelingToolkit.jl",
+    "about": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+    "star": "1,492",
+    "fork": "213",
+    "timestamp": "2025-03-25T02:24:22.394313",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,399",
+    "fork": "166",
+    "timestamp": "2025-03-25T02:24:22.394792",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "132",
+    "fork": "20",
+    "timestamp": "2025-03-25T02:24:22.395308",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "578",
+    "fork": "221",
+    "timestamp": "2025-03-25T02:24:22.395853",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/SciMLBase.jl",
+    "href": "https://github.com/SciML/SciMLBase.jl",
+    "about": "The Base interface of the SciML ecosystem",
+    "star": "145",
+    "fork": "105",
+    "timestamp": "2025-03-25T02:24:22.396437",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,667",
+    "fork": "5,556",
+    "timestamp": "2025-03-25T02:24:22.397042",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "SciML/StructuralIdentifiability.jl",
+    "href": "https://github.com/SciML/StructuralIdentifiability.jl",
+    "about": "Fast and automatic structural identifiability software for ODE systems",
+    "star": "113",
+    "fork": "18",
+    "timestamp": "2025-03-25T02:24:22.397605",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaCollections/DataStructures.jl",
+    "href": "https://github.com/JuliaCollections/DataStructures.jl",
+    "about": "Julia implementation of Data structures",
+    "star": "704",
+    "fork": "251",
+    "timestamp": "2025-03-25T02:24:22.398134",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "255",
+    "fork": "46",
+    "timestamp": "2025-03-25T02:24:22.398687",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/Optimization.jl",
+    "href": "https://github.com/SciML/Optimization.jl",
+    "about": "Mathematical Optimization in Julia. Local, global, gradient-based and derivative-free. Linear, Quadratic, Convex, Mixed-Integer, and Nonlinear Optimization in one simple, fast, and differentiable interface.",
+    "star": "761",
+    "fork": "89",
+    "timestamp": "2025-03-25T02:24:22.399277",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/NeuralPDE.jl",
+    "href": "https://github.com/SciML/NeuralPDE.jl",
+    "about": "Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation",
+    "star": "1,053",
+    "fork": "212",
+    "timestamp": "2025-03-25T02:24:22.399842",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "SciML/ModelingToolkitStandardLibrary.jl",
+    "href": "https://github.com/SciML/ModelingToolkitStandardLibrary.jl",
+    "about": "A standard library of components to model the world and beyond",
+    "star": "133",
+    "fork": "42",
+    "timestamp": "2025-03-25T02:24:22.400268",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaDocs/Documenter.jl",
+    "href": "https://github.com/JuliaDocs/Documenter.jl",
+    "about": "A documentation generator for Julia.",
+    "star": "840",
+    "fork": "490",
+    "timestamp": "2025-03-25T02:24:22.400546",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/CellMLToolkit.jl",
+    "href": "https://github.com/SciML/CellMLToolkit.jl",
+    "about": "CellMLToolkit.jl is a Julia library that connects CellML models to the Scientific Julia ecosystem.",
+    "star": "64",
+    "fork": "17",
+    "timestamp": "2025-03-25T02:24:22.400844",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "471",
+    "fork": "79",
+    "timestamp": "2025-03-25T02:24:22.401174",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaIO/EzXML.jl",
+    "href": "https://github.com/JuliaIO/EzXML.jl",
+    "about": "XML/HTML handling tools for primates",
+    "star": "124",
+    "fork": "36",
+    "timestamp": "2025-03-25T02:24:22.401649",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NREL-Sienna/PowerSystems.jl",
+    "href": "https://github.com/NREL-Sienna/PowerSystems.jl",
+    "about": "Data structures in Julia to enable power systems analysis. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.",
+    "star": "322",
+    "fork": "91",
+    "timestamp": "2025-03-25T02:24:22.402865",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaParallel/Dagger.jl",
+    "href": "https://github.com/JuliaParallel/Dagger.jl",
+    "about": "A framework for out-of-core and parallel execution",
+    "star": "660",
+    "fork": "69",
+    "timestamp": "2025-03-25T02:24:22.403402",
+    "stars_today": "1 star today"
+  }
+]
