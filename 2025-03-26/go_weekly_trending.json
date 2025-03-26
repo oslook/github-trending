@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "9,624",
+    "fork": "1,291",
+    "timestamp": "2025-03-26T02:23:09.424323",
+    "stars_today": "776 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "20,182",
+    "fork": "726",
+    "timestamp": "2025-03-26T02:23:09.424650",
+    "stars_today": "2,144 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "1,203",
+    "fork": "103",
+    "timestamp": "2025-03-26T02:23:09.424951",
+    "stars_today": "347 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "44,858",
+    "fork": "2,180",
+    "timestamp": "2025-03-26T02:23:09.425274",
+    "stars_today": "225 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "140,535",
+    "fork": "12,167",
+    "timestamp": "2025-03-26T02:23:09.425595",
+    "stars_today": "536 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,719",
+    "fork": "2,116",
+    "timestamp": "2025-03-26T02:23:09.425898",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,569",
+    "fork": "1,433",
+    "timestamp": "2025-03-26T02:23:09.426280",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,596",
+    "fork": "1,738",
+    "timestamp": "2025-03-26T02:23:09.426595",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,654",
+    "fork": "2,417",
+    "timestamp": "2025-03-26T02:23:09.426891",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,279",
+    "fork": "3,527",
+    "timestamp": "2025-03-26T02:23:09.427172",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "11,145",
+    "fork": "589",
+    "timestamp": "2025-03-26T02:23:09.427453",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,037",
+    "fork": "8,142",
+    "timestamp": "2025-03-26T02:23:09.427747",
+    "stars_today": "193 stars this week"
+  },
+  {
+    "repo": "go-resty/resty",
+    "href": "https://github.com/go-resty/resty",
+    "about": "Simple HTTP, REST, and SSE client library for Go",
+    "star": "10,690",
+    "fork": "733",
+    "timestamp": "2025-03-26T02:23:09.428031",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "18,844",
+    "fork": "1,756",
+    "timestamp": "2025-03-26T02:23:09.428317",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "12,070",
+    "fork": "1,056",
+    "timestamp": "2025-03-26T02:23:09.428599",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,162",
+    "fork": "410",
+    "timestamp": "2025-03-26T02:23:09.428898",
+    "stars_today": "539 stars this week"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,078",
+    "fork": "8,328",
+    "timestamp": "2025-03-26T02:23:09.429181",
+    "stars_today": "94 stars this week"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,507",
+    "fork": "177",
+    "timestamp": "2025-03-26T02:23:09.429469",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,129",
+    "fork": "185",
+    "timestamp": "2025-03-26T02:23:09.429767",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "href": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "about": "The most customisable and low-latency cross platform/shell prompt renderer",
+    "star": "18,615",
+    "fork": "2,484",
+    "timestamp": "2025-03-26T02:23:09.430085",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "8,019",
+    "fork": "2,642",
+    "timestamp": "2025-03-26T02:23:09.430372",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "daeuniverse/dae",
+    "href": "https://github.com/daeuniverse/dae",
+    "about": "eBPF-based Linux high-performance transparent proxy solution.",
+    "star": "4,012",
+    "fork": "250",
+    "timestamp": "2025-03-26T02:23:09.430689",
+    "stars_today": "177 stars this week"
+  },
+  {
+    "repo": "cloudwego/hertz",
+    "href": "https://github.com/cloudwego/hertz",
+    "about": "Go HTTP framework with high-performance and strong-extensibility for building micro-services.",
+    "star": "6,064",
+    "fork": "546",
+    "timestamp": "2025-03-26T02:23:09.430996",
+    "stars_today": "83 stars this week"
+  },
+  {
+    "repo": "gogf/gf",
+    "href": "https://github.com/gogf/gf",
+    "about": "A powerful framework for faster, easier, and more efficient project development.",
+    "star": "12,139",
+    "fork": "1,632",
+    "timestamp": "2025-03-26T02:23:09.431314",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "2,952",
+    "fork": "1,617",
+    "timestamp": "2025-03-26T02:23:09.431629",
+    "stars_today": "16 stars this week"
+  }
+]
