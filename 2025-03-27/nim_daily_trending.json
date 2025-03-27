@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "zedeus/nitter",
+    "href": "https://github.com/zedeus/nitter",
+    "about": "Alternative Twitter front-end",
+    "star": "10,660",
+    "fork": "564",
+    "timestamp": "2025-03-27T02:23:31.677905",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nim-lang/Nim",
+    "href": "https://github.com/nim-lang/Nim",
+    "about": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "star": "16,918",
+    "fork": "1,482",
+    "timestamp": "2025-03-27T02:23:31.678203",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "status-im/nim-json-serialization",
+    "href": "https://github.com/status-im/nim-json-serialization",
+    "about": "Flexible JSON serialization not relying on run-time type information",
+    "star": "50",
+    "fork": "10",
+    "timestamp": "2025-03-27T02:23:31.678486",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-json-rpc",
+    "href": "https://github.com/status-im/nim-json-rpc",
+    "about": "Nim library for implementing JSON-RPC clients and servers",
+    "star": "93",
+    "fork": "29",
+    "timestamp": "2025-03-27T02:23:31.678775",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nim-lang/langserver",
+    "href": "https://github.com/nim-lang/langserver",
+    "about": "The Nim language server implementation (based on nimsuggest)",
+    "star": "229",
+    "fork": "35",
+    "timestamp": "2025-03-27T02:23:31.679053",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-websock",
+    "href": "https://github.com/status-im/nim-websock",
+    "about": "Websocket for Nim",
+    "star": "86",
+    "fork": "15",
+    "timestamp": "2025-03-27T02:23:31.679334",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-chronos",
+    "href": "https://github.com/status-im/nim-chronos",
+    "about": "Chronos - An efficient library for asynchronous programming",
+    "star": "370",
+    "fork": "52",
+    "timestamp": "2025-03-27T02:23:31.679613",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-stew",
+    "href": "https://github.com/status-im/nim-stew",
+    "about": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+    "star": "144",
+    "fork": "18",
+    "timestamp": "2025-03-27T02:23:31.679901",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-stint",
+    "href": "https://github.com/status-im/nim-stint",
+    "about": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.",
+    "star": "86",
+    "fork": "11",
+    "timestamp": "2025-03-27T02:23:31.680177",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-faststreams",
+    "href": "https://github.com/status-im/nim-faststreams",
+    "about": "Nearly zero-overhead input/output streams for Nim",
+    "star": "129",
+    "fork": "11",
+    "timestamp": "2025-03-27T02:23:31.680451",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "arnetheduck/nim-results",
+    "href": "https://github.com/arnetheduck/nim-results",
+    "about": "Friendly value-or-error type",
+    "star": "159",
+    "fork": "11",
+    "timestamp": "2025-03-27T02:23:31.680725",
+    "stars_today": "0 stars today"
+  }
+]

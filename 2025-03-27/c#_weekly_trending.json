@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "pocoproject/poco",
+    "href": "https://github.com/pocoproject/poco",
+    "about": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+    "star": "8,774",
+    "fork": "2,230",
+    "timestamp": "2025-03-27T02:23:03.291490",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "11,754",
+    "fork": "7,127",
+    "timestamp": "2025-03-27T02:23:03.291801",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "karpathy/llama2.c",
+    "href": "https://github.com/karpathy/llama2.c",
+    "about": "Inference Llama 2 in one file of pure C",
+    "star": "18,229",
+    "fork": "2,224",
+    "timestamp": "2025-03-27T02:23:03.292080",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,410",
+    "fork": "3,416",
+    "timestamp": "2025-03-27T02:23:03.292350",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,764",
+    "fork": "2,663",
+    "timestamp": "2025-03-27T02:23:03.292622",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "538",
+    "fork": "3,181",
+    "timestamp": "2025-03-27T02:23:03.292908",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "793",
+    "fork": "1,511",
+    "timestamp": "2025-03-27T02:23:03.293186",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "14,822",
+    "fork": "719",
+    "timestamp": "2025-03-27T02:23:03.293458",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "facebook/zstd",
+    "href": "https://github.com/facebook/zstd",
+    "about": "Zstandard - Fast real-time compression algorithm",
+    "star": "24,589",
+    "fork": "2,196",
+    "timestamp": "2025-03-27T02:23:03.293726",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "flipperdevices/flipperzero-firmware",
+    "href": "https://github.com/flipperdevices/flipperzero-firmware",
+    "about": "Flipper Zero firmware source code",
+    "star": "13,933",
+    "fork": "2,912",
+    "timestamp": "2025-03-27T02:23:03.294015",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "5,471",
+    "fork": "843",
+    "timestamp": "2025-03-27T02:23:03.294314",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tmux/tmux",
+    "href": "https://github.com/tmux/tmux",
+    "about": "tmux source code",
+    "star": "36,925",
+    "fork": "2,179",
+    "timestamp": "2025-03-27T02:23:03.294614",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "floooh/sokol",
+    "href": "https://github.com/floooh/sokol",
+    "about": "minimal cross-platform standalone C headers",
+    "star": "8,017",
+    "fork": "541",
+    "timestamp": "2025-03-27T02:23:03.294898",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "kokke/tiny-AES-c",
+    "href": "https://github.com/kokke/tiny-AES-c",
+    "about": "Small portable AES128/192/256 in C",
+    "star": "4,465",
+    "fork": "1,320",
+    "timestamp": "2025-03-27T02:23:03.295204",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,386",
+    "fork": "1,014",
+    "timestamp": "2025-03-27T02:23:03.295499",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,123",
+    "fork": "1,225",
+    "timestamp": "2025-03-27T02:23:03.295786",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "RfidResearchGroup/proxmark3",
+    "href": "https://github.com/RfidResearchGroup/proxmark3",
+    "about": "Iceman Fork - Proxmark3",
+    "star": "4,376",
+    "fork": "1,127",
+    "timestamp": "2025-03-27T02:23:03.296082",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "open-mpi/ompi",
+    "href": "https://github.com/open-mpi/ompi",
+    "about": "Open MPI main development repository",
+    "star": "2,307",
+    "fork": "889",
+    "timestamp": "2025-03-27T02:23:03.296356",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+    "star": "19,677",
+    "fork": "758",
+    "timestamp": "2025-03-27T02:23:03.296622",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "ufrisk/pcileech",
+    "href": "https://github.com/ufrisk/pcileech",
+    "about": "Direct Memory Access (DMA) Attack Software",
+    "star": "5,454",
+    "fork": "793",
+    "timestamp": "2025-03-27T02:23:03.296930",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "14,840",
+    "fork": "7,555",
+    "timestamp": "2025-03-27T02:23:03.297198",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "pr3y/Bruce",
+    "href": "https://github.com/pr3y/Bruce",
+    "about": "Predatory ESP32 Firmware",
+    "star": "2,172",
+    "fork": "307",
+    "timestamp": "2025-03-27T02:23:03.297475",
+    "stars_today": "12 stars today"
+  }
+]

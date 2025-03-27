@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,675",
+    "fork": "5,556",
+    "timestamp": "2025-03-27T02:23:26.023306",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "624",
+    "fork": "485",
+    "timestamp": "2025-03-27T02:23:26.023600",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaEarth/GeoIO.jl",
+    "href": "https://github.com/JuliaEarth/GeoIO.jl",
+    "about": "Load/save geospatial data compatible with the GeoStats.jl framework",
+    "star": "27",
+    "fork": "14",
+    "timestamp": "2025-03-27T02:23:26.023892",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/StructuralIdentifiability.jl",
+    "href": "https://github.com/SciML/StructuralIdentifiability.jl",
+    "about": "Fast and automatic structural identifiability software for ODE systems",
+    "star": "114",
+    "fork": "18",
+    "timestamp": "2025-03-27T02:23:26.024195",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,398",
+    "fork": "167",
+    "timestamp": "2025-03-27T02:23:26.024493",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaDocs/Documenter.jl",
+    "href": "https://github.com/JuliaDocs/Documenter.jl",
+    "about": "A documentation generator for Julia.",
+    "star": "840",
+    "fork": "491",
+    "timestamp": "2025-03-27T02:23:26.024800",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "257",
+    "fork": "46",
+    "timestamp": "2025-03-27T02:23:26.025103",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "134",
+    "fork": "20",
+    "timestamp": "2025-03-27T02:23:26.025375",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaParallel/Dagger.jl",
+    "href": "https://github.com/JuliaParallel/Dagger.jl",
+    "about": "A framework for out-of-core and parallel execution",
+    "star": "661",
+    "fork": "69",
+    "timestamp": "2025-03-27T02:23:26.025649",
+    "stars_today": "0 stars today"
+  }
+]

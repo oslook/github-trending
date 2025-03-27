@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "29,324",
+    "fork": "2,042",
+    "timestamp": "2025-03-27T02:23:46.841483",
+    "stars_today": "1,336 stars this month"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "19,647",
+    "fork": "1,406",
+    "timestamp": "2025-03-27T02:23:46.841815",
+    "stars_today": "1,281 stars this month"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,495",
+    "fork": "1,504",
+    "timestamp": "2025-03-27T02:23:46.842095",
+    "stars_today": "132 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "6,461",
+    "fork": "217",
+    "timestamp": "2025-03-27T02:23:46.842402",
+    "stars_today": "1,228 stars this month"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "29,887",
+    "fork": "3,135",
+    "timestamp": "2025-03-27T02:23:46.842705",
+    "stars_today": "548 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustup",
+    "href": "https://github.com/rust-lang/rustup",
+    "about": "The Rust toolchain installer",
+    "star": "6,368",
+    "fork": "926",
+    "timestamp": "2025-03-27T02:23:46.842993",
+    "stars_today": "78 stars this month"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,727",
+    "fork": "1,555",
+    "timestamp": "2025-03-27T02:23:46.843298",
+    "stars_today": "635 stars this month"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,165",
+    "fork": "553",
+    "timestamp": "2025-03-27T02:23:46.843601",
+    "stars_today": "685 stars this month"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "star": "36,929",
+    "fork": "6,637",
+    "timestamp": "2025-03-27T02:23:46.843921",
+    "stars_today": "1,719 stars this month"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "href": "https://github.com/sharkdp/fd",
+    "about": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "37,185",
+    "fork": "860",
+    "timestamp": "2025-03-27T02:23:46.844233",
+    "stars_today": "1,535 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "51,316",
+    "fork": "2,092",
+    "timestamp": "2025-03-27T02:23:46.844535",
+    "stars_today": "766 stars this month"
+  },
+  {
+    "repo": "tauri-apps/plugins-workspace",
+    "href": "https://github.com/tauri-apps/plugins-workspace",
+    "about": "All of the official Tauri plugins in one place!",
+    "star": "1,192",
+    "fork": "351",
+    "timestamp": "2025-03-27T02:23:46.844847",
+    "stars_today": "81 stars this month"
+  },
+  {
+    "repo": "mfontanini/presenterm",
+    "href": "https://github.com/mfontanini/presenterm",
+    "about": "A markdown terminal slideshow tool",
+    "star": "5,266",
+    "fork": "104",
+    "timestamp": "2025-03-27T02:23:46.845150",
+    "stars_today": "2,928 stars this month"
+  },
+  {
+    "repo": "rust-lang/rust-analyzer",
+    "href": "https://github.com/rust-lang/rust-analyzer",
+    "about": "A Rust compiler front-end for IDEs",
+    "star": "14,864",
+    "fork": "1,713",
+    "timestamp": "2025-03-27T02:23:46.845419",
+    "stars_today": "224 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,664",
+    "fork": "3,808",
+    "timestamp": "2025-03-27T02:23:46.845688",
+    "stars_today": "607 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+    "star": "2,103",
+    "fork": "110",
+    "timestamp": "2025-03-27T02:23:46.845972",
+    "stars_today": "387 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "46,484",
+    "fork": "1,305",
+    "timestamp": "2025-03-27T02:23:46.846245",
+    "stars_today": "5,151 stars this month"
+  },
+  {
+    "repo": "huggingface/text-embeddings-inference",
+    "href": "https://github.com/huggingface/text-embeddings-inference",
+    "about": "A blazing fast inference solution for text embeddings models",
+    "star": "3,358",
+    "fork": "230",
+    "timestamp": "2025-03-27T02:23:46.846519",
+    "stars_today": "148 stars this month"
+  },
+  {
+    "repo": "EricLBuehler/mistral.rs",
+    "href": "https://github.com/EricLBuehler/mistral.rs",
+    "about": "Blazingly fast LLM inference.",
+    "star": "5,332",
+    "fork": "387",
+    "timestamp": "2025-03-27T02:23:46.846804",
+    "stars_today": "240 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "56,210",
+    "fork": "3,785",
+    "timestamp": "2025-03-27T02:23:46.847076",
+    "stars_today": "1,604 stars this month"
+  },
+  {
+    "repo": "ankitects/anki",
+    "href": "https://github.com/ankitects/anki",
+    "about": "Anki's shared backend and web components, and the Qt frontend",
+    "star": "20,512",
+    "fork": "2,265",
+    "timestamp": "2025-03-27T02:23:46.847348",
+    "stars_today": "436 stars this month"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,654",
+    "fork": "2,131",
+    "timestamp": "2025-03-27T02:23:46.847620",
+    "stars_today": "644 stars this month"
+  },
+  {
+    "repo": "seanmonstar/reqwest",
+    "href": "https://github.com/seanmonstar/reqwest",
+    "about": "An easy and powerful Rust HTTP Client",
+    "star": "10,427",
+    "fork": "1,199",
+    "timestamp": "2025-03-27T02:23:46.847937",
+    "stars_today": "134 stars this month"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "14,016",
+    "fork": "538",
+    "timestamp": "2025-03-27T02:23:46.848211",
+    "stars_today": "558 stars this month"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "27,303",
+    "fork": "1,948",
+    "timestamp": "2025-03-27T02:23:46.848485",
+    "stars_today": "290 stars this month"
+  }
+]
