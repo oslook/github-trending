@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,256",
+    "fork": "8,345",
+    "timestamp": "2025-03-28T02:24:49.248493",
+    "stars_today": "121 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "21,233",
+    "fork": "3,131",
+    "timestamp": "2025-03-28T02:24:49.248792",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "10,112",
+    "fork": "672",
+    "timestamp": "2025-03-28T02:24:49.249073",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,353",
+    "fork": "1,720",
+    "timestamp": "2025-03-28T02:24:49.249372",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "45,770",
+    "fork": "4,981",
+    "timestamp": "2025-03-28T02:24:49.249654",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "hahwul/dalfox",
+    "href": "https://github.com/hahwul/dalfox",
+    "about": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "star": "4,094",
+    "fork": "456",
+    "timestamp": "2025-03-28T02:24:49.249960",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "href": "https://github.com/kubernetes/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "14,790",
+    "fork": "4,202",
+    "timestamp": "2025-03-28T02:24:49.250248",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,666",
+    "fork": "609",
+    "timestamp": "2025-03-28T02:24:49.250550",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,519",
+    "fork": "1,029",
+    "timestamp": "2025-03-28T02:24:49.250855",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,605",
+    "fork": "1,433",
+    "timestamp": "2025-03-28T02:24:49.251172",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "kgateway-dev/kgateway",
+    "href": "https://github.com/kgateway-dev/kgateway",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "4,304",
+    "fork": "479",
+    "timestamp": "2025-03-28T02:24:49.251450",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "4,993",
+    "fork": "1,580",
+    "timestamp": "2025-03-28T02:24:49.251726",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "52,816",
+    "fork": "2,771",
+    "timestamp": "2025-03-28T02:24:49.252032",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "10,063",
+    "fork": "1,015",
+    "timestamp": "2025-03-28T02:24:49.252319",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,852",
+    "fork": "9,972",
+    "timestamp": "2025-03-28T02:24:49.252595",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "13,437",
+    "fork": "928",
+    "timestamp": "2025-03-28T02:24:49.252872",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,579",
+    "fork": "180",
+    "timestamp": "2025-03-28T02:24:49.253174",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "1,405",
+    "fork": "125",
+    "timestamp": "2025-03-28T02:24:49.253451",
+    "stars_today": "118 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "68,958",
+    "fork": "2,483",
+    "timestamp": "2025-03-28T02:24:49.253755",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,852",
+    "fork": "9,779",
+    "timestamp": "2025-03-28T02:24:49.254037",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,062",
+    "fork": "1,187",
+    "timestamp": "2025-03-28T02:24:49.254350",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,326",
+    "fork": "2,976",
+    "timestamp": "2025-03-28T02:24:49.254631",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,646",
+    "fork": "3,116",
+    "timestamp": "2025-03-28T02:24:49.254908",
+    "stars_today": "42 stars today"
+  }
+]

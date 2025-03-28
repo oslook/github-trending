@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "bioconda/bioconda-recipes",
+    "href": "https://github.com/bioconda/bioconda-recipes",
+    "about": "Conda recipes for the bioconda channel.",
+    "star": "1,720",
+    "fork": "3,423",
+    "timestamp": "2025-03-28T02:25:19.201801",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "83,026",
+    "fork": "8,405",
+    "timestamp": "2025-03-28T02:25:19.202116",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "conda-forge/miniforge",
+    "href": "https://github.com/conda-forge/miniforge",
+    "about": "A conda-forge distribution.",
+    "star": "7,334",
+    "fork": "382",
+    "timestamp": "2025-03-28T02:25:19.202405",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "mlocati/docker-php-extension-installer",
+    "href": "https://github.com/mlocati/docker-php-extension-installer",
+    "about": "Easily install PHP extensions in Docker containers",
+    "star": "4,534",
+    "fork": "404",
+    "timestamp": "2025-03-28T02:25:19.202722",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cdarlint/winutils",
+    "href": "https://github.com/cdarlint/winutils",
+    "about": "winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows",
+    "star": "2,019",
+    "fork": "2,202",
+    "timestamp": "2025-03-28T02:25:19.203000",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "bitnami/containers",
+    "href": "https://github.com/bitnami/containers",
+    "about": "Bitnami container images",
+    "star": "3,694",
+    "fork": "5,315",
+    "timestamp": "2025-03-28T02:25:19.203287",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes-sigs/nfs-subdir-external-provisioner",
+    "href": "https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner",
+    "about": "Dynamic sub-dir volume provisioner on a remote NFS server.",
+    "star": "2,735",
+    "fork": "786",
+    "timestamp": "2025-03-28T02:25:19.203569",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "tfutils/tfenv",
+    "href": "https://github.com/tfutils/tfenv",
+    "about": "Terraform version manager",
+    "star": "4,638",
+    "fork": "463",
+    "timestamp": "2025-03-28T02:25:19.203846",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mylinuxforwork/dotfiles",
+    "href": "https://github.com/mylinuxforwork/dotfiles",
+    "about": "The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.",
+    "star": "2,198",
+    "fork": "186",
+    "timestamp": "2025-03-28T02:25:19.204137",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "j-hc/revanced-magisk-module",
+    "href": "https://github.com/j-hc/revanced-magisk-module",
+    "about": "Extensive ReVanced builder. Builds both modules and APKs. Updated daily.",
+    "star": "4,934",
+    "fork": "842",
+    "timestamp": "2025-03-28T02:25:19.204418",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "getsentry/self-hosted",
+    "href": "https://github.com/getsentry/self-hosted",
+    "about": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+    "star": "8,322",
+    "fork": "1,829",
+    "timestamp": "2025-03-28T02:25:19.204696",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "openshift/release",
+    "href": "https://github.com/openshift/release",
+    "about": "Release tooling for OpenShift",
+    "star": "292",
+    "fork": "1,857",
+    "timestamp": "2025-03-28T02:25:19.204975",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jayphelps/git-blame-someone-else",
+    "href": "https://github.com/jayphelps/git-blame-someone-else",
+    "about": "Blame someone else for your bad code.",
+    "star": "11,166",
+    "fork": "269",
+    "timestamp": "2025-03-28T02:25:19.205303",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "acmesh-official/acme.sh",
+    "href": "https://github.com/acmesh-official/acme.sh",
+    "about": "A pure Unix shell script implementing ACME client protocol",
+    "star": "41,922",
+    "fork": "5,198",
+    "timestamp": "2025-03-28T02:25:19.205580",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "ohmybash/oh-my-bash",
+    "href": "https://github.com/ohmybash/oh-my-bash",
+    "about": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "star": "6,412",
+    "fork": "700",
+    "timestamp": "2025-03-28T02:25:19.205866",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grafana/docker-otel-lgtm",
+    "href": "https://github.com/grafana/docker-otel-lgtm",
+    "about": "OpenTelemetry backend in a Docker image",
+    "star": "890",
+    "fork": "93",
+    "timestamp": "2025-03-28T02:25:19.206163",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "bats-core/bats-core",
+    "href": "https://github.com/bats-core/bats-core",
+    "about": "Bash Automated Testing System",
+    "star": "5,204",
+    "fork": "427",
+    "timestamp": "2025-03-28T02:25:19.206441",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mack-a/v2ray-agent",
+    "href": "https://github.com/mack-a/v2ray-agent",
+    "about": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "star": "15,274",
+    "fork": "4,797",
+    "timestamp": "2025-03-28T02:25:19.206718",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "JamesTurland/JimsGarage",
+    "href": "https://github.com/JamesTurland/JimsGarage",
+    "about": "Homelab Goodies",
+    "star": "3,036",
+    "fork": "635",
+    "timestamp": "2025-03-28T02:25:19.206991",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "aws/aws-mwaa-local-runner",
+    "href": "https://github.com/aws/aws-mwaa-local-runner",
+    "about": "This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.",
+    "star": "742",
+    "fork": "738",
+    "timestamp": "2025-03-28T02:25:19.207314",
+    "stars_today": "0 stars today"
+  }
+]

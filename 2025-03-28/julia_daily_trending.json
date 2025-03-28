@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,680",
+    "fork": "5,557",
+    "timestamp": "2025-03-28T02:24:58.679487",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "624",
+    "fork": "485",
+    "timestamp": "2025-03-28T02:24:58.679785",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "92",
+    "fork": "21",
+    "timestamp": "2025-03-28T02:24:58.680070",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,077",
+    "fork": "221",
+    "timestamp": "2025-03-28T02:24:58.680364",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/SciMLSensitivity.jl",
+    "href": "https://github.com/SciML/SciMLSensitivity.jl",
+    "about": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
+    "star": "346",
+    "fork": "75",
+    "timestamp": "2025-03-28T02:24:58.680670",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/NeuralPDE.jl",
+    "href": "https://github.com/SciML/NeuralPDE.jl",
+    "about": "Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation",
+    "star": "1,056",
+    "fork": "213",
+    "timestamp": "2025-03-28T02:24:58.680974",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,400",
+    "fork": "167",
+    "timestamp": "2025-03-28T02:24:58.681268",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "472",
+    "fork": "79",
+    "timestamp": "2025-03-28T02:24:58.681570",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/StructuralIdentifiability.jl",
+    "href": "https://github.com/SciML/StructuralIdentifiability.jl",
+    "about": "Fast and automatic structural identifiability software for ODE systems",
+    "star": "114",
+    "fork": "18",
+    "timestamp": "2025-03-28T02:24:58.681875",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "134",
+    "fork": "20",
+    "timestamp": "2025-03-28T02:24:58.682163",
+    "stars_today": "1 star today"
+  }
+]

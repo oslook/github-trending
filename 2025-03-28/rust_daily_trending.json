@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "signalapp/libsignal",
+    "href": "https://github.com/signalapp/libsignal",
+    "about": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+    "star": "4,110",
+    "fork": "486",
+    "timestamp": "2025-03-28T02:25:12.206520",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "14,875",
+    "fork": "1,522",
+    "timestamp": "2025-03-28T02:25:12.206819",
+    "stars_today": "295 stars today"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "1,514",
+    "fork": "109",
+    "timestamp": "2025-03-28T02:25:12.207112",
+    "stars_today": "137 stars today"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "84,911",
+    "fork": "12,015",
+    "timestamp": "2025-03-28T02:25:12.207420",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "27,316",
+    "fork": "1,949",
+    "timestamp": "2025-03-28T02:25:12.207703",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "lumina-ai-inc/chunkr",
+    "href": "https://github.com/lumina-ai-inc/chunkr",
+    "about": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+    "star": "2,068",
+    "fork": "113",
+    "timestamp": "2025-03-28T02:25:12.207980",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "libp2p/rust-libp2p",
+    "href": "https://github.com/libp2p/rust-libp2p",
+    "about": "The Rust Implementation of the libp2p networking stack.",
+    "star": "4,916",
+    "fork": "1,039",
+    "timestamp": "2025-03-28T02:25:12.208268",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "5,975",
+    "fork": "1,082",
+    "timestamp": "2025-03-28T02:25:12.208545",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "90,940",
+    "fork": "2,786",
+    "timestamp": "2025-03-28T02:25:12.208845",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "apache/datafusion",
+    "href": "https://github.com/apache/datafusion",
+    "about": "Apache DataFusion SQL Query Engine",
+    "star": "6,946",
+    "fork": "1,415",
+    "timestamp": "2025-03-28T02:25:12.209131",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,682",
+    "fork": "3,810",
+    "timestamp": "2025-03-28T02:25:12.209406",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "rust-lang/rust-clippy",
+    "href": "https://github.com/rust-lang/rust-clippy",
+    "about": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+    "star": "11,850",
+    "fork": "1,612",
+    "timestamp": "2025-03-28T02:25:12.209681",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "juhaku/utoipa",
+    "href": "https://github.com/juhaku/utoipa",
+    "about": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",
+    "star": "2,932",
+    "fork": "248",
+    "timestamp": "2025-03-28T02:25:12.209953",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "apache/arrow-rs",
+    "href": "https://github.com/apache/arrow-rs",
+    "about": "Official Rust implementation of Apache Arrow",
+    "star": "2,861",
+    "fork": "899",
+    "timestamp": "2025-03-28T02:25:12.210238",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "aws/amazon-q-developer-cli",
+    "href": "https://github.com/aws/amazon-q-developer-cli",
+    "about": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+    "star": "208",
+    "fork": "43",
+    "timestamp": "2025-03-28T02:25:12.210512",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "neovide/neovide",
+    "href": "https://github.com/neovide/neovide",
+    "about": "No Nonsense Neovim Client in Rust",
+    "star": "13,801",
+    "fork": "554",
+    "timestamp": "2025-03-28T02:25:12.210814",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,674",
+    "fork": "2,133",
+    "timestamp": "2025-03-28T02:25:12.211093",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "serde-rs/json",
+    "href": "https://github.com/serde-rs/json",
+    "about": "Strongly typed JSON library for Rust",
+    "star": "5,116",
+    "fork": "575",
+    "timestamp": "2025-03-28T02:25:12.211370",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "atuinsh/atuin",
+    "href": "https://github.com/atuinsh/atuin",
+    "about": "✨ Magical shell history",
+    "star": "23,034",
+    "fork": "612",
+    "timestamp": "2025-03-28T02:25:12.211675",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "sxyazi/yazi",
+    "href": "https://github.com/sxyazi/yazi",
+    "about": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "star": "23,516",
+    "fork": "519",
+    "timestamp": "2025-03-28T02:25:12.211950",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "35,082",
+    "fork": "1,071",
+    "timestamp": "2025-03-28T02:25:12.212235",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "serde-rs/serde",
+    "href": "https://github.com/serde-rs/serde",
+    "about": "Serialization framework for Rust",
+    "star": "9,550",
+    "fork": "811",
+    "timestamp": "2025-03-28T02:25:12.212508",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "tokio-rs/axum",
+    "href": "https://github.com/tokio-rs/axum",
+    "about": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "star": "20,969",
+    "fork": "1,141",
+    "timestamp": "2025-03-28T02:25:12.212812",
+    "stars_today": "27 stars today"
+  }
+]

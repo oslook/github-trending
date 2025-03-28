@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "1,405",
+    "fork": "125",
+    "timestamp": "2025-03-28T02:24:49.442471",
+    "stars_today": "466 stars this week"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,256",
+    "fork": "8,345",
+    "timestamp": "2025-03-28T02:24:49.442765",
+    "stars_today": "250 stars this week"
+  },
+  {
+    "repo": "sinclairtarget/git-who",
+    "href": "https://github.com/sinclairtarget/git-who",
+    "about": "Git blame for file trees",
+    "star": "1,696",
+    "fork": "36",
+    "timestamp": "2025-03-28T02:24:49.443054",
+    "stars_today": "784 stars this week"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,185",
+    "fork": "408",
+    "timestamp": "2025-03-28T02:24:49.443343",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,605",
+    "fork": "1,433",
+    "timestamp": "2025-03-28T02:24:49.443655",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,098",
+    "fork": "8,146",
+    "timestamp": "2025-03-28T02:24:49.443935",
+    "stars_today": "216 stars this week"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,579",
+    "fork": "180",
+    "timestamp": "2025-03-28T02:24:49.444225",
+    "stars_today": "117 stars this week"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,839",
+    "fork": "3,988",
+    "timestamp": "2025-03-28T02:24:49.444505",
+    "stars_today": "99 stars this week"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "11,155",
+    "fork": "589",
+    "timestamp": "2025-03-28T02:24:49.444787",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "cloudwego/hertz",
+    "href": "https://github.com/cloudwego/hertz",
+    "about": "Go HTTP framework with high-performance and strong-extensibility for building micro-services.",
+    "star": "6,075",
+    "fork": "545",
+    "timestamp": "2025-03-28T02:24:49.445065",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,664",
+    "fork": "2,418",
+    "timestamp": "2025-03-28T02:24:49.445407",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,482",
+    "fork": "1,244",
+    "timestamp": "2025-03-28T02:24:49.445688",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "140,660",
+    "fork": "12,170",
+    "timestamp": "2025-03-28T02:24:49.445993",
+    "stars_today": "541 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "114,026",
+    "fork": "40,245",
+    "timestamp": "2025-03-28T02:24:49.446325",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "22,705",
+    "fork": "2,647",
+    "timestamp": "2025-03-28T02:24:49.446603",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,293",
+    "fork": "3,530",
+    "timestamp": "2025-03-28T02:24:49.446893",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "12,098",
+    "fork": "1,058",
+    "timestamp": "2025-03-28T02:24:49.447185",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "9,676",
+    "fork": "1,293",
+    "timestamp": "2025-03-28T02:24:49.447470",
+    "stars_today": "314 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,724",
+    "fork": "2,115",
+    "timestamp": "2025-03-28T02:24:49.447749",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "daeuniverse/dae",
+    "href": "https://github.com/daeuniverse/dae",
+    "about": "eBPF-based Linux high-performance transparent proxy solution.",
+    "star": "4,029",
+    "fork": "250",
+    "timestamp": "2025-03-28T02:24:49.448024",
+    "stars_today": "187 stars this week"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "7,824",
+    "fork": "367",
+    "timestamp": "2025-03-28T02:24:49.448314",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "5,660",
+    "fork": "386",
+    "timestamp": "2025-03-28T02:24:49.448587",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "href": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "about": "The most customisable and low-latency cross platform/shell prompt renderer",
+    "star": "18,629",
+    "fork": "2,484",
+    "timestamp": "2025-03-28T02:24:49.448886",
+    "stars_today": "87 stars this week"
+  }
+]

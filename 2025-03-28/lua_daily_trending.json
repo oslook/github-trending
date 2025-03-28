@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "3,784",
+    "fork": "214",
+    "timestamp": "2025-03-28T02:25:00.549026",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "11,680",
+    "fork": "467",
+    "timestamp": "2025-03-28T02:25:00.549340",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,628",
+    "fork": "345",
+    "timestamp": "2025-03-28T02:25:00.549621",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/harpoon",
+    "href": "https://github.com/ThePrimeagen/harpoon",
+    "about": "",
+    "star": "7,755",
+    "fork": "414",
+    "timestamp": "2025-03-28T02:25:00.549948",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,255",
+    "fork": "236",
+    "timestamp": "2025-03-28T02:25:00.550273",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "23,208",
+    "fork": "30,765",
+    "timestamp": "2025-03-28T02:25:00.550557",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "10,771",
+    "fork": "826",
+    "timestamp": "2025-03-28T02:25:00.550840",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "17,141",
+    "fork": "863",
+    "timestamp": "2025-03-28T02:25:00.551132",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,483",
+    "fork": "119",
+    "timestamp": "2025-03-28T02:25:00.551442",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "11,059",
+    "fork": "720",
+    "timestamp": "2025-03-28T02:25:00.551719",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,449",
+    "fork": "2,135",
+    "timestamp": "2025-03-28T02:25:00.552023",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "19,797",
+    "fork": "1,398",
+    "timestamp": "2025-03-28T02:25:00.552312",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "ellisonleao/gruvbox.nvim",
+    "href": "https://github.com/ellisonleao/gruvbox.nvim",
+    "about": "Lua port of the most famous vim colorscheme",
+    "star": "2,130",
+    "fork": "223",
+    "timestamp": "2025-03-28T02:25:00.552616",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "4,862",
+    "fork": "149",
+    "timestamp": "2025-03-28T02:25:00.552892",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,301",
+    "fork": "498",
+    "timestamp": "2025-03-28T02:25:00.553184",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "2,448",
+    "fork": "115",
+    "timestamp": "2025-03-28T02:25:00.553459",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,187",
+    "fork": "109",
+    "timestamp": "2025-03-28T02:25:00.553733",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ntop/ntopng",
+    "href": "https://github.com/ntop/ntopng",
+    "about": "Web-based Traffic and Security Network Traffic Monitoring",
+    "star": "6,604",
+    "fork": "681",
+    "timestamp": "2025-03-28T02:25:00.554006",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "16,771",
+    "fork": "410",
+    "timestamp": "2025-03-28T02:25:00.554294",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "williamboman/mason.nvim",
+    "href": "https://github.com/williamboman/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "8,579",
+    "fork": "296",
+    "timestamp": "2025-03-28T02:25:00.554599",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/vim-be-good",
+    "href": "https://github.com/ThePrimeagen/vim-be-good",
+    "about": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+    "star": "3,619",
+    "fork": "134",
+    "timestamp": "2025-03-28T02:25:00.554900",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "jitsi/docker-jitsi-meet",
+    "href": "https://github.com/jitsi/docker-jitsi-meet",
+    "about": "Jitsi Meet on Docker",
+    "star": "3,187",
+    "fork": "1,410",
+    "timestamp": "2025-03-28T02:25:00.555186",
+    "stars_today": "2 stars today"
+  }
+]
