@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "1,500",
+    "fork": "137",
+    "timestamp": "2025-03-29T02:21:41.536393",
+    "stars_today": "509 stars this week"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,296",
+    "fork": "8,348",
+    "timestamp": "2025-03-29T02:21:41.536686",
+    "stars_today": "302 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,617",
+    "fork": "1,434",
+    "timestamp": "2025-03-29T02:21:41.536992",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "212",
+    "fork": "17",
+    "timestamp": "2025-03-29T02:21:41.537270",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,130",
+    "fork": "8,146",
+    "timestamp": "2025-03-29T02:21:41.537560",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,849",
+    "fork": "3,989",
+    "timestamp": "2025-03-29T02:21:41.537834",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,670",
+    "fork": "2,420",
+    "timestamp": "2025-03-29T02:21:41.538108",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,482",
+    "fork": "1,243",
+    "timestamp": "2025-03-29T02:21:41.538395",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "140,723",
+    "fork": "12,176",
+    "timestamp": "2025-03-29T02:21:41.538695",
+    "stars_today": "525 stars this week"
+  },
+  {
+    "repo": "go-admin-team/go-admin",
+    "href": "https://github.com/go-admin-team/go-admin",
+    "about": "基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro",
+    "star": "11,819",
+    "fork": "2,449",
+    "timestamp": "2025-03-29T02:21:41.538980",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,899",
+    "fork": "9,998",
+    "timestamp": "2025-03-29T02:21:41.539256",
+    "stars_today": "192 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,657",
+    "fork": "20,713",
+    "timestamp": "2025-03-29T02:21:41.539548",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,714",
+    "fork": "611",
+    "timestamp": "2025-03-29T02:21:41.539852",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,298",
+    "fork": "3,530",
+    "timestamp": "2025-03-29T02:21:41.540128",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,191",
+    "fork": "408",
+    "timestamp": "2025-03-29T02:21:41.540417",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,185",
+    "fork": "2,467",
+    "timestamp": "2025-03-29T02:21:41.540690",
+    "stars_today": "109 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,669",
+    "fork": "3,119",
+    "timestamp": "2025-03-29T02:21:41.540965",
+    "stars_today": "239 stars this week"
+  },
+  {
+    "repo": "sinclairtarget/git-who",
+    "href": "https://github.com/sinclairtarget/git-who",
+    "about": "Git blame for file trees",
+    "star": "1,716",
+    "fork": "37",
+    "timestamp": "2025-03-29T02:21:41.541239",
+    "stars_today": "395 stars this week"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "7,833",
+    "fork": "367",
+    "timestamp": "2025-03-29T02:21:41.541522",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "daeuniverse/dae",
+    "href": "https://github.com/daeuniverse/dae",
+    "about": "eBPF-based Linux high-performance transparent proxy solution.",
+    "star": "4,032",
+    "fork": "253",
+    "timestamp": "2025-03-29T02:21:41.541798",
+    "stars_today": "190 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,729",
+    "fork": "2,116",
+    "timestamp": "2025-03-29T02:21:41.542074",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "hahwul/dalfox",
+    "href": "https://github.com/hahwul/dalfox",
+    "about": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "star": "4,104",
+    "fork": "456",
+    "timestamp": "2025-03-29T02:21:41.542390",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "30,740",
+    "fork": "2,260",
+    "timestamp": "2025-03-29T02:21:41.542695",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "114,045",
+    "fork": "40,259",
+    "timestamp": "2025-03-29T02:21:41.542971",
+    "stars_today": "205 stars this week"
+  }
+]

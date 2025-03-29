@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,682",
+    "fork": "5,556",
+    "timestamp": "2025-03-29T02:21:47.705901",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "624",
+    "fork": "485",
+    "timestamp": "2025-03-29T02:21:47.706190",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "92",
+    "fork": "21",
+    "timestamp": "2025-03-29T02:21:47.706482",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "trixi-framework/Trixi.jl",
+    "href": "https://github.com/trixi-framework/Trixi.jl",
+    "about": "Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia",
+    "star": "576",
+    "fork": "115",
+    "timestamp": "2025-03-29T02:21:47.706757",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "578",
+    "fork": "221",
+    "timestamp": "2025-03-29T02:21:47.707059",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,082",
+    "fork": "222",
+    "timestamp": "2025-03-29T02:21:47.707344",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "257",
+    "fork": "46",
+    "timestamp": "2025-03-29T02:21:47.707650",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "135",
+    "fork": "20",
+    "timestamp": "2025-03-29T02:21:47.707920",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/ModelingToolkit.jl",
+    "href": "https://github.com/SciML/ModelingToolkit.jl",
+    "about": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+    "star": "1,491",
+    "fork": "213",
+    "timestamp": "2025-03-29T02:21:47.708218",
+    "stars_today": "0 stars today"
+  }
+]
