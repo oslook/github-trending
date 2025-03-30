@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "25,036",
+    "fork": "3,424",
+    "timestamp": "2025-03-30T02:37:15.837396",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "21,882",
+    "fork": "2,927",
+    "timestamp": "2025-03-30T02:37:15.837692",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "21,903",
+    "fork": "1,172",
+    "timestamp": "2025-03-30T02:37:15.838001",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,420",
+    "fork": "965",
+    "timestamp": "2025-03-30T02:37:15.838292",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "elixir-ecto/ecto",
+    "href": "https://github.com/elixir-ecto/ecto",
+    "about": "A toolkit for data mapping and language integrated query.",
+    "star": "6,283",
+    "fork": "1,435",
+    "timestamp": "2025-03-30T02:37:15.838574",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "elixir-lsp/elixir_sense",
+    "href": "https://github.com/elixir-lsp/elixir_sense",
+    "about": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+    "star": "314",
+    "fork": "41",
+    "timestamp": "2025-03-30T02:37:15.838889",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "elixir-lsp/elixir-ls",
+    "href": "https://github.com/elixir-lsp/elixir-ls",
+    "about": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "star": "1,583",
+    "fork": "209",
+    "timestamp": "2025-03-30T02:37:15.839204",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "pentacent/keila",
+    "href": "https://github.com/pentacent/keila",
+    "about": "Open Source Newsletter Tool.",
+    "star": "1,633",
+    "fork": "97",
+    "timestamp": "2025-03-30T02:37:15.839506",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "software-mansion/live-debugger",
+    "href": "https://github.com/software-mansion/live-debugger",
+    "about": "Tool for debugging LiveView applications.",
+    "star": "372",
+    "fork": "9",
+    "timestamp": "2025-03-30T02:37:15.839808",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "6,992",
+    "fork": "335",
+    "timestamp": "2025-03-30T02:37:15.840122",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "sequinstream/sequin",
+    "href": "https://github.com/sequinstream/sequin",
+    "about": "Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more",
+    "star": "1,076",
+    "fork": "41",
+    "timestamp": "2025-03-30T02:37:15.840404",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "woutdp/live_svelte",
+    "href": "https://github.com/woutdp/live_svelte",
+    "about": "Svelte inside Phoenix LiveView with seamless end-to-end reactivity",
+    "star": "1,426",
+    "fork": "58",
+    "timestamp": "2025-03-30T02:37:15.840706",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "3,892",
+    "fork": "2,633",
+    "timestamp": "2025-03-30T02:37:15.841009",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "teslamate-org/teslamate",
+    "href": "https://github.com/teslamate-org/teslamate",
+    "about": "A self-hosted data logger for your Tesla 🚘",
+    "star": "6,531",
+    "fork": "786",
+    "timestamp": "2025-03-30T02:37:15.841300",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "firezone/firezone",
+    "href": "https://github.com/firezone/firezone",
+    "about": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+    "star": "7,116",
+    "fork": "297",
+    "timestamp": "2025-03-30T02:37:15.841576",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "valpackett/httpotion",
+    "href": "https://github.com/valpackett/httpotion",
+    "about": "[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)",
+    "star": "725",
+    "fork": "100",
+    "timestamp": "2025-03-30T02:37:15.841876",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "bluzky/salad_ui",
+    "href": "https://github.com/bluzky/salad_ui",
+    "about": "Phoenix Liveview component library inspired by shadcn UI",
+    "star": "814",
+    "fork": "55",
+    "timestamp": "2025-03-30T02:37:15.842186",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "ash-project/ash",
+    "href": "https://github.com/ash-project/ash",
+    "about": "A declarative, extensible framework for building Elixir applications.",
+    "star": "1,774",
+    "fork": "251",
+    "timestamp": "2025-03-30T02:37:15.842457",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "OffchainLabs/blockscout",
+    "href": "https://github.com/OffchainLabs/blockscout",
+    "about": "",
+    "star": "46",
+    "fork": "24",
+    "timestamp": "2025-03-30T02:37:15.842749",
+    "stars_today": "1 star this week"
+  }
+]

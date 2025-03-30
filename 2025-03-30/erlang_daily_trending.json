@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,611",
+    "fork": "2,993",
+    "timestamp": "2025-03-30T02:37:16.544085",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,607",
+    "fork": "2,287",
+    "timestamp": "2025-03-30T02:37:16.544392",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cbd/edis",
+    "href": "https://github.com/cbd/edis",
+    "about": "An Erlang implementation of Redis",
+    "star": "515",
+    "fork": "38",
+    "timestamp": "2025-03-30T02:37:16.544677",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,876",
+    "fork": "474",
+    "timestamp": "2025-03-30T02:37:16.544956",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "423",
+    "fork": "163",
+    "timestamp": "2025-03-30T02:37:16.545249",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,354",
+    "fork": "1,168",
+    "timestamp": "2025-03-30T02:37:16.545531",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,201",
+    "fork": "334",
+    "timestamp": "2025-03-30T02:37:16.545810",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,723",
+    "fork": "521",
+    "timestamp": "2025-03-30T02:37:16.546099",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "175",
+    "timestamp": "2025-03-30T02:37:16.546379",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,234",
+    "fork": "1,524",
+    "timestamp": "2025-03-30T02:37:16.546658",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,138",
+    "fork": "153",
+    "timestamp": "2025-03-30T02:37:16.546936",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "66",
+    "fork": "39",
+    "timestamp": "2025-03-30T02:37:16.547228",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "817",
+    "fork": "232",
+    "timestamp": "2025-03-30T02:37:16.547534",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "694",
+    "fork": "232",
+    "timestamp": "2025-03-30T02:37:16.547811",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "695",
+    "fork": "219",
+    "timestamp": "2025-03-30T02:37:16.548097",
+    "stars_today": "0 stars today"
+  }
+]

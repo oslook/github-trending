@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,644",
+    "fork": "4,466",
+    "timestamp": "2025-03-30T02:37:17.938396",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "45,991",
+    "fork": "5,014",
+    "timestamp": "2025-03-30T02:37:17.938699",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "13,351",
+    "fork": "700",
+    "timestamp": "2025-03-30T02:37:17.938977",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "1,557",
+    "fork": "141",
+    "timestamp": "2025-03-30T02:37:17.939268",
+    "stars_today": "73 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,206",
+    "fork": "2,468",
+    "timestamp": "2025-03-30T02:37:17.939540",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "48,950",
+    "fork": "10,022",
+    "timestamp": "2025-03-30T02:37:17.939815",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "href": "https://github.com/cockroachdb/cockroach",
+    "about": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "star": "30,682",
+    "fork": "3,877",
+    "timestamp": "2025-03-30T02:37:17.940105",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,353",
+    "fork": "622",
+    "timestamp": "2025-03-30T02:37:17.940383",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "10,149",
+    "fork": "674",
+    "timestamp": "2025-03-30T02:37:17.940656",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,616",
+    "fork": "1,133",
+    "timestamp": "2025-03-30T02:37:17.940930",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubernetes/enhancements",
+    "href": "https://github.com/kubernetes/enhancements",
+    "about": "Enhancements tracking repo for Kubernetes",
+    "star": "3,569",
+    "fork": "1,506",
+    "timestamp": "2025-03-30T02:37:17.941215",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,090",
+    "fork": "4,315",
+    "timestamp": "2025-03-30T02:37:17.941485",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "13,579",
+    "fork": "1,317",
+    "timestamp": "2025-03-30T02:37:17.941756",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,003",
+    "fork": "1,584",
+    "timestamp": "2025-03-30T02:37:17.942028",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "21,249",
+    "fork": "3,134",
+    "timestamp": "2025-03-30T02:37:17.942314",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "EndlessCheng/codeforces-go",
+    "href": "https://github.com/EndlessCheng/codeforces-go",
+    "about": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "star": "6,294",
+    "fork": "657",
+    "timestamp": "2025-03-30T02:37:17.942583",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,451",
+    "fork": "5,642",
+    "timestamp": "2025-03-30T02:37:17.942841",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "8,037",
+    "fork": "2,647",
+    "timestamp": "2025-03-30T02:37:17.943121",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "bufbuild/buf",
+    "href": "https://github.com/bufbuild/buf",
+    "about": "The best way of working with Protocol Buffers.",
+    "star": "9,706",
+    "fork": "298",
+    "timestamp": "2025-03-30T02:37:17.943391",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "126,824",
+    "fork": "17,924",
+    "timestamp": "2025-03-30T02:37:17.943660",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,453",
+    "fork": "2,658",
+    "timestamp": "2025-03-30T02:37:17.943932",
+    "stars_today": "5 stars today"
+  }
+]
