@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,472",
+    "fork": "2,138",
+    "timestamp": "2025-03-31T02:36:52.726128",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,219",
+    "fork": "116",
+    "timestamp": "2025-03-31T02:36:52.726428",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "23,319",
+    "fork": "30,975",
+    "timestamp": "2025-03-31T02:36:52.726716",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "11,853",
+    "fork": "482",
+    "timestamp": "2025-03-31T02:36:52.727012",
+    "stars_today": "56 stars today"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "17,167",
+    "fork": "865",
+    "timestamp": "2025-03-31T02:36:52.727296",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,127",
+    "fork": "226",
+    "timestamp": "2025-03-31T02:36:52.727605",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "16,820",
+    "fork": "411",
+    "timestamp": "2025-03-31T02:36:52.727885",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "4,393",
+    "fork": "196",
+    "timestamp": "2025-03-31T02:36:52.728176",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "19,867",
+    "fork": "1,399",
+    "timestamp": "2025-03-31T02:36:52.728452",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall2",
+    "href": "https://github.com/xiaorouji/openwrt-passwall2",
+    "about": "",
+    "star": "1,679",
+    "fork": "479",
+    "timestamp": "2025-03-31T02:36:52.728749",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "6,825",
+    "fork": "490",
+    "timestamp": "2025-03-31T02:36:52.729044",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,910",
+    "fork": "450",
+    "timestamp": "2025-03-31T02:36:52.729325",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,377",
+    "fork": "261",
+    "timestamp": "2025-03-31T02:36:52.729634",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "williamboman/mason-lspconfig.nvim",
+    "href": "https://github.com/williamboman/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,189",
+    "fork": "200",
+    "timestamp": "2025-03-31T02:36:52.729950",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nvimtools/none-ls.nvim",
+    "href": "https://github.com/nvimtools/none-ls.nvim",
+    "about": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "star": "2,867",
+    "fork": "91",
+    "timestamp": "2025-03-31T02:36:52.730230",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,864",
+    "fork": "121",
+    "timestamp": "2025-03-31T02:36:52.730508",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,158",
+    "fork": "283",
+    "timestamp": "2025-03-31T02:36:52.730813",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nvim-orgmode/orgmode",
+    "href": "https://github.com/nvim-orgmode/orgmode",
+    "about": "Orgmode clone written in Lua for Neovim 0.10.0+.",
+    "star": "3,279",
+    "fork": "158",
+    "timestamp": "2025-03-31T02:36:52.731103",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "3,766",
+    "fork": "249",
+    "timestamp": "2025-03-31T02:36:52.731413",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding-PoE2",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+    "about": "",
+    "star": "884",
+    "fork": "119",
+    "timestamp": "2025-03-31T02:36:52.731714",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "folke/lazydev.nvim",
+    "href": "https://github.com/folke/lazydev.nvim",
+    "about": "Faster LuaLS setup for Neovim",
+    "star": "1,003",
+    "fork": "17",
+    "timestamp": "2025-03-31T02:36:52.732006",
+    "stars_today": "5 stars today"
+  }
+]
