@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "21,147",
+    "fork": "774",
+    "timestamp": "2025-04-01T02:43:24.269929",
+    "stars_today": "10,139 stars this month"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "9,720",
+    "fork": "1,299",
+    "timestamp": "2025-04-01T02:43:24.270242",
+    "stars_today": "2,051 stars this month"
+  },
+  {
+    "repo": "cgzirim/seek-tune",
+    "href": "https://github.com/cgzirim/seek-tune",
+    "about": "An implementation of Shazam's song recognition algorithm.",
+    "star": "4,220",
+    "fork": "464",
+    "timestamp": "2025-04-01T02:43:24.270554",
+    "stars_today": "2,233 stars this month"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,321",
+    "fork": "8,351",
+    "timestamp": "2025-04-01T02:43:24.270831",
+    "stars_today": "428 stars this month"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,103",
+    "fork": "2,303",
+    "timestamp": "2025-04-01T02:43:24.271116",
+    "stars_today": "572 stars this month"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "752",
+    "fork": "177",
+    "timestamp": "2025-04-01T02:43:24.271418",
+    "stars_today": "142 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,741",
+    "fork": "3,126",
+    "timestamp": "2025-04-01T02:43:24.271701",
+    "stars_today": "1,028 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,767",
+    "fork": "616",
+    "timestamp": "2025-04-01T02:43:24.272004",
+    "stars_today": "483 stars this month"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "13,390",
+    "fork": "702",
+    "timestamp": "2025-04-01T02:43:24.272299",
+    "stars_today": "1,299 stars this month"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,231",
+    "fork": "596",
+    "timestamp": "2025-04-01T02:43:24.272580",
+    "stars_today": "305 stars this month"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,555",
+    "fork": "175",
+    "timestamp": "2025-04-01T02:43:24.272858",
+    "stars_today": "935 stars this month"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "24,056",
+    "fork": "4,066",
+    "timestamp": "2025-04-01T02:43:24.273160",
+    "stars_today": "304 stars this month"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,186",
+    "fork": "2,041",
+    "timestamp": "2025-04-01T02:43:24.273478",
+    "stars_today": "292 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "69,029",
+    "fork": "4,458",
+    "timestamp": "2025-04-01T02:43:24.273780",
+    "stars_today": "1,157 stars this month"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "30,624",
+    "fork": "4,070",
+    "timestamp": "2025-04-01T02:43:24.274086",
+    "stars_today": "669 stars this month"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "22,549",
+    "fork": "6,614",
+    "timestamp": "2025-04-01T02:43:24.274376",
+    "stars_today": "288 stars this month"
+  },
+  {
+    "repo": "gogf/gf",
+    "href": "https://github.com/gogf/gf",
+    "about": "A powerful framework for faster, easier, and more efficient project development.",
+    "star": "12,178",
+    "fork": "1,634",
+    "timestamp": "2025-04-01T02:43:24.274673",
+    "stars_today": "156 stars this month"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "15,746",
+    "fork": "2,192",
+    "timestamp": "2025-04-01T02:43:24.274946",
+    "stars_today": "206 stars this month"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,069",
+    "fork": "510",
+    "timestamp": "2025-04-01T02:43:24.275260",
+    "stars_today": "455 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,685",
+    "fork": "1,739",
+    "timestamp": "2025-04-01T02:43:24.275563",
+    "stars_today": "567 stars this month"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "13,785",
+    "fork": "1,009",
+    "timestamp": "2025-04-01T02:43:24.275835",
+    "stars_today": "471 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,675",
+    "fork": "4,469",
+    "timestamp": "2025-04-01T02:43:24.276179",
+    "stars_today": "231 stars this month"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "46,090",
+    "fork": "5,017",
+    "timestamp": "2025-04-01T02:43:24.276463",
+    "stars_today": "631 stars this month"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "10,179",
+    "fork": "676",
+    "timestamp": "2025-04-01T02:43:24.276738",
+    "stars_today": "413 stars this month"
+  }
+]
