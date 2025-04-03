@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,029",
+    "fork": "6,922",
+    "timestamp": "2025-04-03T02:24:07.710605",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "star": "14,826",
+    "fork": "3,610",
+    "timestamp": "2025-04-03T02:24:07.710902",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "about": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "star": "64,354",
+    "fork": "10,738",
+    "timestamp": "2025-04-03T02:24:07.711186",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,103",
+    "fork": "1,564",
+    "timestamp": "2025-04-03T02:24:07.711467",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "esphome/esphome",
+    "href": "https://github.com/esphome/esphome",
+    "about": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "star": "9,133",
+    "fork": "4,041",
+    "timestamp": "2025-04-03T02:24:07.711763",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "25,757",
+    "fork": "4,728",
+    "timestamp": "2025-04-03T02:24:07.712043",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-cpp",
+    "href": "https://github.com/open-telemetry/opentelemetry-cpp",
+    "about": "The OpenTelemetry C++ Client",
+    "star": "1,019",
+    "fork": "468",
+    "timestamp": "2025-04-03T02:24:07.712321",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "77,567",
+    "fork": "11,290",
+    "timestamp": "2025-04-03T02:24:07.712611",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "MatsuriDayo/nekoray",
+    "href": "https://github.com/MatsuriDayo/nekoray",
+    "about": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
+    "star": "14,643",
+    "fork": "1,335",
+    "timestamp": "2025-04-03T02:24:07.712888",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "29,210",
+    "fork": "5,665",
+    "timestamp": "2025-04-03T02:24:07.713166",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "10,456",
+    "fork": "1,939",
+    "timestamp": "2025-04-03T02:24:07.713444",
+    "stars_today": "87 stars today"
+  },
+  {
+    "repo": "pytorch/executorch",
+    "href": "https://github.com/pytorch/executorch",
+    "about": "On-device AI across mobile, embedded and edge for PyTorch",
+    "star": "2,679",
+    "fork": "505",
+    "timestamp": "2025-04-03T02:24:07.713740",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "about": "Open Source Routing Machine - C++ backend",
+    "star": "6,712",
+    "fork": "3,518",
+    "timestamp": "2025-04-03T02:24:07.714018",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "async-profiler/async-profiler",
+    "href": "https://github.com/async-profiler/async-profiler",
+    "about": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events",
+    "star": "8,043",
+    "fork": "896",
+    "timestamp": "2025-04-03T02:24:07.714296",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Neargye/magic_enum",
+    "href": "https://github.com/Neargye/magic_enum",
+    "about": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+    "star": "5,292",
+    "fork": "469",
+    "timestamp": "2025-04-03T02:24:07.714582",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "google/highway",
+    "href": "https://github.com/google/highway",
+    "about": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "star": "4,531",
+    "fork": "339",
+    "timestamp": "2025-04-03T02:24:07.714860",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "href": "https://github.com/ros-navigation/navigation2",
+    "about": "ROS 2 Navigation Framework and System",
+    "star": "3,000",
+    "fork": "1,401",
+    "timestamp": "2025-04-03T02:24:07.715135",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "21,586",
+    "fork": "2,613",
+    "timestamp": "2025-04-03T02:24:07.715419",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "scylladb/scylladb",
+    "href": "https://github.com/scylladb/scylladb",
+    "about": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+    "star": "14,283",
+    "fork": "1,351",
+    "timestamp": "2025-04-03T02:24:07.715712",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "amnezia-vpn/amnezia-client",
+    "href": "https://github.com/amnezia-vpn/amnezia-client",
+    "about": "Amnezia VPN Client (Desktop+Mobile)",
+    "star": "6,848",
+    "fork": "444",
+    "timestamp": "2025-04-03T02:24:07.715990",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,732",
+    "fork": "10,321",
+    "timestamp": "2025-04-03T02:24:07.716268",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "opencv/opencv_contrib",
+    "href": "https://github.com/opencv/opencv_contrib",
+    "about": "Repository for OpenCV's extra modules",
+    "star": "9,610",
+    "fork": "5,817",
+    "timestamp": "2025-04-03T02:24:07.716580",
+    "stars_today": "2 stars today"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,859",
+    "fork": "28,469",
+    "timestamp": "2025-04-03T02:24:42.939407",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,976",
+    "fork": "1,087",
+    "timestamp": "2025-04-03T02:24:42.939713",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,309",
+    "fork": "474",
+    "timestamp": "2025-04-03T02:24:42.940001",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,950",
+    "fork": "722",
+    "timestamp": "2025-04-03T02:24:42.940281",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,185",
+    "fork": "1,333",
+    "timestamp": "2025-04-03T02:24:42.940569",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,320",
+    "fork": "315",
+    "timestamp": "2025-04-03T02:24:42.940848",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "189",
+    "fork": "51",
+    "timestamp": "2025-04-03T02:24:42.941122",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,419",
+    "fork": "554",
+    "timestamp": "2025-04-03T02:24:42.941423",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,391",
+    "fork": "550",
+    "timestamp": "2025-04-03T02:24:42.941713",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,825",
+    "fork": "950",
+    "timestamp": "2025-04-03T02:24:42.941988",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "880",
+    "fork": "245",
+    "timestamp": "2025-04-03T02:24:42.942264",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,606",
+    "fork": "646",
+    "timestamp": "2025-04-03T02:24:42.942553",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "zio/zio-http",
+    "href": "https://github.com/zio/zio-http",
+    "about": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+    "star": "820",
+    "fork": "427",
+    "timestamp": "2025-04-03T02:24:42.942844",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "819",
+    "fork": "188",
+    "timestamp": "2025-04-03T02:24:42.943118",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "907",
+    "fork": "607",
+    "timestamp": "2025-04-03T02:24:42.943389",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,367",
+    "fork": "396",
+    "timestamp": "2025-04-03T02:24:42.943683",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,226",
+    "fork": "1,254",
+    "timestamp": "2025-04-03T02:24:42.943964",
+    "stars_today": "0 stars today"
+  }
+]

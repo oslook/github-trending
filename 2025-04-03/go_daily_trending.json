@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,418",
+    "fork": "606",
+    "timestamp": "2025-04-03T02:24:21.776790",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,094",
+    "fork": "5,863",
+    "timestamp": "2025-04-03T02:24:21.777083",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,534",
+    "fork": "1,031",
+    "timestamp": "2025-04-03T02:24:21.777389",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "29,201",
+    "fork": "2,408",
+    "timestamp": "2025-04-03T02:24:21.777676",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "58,372",
+    "fork": "2,001",
+    "timestamp": "2025-04-03T02:24:21.777980",
+    "stars_today": "71 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "25,147",
+    "fork": "2,273",
+    "timestamp": "2025-04-03T02:24:21.778250",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,273",
+    "fork": "2,477",
+    "timestamp": "2025-04-03T02:24:21.778520",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,348",
+    "fork": "830",
+    "timestamp": "2025-04-03T02:24:21.778806",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
+    "href": "https://github.com/argoproj/argo-rollouts",
+    "about": "Progressive Delivery for Kubernetes",
+    "star": "2,954",
+    "fork": "930",
+    "timestamp": "2025-04-03T02:24:21.779080",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "bytebase/bytebase",
+    "href": "https://github.com/bytebase/bytebase",
+    "about": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+    "star": "12,210",
+    "fork": "788",
+    "timestamp": "2025-04-03T02:24:21.779351",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "9,923",
+    "fork": "934",
+    "timestamp": "2025-04-03T02:24:21.779636",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nicocha30/ligolo-ng",
+    "href": "https://github.com/nicocha30/ligolo-ng",
+    "about": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
+    "star": "3,309",
+    "fork": "333",
+    "timestamp": "2025-04-03T02:24:21.779936",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "wgpsec/ENScan_GO",
+    "href": "https://github.com/wgpsec/ENScan_GO",
+    "about": "一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入",
+    "star": "3,419",
+    "fork": "334",
+    "timestamp": "2025-04-03T02:24:21.780236",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "stakater/Reloader",
+    "href": "https://github.com/stakater/Reloader",
+    "about": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
+    "star": "8,245",
+    "fork": "535",
+    "timestamp": "2025-04-03T02:24:21.780504",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "10,619",
+    "fork": "483",
+    "timestamp": "2025-04-03T02:24:21.780792",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "53,954",
+    "fork": "5,281",
+    "timestamp": "2025-04-03T02:24:21.781091",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "1,500",
+    "fork": "159",
+    "timestamp": "2025-04-03T02:24:21.781363",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pion/webrtc",
+    "href": "https://github.com/pion/webrtc",
+    "about": "Pure Go implementation of the WebRTC API",
+    "star": "14,518",
+    "fork": "1,709",
+    "timestamp": "2025-04-03T02:24:21.781644",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "69,088",
+    "fork": "4,462",
+    "timestamp": "2025-04-03T02:24:21.781942",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,181",
+    "fork": "9,415",
+    "timestamp": "2025-04-03T02:24:21.782215",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "infracost/infracost",
+    "href": "https://github.com/infracost/infracost",
+    "about": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+    "star": "11,369",
+    "fork": "588",
+    "timestamp": "2025-04-03T02:24:21.782488",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,216",
+    "fork": "516",
+    "timestamp": "2025-04-03T02:24:21.782802",
+    "stars_today": "34 stars today"
+  }
+]
