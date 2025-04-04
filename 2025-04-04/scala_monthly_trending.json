@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,862",
+    "fork": "28,468",
+    "timestamp": "2025-04-04T02:24:24.235577",
+    "stars_today": "277 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,920",
+    "fork": "1,802",
+    "timestamp": "2025-04-04T02:24:24.235888",
+    "stars_today": "85 stars this month"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,394",
+    "fork": "1,160",
+    "timestamp": "2025-04-04T02:24:24.236174",
+    "stars_today": "30 stars this month"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,423",
+    "fork": "554",
+    "timestamp": "2025-04-04T02:24:24.236477",
+    "stars_today": "86 stars this month"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "312",
+    "fork": "88",
+    "timestamp": "2025-04-04T02:24:24.236772",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,186",
+    "fork": "1,333",
+    "timestamp": "2025-04-04T02:24:24.237067",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,444",
+    "fork": "2,366",
+    "timestamp": "2025-04-04T02:24:24.237343",
+    "stars_today": "171 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,321",
+    "fork": "315",
+    "timestamp": "2025-04-04T02:24:24.237619",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,606",
+    "fork": "646",
+    "timestamp": "2025-04-04T02:24:24.237906",
+    "stars_today": "49 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "820",
+    "fork": "188",
+    "timestamp": "2025-04-04T02:24:24.238186",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,892",
+    "fork": "2,507",
+    "timestamp": "2025-04-04T02:24:24.238463",
+    "stars_today": "24 stars this month"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,602",
+    "fork": "1,205",
+    "timestamp": "2025-04-04T02:24:24.238740",
+    "stars_today": "52 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,309",
+    "fork": "474",
+    "timestamp": "2025-04-04T02:24:24.239028",
+    "stars_today": "33 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,976",
+    "fork": "1,087",
+    "timestamp": "2025-04-04T02:24:24.239300",
+    "stars_today": "30 stars this month"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,943",
+    "fork": "2,828",
+    "timestamp": "2025-04-04T02:24:24.239572",
+    "stars_today": "17 stars this month"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,367",
+    "fork": "396",
+    "timestamp": "2025-04-04T02:24:24.239859",
+    "stars_today": "27 stars this month"
+  }
+]

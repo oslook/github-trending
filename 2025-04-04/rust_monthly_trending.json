@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "15,550",
+    "fork": "1,562",
+    "timestamp": "2025-04-04T02:24:22.655649",
+    "stars_today": "1,691 stars this month"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "19,766",
+    "fork": "1,417",
+    "timestamp": "2025-04-04T02:24:22.655986",
+    "stars_today": "1,409 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "6,609",
+    "fork": "218",
+    "timestamp": "2025-04-04T02:24:22.656294",
+    "stars_today": "1,328 stars this month"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "86,024",
+    "fork": "12,095",
+    "timestamp": "2025-04-04T02:24:22.656597",
+    "stars_today": "2,870 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "47,871",
+    "fork": "1,343",
+    "timestamp": "2025-04-04T02:24:22.656892",
+    "stars_today": "5,997 stars this month"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "href": "https://github.com/sharkdp/fd",
+    "about": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "37,351",
+    "fork": "865",
+    "timestamp": "2025-04-04T02:24:22.657206",
+    "stars_today": "1,637 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "56,534",
+    "fork": "3,822",
+    "timestamp": "2025-04-04T02:24:22.657483",
+    "stars_today": "1,760 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,801",
+    "fork": "3,822",
+    "timestamp": "2025-04-04T02:24:22.657762",
+    "stars_today": "673 stars this month"
+  },
+  {
+    "repo": "signalapp/libsignal",
+    "href": "https://github.com/signalapp/libsignal",
+    "about": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+    "star": "4,210",
+    "fork": "499",
+    "timestamp": "2025-04-04T02:24:22.658051",
+    "stars_today": "287 stars this month"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,521",
+    "fork": "1,517",
+    "timestamp": "2025-04-04T02:24:22.658325",
+    "stars_today": "145 stars this month"
+  },
+  {
+    "repo": "EricLBuehler/mistral.rs",
+    "href": "https://github.com/EricLBuehler/mistral.rs",
+    "about": "Blazingly fast LLM inference.",
+    "star": "5,396",
+    "fork": "391",
+    "timestamp": "2025-04-04T02:24:22.658603",
+    "stars_today": "287 stars this month"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "26,367",
+    "fork": "1,034",
+    "timestamp": "2025-04-04T02:24:22.658921",
+    "stars_today": "874 stars this month"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "22,839",
+    "fork": "1,568",
+    "timestamp": "2025-04-04T02:24:22.659226",
+    "stars_today": "672 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "about": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "star": "57,378",
+    "fork": "10,521",
+    "timestamp": "2025-04-04T02:24:22.659500",
+    "stars_today": "827 stars this month"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "11,083",
+    "fork": "379",
+    "timestamp": "2025-04-04T02:24:22.659773",
+    "stars_today": "6,615 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "18,119",
+    "fork": "561",
+    "timestamp": "2025-04-04T02:24:22.660089",
+    "stars_today": "813 stars this month"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "37,475",
+    "fork": "1,277",
+    "timestamp": "2025-04-04T02:24:22.660366",
+    "stars_today": "1,221 stars this month"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,822",
+    "fork": "2,153",
+    "timestamp": "2025-04-04T02:24:22.660641",
+    "stars_today": "701 stars this month"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,344",
+    "fork": "563",
+    "timestamp": "2025-04-04T02:24:22.660956",
+    "stars_today": "829 stars this month"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "20,123",
+    "fork": "1,724",
+    "timestamp": "2025-04-04T02:24:22.661262",
+    "stars_today": "427 stars this month"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "91,149",
+    "fork": "2,793",
+    "timestamp": "2025-04-04T02:24:22.661563",
+    "stars_today": "1,308 stars this month"
+  },
+  {
+    "repo": "ankitects/anki",
+    "href": "https://github.com/ankitects/anki",
+    "about": "Anki's shared backend and web components, and the Qt frontend",
+    "star": "20,630",
+    "fork": "2,273",
+    "timestamp": "2025-04-04T02:24:22.661900",
+    "stars_today": "500 stars this month"
+  },
+  {
+    "repo": "Rust-GPU/Rust-CUDA",
+    "href": "https://github.com/Rust-GPU/Rust-CUDA",
+    "about": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.",
+    "star": "3,990",
+    "fork": "163",
+    "timestamp": "2025-04-04T02:24:22.662180",
+    "stars_today": "340 stars this month"
+  },
+  {
+    "repo": "juhaku/utoipa",
+    "href": "https://github.com/juhaku/utoipa",
+    "about": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",
+    "star": "2,958",
+    "fork": "250",
+    "timestamp": "2025-04-04T02:24:22.662454",
+    "stars_today": "126 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+    "star": "2,252",
+    "fork": "116",
+    "timestamp": "2025-04-04T02:24:22.662729",
+    "stars_today": "507 stars this month"
+  }
+]
