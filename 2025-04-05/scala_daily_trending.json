@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,924",
+    "fork": "1,802",
+    "timestamp": "2025-04-05T02:22:25.823075",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,425",
+    "fork": "554",
+    "timestamp": "2025-04-05T02:22:25.823415",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,867",
+    "fork": "28,468",
+    "timestamp": "2025-04-05T02:22:25.823711",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,603",
+    "fork": "1,206",
+    "timestamp": "2025-04-05T02:22:25.824001",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "907",
+    "fork": "608",
+    "timestamp": "2025-04-05T02:22:25.824285",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio-quill",
+    "href": "https://github.com/zio/zio-quill",
+    "about": "Compile-time Language Integrated Queries for Scala",
+    "star": "2,154",
+    "fork": "353",
+    "timestamp": "2025-04-05T02:22:25.824588",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,106",
+    "fork": "544",
+    "timestamp": "2025-04-05T02:22:25.824873",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,058",
+    "fork": "12,167",
+    "timestamp": "2025-04-05T02:22:25.825155",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "820",
+    "fork": "189",
+    "timestamp": "2025-04-05T02:22:25.825443",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,310",
+    "fork": "474",
+    "timestamp": "2025-04-05T02:22:25.825727",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,943",
+    "fork": "2,828",
+    "timestamp": "2025-04-05T02:22:25.826012",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,977",
+    "fork": "1,087",
+    "timestamp": "2025-04-05T02:22:25.826297",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "880",
+    "fork": "245",
+    "timestamp": "2025-04-05T02:22:25.826595",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,825",
+    "fork": "950",
+    "timestamp": "2025-04-05T02:22:25.826878",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/sam",
+    "href": "https://github.com/broadinstitute/sam",
+    "about": "workbench identity and access management",
+    "star": "42",
+    "fork": "12",
+    "timestamp": "2025-04-05T02:22:25.827162",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,322",
+    "fork": "315",
+    "timestamp": "2025-04-05T02:22:25.827464",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,131",
+    "fork": "3,586",
+    "timestamp": "2025-04-05T02:22:25.827749",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,257",
+    "fork": "754",
+    "timestamp": "2025-04-05T02:22:25.828036",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,171",
+    "fork": "363",
+    "timestamp": "2025-04-05T02:22:25.828320",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "486",
+    "fork": "151",
+    "timestamp": "2025-04-05T02:22:25.828621",
+    "stars_today": "0 stars today"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "star": "38,384",
+    "fork": "2,777",
+    "timestamp": "2025-04-05T02:22:34.582500",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "tigerbeetle/tigerbeetle",
+    "href": "https://github.com/tigerbeetle/tigerbeetle",
+    "about": "The financial transactions database designed for mission critical safety and performance.",
+    "star": "12,078",
+    "fork": "588",
+    "timestamp": "2025-04-05T02:22:34.582803",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "href": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "star": "77,257",
+    "fork": "3,004",
+    "timestamp": "2025-04-05T02:22:34.583093",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "blackboardsh/electrobun",
+    "href": "https://github.com/blackboardsh/electrobun",
+    "about": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+    "star": "1,846",
+    "fork": "34",
+    "timestamp": "2025-04-05T02:22:34.583390",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "zml/zml",
+    "href": "https://github.com/zml/zml",
+    "about": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+    "star": "2,186",
+    "fork": "77",
+    "timestamp": "2025-04-05T02:22:34.583686",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "2,629",
+    "fork": "112",
+    "timestamp": "2025-04-05T02:22:34.583969",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Hejsil/zig-clap",
+    "href": "https://github.com/Hejsil/zig-clap",
+    "about": "Command line argument parsing library",
+    "star": "1,192",
+    "fork": "74",
+    "timestamp": "2025-04-05T02:22:34.584280",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NilsIrl/dockerc",
+    "href": "https://github.com/NilsIrl/dockerc",
+    "about": "container image to single executable compiler",
+    "star": "4,364",
+    "fork": "88",
+    "timestamp": "2025-04-05T02:22:34.584575",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Syndica/sig",
+    "href": "https://github.com/Syndica/sig",
+    "about": "a Solana validator client implementation written in Zig",
+    "star": "276",
+    "fork": "42",
+    "timestamp": "2025-04-05T02:22:34.584854",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A dynamic tiling Wayland compositor",
+    "star": "3,501",
+    "fork": "154",
+    "timestamp": "2025-04-05T02:22:34.585132",
+    "stars_today": "2 stars today"
+  }
+]

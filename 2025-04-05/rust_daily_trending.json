@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "102,485",
+    "fork": "13,235",
+    "timestamp": "2025-04-05T02:22:21.153291",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "aws/amazon-q-developer-cli",
+    "href": "https://github.com/aws/amazon-q-developer-cli",
+    "about": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+    "star": "282",
+    "fork": "57",
+    "timestamp": "2025-04-05T02:22:21.153651",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "51,759",
+    "fork": "2,593",
+    "timestamp": "2025-04-05T02:22:21.153953",
+    "stars_today": "468 stars today"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,856",
+    "fork": "2,154",
+    "timestamp": "2025-04-05T02:22:21.154243",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "43,181",
+    "fork": "2,040",
+    "timestamp": "2025-04-05T02:22:21.154571",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "86,132",
+    "fork": "12,105",
+    "timestamp": "2025-04-05T02:22:21.154886",
+    "stars_today": "200 stars today"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "12,128",
+    "fork": "437",
+    "timestamp": "2025-04-05T02:22:21.155178",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "34,617",
+    "fork": "1,786",
+    "timestamp": "2025-04-05T02:22:21.155483",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "stalwartlabs/mail-server",
+    "href": "https://github.com/stalwartlabs/mail-server",
+    "about": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+    "star": "7,160",
+    "fork": "335",
+    "timestamp": "2025-04-05T02:22:21.155794",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "91,175",
+    "fork": "2,794",
+    "timestamp": "2025-04-05T02:22:21.156107",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "neovide/neovide",
+    "href": "https://github.com/neovide/neovide",
+    "about": "No Nonsense Neovim Client in Rust",
+    "star": "13,837",
+    "fork": "554",
+    "timestamp": "2025-04-05T02:22:21.156432",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "36,767",
+    "fork": "2,736",
+    "timestamp": "2025-04-05T02:22:21.156712",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,376",
+    "fork": "566",
+    "timestamp": "2025-04-05T02:22:21.157024",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "29,778",
+    "fork": "3,597",
+    "timestamp": "2025-04-05T02:22:21.157320",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,522",
+    "fork": "1,519",
+    "timestamp": "2025-04-05T02:22:21.157624",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "raphamorim/rio",
+    "href": "https://github.com/raphamorim/rio",
+    "about": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+    "star": "4,896",
+    "fork": "170",
+    "timestamp": "2025-04-05T02:22:21.157938",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "awslabs/mountpoint-s3",
+    "href": "https://github.com/awslabs/mountpoint-s3",
+    "about": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+    "star": "5,032",
+    "fork": "195",
+    "timestamp": "2025-04-05T02:22:21.158224",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "48,010",
+    "fork": "1,346",
+    "timestamp": "2025-04-05T02:22:21.158522",
+    "stars_today": "151 stars today"
+  },
+  {
+    "repo": "launchbadge/sqlx",
+    "href": "https://github.com/launchbadge/sqlx",
+    "about": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+    "star": "14,469",
+    "fork": "1,364",
+    "timestamp": "2025-04-05T02:22:21.158813",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "14,490",
+    "fork": "449",
+    "timestamp": "2025-04-05T02:22:21.159128",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "volta-cli/volta",
+    "href": "https://github.com/volta-cli/volta",
+    "about": "Volta: JS Toolchains as Code. ⚡",
+    "star": "11,731",
+    "fork": "273",
+    "timestamp": "2025-04-05T02:22:21.159427",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lusingander/stu",
+    "href": "https://github.com/lusingander/stu",
+    "about": "TUI explorer application for Amazon S3 (AWS S3) 🪣",
+    "star": "435",
+    "fork": "15",
+    "timestamp": "2025-04-05T02:22:21.159713",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "38,978",
+    "fork": "1,071",
+    "timestamp": "2025-04-05T02:22:21.160025",
+    "stars_today": "161 stars today"
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "href": "https://github.com/ratatui/ratatui",
+    "about": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+    "star": "12,459",
+    "fork": "386",
+    "timestamp": "2025-04-05T02:22:21.160347",
+    "stars_today": "13 stars today"
+  }
+]

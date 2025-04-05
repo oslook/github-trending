@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "624",
+    "fork": "487",
+    "timestamp": "2025-04-05T02:22:03.380196",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "46,711",
+    "fork": "5,563",
+    "timestamp": "2025-04-05T02:22:03.380582",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCoupler.jl",
+    "href": "https://github.com/CliMA/ClimaCoupler.jl",
+    "about": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+    "star": "31",
+    "fork": "6",
+    "timestamp": "2025-04-05T02:22:03.380878",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCore.jl",
+    "href": "https://github.com/CliMA/ClimaCore.jl",
+    "about": "CliMA model dycore",
+    "star": "95",
+    "fork": "15",
+    "timestamp": "2025-04-05T02:22:03.381165",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "92",
+    "fork": "22",
+    "timestamp": "2025-04-05T02:22:03.381463",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,081",
+    "fork": "223",
+    "timestamp": "2025-04-05T02:22:03.381752",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/SciMLSensitivity.jl",
+    "href": "https://github.com/SciML/SciMLSensitivity.jl",
+    "about": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
+    "star": "348",
+    "fork": "74",
+    "timestamp": "2025-04-05T02:22:03.382063",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaGPU/CUDA.jl",
+    "href": "https://github.com/JuliaGPU/CUDA.jl",
+    "about": "CUDA programming in Julia.",
+    "star": "1,271",
+    "fork": "237",
+    "timestamp": "2025-04-05T02:22:03.382344",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/LinearSolve.jl",
+    "href": "https://github.com/SciML/LinearSolve.jl",
+    "about": "LinearSolve.jl: High-Performance Unified Interface for Linear Solvers in Julia. Easily switch between factorization and Krylov methods, add preconditioners, and all in one interface.",
+    "star": "254",
+    "fork": "60",
+    "timestamp": "2025-04-05T02:22:03.382669",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/Catalyst.jl",
+    "href": "https://github.com/SciML/Catalyst.jl",
+    "about": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+    "star": "475",
+    "fork": "79",
+    "timestamp": "2025-04-05T02:22:03.382978",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "580",
+    "fork": "220",
+    "timestamp": "2025-04-05T02:22:03.383287",
+    "stars_today": "1 star today"
+  }
+]
