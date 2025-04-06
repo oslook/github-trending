@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "36,738",
+    "fork": "3,470",
+    "timestamp": "2025-04-06T02:28:33.190847",
+    "stars_today": "624 stars this month"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,098",
+    "fork": "1,074",
+    "timestamp": "2025-04-06T02:28:33.191146",
+    "stars_today": "347 stars this month"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,173",
+    "fork": "1,801",
+    "timestamp": "2025-04-06T02:28:33.191428",
+    "stars_today": "187 stars this month"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,829",
+    "fork": "438",
+    "timestamp": "2025-04-06T02:28:33.191751",
+    "stars_today": "97 stars this month"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "598",
+    "fork": "69",
+    "timestamp": "2025-04-06T02:28:33.192057",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,228",
+    "fork": "324",
+    "timestamp": "2025-04-06T02:28:33.192358",
+    "stars_today": "53 stars this month"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,120",
+    "fork": "731",
+    "timestamp": "2025-04-06T02:28:33.192655",
+    "stars_today": "18 stars this month"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,067",
+    "fork": "30",
+    "timestamp": "2025-04-06T02:28:33.192957",
+    "stars_today": "44 stars this month"
+  }
+]
