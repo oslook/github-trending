@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "21,819",
+    "fork": "805",
+    "timestamp": "2025-04-07T02:28:10.103964",
+    "stars_today": "10,609 stars this month"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "9,835",
+    "fork": "1,308",
+    "timestamp": "2025-04-07T02:28:10.104268",
+    "stars_today": "2,150 stars this month"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,358",
+    "fork": "8,353",
+    "timestamp": "2025-04-07T02:28:10.104546",
+    "stars_today": "448 stars this month"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,318",
+    "fork": "521",
+    "timestamp": "2025-04-07T02:28:10.104848",
+    "stars_today": "784 stars this month"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,737",
+    "fork": "622",
+    "timestamp": "2025-04-07T02:28:10.105137",
+    "stars_today": "765 stars this month"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "13,478",
+    "fork": "708",
+    "timestamp": "2025-04-07T02:28:10.105417",
+    "stars_today": "1,288 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "33,881",
+    "fork": "3,139",
+    "timestamp": "2025-04-07T02:28:10.105691",
+    "stars_today": "986 stars this month"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "24,107",
+    "fork": "4,067",
+    "timestamp": "2025-04-07T02:28:10.105991",
+    "stars_today": "281 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,691",
+    "fork": "1,440",
+    "timestamp": "2025-04-07T02:28:10.106301",
+    "stars_today": "317 stars this month"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "765",
+    "fork": "181",
+    "timestamp": "2025-04-07T02:28:10.106569",
+    "stars_today": "134 stars this month"
+  },
+  {
+    "repo": "Calcium-Ion/new-api",
+    "href": "https://github.com/Calcium-Ion/new-api",
+    "about": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+    "star": "6,527",
+    "fork": "1,293",
+    "timestamp": "2025-04-07T02:28:10.106838",
+    "stars_today": "832 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "69,194",
+    "fork": "4,467",
+    "timestamp": "2025-04-07T02:28:10.107147",
+    "stars_today": "1,185 stars this month"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "22,595",
+    "fork": "6,624",
+    "timestamp": "2025-04-07T02:28:10.107421",
+    "stars_today": "303 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "22,840",
+    "fork": "2,653",
+    "timestamp": "2025-04-07T02:28:10.107686",
+    "stars_today": "456 stars this month"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "58,029",
+    "fork": "9,491",
+    "timestamp": "2025-04-07T02:28:10.107962",
+    "stars_today": "591 stars this month"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,237",
+    "fork": "2,044",
+    "timestamp": "2025-04-07T02:28:10.108276",
+    "stars_today": "305 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "12,889",
+    "fork": "620",
+    "timestamp": "2025-04-07T02:28:10.108624",
+    "stars_today": "549 stars this month"
+  },
+  {
+    "repo": "kubernetes-sigs/karpenter",
+    "href": "https://github.com/kubernetes-sigs/karpenter",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "855",
+    "fork": "256",
+    "timestamp": "2025-04-07T02:28:10.108898",
+    "stars_today": "84 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "18,685",
+    "fork": "1,815",
+    "timestamp": "2025-04-07T02:28:10.109183",
+    "stars_today": "372 stars this month"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "37,920",
+    "fork": "3,994",
+    "timestamp": "2025-04-07T02:28:10.109452",
+    "stars_today": "317 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "35,780",
+    "fork": "1,742",
+    "timestamp": "2025-04-07T02:28:10.109748",
+    "stars_today": "580 stars this month"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "13,866",
+    "fork": "1,014",
+    "timestamp": "2025-04-07T02:28:10.110015",
+    "stars_today": "476 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "45,154",
+    "fork": "2,204",
+    "timestamp": "2025-04-07T02:28:10.110297",
+    "stars_today": "1,093 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "26,946",
+    "fork": "1,440",
+    "timestamp": "2025-04-07T02:28:10.110566",
+    "stars_today": "1,158 stars this month"
+  }
+]

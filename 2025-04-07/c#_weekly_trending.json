@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "22,069",
+    "fork": "11,029",
+    "timestamp": "2025-04-07T02:27:59.391890",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "5,000",
+    "fork": "2,676",
+    "timestamp": "2025-04-07T02:27:59.392204",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "libsdl-org/SDL",
+    "href": "https://github.com/libsdl-org/SDL",
+    "about": "Simple Directmedia Layer",
+    "star": "11,918",
+    "fork": "2,074",
+    "timestamp": "2025-04-07T02:27:59.392492",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "SanderMertens/flecs",
+    "href": "https://github.com/SanderMertens/flecs",
+    "about": "A fast entity component system (ECS) for C & C++",
+    "star": "6,903",
+    "fork": "503",
+    "timestamp": "2025-04-07T02:27:59.392800",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "about": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "star": "23,032",
+    "fork": "4,892",
+    "timestamp": "2025-04-07T02:27:59.393087",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "systemd/systemd",
+    "href": "https://github.com/systemd/systemd",
+    "about": "The systemd System and Service Manager",
+    "star": "13,963",
+    "fork": "3,942",
+    "timestamp": "2025-04-07T02:27:59.393364",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nothings/stb",
+    "href": "https://github.com/nothings/stb",
+    "about": "stb single-file public domain libraries for C/C++",
+    "star": "28,403",
+    "fork": "7,791",
+    "timestamp": "2025-04-07T02:27:59.393637",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "swaywm/sway",
+    "href": "https://github.com/swaywm/sway",
+    "about": "i3-compatible Wayland compositor",
+    "star": "15,215",
+    "fork": "1,139",
+    "timestamp": "2025-04-07T02:27:59.393911",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "zmkfirmware/zmk",
+    "href": "https://github.com/zmkfirmware/zmk",
+    "about": "ZMK Firmware Repository",
+    "star": "3,176",
+    "fork": "3,119",
+    "timestamp": "2025-04-07T02:27:59.394209",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "glfw/glfw",
+    "href": "https://github.com/glfw/glfw",
+    "about": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+    "star": "13,654",
+    "fork": "5,474",
+    "timestamp": "2025-04-07T02:27:59.394483",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "href": "https://github.com/obsproject/obs-studio",
+    "about": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "star": "63,334",
+    "fork": "8,306",
+    "timestamp": "2025-04-07T02:27:59.394756",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "qmk/qmk_firmware",
+    "href": "https://github.com/qmk/qmk_firmware",
+    "about": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "star": "18,949",
+    "fork": "41,097",
+    "timestamp": "2025-04-07T02:27:59.395028",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "bellard/quickjs",
+    "href": "https://github.com/bellard/quickjs",
+    "about": "Public repository of the QuickJS Javascript Engine.",
+    "star": "9,007",
+    "fork": "956",
+    "timestamp": "2025-04-07T02:27:59.395351",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "libretro/RetroArch",
+    "href": "https://github.com/libretro/RetroArch",
+    "about": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+    "star": "11,135",
+    "fork": "1,870",
+    "timestamp": "2025-04-07T02:27:59.395652",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "86Box/86Box",
+    "href": "https://github.com/86Box/86Box",
+    "about": "Emulator of x86-based machines.",
+    "star": "3,211",
+    "fork": "393",
+    "timestamp": "2025-04-07T02:27:59.395927",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "TsudaKageyu/minhook",
+    "href": "https://github.com/TsudaKageyu/minhook",
+    "about": "The Minimalistic x86/x64 API Hooking Library for Windows",
+    "star": "4,674",
+    "fork": "926",
+    "timestamp": "2025-04-07T02:27:59.396213",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "pret/pokeemerald",
+    "href": "https://github.com/pret/pokeemerald",
+    "about": "Decompilation of Pokémon Emerald",
+    "star": "2,463",
+    "fork": "2,983",
+    "timestamp": "2025-04-07T02:27:59.396490",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "raspberrypi/pico-examples",
+    "href": "https://github.com/raspberrypi/pico-examples",
+    "about": "",
+    "star": "3,229",
+    "fork": "903",
+    "timestamp": "2025-04-07T02:27:59.396790",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "vial-kb/vial-qmk",
+    "href": "https://github.com/vial-kb/vial-qmk",
+    "about": "QMK fork with Vial-specific features.",
+    "star": "984",
+    "fork": "2,855",
+    "timestamp": "2025-04-07T02:27:59.397080",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "netdata/netdata",
+    "href": "https://github.com/netdata/netdata",
+    "about": "X-Ray Vision for your infrastructure!",
+    "star": "74,005",
+    "fork": "6,038",
+    "timestamp": "2025-04-07T02:27:59.397355",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "pbatard/rufus",
+    "href": "https://github.com/pbatard/rufus",
+    "about": "The Reliable USB Formatting Utility",
+    "star": "30,847",
+    "fork": "2,713",
+    "timestamp": "2025-04-07T02:27:59.397627",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "oxters168/Pluvia",
+    "href": "https://github.com/oxters168/Pluvia",
+    "about": "Lightweight unofficial Steam client for Android",
+    "star": "1,019",
+    "fork": "23",
+    "timestamp": "2025-04-07T02:27:59.397897",
+    "stars_today": "10 stars today"
+  }
+]

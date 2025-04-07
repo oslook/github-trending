@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "86,312",
+    "fork": "12,119",
+    "timestamp": "2025-04-07T02:28:29.884483",
+    "stars_today": "1,327 stars this week"
+  },
+  {
+    "repo": "medialab/xan",
+    "href": "https://github.com/medialab/xan",
+    "about": "The CSV magician",
+    "star": "2,092",
+    "fork": "32",
+    "timestamp": "2025-04-07T02:28:29.884777",
+    "stars_today": "990 stars this week"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "39,014",
+    "fork": "1,074",
+    "timestamp": "2025-04-07T02:28:29.885097",
+    "stars_today": "356 stars this week"
+  },
+  {
+    "repo": "aws/amazon-q-developer-cli",
+    "href": "https://github.com/aws/amazon-q-developer-cli",
+    "about": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+    "star": "289",
+    "fork": "57",
+    "timestamp": "2025-04-07T02:28:29.885377",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,405",
+    "fork": "569",
+    "timestamp": "2025-04-07T02:28:29.885683",
+    "stars_today": "209 stars this week"
+  },
+  {
+    "repo": "supabase-community/postgres-language-server",
+    "href": "https://github.com/supabase-community/postgres-language-server",
+    "about": "A Language Server for Postgres",
+    "star": "4,814",
+    "fork": "98",
+    "timestamp": "2025-04-07T02:28:29.885959",
+    "stars_today": "679 stars this week"
+  },
+  {
+    "repo": "MystenLabs/walrus",
+    "href": "https://github.com/MystenLabs/walrus",
+    "about": "A decentralized blob store using Sui for coordination and governance.",
+    "star": "133",
+    "fork": "36",
+    "timestamp": "2025-04-07T02:28:29.886250",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "mullvad/mullvadvpn-app",
+    "href": "https://github.com/mullvad/mullvadvpn-app",
+    "about": "The Mullvad VPN client app for desktop and mobile",
+    "star": "5,648",
+    "fork": "388",
+    "timestamp": "2025-04-07T02:28:29.886527",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "34,647",
+    "fork": "1,787",
+    "timestamp": "2025-04-07T02:28:29.886807",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "tursodatabase/limbo",
+    "href": "https://github.com/tursodatabase/limbo",
+    "about": "Limbo is a project to build the modern evolution of SQLite.",
+    "star": "10,052",
+    "fork": "368",
+    "timestamp": "2025-04-07T02:28:29.887093",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "48,204",
+    "fork": "1,349",
+    "timestamp": "2025-04-07T02:28:29.887367",
+    "stars_today": "1,126 stars this week"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "32,901",
+    "fork": "2,156",
+    "timestamp": "2025-04-07T02:28:29.887640",
+    "stars_today": "186 stars this week"
+  },
+  {
+    "repo": "MystenLabs/sui",
+    "href": "https://github.com/MystenLabs/sui",
+    "about": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "star": "6,771",
+    "fork": "11,395",
+    "timestamp": "2025-04-07T02:28:29.887909",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "dora-rs/dora",
+    "href": "https://github.com/dora-rs/dora",
+    "about": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+    "star": "2,036",
+    "fork": "159",
+    "timestamp": "2025-04-07T02:28:29.888192",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "43,255",
+    "fork": "2,045",
+    "timestamp": "2025-04-07T02:28:29.888490",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,372",
+    "fork": "275",
+    "timestamp": "2025-04-07T02:28:29.888758",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "37,541",
+    "fork": "1,283",
+    "timestamp": "2025-04-07T02:28:29.889027",
+    "stars_today": "229 stars this week"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "about": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+    "star": "16,106",
+    "fork": "1,393",
+    "timestamp": "2025-04-07T02:28:29.889309",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "picahq/pica",
+    "href": "https://github.com/picahq/pica",
+    "about": "The Complete Agentic Tooling Platform",
+    "star": "745",
+    "fork": "42",
+    "timestamp": "2025-04-07T02:28:29.889580",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "about": "A Flash Player emulator written in Rust",
+    "star": "16,416",
+    "fork": "856",
+    "timestamp": "2025-04-07T02:28:29.889878",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "dtolnay/cxx",
+    "href": "https://github.com/dtolnay/cxx",
+    "about": "Safe interop between Rust and C++",
+    "star": "6,215",
+    "fork": "362",
+    "timestamp": "2025-04-07T02:28:29.890188",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "18,175",
+    "fork": "561",
+    "timestamp": "2025-04-07T02:28:29.890487",
+    "stars_today": "190 stars this week"
+  }
+]
