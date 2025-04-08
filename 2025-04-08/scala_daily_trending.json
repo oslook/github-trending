@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,888",
+    "fork": "28,471",
+    "timestamp": "2025-04-08T02:25:08.840497",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,173",
+    "fork": "365",
+    "timestamp": "2025-04-08T02:25:08.840810",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/rawls",
+    "href": "https://github.com/broadinstitute/rawls",
+    "about": "Rawls service for DSDE",
+    "star": "26",
+    "fork": "4",
+    "timestamp": "2025-04-08T02:25:08.841099",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,325",
+    "fork": "316",
+    "timestamp": "2025-04-08T02:25:08.841385",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "908",
+    "fork": "607",
+    "timestamp": "2025-04-08T02:25:08.841664",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,231",
+    "fork": "621",
+    "timestamp": "2025-04-08T02:25:08.841958",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,450",
+    "fork": "2,368",
+    "timestamp": "2025-04-08T02:25:08.842235",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "189",
+    "fork": "51",
+    "timestamp": "2025-04-08T02:25:08.842513",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "314",
+    "fork": "88",
+    "timestamp": "2025-04-08T02:25:08.842825",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,262",
+    "fork": "755",
+    "timestamp": "2025-04-08T02:25:08.843107",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,944",
+    "fork": "2,830",
+    "timestamp": "2025-04-08T02:25:08.843387",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,855",
+    "fork": "443",
+    "timestamp": "2025-04-08T02:25:08.843667",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,931",
+    "fork": "1,806",
+    "timestamp": "2025-04-08T02:25:08.843958",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,011",
+    "fork": "361",
+    "timestamp": "2025-04-08T02:25:08.844235",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,953",
+    "fork": "722",
+    "timestamp": "2025-04-08T02:25:08.844509",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,368",
+    "fork": "397",
+    "timestamp": "2025-04-08T02:25:08.844795",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,982",
+    "fork": "1,088",
+    "timestamp": "2025-04-08T02:25:08.845070",
+    "stars_today": "1 star today"
+  }
+]
