@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,479",
+    "fork": "8,163",
+    "timestamp": "2025-04-09T02:25:40.488058",
+    "stars_today": "54 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "13,308",
+    "fork": "705",
+    "timestamp": "2025-04-09T02:25:40.488362",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+    "star": "13,139",
+    "fork": "637",
+    "timestamp": "2025-04-09T02:25:40.488681",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "krillinai/KrillinAI",
+    "href": "https://github.com/krillinai/KrillinAI",
+    "about": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "star": "1,210",
+    "fork": "102",
+    "timestamp": "2025-04-09T02:25:40.488986",
+    "stars_today": "290 stars today"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "29,744",
+    "fork": "1,187",
+    "timestamp": "2025-04-09T02:25:40.489300",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "22,292",
+    "fork": "882",
+    "timestamp": "2025-04-09T02:25:40.489613",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "2,659",
+    "fork": "216",
+    "timestamp": "2025-04-09T02:25:40.489910",
+    "stars_today": "141 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,703",
+    "fork": "4,482",
+    "timestamp": "2025-04-09T02:25:40.490195",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "9,955",
+    "fork": "937",
+    "timestamp": "2025-04-09T02:25:40.490475",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "2,990",
+    "fork": "675",
+    "timestamp": "2025-04-09T02:25:40.490753",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "6,918",
+    "fork": "2,206",
+    "timestamp": "2025-04-09T02:25:40.491048",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "30,576",
+    "fork": "881",
+    "timestamp": "2025-04-09T02:25:40.491334",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,485",
+    "fork": "5,640",
+    "timestamp": "2025-04-09T02:25:40.491614",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,204",
+    "fork": "192",
+    "timestamp": "2025-04-09T02:25:40.491924",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,636",
+    "fork": "1,145",
+    "timestamp": "2025-04-09T02:25:40.492211",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,745",
+    "fork": "2,122",
+    "timestamp": "2025-04-09T02:25:40.492492",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "40,045",
+    "fork": "2,914",
+    "timestamp": "2025-04-09T02:25:40.492807",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "robfig/cron",
+    "href": "https://github.com/robfig/cron",
+    "about": "a cron library for go",
+    "star": "13,447",
+    "fork": "1,651",
+    "timestamp": "2025-04-09T02:25:40.493104",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "59,142",
+    "fork": "1,502",
+    "timestamp": "2025-04-09T02:25:40.493383",
+    "stars_today": "111 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "14,815",
+    "fork": "865",
+    "timestamp": "2025-04-09T02:25:40.493660",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "3,934",
+    "fork": "1,381",
+    "timestamp": "2025-04-09T02:25:40.493955",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "href": "https://github.com/hashicorp/packer",
+    "about": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "star": "15,312",
+    "fork": "3,329",
+    "timestamp": "2025-04-09T02:25:40.494233",
+    "stars_today": "1 star today"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "NVIDIA-Omniverse/PhysX",
+    "href": "https://github.com/NVIDIA-Omniverse/PhysX",
+    "about": "NVIDIA PhysX SDK",
+    "star": "3,620",
+    "fork": "475",
+    "timestamp": "2025-04-09T02:25:28.759438",
+    "stars_today": "152 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "67,113",
+    "fork": "15,661",
+    "timestamp": "2025-04-09T02:25:28.759750",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT",
+    "href": "https://github.com/NVIDIA/TensorRT",
+    "about": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "star": "11,438",
+    "fork": "2,181",
+    "timestamp": "2025-04-09T02:25:28.760061",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "chiteroman/PlayIntegrityFix",
+    "href": "https://github.com/chiteroman/PlayIntegrityFix",
+    "about": "Fix Play Integrity (and SafetyNet) verdicts.",
+    "star": "6,475",
+    "fork": "403",
+    "timestamp": "2025-04-09T02:25:28.760353",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "GuijiAI/duix.ai",
+    "href": "https://github.com/GuijiAI/duix.ai",
+    "about": "",
+    "star": "5,152",
+    "fork": "758",
+    "timestamp": "2025-04-09T02:25:28.760663",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "10,900",
+    "fork": "2,057",
+    "timestamp": "2025-04-09T02:25:28.760962",
+    "stars_today": "130 stars today"
+  },
+  {
+    "repo": "input-leap/input-leap",
+    "href": "https://github.com/input-leap/input-leap",
+    "about": "Open-source KVM software",
+    "star": "5,589",
+    "fork": "248",
+    "timestamp": "2025-04-09T02:25:28.761252",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "hyprwm/Hyprland",
+    "href": "https://github.com/hyprwm/Hyprland",
+    "about": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "star": "24,416",
+    "fork": "1,050",
+    "timestamp": "2025-04-09T02:25:28.761538",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "ggml-org/ggml",
+    "href": "https://github.com/ggml-org/ggml",
+    "about": "Tensor library for machine learning",
+    "star": "12,270",
+    "fork": "1,203",
+    "timestamp": "2025-04-09T02:25:28.761827",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,112",
+    "fork": "1,569",
+    "timestamp": "2025-04-09T02:25:28.762127",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/nccl",
+    "href": "https://github.com/NVIDIA/nccl",
+    "about": "Optimized primitives for collective multi-GPU communication",
+    "star": "3,634",
+    "fork": "893",
+    "timestamp": "2025-04-09T02:25:28.762411",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "34,192",
+    "fork": "3,832",
+    "timestamp": "2025-04-09T02:25:28.762694",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "href": "https://github.com/cocos/cocos-engine",
+    "about": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+    "star": "8,552",
+    "fork": "1,992",
+    "timestamp": "2025-04-09T02:25:28.762993",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kuzudb/kuzu",
+    "href": "https://github.com/kuzudb/kuzu",
+    "about": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+    "star": "2,052",
+    "fork": "132",
+    "timestamp": "2025-04-09T02:25:28.763277",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "M2Team/NanaZip",
+    "href": "https://github.com/M2Team/NanaZip",
+    "about": "The 7-Zip derivative intended for the modern Windows experience",
+    "star": "10,298",
+    "fork": "254",
+    "timestamp": "2025-04-09T02:25:28.763563",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages",
+    "star": "5,552",
+    "fork": "628",
+    "timestamp": "2025-04-09T02:25:28.763871",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "odygrd/quill",
+    "href": "https://github.com/odygrd/quill",
+    "about": "Asynchronous Low Latency C++ Logging Library",
+    "star": "2,136",
+    "fork": "202",
+    "timestamp": "2025-04-09T02:25:28.764174",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "68,328",
+    "fork": "10,448",
+    "timestamp": "2025-04-09T02:25:28.764459",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "wkhtmltopdf/wkhtmltopdf",
+    "href": "https://github.com/wkhtmltopdf/wkhtmltopdf",
+    "about": "Convert HTML to PDF using Webkit (QtWebKit)",
+    "star": "14,205",
+    "fork": "1,865",
+    "timestamp": "2025-04-09T02:25:28.764740",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,119",
+    "fork": "6,931",
+    "timestamp": "2025-04-09T02:25:28.765064",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "owasp-modsecurity/ModSecurity",
+    "href": "https://github.com/owasp-modsecurity/ModSecurity",
+    "about": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
+    "star": "8,709",
+    "fork": "1,639",
+    "timestamp": "2025-04-09T02:25:28.765346",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tesseract-ocr/tesseract",
+    "href": "https://github.com/tesseract-ocr/tesseract",
+    "about": "Tesseract Open Source OCR Engine (main repository)",
+    "star": "65,990",
+    "fork": "9,803",
+    "timestamp": "2025-04-09T02:25:28.765628",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "deskflow/deskflow",
+    "href": "https://github.com/deskflow/deskflow",
+    "about": "Share a single keyboard and mouse between multiple computers.",
+    "star": "16,905",
+    "fork": "3,989",
+    "timestamp": "2025-04-09T02:25:28.765949",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "lich0821/WeChatFerry",
+    "href": "https://github.com/lich0821/WeChatFerry",
+    "about": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
+    "star": "5,923",
+    "fork": "1,204",
+    "timestamp": "2025-04-09T02:25:28.766236",
+    "stars_today": "17 stars today"
+  }
+]

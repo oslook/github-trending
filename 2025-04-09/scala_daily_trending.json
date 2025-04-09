@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,933",
+    "fork": "1,806",
+    "timestamp": "2025-04-09T02:26:09.388290",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,893",
+    "fork": "28,479",
+    "timestamp": "2025-04-09T02:26:09.388752",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,313",
+    "fork": "473",
+    "timestamp": "2025-04-09T02:26:09.389178",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,262",
+    "fork": "756",
+    "timestamp": "2025-04-09T02:26:09.389467",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,807",
+    "fork": "693",
+    "timestamp": "2025-04-09T02:26:09.389799",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "821",
+    "fork": "190",
+    "timestamp": "2025-04-09T02:26:09.390112",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,826",
+    "fork": "950",
+    "timestamp": "2025-04-09T02:26:09.390397",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,557",
+    "fork": "4,099",
+    "timestamp": "2025-04-09T02:26:09.390709",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,229",
+    "fork": "1,254",
+    "timestamp": "2025-04-09T02:26:09.391004",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "908",
+    "fork": "607",
+    "timestamp": "2025-04-09T02:26:09.391285",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,952",
+    "fork": "722",
+    "timestamp": "2025-04-09T02:26:09.391571",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,190",
+    "fork": "1,333",
+    "timestamp": "2025-04-09T02:26:09.391864",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,983",
+    "fork": "1,088",
+    "timestamp": "2025-04-09T02:26:09.392147",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "http4s/http4s",
+    "href": "https://github.com/http4s/http4s",
+    "about": "A minimal, idiomatic Scala interface for HTTP",
+    "star": "2,571",
+    "fork": "799",
+    "timestamp": "2025-04-09T02:26:09.392423",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,175",
+    "fork": "366",
+    "timestamp": "2025-04-09T02:26:09.392706",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,396",
+    "fork": "550",
+    "timestamp": "2025-04-09T02:26:09.393008",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,011",
+    "fork": "361",
+    "timestamp": "2025-04-09T02:26:09.393472",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,890",
+    "fork": "2,508",
+    "timestamp": "2025-04-09T02:26:09.393751",
+    "stars_today": "0 stars today"
+  }
+]

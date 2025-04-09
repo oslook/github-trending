@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "cbd/edis",
+    "href": "https://github.com/cbd/edis",
+    "about": "An Erlang implementation of Redis",
+    "star": "556",
+    "fork": "38",
+    "timestamp": "2025-04-09T02:25:39.273346",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,467",
+    "fork": "1,048",
+    "timestamp": "2025-04-09T02:25:39.273658",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "909",
+    "fork": "232",
+    "timestamp": "2025-04-09T02:25:39.273964",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "887",
+    "fork": "168",
+    "timestamp": "2025-04-09T02:25:39.274252",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "254",
+    "fork": "84",
+    "timestamp": "2025-04-09T02:25:39.274540",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,204",
+    "fork": "334",
+    "timestamp": "2025-04-09T02:25:39.274831",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "93",
+    "fork": "48",
+    "timestamp": "2025-04-09T02:25:39.275131",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "284",
+    "fork": "176",
+    "timestamp": "2025-04-09T02:25:39.275419",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "817",
+    "fork": "232",
+    "timestamp": "2025-04-09T02:25:39.275732",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,630",
+    "fork": "2,995",
+    "timestamp": "2025-04-09T02:25:39.276032",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,876",
+    "fork": "474",
+    "timestamp": "2025-04-09T02:25:39.276316",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "754",
+    "fork": "161",
+    "timestamp": "2025-04-09T02:25:39.276599",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "emqx/emqtt",
+    "href": "https://github.com/emqx/emqtt",
+    "about": "Erlang MQTT 5.0 Client",
+    "star": "416",
+    "fork": "172",
+    "timestamp": "2025-04-09T02:25:39.276893",
+    "stars_today": "0 stars this week"
+  }
+]

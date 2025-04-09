@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "21,958",
+    "fork": "2,944",
+    "timestamp": "2025-04-09T02:25:38.096900",
+    "stars_today": "188 stars this month"
+  },
+  {
+    "repo": "elixir-ecto/ecto",
+    "href": "https://github.com/elixir-ecto/ecto",
+    "about": "A toolkit for data mapping and language integrated query.",
+    "star": "6,288",
+    "fork": "1,436",
+    "timestamp": "2025-04-09T02:25:38.097373",
+    "stars_today": "40 stars this month"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "25,071",
+    "fork": "3,425",
+    "timestamp": "2025-04-09T02:25:38.097864",
+    "stars_today": "153 stars this month"
+  },
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "21,999",
+    "fork": "1,179",
+    "timestamp": "2025-04-09T02:25:38.098413",
+    "stars_today": "368 stars this month"
+  },
+  {
+    "repo": "elixir-lsp/elixir_sense",
+    "href": "https://github.com/elixir-lsp/elixir_sense",
+    "about": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+    "star": "314",
+    "fork": "41",
+    "timestamp": "2025-04-09T02:25:38.098965",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "elixir-lsp/elixir-ls",
+    "href": "https://github.com/elixir-lsp/elixir-ls",
+    "about": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+    "star": "1,585",
+    "fork": "211",
+    "timestamp": "2025-04-09T02:25:38.099606",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "electric-sql/electric",
+    "href": "https://github.com/electric-sql/electric",
+    "about": "Real-time sync for Postgres.",
+    "star": "8,026",
+    "fork": "219",
+    "timestamp": "2025-04-09T02:25:38.100102",
+    "stars_today": "255 stars this month"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "7,012",
+    "fork": "338",
+    "timestamp": "2025-04-09T02:25:38.100616",
+    "stars_today": "63 stars this month"
+  },
+  {
+    "repo": "kieraneglin/pinchflat",
+    "href": "https://github.com/kieraneglin/pinchflat",
+    "about": "Your next YouTube media manager",
+    "star": "2,902",
+    "fork": "62",
+    "timestamp": "2025-04-09T02:25:38.101137",
+    "stars_today": "419 stars this month"
+  },
+  {
+    "repo": "pentacent/keila",
+    "href": "https://github.com/pentacent/keila",
+    "about": "Open Source Newsletter Tool.",
+    "star": "1,642",
+    "fork": "102",
+    "timestamp": "2025-04-09T02:25:38.101670",
+    "stars_today": "71 stars this month"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,433",
+    "fork": "971",
+    "timestamp": "2025-04-09T02:25:38.102018",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "mishka-group/mishka_chelekom",
+    "href": "https://github.com/mishka-group/mishka_chelekom",
+    "about": "Mishka Chelekom is a fully featured components and UI kit library for Phoenix & Phoenix LiveView",
+    "star": "492",
+    "fork": "9",
+    "timestamp": "2025-04-09T02:25:38.102328",
+    "stars_today": "47 stars this month"
+  },
+  {
+    "repo": "valpackett/httpotion",
+    "href": "https://github.com/valpackett/httpotion",
+    "about": "[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)",
+    "star": "725",
+    "fork": "100",
+    "timestamp": "2025-04-09T02:25:38.102632",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "teslamate-org/teslamate",
+    "href": "https://github.com/teslamate-org/teslamate",
+    "about": "A self-hosted data logger for your Tesla 🚘",
+    "star": "6,562",
+    "fork": "789",
+    "timestamp": "2025-04-09T02:25:38.102944",
+    "stars_today": "110 stars this month"
+  },
+  {
+    "repo": "sequinstream/sequin",
+    "href": "https://github.com/sequinstream/sequin",
+    "about": "Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more",
+    "star": "1,112",
+    "fork": "44",
+    "timestamp": "2025-04-09T02:25:38.103224",
+    "stars_today": "80 stars this month"
+  },
+  {
+    "repo": "commanded/eventstore",
+    "href": "https://github.com/commanded/eventstore",
+    "about": "Event store using PostgreSQL for persistence",
+    "star": "1,101",
+    "fork": "152",
+    "timestamp": "2025-04-09T02:25:38.103501",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "fly-apps/live_beats",
+    "href": "https://github.com/fly-apps/live_beats",
+    "about": "",
+    "star": "1,335",
+    "fork": "173",
+    "timestamp": "2025-04-09T02:25:38.103795",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "ash-project/ash",
+    "href": "https://github.com/ash-project/ash",
+    "about": "A declarative, extensible framework for building Elixir applications.",
+    "star": "1,779",
+    "fork": "251",
+    "timestamp": "2025-04-09T02:25:38.104098",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "mirego/accent",
+    "href": "https://github.com/mirego/accent",
+    "about": "The first developer-oriented translation tool. True asynchronous flow between translators and your team.",
+    "star": "1,384",
+    "fork": "106",
+    "timestamp": "2025-04-09T02:25:38.104374",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "ntrepid8/ex_crypto",
+    "href": "https://github.com/ntrepid8/ex_crypto",
+    "about": "Wrapper around the Erlang crypto module for Elixir.",
+    "star": "156",
+    "fork": "51",
+    "timestamp": "2025-04-09T02:25:38.104649",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "anoma/anoma",
+    "href": "https://github.com/anoma/anoma",
+    "about": "Reference implementation of Anoma",
+    "star": "28,338",
+    "fork": "3,821",
+    "timestamp": "2025-04-09T02:25:38.104937",
+    "stars_today": "1,305 stars this month"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "2,659",
+    "fork": "216",
+    "timestamp": "2025-04-09T02:25:43.049684",
+    "stars_today": "860 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "4,688",
+    "fork": "541",
+    "timestamp": "2025-04-09T02:25:43.050027",
+    "stars_today": "984 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,808",
+    "fork": "627",
+    "timestamp": "2025-04-09T02:25:43.050322",
+    "stars_today": "555 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "31,592",
+    "fork": "2,398",
+    "timestamp": "2025-04-09T02:25:43.050644",
+    "stars_today": "246 stars this week"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,378",
+    "fork": "527",
+    "timestamp": "2025-04-09T02:25:43.050976",
+    "stars_today": "208 stars this week"
+  },
+  {
+    "repo": "99designs/gqlgen",
+    "href": "https://github.com/99designs/gqlgen",
+    "about": "go generate based graphql server library",
+    "star": "10,239",
+    "fork": "1,202",
+    "timestamp": "2025-04-09T02:25:43.051262",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "26,999",
+    "fork": "1,443",
+    "timestamp": "2025-04-09T02:25:43.051548",
+    "stars_today": "628 stars this week"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "413",
+    "fork": "29",
+    "timestamp": "2025-04-09T02:25:43.051833",
+    "stars_today": "148 stars this week"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "23,311",
+    "fork": "860",
+    "timestamp": "2025-04-09T02:25:43.052133",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "69,274",
+    "fork": "2,487",
+    "timestamp": "2025-04-09T02:25:43.052448",
+    "stars_today": "190 stars this week"
+  },
+  {
+    "repo": "iyear/tdl",
+    "href": "https://github.com/iyear/tdl",
+    "about": "📥 A Telegram toolkit written in Golang",
+    "star": "5,230",
+    "fork": "516",
+    "timestamp": "2025-04-09T02:25:43.052732",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,417",
+    "fork": "838",
+    "timestamp": "2025-04-09T02:25:43.053026",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,356",
+    "fork": "2,490",
+    "timestamp": "2025-04-09T02:25:43.053311",
+    "stars_today": "106 stars this week"
+  },
+  {
+    "repo": "metoro-io/mcp-golang",
+    "href": "https://github.com/metoro-io/mcp-golang",
+    "about": "Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com",
+    "star": "608",
+    "fork": "61",
+    "timestamp": "2025-04-09T02:25:43.053598",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,706",
+    "fork": "1,440",
+    "timestamp": "2025-04-09T02:25:43.053920",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "29,074",
+    "fork": "3,101",
+    "timestamp": "2025-04-09T02:25:43.054208",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "36,699",
+    "fork": "7,930",
+    "timestamp": "2025-04-09T02:25:43.054496",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "9,955",
+    "fork": "937",
+    "timestamp": "2025-04-09T02:25:43.054781",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "58,577",
+    "fork": "2,007",
+    "timestamp": "2025-04-09T02:25:43.055104",
+    "stars_today": "303 stars this week"
+  },
+  {
+    "repo": "pion/webrtc",
+    "href": "https://github.com/pion/webrtc",
+    "about": "Pure Go implementation of the WebRTC API",
+    "star": "14,557",
+    "fork": "1,710",
+    "timestamp": "2025-04-09T02:25:43.055384",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcphost",
+    "href": "https://github.com/mark3labs/mcphost",
+    "about": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+    "star": "525",
+    "fork": "73",
+    "timestamp": "2025-04-09T02:25:43.055665",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "go-delve/delve",
+    "href": "https://github.com/go-delve/delve",
+    "about": "Delve is a debugger for the Go programming language.",
+    "star": "23,620",
+    "fork": "2,164",
+    "timestamp": "2025-04-09T02:25:43.055947",
+    "stars_today": "41 stars this week"
+  }
+]
