@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "37,531",
+    "fork": "6,649",
+    "timestamp": "2025-04-10T02:24:57.091362",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "54,249",
+    "fork": "26,092",
+    "timestamp": "2025-04-10T02:24:57.091669",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "25,073",
+    "fork": "3,678",
+    "timestamp": "2025-04-10T02:24:57.091952",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "GuijiAI/HeyGem.ai",
+    "href": "https://github.com/GuijiAI/HeyGem.ai",
+    "about": "",
+    "star": "5,980",
+    "fork": "1,032",
+    "timestamp": "2025-04-10T02:24:57.092265",
+    "stars_today": "126 stars today"
+  },
+  {
+    "repo": "kokke/tiny-AES-c",
+    "href": "https://github.com/kokke/tiny-AES-c",
+    "about": "Small portable AES128/192/256 in C",
+    "star": "4,490",
+    "fork": "1,325",
+    "timestamp": "2025-04-10T02:24:57.092543",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "pocoproject/poco",
+    "href": "https://github.com/pocoproject/poco",
+    "about": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+    "star": "8,856",
+    "fork": "2,241",
+    "timestamp": "2025-04-10T02:24:57.092820",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,796",
+    "fork": "2,673",
+    "timestamp": "2025-04-10T02:24:57.093094",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "analogdevicesinc/no-OS",
+    "href": "https://github.com/analogdevicesinc/no-OS",
+    "about": "Software drivers in C for systems without an operating system",
+    "star": "1,083",
+    "fork": "1,706",
+    "timestamp": "2025-04-10T02:24:57.093383",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "unicorn-engine/unicorn",
+    "href": "https://github.com/unicorn-engine/unicorn",
+    "about": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+    "star": "8,047",
+    "fork": "1,388",
+    "timestamp": "2025-04-10T02:24:57.093663",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "NVIDIA/open-gpu-kernel-modules",
+    "href": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+    "about": "NVIDIA Linux open GPU kernel module source",
+    "star": "15,697",
+    "fork": "1,379",
+    "timestamp": "2025-04-10T02:24:57.093939",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "u-boot/u-boot",
+    "href": "https://github.com/u-boot/u-boot",
+    "about": "\"Das U-Boot\" Source Tree",
+    "star": "4,366",
+    "fork": "3,844",
+    "timestamp": "2025-04-10T02:24:57.094228",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "coturn/coturn",
+    "href": "https://github.com/coturn/coturn",
+    "about": "coturn TURN server project",
+    "star": "12,160",
+    "fork": "2,099",
+    "timestamp": "2025-04-10T02:24:57.094500",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "esnet/iperf",
+    "href": "https://github.com/esnet/iperf",
+    "about": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+    "star": "7,393",
+    "fork": "1,325",
+    "timestamp": "2025-04-10T02:24:57.094770",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,553",
+    "fork": "1,291",
+    "timestamp": "2025-04-10T02:24:57.095052",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,412",
+    "fork": "2,894",
+    "timestamp": "2025-04-10T02:24:57.095354",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "openzfs/zfs",
+    "href": "https://github.com/openzfs/zfs",
+    "about": "OpenZFS on Linux and FreeBSD",
+    "star": "11,144",
+    "fork": "1,815",
+    "timestamp": "2025-04-10T02:24:57.095634",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "tukaani-project/xz",
+    "href": "https://github.com/tukaani-project/xz",
+    "about": "XZ Utils",
+    "star": "740",
+    "fork": "141",
+    "timestamp": "2025-04-10T02:24:57.095911",
+    "stars_today": "0 stars today"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,648",
+    "fork": "2,291",
+    "timestamp": "2025-04-10T02:25:08.415597",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "5,054",
+    "fork": "1,129",
+    "timestamp": "2025-04-10T02:25:08.415899",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "694",
+    "fork": "232",
+    "timestamp": "2025-04-10T02:25:08.416197",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,377",
+    "fork": "281",
+    "timestamp": "2025-04-10T02:25:08.416481",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "697",
+    "fork": "219",
+    "timestamp": "2025-04-10T02:25:08.416762",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,723",
+    "fork": "521",
+    "timestamp": "2025-04-10T02:25:08.417040",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "424",
+    "fork": "163",
+    "timestamp": "2025-04-10T02:25:08.417333",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "100",
+    "fork": "33",
+    "timestamp": "2025-04-10T02:25:08.417613",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "563",
+    "fork": "153",
+    "timestamp": "2025-04-10T02:25:08.417891",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,147",
+    "fork": "153",
+    "timestamp": "2025-04-10T02:25:08.418179",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "254",
+    "fork": "84",
+    "timestamp": "2025-04-10T02:25:08.418460",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,633",
+    "fork": "2,996",
+    "timestamp": "2025-04-10T02:25:08.418738",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,876",
+    "fork": "474",
+    "timestamp": "2025-04-10T02:25:08.419016",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,204",
+    "fork": "334",
+    "timestamp": "2025-04-10T02:25:08.419308",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "284",
+    "fork": "176",
+    "timestamp": "2025-04-10T02:25:08.419587",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,124",
+    "fork": "454",
+    "timestamp": "2025-04-10T02:25:08.419863",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,077",
+    "fork": "233",
+    "timestamp": "2025-04-10T02:25:08.420176",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "seth/ej",
+    "href": "https://github.com/seth/ej",
+    "about": "Helper module for working with Erlang terms representing JSON",
+    "star": "176",
+    "fork": "48",
+    "timestamp": "2025-04-10T02:25:08.420462",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "424",
+    "fork": "59",
+    "timestamp": "2025-04-10T02:25:08.420741",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "39",
+    "timestamp": "2025-04-10T02:25:08.421019",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "818",
+    "fork": "231",
+    "timestamp": "2025-04-10T02:25:08.421336",
+    "stars_today": "1 star today"
+  }
+]

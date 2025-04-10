@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,005",
+    "fork": "1,388",
+    "timestamp": "2025-04-10T02:25:09.410177",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,129",
+    "fork": "626",
+    "timestamp": "2025-04-10T02:25:09.410550",
+    "stars_today": "195 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,534",
+    "fork": "8,167",
+    "timestamp": "2025-04-10T02:25:09.410833",
+    "stars_today": "113 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,473",
+    "fork": "2,670",
+    "timestamp": "2025-04-10T02:25:09.411121",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+    "star": "13,155",
+    "fork": "636",
+    "timestamp": "2025-04-10T02:25:09.411447",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,387",
+    "fork": "774",
+    "timestamp": "2025-04-10T02:25:09.411729",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "krillinai/KrillinAI",
+    "href": "https://github.com/krillinai/KrillinAI",
+    "about": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "star": "1,383",
+    "fork": "123",
+    "timestamp": "2025-04-10T02:25:09.412012",
+    "stars_today": "238 stars today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "62,885",
+    "fork": "4,232",
+    "timestamp": "2025-04-10T02:25:09.412307",
+    "stars_today": "110 stars today"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "9,226",
+    "fork": "447",
+    "timestamp": "2025-04-10T02:25:09.412591",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "21,343",
+    "fork": "3,155",
+    "timestamp": "2025-04-10T02:25:09.412875",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "18,921",
+    "fork": "1,760",
+    "timestamp": "2025-04-10T02:25:09.413163",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "6,034",
+    "fork": "3,534",
+    "timestamp": "2025-04-10T02:25:09.413438",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "434",
+    "fork": "30",
+    "timestamp": "2025-04-10T02:25:09.413713",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "28,876",
+    "fork": "4,465",
+    "timestamp": "2025-04-10T02:25:09.413992",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "35,139",
+    "fork": "5,368",
+    "timestamp": "2025-04-10T02:25:09.414280",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "hr3lxphr6j/bililive-go",
+    "href": "https://github.com/hr3lxphr6j/bililive-go",
+    "about": "一个直播录制工具",
+    "star": "4,496",
+    "fork": "569",
+    "timestamp": "2025-04-10T02:25:09.414557",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "20,726",
+    "fork": "2,428",
+    "timestamp": "2025-04-10T02:25:09.414832",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "2,774",
+    "fork": "226",
+    "timestamp": "2025-04-10T02:25:09.415115",
+    "stars_today": "120 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "26,232",
+    "fork": "2,587",
+    "timestamp": "2025-04-10T02:25:09.415414",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "10,870",
+    "fork": "1,673",
+    "timestamp": "2025-04-10T02:25:09.415695",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "segmentio/kafka-go",
+    "href": "https://github.com/segmentio/kafka-go",
+    "about": "Kafka library in Go",
+    "star": "7,889",
+    "fork": "802",
+    "timestamp": "2025-04-10T02:25:09.415977",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "3,844",
+    "fork": "526",
+    "timestamp": "2025-04-10T02:25:09.416269",
+    "stars_today": "4 stars today"
+  }
+]
