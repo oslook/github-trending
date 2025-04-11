@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "63,132",
+    "fork": "4,246",
+    "timestamp": "2025-04-11T02:25:29.744927",
+    "stars_today": "103 stars today"
+  },
+  {
+    "repo": "krillinai/KrillinAI",
+    "href": "https://github.com/krillinai/KrillinAI",
+    "about": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "star": "1,789",
+    "fork": "147",
+    "timestamp": "2025-04-11T02:25:29.745243",
+    "stars_today": "130 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,078",
+    "fork": "1,399",
+    "timestamp": "2025-04-11T02:25:29.745527",
+    "stars_today": "101 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,605",
+    "fork": "8,172",
+    "timestamp": "2025-04-11T02:25:29.745801",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,159",
+    "fork": "628",
+    "timestamp": "2025-04-11T02:25:29.746114",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "3,849",
+    "fork": "528",
+    "timestamp": "2025-04-11T02:25:29.746385",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "29,336",
+    "fork": "1,852",
+    "timestamp": "2025-04-11T02:25:29.746686",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "48,019",
+    "fork": "5,733",
+    "timestamp": "2025-04-11T02:25:29.746986",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "coroot/coroot",
+    "href": "https://github.com/coroot/coroot",
+    "about": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+    "star": "6,220",
+    "fork": "266",
+    "timestamp": "2025-04-11T02:25:29.747267",
+    "stars_today": "76 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "2,770",
+    "fork": "196",
+    "timestamp": "2025-04-11T02:25:29.747536",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,216",
+    "fork": "196",
+    "timestamp": "2025-04-11T02:25:29.747804",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "44,958",
+    "fork": "9,799",
+    "timestamp": "2025-04-11T02:25:29.748084",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "uber-go/mock",
+    "href": "https://github.com/uber-go/mock",
+    "about": "GoMock is a mocking framework for the Go programming language.",
+    "star": "2,691",
+    "fork": "135",
+    "timestamp": "2025-04-11T02:25:29.748353",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "48,743",
+    "fork": "20,761",
+    "timestamp": "2025-04-11T02:25:29.748621",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "114,316",
+    "fork": "40,325",
+    "timestamp": "2025-04-11T02:25:29.748888",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "8,964",
+    "fork": "828",
+    "timestamp": "2025-04-11T02:25:29.749166",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,281",
+    "fork": "2,047",
+    "timestamp": "2025-04-11T02:25:29.749460",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,045",
+    "fork": "1,592",
+    "timestamp": "2025-04-11T02:25:29.749725",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,437",
+    "fork": "2,169",
+    "timestamp": "2025-04-11T02:25:29.750005",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "1,915",
+    "fork": "307",
+    "timestamp": "2025-04-11T02:25:29.750278",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "9,980",
+    "fork": "937",
+    "timestamp": "2025-04-11T02:25:29.750546",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,013",
+    "fork": "527",
+    "timestamp": "2025-04-11T02:25:29.750814",
+    "stars_today": "3 stars today"
+  }
+]

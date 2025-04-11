@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,936",
+    "fork": "1,810",
+    "timestamp": "2025-04-11T02:25:55.231064",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,463",
+    "fork": "2,370",
+    "timestamp": "2025-04-11T02:25:55.231362",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,272",
+    "fork": "756",
+    "timestamp": "2025-04-11T02:25:55.231639",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,402",
+    "fork": "1,161",
+    "timestamp": "2025-04-11T02:25:55.231912",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,906",
+    "fork": "28,483",
+    "timestamp": "2025-04-11T02:25:55.232207",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "821",
+    "fork": "190",
+    "timestamp": "2025-04-11T02:25:55.232480",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,073",
+    "fork": "12,168",
+    "timestamp": "2025-04-11T02:25:55.232750",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,315",
+    "fork": "474",
+    "timestamp": "2025-04-11T02:25:55.233025",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "908",
+    "fork": "607",
+    "timestamp": "2025-04-11T02:25:55.233298",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,612",
+    "fork": "1,206",
+    "timestamp": "2025-04-11T02:25:55.233568",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,437",
+    "fork": "554",
+    "timestamp": "2025-04-11T02:25:55.233867",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,178",
+    "fork": "366",
+    "timestamp": "2025-04-11T02:25:55.234152",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,610",
+    "fork": "648",
+    "timestamp": "2025-04-11T02:25:55.234425",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,947",
+    "fork": "2,831",
+    "timestamp": "2025-04-11T02:25:55.234695",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,190",
+    "fork": "1,333",
+    "timestamp": "2025-04-11T02:25:55.234966",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nightscape/spark-excel",
+    "href": "https://github.com/nightscape/spark-excel",
+    "about": "A Spark plugin for reading and writing Excel files",
+    "star": "487",
+    "fork": "152",
+    "timestamp": "2025-04-11T02:25:55.235248",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,108",
+    "fork": "545",
+    "timestamp": "2025-04-11T02:25:55.235525",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "882",
+    "fork": "244",
+    "timestamp": "2025-04-11T02:25:55.235798",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,371",
+    "fork": "3,110",
+    "timestamp": "2025-04-11T02:25:55.236089",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenBankProject/OBP-API",
+    "href": "https://github.com/OpenBankProject/OBP-API",
+    "about": "An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.",
+    "star": "1,590",
+    "fork": "442",
+    "timestamp": "2025-04-11T02:25:55.236363",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,890",
+    "fork": "2,508",
+    "timestamp": "2025-04-11T02:25:55.236638",
+    "stars_today": "0 stars today"
+  }
+]
