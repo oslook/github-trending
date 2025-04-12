@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,278",
+    "fork": "757",
+    "timestamp": "2025-04-12T02:23:11.153850",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,939",
+    "fork": "1,810",
+    "timestamp": "2025-04-12T02:23:11.154146",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,918",
+    "fork": "28,482",
+    "timestamp": "2025-04-12T02:23:11.154425",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,179",
+    "fork": "366",
+    "timestamp": "2025-04-12T02:23:11.154712",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,440",
+    "fork": "553",
+    "timestamp": "2025-04-12T02:23:11.155017",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "923",
+    "fork": "189",
+    "timestamp": "2025-04-12T02:23:11.155292",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,315",
+    "fork": "474",
+    "timestamp": "2025-04-12T02:23:11.155565",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,471",
+    "fork": "2,372",
+    "timestamp": "2025-04-12T02:23:11.155851",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,332",
+    "fork": "317",
+    "timestamp": "2025-04-12T02:23:11.156128",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,615",
+    "fork": "1,206",
+    "timestamp": "2025-04-12T02:23:11.156400",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,984",
+    "fork": "1,088",
+    "timestamp": "2025-04-12T02:23:11.156685",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,376",
+    "fork": "399",
+    "timestamp": "2025-04-12T02:23:11.156962",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,398",
+    "fork": "551",
+    "timestamp": "2025-04-12T02:23:11.157236",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,234",
+    "fork": "621",
+    "timestamp": "2025-04-12T02:23:11.157509",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,231",
+    "fork": "1,255",
+    "timestamp": "2025-04-12T02:23:11.157795",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,108",
+    "fork": "545",
+    "timestamp": "2025-04-12T02:23:11.158067",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "908",
+    "fork": "607",
+    "timestamp": "2025-04-12T02:23:11.158340",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,556",
+    "fork": "4,100",
+    "timestamp": "2025-04-12T02:23:11.158642",
+    "stars_today": "1 star today"
+  }
+]

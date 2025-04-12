@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "29,242",
+    "fork": "5,677",
+    "timestamp": "2025-04-12T02:22:39.236132",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "25,830",
+    "fork": "4,736",
+    "timestamp": "2025-04-12T02:22:39.236432",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "PX4/PX4-Autopilot",
+    "href": "https://github.com/PX4/PX4-Autopilot",
+    "about": "PX4 Autopilot Software",
+    "star": "9,215",
+    "fork": "13,814",
+    "timestamp": "2025-04-12T02:22:39.236734",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "moveit/moveit2",
+    "href": "https://github.com/moveit/moveit2",
+    "about": "🤖 MoveIt for ROS 2",
+    "star": "1,311",
+    "fork": "604",
+    "timestamp": "2025-04-12T02:22:39.237021",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Tencent/rapidjson",
+    "href": "https://github.com/Tencent/rapidjson",
+    "about": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "star": "14,629",
+    "fork": "3,573",
+    "timestamp": "2025-04-12T02:22:39.237303",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "TigerVNC/tigervnc",
+    "href": "https://github.com/TigerVNC/tigervnc",
+    "about": "High performance, multi-platform VNC client and server",
+    "star": "5,797",
+    "fork": "1,019",
+    "timestamp": "2025-04-12T02:22:39.237582",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "Build your own AI friend",
+    "star": "11,195",
+    "fork": "2,118",
+    "timestamp": "2025-04-12T02:22:39.237874",
+    "stars_today": "89 stars today"
+  },
+  {
+    "repo": "google-ai-edge/mediapipe",
+    "href": "https://github.com/google-ai-edge/mediapipe",
+    "about": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "star": "29,330",
+    "fork": "5,312",
+    "timestamp": "2025-04-12T02:22:39.238150",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "68,433",
+    "fork": "10,453",
+    "timestamp": "2025-04-12T02:22:39.238426",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "67,244",
+    "fork": "15,672",
+    "timestamp": "2025-04-12T02:22:39.238713",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "star": "10,171",
+    "fork": "1,340",
+    "timestamp": "2025-04-12T02:22:39.238989",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "14,075",
+    "fork": "2,412",
+    "timestamp": "2025-04-12T02:22:39.239261",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "16,246",
+    "fork": "3,151",
+    "timestamp": "2025-04-12T02:22:39.239536",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "tesseract-ocr/tesseract",
+    "href": "https://github.com/tesseract-ocr/tesseract",
+    "about": "Tesseract Open Source OCR Engine (main repository)",
+    "star": "66,064",
+    "fork": "9,808",
+    "timestamp": "2025-04-12T02:22:39.239822",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "qinguoyi/TinyWebServer",
+    "href": "https://github.com/qinguoyi/TinyWebServer",
+    "about": "🔥 Linux下C++轻量级WebServer服务器",
+    "star": "17,834",
+    "fork": "4,084",
+    "timestamp": "2025-04-12T02:22:39.240105",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/brpc",
+    "href": "https://github.com/apache/brpc",
+    "about": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+    "star": "16,912",
+    "fork": "3,996",
+    "timestamp": "2025-04-12T02:22:39.240378",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,397",
+    "fork": "1,673",
+    "timestamp": "2025-04-12T02:22:39.240649",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "huihut/interview",
+    "href": "https://github.com/huihut/interview",
+    "about": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…",
+    "star": "35,878",
+    "fork": "8,039",
+    "timestamp": "2025-04-12T02:22:39.240939",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,182",
+    "fork": "6,934",
+    "timestamp": "2025-04-12T02:22:39.241244",
+    "stars_today": "27 stars today"
+  }
+]
