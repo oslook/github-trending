@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "3,052",
+    "fork": "247",
+    "timestamp": "2025-04-13T03:42:14.299331",
+    "stars_today": "857 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "4,793",
+    "fork": "545",
+    "timestamp": "2025-04-13T03:42:14.299634",
+    "stars_today": "516 stars this week"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "63,321",
+    "fork": "4,252",
+    "timestamp": "2025-04-13T03:42:14.299924",
+    "stars_today": "646 stars this week"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "29,857",
+    "fork": "1,191",
+    "timestamp": "2025-04-13T03:42:14.300248",
+    "stars_today": "430 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,693",
+    "fork": "8,177",
+    "timestamp": "2025-04-13T03:42:14.300537",
+    "stars_today": "405 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "31,696",
+    "fork": "2,411",
+    "timestamp": "2025-04-13T03:42:14.300851",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "474",
+    "fork": "33",
+    "timestamp": "2025-04-13T03:42:14.301134",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,869",
+    "fork": "633",
+    "timestamp": "2025-04-13T03:42:14.301433",
+    "stars_today": "177 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,206",
+    "fork": "631",
+    "timestamp": "2025-04-13T03:42:14.301743",
+    "stars_today": "342 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "23,117",
+    "fork": "2,780",
+    "timestamp": "2025-04-13T03:42:14.302026",
+    "stars_today": "162 stars this week"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+    "star": "13,180",
+    "fork": "636",
+    "timestamp": "2025-04-13T03:42:14.302347",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "30,658",
+    "fork": "3,161",
+    "timestamp": "2025-04-13T03:42:14.302656",
+    "stars_today": "230 stars this week"
+  },
+  {
+    "repo": "coroot/coroot",
+    "href": "https://github.com/coroot/coroot",
+    "about": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+    "star": "6,268",
+    "fork": "266",
+    "timestamp": "2025-04-13T03:42:14.302934",
+    "stars_today": "462 stars this week"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "53,070",
+    "fork": "2,781",
+    "timestamp": "2025-04-13T03:42:14.303252",
+    "stars_today": "151 stars this week"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "10,000",
+    "fork": "936",
+    "timestamp": "2025-04-13T03:42:14.303541",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "29,368",
+    "fork": "1,855",
+    "timestamp": "2025-04-13T03:42:14.303847",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "gofr-dev/gofr",
+    "href": "https://github.com/gofr-dev/gofr",
+    "about": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+    "star": "7,935",
+    "fork": "1,140",
+    "timestamp": "2025-04-13T03:42:14.304125",
+    "stars_today": "1,031 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,251",
+    "fork": "9,441",
+    "timestamp": "2025-04-13T03:42:14.304417",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "40,094",
+    "fork": "2,916",
+    "timestamp": "2025-04-13T03:42:14.304726",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "30,657",
+    "fork": "882",
+    "timestamp": "2025-04-13T03:42:14.305004",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,210",
+    "fork": "864",
+    "timestamp": "2025-04-13T03:42:14.305325",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,224",
+    "fork": "1,408",
+    "timestamp": "2025-04-13T03:42:14.305605",
+    "stars_today": "287 stars this week"
+  }
+]

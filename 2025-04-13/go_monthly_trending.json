@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "22,345",
+    "fork": "830",
+    "timestamp": "2025-04-13T03:42:15.649989",
+    "stars_today": "10,778 stars this month"
+  },
+  {
+    "repo": "DiceDB/dice",
+    "href": "https://github.com/DiceDB/dice",
+    "about": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "star": "9,966",
+    "fork": "1,319",
+    "timestamp": "2025-04-13T03:42:15.650313",
+    "stars_today": "2,269 stars this month"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,419",
+    "fork": "531",
+    "timestamp": "2025-04-13T03:42:15.650631",
+    "stars_today": "866 stars this month"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "3,052",
+    "fork": "247",
+    "timestamp": "2025-04-13T03:42:15.650923",
+    "stars_today": "2,472 stars this month"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,398",
+    "fork": "8,362",
+    "timestamp": "2025-04-13T03:42:15.651209",
+    "stars_today": "469 stars this month"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "4,869",
+    "fork": "633",
+    "timestamp": "2025-04-13T03:42:15.651507",
+    "stars_today": "842 stars this month"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,282",
+    "fork": "410",
+    "timestamp": "2025-04-13T03:42:15.651793",
+    "stars_today": "711 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,750",
+    "fork": "1,441",
+    "timestamp": "2025-04-13T03:42:15.652104",
+    "stars_today": "335 stars this month"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "24,139",
+    "fork": "4,073",
+    "timestamp": "2025-04-13T03:42:15.652595",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "34,005",
+    "fork": "3,150",
+    "timestamp": "2025-04-13T03:42:15.652917",
+    "stars_today": "922 stars this month"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "63,321",
+    "fork": "4,252",
+    "timestamp": "2025-04-13T03:42:15.653269",
+    "stars_today": "1,198 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "69,361",
+    "fork": "4,474",
+    "timestamp": "2025-04-13T03:42:15.653590",
+    "stars_today": "1,225 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,206",
+    "fork": "631",
+    "timestamp": "2025-04-13T03:42:15.653904",
+    "stars_today": "771 stars this month"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "58,122",
+    "fork": "9,516",
+    "timestamp": "2025-04-13T03:42:15.654191",
+    "stars_today": "566 stars this month"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "22,634",
+    "fork": "6,632",
+    "timestamp": "2025-04-13T03:42:15.654493",
+    "stars_today": "290 stars this month"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,287",
+    "fork": "2,047",
+    "timestamp": "2025-04-13T03:42:15.654806",
+    "stars_today": "314 stars this month"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,226",
+    "fork": "196",
+    "timestamp": "2025-04-13T03:42:15.655091",
+    "stars_today": "169 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,424",
+    "fork": "2,494",
+    "timestamp": "2025-04-13T03:42:15.655387",
+    "stars_today": "471 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "27,135",
+    "fork": "1,452",
+    "timestamp": "2025-04-13T03:42:15.655671",
+    "stars_today": "1,202 stars this month"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "141,706",
+    "fork": "12,207",
+    "timestamp": "2025-04-13T03:42:15.655985",
+    "stars_today": "2,289 stars this month"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "18,937",
+    "fork": "1,762",
+    "timestamp": "2025-04-13T03:42:15.656278",
+    "stars_today": "207 stars this month"
+  },
+  {
+    "repo": "kubernetes-sigs/karpenter",
+    "href": "https://github.com/kubernetes-sigs/karpenter",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "886",
+    "fork": "258",
+    "timestamp": "2025-04-13T03:42:15.656560",
+    "stars_today": "110 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,693",
+    "fork": "8,177",
+    "timestamp": "2025-04-13T03:42:15.656843",
+    "stars_today": "1,078 stars this month"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "51,640",
+    "fork": "5,768",
+    "timestamp": "2025-04-13T03:42:15.657124",
+    "stars_today": "878 stars this month"
+  }
+]
