@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "63,462",
+    "fork": "4,255",
+    "timestamp": "2025-04-15T02:28:30.684914",
+    "stars_today": "744 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "3,184",
+    "fork": "261",
+    "timestamp": "2025-04-15T02:28:30.685258",
+    "stars_today": "697 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,730",
+    "fork": "8,178",
+    "timestamp": "2025-04-15T02:28:30.685559",
+    "stars_today": "385 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,240",
+    "fork": "634",
+    "timestamp": "2025-04-15T02:28:30.685871",
+    "stars_today": "349 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "23,154",
+    "fork": "2,785",
+    "timestamp": "2025-04-15T02:28:30.686151",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,226",
+    "fork": "864",
+    "timestamp": "2025-04-15T02:28:30.686472",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "29,899",
+    "fork": "1,191",
+    "timestamp": "2025-04-15T02:28:30.686779",
+    "stars_today": "215 stars this week"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+    "star": "13,194",
+    "fork": "637",
+    "timestamp": "2025-04-15T02:28:30.687084",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,411",
+    "fork": "777",
+    "timestamp": "2025-04-15T02:28:30.687363",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "13,356",
+    "fork": "710",
+    "timestamp": "2025-04-15T02:28:30.687652",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,018",
+    "fork": "528",
+    "timestamp": "2025-04-15T02:28:30.687928",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "48,099",
+    "fork": "5,740",
+    "timestamp": "2025-04-15T02:28:30.688241",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "coroot/coroot",
+    "href": "https://github.com/coroot/coroot",
+    "about": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+    "star": "6,310",
+    "fork": "266",
+    "timestamp": "2025-04-15T02:28:30.688558",
+    "stars_today": "503 stars this week"
+  },
+  {
+    "repo": "gofr-dev/gofr",
+    "href": "https://github.com/gofr-dev/gofr",
+    "about": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+    "star": "9,000",
+    "fork": "1,616",
+    "timestamp": "2025-04-15T02:28:30.688836",
+    "stars_today": "1,978 stars this week"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "10,007",
+    "fork": "936",
+    "timestamp": "2025-04-15T02:28:30.689107",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,242",
+    "fork": "1,409",
+    "timestamp": "2025-04-15T02:28:30.689379",
+    "stars_today": "341 stars this week"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "8,997",
+    "fork": "829",
+    "timestamp": "2025-04-15T02:28:30.689679",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "4,826",
+    "fork": "547",
+    "timestamp": "2025-04-15T02:28:30.689953",
+    "stars_today": "167 stars this week"
+  },
+  {
+    "repo": "uber-go/automaxprocs",
+    "href": "https://github.com/uber-go/automaxprocs",
+    "about": "Automatically set GOMAXPROCS to match Linux container CPU quota.",
+    "star": "4,564",
+    "fork": "165",
+    "timestamp": "2025-04-15T02:28:30.690226",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "79,476",
+    "fork": "7,735",
+    "timestamp": "2025-04-15T02:28:30.690516",
+    "stars_today": "191 stars this week"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "8,104",
+    "fork": "576",
+    "timestamp": "2025-04-15T02:28:30.690790",
+    "stars_today": "92 stars this week"
+  }
+]

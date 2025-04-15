@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "15,745",
+    "fork": "1,585",
+    "timestamp": "2025-04-15T02:28:56.016959",
+    "stars_today": "1,787 stars this month"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "13,844",
+    "fork": "453",
+    "timestamp": "2025-04-15T02:28:56.017265",
+    "stars_today": "3,795 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "49,564",
+    "fork": "1,379",
+    "timestamp": "2025-04-15T02:28:56.017562",
+    "stars_today": "5,665 stars this month"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "19,894",
+    "fork": "1,432",
+    "timestamp": "2025-04-15T02:28:56.017869",
+    "stars_today": "1,364 stars this month"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "href": "https://github.com/sharkdp/fd",
+    "about": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "37,488",
+    "fork": "865",
+    "timestamp": "2025-04-15T02:28:56.018179",
+    "stars_today": "1,630 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "57,027",
+    "fork": "3,888",
+    "timestamp": "2025-04-15T02:28:56.018468",
+    "stars_today": "1,736 stars this month"
+  },
+  {
+    "repo": "signalapp/libsignal",
+    "href": "https://github.com/signalapp/libsignal",
+    "about": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+    "star": "4,277",
+    "fork": "509",
+    "timestamp": "2025-04-15T02:28:56.018746",
+    "stars_today": "325 stars this month"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "86,801",
+    "fork": "12,211",
+    "timestamp": "2025-04-15T02:28:56.019047",
+    "stars_today": "2,812 stars this month"
+  },
+  {
+    "repo": "rerun-io/rerun",
+    "href": "https://github.com/rerun-io/rerun",
+    "about": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.",
+    "star": "8,196",
+    "fork": "439",
+    "timestamp": "2025-04-15T02:28:56.019324",
+    "stars_today": "309 stars this month"
+  },
+  {
+    "repo": "Rust-GPU/Rust-CUDA",
+    "href": "https://github.com/Rust-GPU/Rust-CUDA",
+    "about": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.",
+    "star": "4,225",
+    "fork": "175",
+    "timestamp": "2025-04-15T02:28:56.019618",
+    "stars_today": "518 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "38,991",
+    "fork": "3,836",
+    "timestamp": "2025-04-15T02:28:56.019891",
+    "stars_today": "635 stars this month"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "33,075",
+    "fork": "2,171",
+    "timestamp": "2025-04-15T02:28:56.020166",
+    "stars_today": "747 stars this month"
+  },
+  {
+    "repo": "eythaann/Seelen-UI",
+    "href": "https://github.com/eythaann/Seelen-UI",
+    "about": "The Fully Customizable Desktop Environment for Windows 10/11.",
+    "star": "6,559",
+    "fork": "211",
+    "timestamp": "2025-04-15T02:28:56.020477",
+    "stars_today": "600 stars this month"
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "href": "https://github.com/GraphiteEditor/Graphite",
+    "about": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "star": "11,500",
+    "fork": "575",
+    "timestamp": "2025-04-15T02:28:56.020785",
+    "stars_today": "731 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "about": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "star": "57,650",
+    "fork": "10,549",
+    "timestamp": "2025-04-15T02:28:56.021058",
+    "stars_today": "853 stars this month"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "1,835",
+    "fork": "134",
+    "timestamp": "2025-04-15T02:28:56.021327",
+    "stars_today": "640 stars this month"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "about": "A Flash Player emulator written in Rust",
+    "star": "16,475",
+    "fork": "861",
+    "timestamp": "2025-04-15T02:28:56.021633",
+    "stars_today": "230 stars this month"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "27,635",
+    "fork": "1,910",
+    "timestamp": "2025-04-15T02:28:56.021901",
+    "stars_today": "414 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying user input, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+    "star": "2,337",
+    "fork": "124",
+    "timestamp": "2025-04-15T02:28:56.022169",
+    "stars_today": "365 stars this month"
+  },
+  {
+    "repo": "tensorzero/tensorzero",
+    "href": "https://github.com/tensorzero/tensorzero",
+    "about": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+    "star": "3,549",
+    "fork": "225",
+    "timestamp": "2025-04-15T02:28:56.022446",
+    "stars_today": "555 stars this month"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "26,260",
+    "fork": "1,276",
+    "timestamp": "2025-04-15T02:28:56.022714",
+    "stars_today": "361 stars this month"
+  }
+]
