@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,672",
+    "fork": "2,293",
+    "timestamp": "2025-04-16T02:28:02.968760",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "910",
+    "fork": "233",
+    "timestamp": "2025-04-16T02:28:02.969064",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,204",
+    "fork": "334",
+    "timestamp": "2025-04-16T02:28:02.969353",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,350",
+    "fork": "435",
+    "timestamp": "2025-04-16T02:28:02.969649",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "284",
+    "fork": "176",
+    "timestamp": "2025-04-16T02:28:02.969936",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "254",
+    "fork": "84",
+    "timestamp": "2025-04-16T02:28:02.970221",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,566",
+    "fork": "352",
+    "timestamp": "2025-04-16T02:28:02.970512",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "818",
+    "fork": "231",
+    "timestamp": "2025-04-16T02:28:02.970840",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "694",
+    "fork": "232",
+    "timestamp": "2025-04-16T02:28:02.971126",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "697",
+    "fork": "219",
+    "timestamp": "2025-04-16T02:28:02.971410",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,377",
+    "fork": "281",
+    "timestamp": "2025-04-16T02:28:02.971708",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "100",
+    "fork": "33",
+    "timestamp": "2025-04-16T02:28:02.971995",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,363",
+    "fork": "1,170",
+    "timestamp": "2025-04-16T02:28:02.972279",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,636",
+    "fork": "2,999",
+    "timestamp": "2025-04-16T02:28:02.972571",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "888",
+    "fork": "169",
+    "timestamp": "2025-04-16T02:28:02.972874",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,723",
+    "fork": "521",
+    "timestamp": "2025-04-16T02:28:02.973163",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,153",
+    "fork": "153",
+    "timestamp": "2025-04-16T02:28:02.973454",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,077",
+    "fork": "233",
+    "timestamp": "2025-04-16T02:28:02.973783",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,877",
+    "fork": "474",
+    "timestamp": "2025-04-16T02:28:02.974067",
+    "stars_today": "1 star this week"
+  }
+]
