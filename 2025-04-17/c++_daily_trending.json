@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "href": "https://github.com/Zackriya-Solutions/meeting-minutes",
+    "about": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/",
+    "star": "3,370",
+    "fork": "236",
+    "timestamp": "2025-04-17T02:26:35.065212",
+    "stars_today": "384 stars today"
+  },
+  {
+    "repo": "scylladb/scylladb",
+    "href": "https://github.com/scylladb/scylladb",
+    "about": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+    "star": "14,376",
+    "fork": "1,371",
+    "timestamp": "2025-04-17T02:26:35.065574",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "14,121",
+    "fork": "2,413",
+    "timestamp": "2025-04-17T02:26:35.065901",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "78,249",
+    "fork": "11,417",
+    "timestamp": "2025-04-17T02:26:35.066217",
+    "stars_today": "93 stars today"
+  },
+  {
+    "repo": "niedev/RTranslator",
+    "href": "https://github.com/niedev/RTranslator",
+    "about": "Open source real-time translation app for Android that runs locally",
+    "star": "7,685",
+    "fork": "624",
+    "timestamp": "2025-04-17T02:26:35.066550",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "microsoft/BitNet",
+    "href": "https://github.com/microsoft/BitNet",
+    "about": "Official inference framework for 1-bit LLMs",
+    "star": "13,099",
+    "fork": "920",
+    "timestamp": "2025-04-17T02:26:35.066869",
+    "stars_today": "147 stars today"
+  },
+  {
+    "repo": "kuzudb/kuzu",
+    "href": "https://github.com/kuzudb/kuzu",
+    "about": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+    "star": "2,164",
+    "fork": "141",
+    "timestamp": "2025-04-17T02:26:35.067193",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "mamedev/mame",
+    "href": "https://github.com/mamedev/mame",
+    "about": "MAME",
+    "star": "9,023",
+    "fork": "2,137",
+    "timestamp": "2025-04-17T02:26:35.067537",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "PixarAnimationStudios/OpenUSD",
+    "href": "https://github.com/PixarAnimationStudios/OpenUSD",
+    "about": "Universal Scene Description",
+    "star": "6,507",
+    "fork": "1,283",
+    "timestamp": "2025-04-17T02:26:35.067862",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "pybind/pybind11",
+    "href": "https://github.com/pybind/pybind11",
+    "about": "Seamless operability between C++11 and Python",
+    "star": "16,474",
+    "fork": "2,163",
+    "timestamp": "2025-04-17T02:26:35.068185",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "esphome/esphome",
+    "href": "https://github.com/esphome/esphome",
+    "about": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "star": "9,187",
+    "fork": "4,070",
+    "timestamp": "2025-04-17T02:26:35.068523",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "google/perfetto",
+    "href": "https://github.com/google/perfetto",
+    "about": "Performance instrumentation and tracing for Android, Linux and Chrome",
+    "star": "3,530",
+    "fork": "430",
+    "timestamp": "2025-04-17T02:26:35.068836",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "colmap/colmap",
+    "href": "https://github.com/colmap/colmap",
+    "about": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "star": "8,459",
+    "fork": "1,613",
+    "timestamp": "2025-04-17T02:26:35.069148",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "qgis/QGIS",
+    "href": "https://github.com/qgis/QGIS",
+    "about": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "star": "11,188",
+    "fork": "3,110",
+    "timestamp": "2025-04-17T02:26:35.069508",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "abseil/abseil-cpp",
+    "href": "https://github.com/abseil/abseil-cpp",
+    "about": "Abseil Common Libraries (C++)",
+    "star": "15,757",
+    "fork": "2,758",
+    "timestamp": "2025-04-17T02:26:35.069826",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "star": "10,230",
+    "fork": "1,358",
+    "timestamp": "2025-04-17T02:26:35.070133",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "29,261",
+    "fork": "5,680",
+    "timestamp": "2025-04-17T02:26:35.070441",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "owasp-modsecurity/ModSecurity",
+    "href": "https://github.com/owasp-modsecurity/ModSecurity",
+    "about": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
+    "star": "8,739",
+    "fork": "1,644",
+    "timestamp": "2025-04-17T02:26:35.070767",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "25,875",
+    "fork": "4,743",
+    "timestamp": "2025-04-17T02:26:35.071074",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "IntelRealSense/librealsense",
+    "href": "https://github.com/IntelRealSense/librealsense",
+    "about": "Intel® RealSense™ SDK",
+    "star": "7,885",
+    "fork": "4,850",
+    "timestamp": "2025-04-17T02:26:35.071385",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "tesseract-ocr/tesseract",
+    "href": "https://github.com/tesseract-ocr/tesseract",
+    "about": "Tesseract Open Source OCR Engine (main repository)",
+    "star": "66,199",
+    "fork": "9,827",
+    "timestamp": "2025-04-17T02:26:35.071709",
+    "stars_today": "35 stars today"
+  }
+]

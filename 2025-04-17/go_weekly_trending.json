@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "79,538",
+    "fork": "7,741",
+    "timestamp": "2025-04-17T02:26:47.140436",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "63,537",
+    "fork": "4,260",
+    "timestamp": "2025-04-17T02:26:47.140824",
+    "stars_today": "696 stars this week"
+  },
+  {
+    "repo": "krillinai/KrillinAI",
+    "href": "https://github.com/krillinai/KrillinAI",
+    "about": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "star": "4,782",
+    "fork": "355",
+    "timestamp": "2025-04-17T02:26:47.141131",
+    "stars_today": "3,418 stars this week"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,241",
+    "fork": "1,409",
+    "timestamp": "2025-04-17T02:26:47.141437",
+    "stars_today": "292 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,768",
+    "fork": "8,180",
+    "timestamp": "2025-04-17T02:26:47.141765",
+    "stars_today": "266 stars this week"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "3,343",
+    "fork": "273",
+    "timestamp": "2025-04-17T02:26:47.142080",
+    "stars_today": "589 stars this week"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "8,152",
+    "fork": "569",
+    "timestamp": "2025-04-17T02:26:47.142386",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,272",
+    "fork": "635",
+    "timestamp": "2025-04-17T02:26:47.142737",
+    "stars_today": "170 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "58,900",
+    "fork": "2,015",
+    "timestamp": "2025-04-17T02:26:47.143072",
+    "stars_today": "300 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,816",
+    "fork": "7,949",
+    "timestamp": "2025-04-17T02:26:47.143370",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "gofr-dev/gofr",
+    "href": "https://github.com/gofr-dev/gofr",
+    "about": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+    "star": "9,492",
+    "fork": "1,686",
+    "timestamp": "2025-04-17T02:26:47.143693",
+    "stars_today": "2,370 stars this week"
+  },
+  {
+    "repo": "coroot/coroot",
+    "href": "https://github.com/coroot/coroot",
+    "about": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+    "star": "6,339",
+    "fork": "269",
+    "timestamp": "2025-04-17T02:26:47.144015",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "40,142",
+    "fork": "2,918",
+    "timestamp": "2025-04-17T02:26:47.144360",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,246",
+    "fork": "864",
+    "timestamp": "2025-04-17T02:26:47.144715",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "8,631",
+    "fork": "1,216",
+    "timestamp": "2025-04-17T02:26:47.145014",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "fsnotify/fsnotify",
+    "href": "https://github.com/fsnotify/fsnotify",
+    "about": "Cross-platform filesystem notifications for Go.",
+    "star": "10,015",
+    "fork": "937",
+    "timestamp": "2025-04-17T02:26:47.145312",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "vektra/mockery",
+    "href": "https://github.com/vektra/mockery",
+    "about": "A mock code autogenerator for Go",
+    "star": "6,496",
+    "fork": "431",
+    "timestamp": "2025-04-17T02:26:47.145636",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "8,137",
+    "fork": "580",
+    "timestamp": "2025-04-17T02:26:47.145941",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,468",
+    "fork": "2,176",
+    "timestamp": "2025-04-17T02:26:47.146239",
+    "stars_today": "53 stars this week"
+  }
+]
