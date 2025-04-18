@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "36,941",
+    "fork": "3,487",
+    "timestamp": "2025-04-18T02:24:13.160760",
+    "stars_today": "596 stars this month"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,238",
+    "fork": "1,808",
+    "timestamp": "2025-04-18T02:24:13.161075",
+    "stars_today": "207 stars this month"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,150",
+    "fork": "1,078",
+    "timestamp": "2025-04-18T02:24:13.161362",
+    "stars_today": "300 stars this month"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,787",
+    "fork": "388",
+    "timestamp": "2025-04-18T02:24:13.161644",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "simplex-chat/simplexmq",
+    "href": "https://github.com/simplex-chat/simplexmq",
+    "about": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+    "star": "602",
+    "fork": "71",
+    "timestamp": "2025-04-18T02:24:13.161964",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,860",
+    "fork": "440",
+    "timestamp": "2025-04-18T02:24:13.162279",
+    "stars_today": "98 stars this month"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,243",
+    "fork": "325",
+    "timestamp": "2025-04-18T02:24:13.162589",
+    "stars_today": "55 stars this month"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,098",
+    "fork": "50",
+    "timestamp": "2025-04-18T02:24:13.162866",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "goldfirere/th-desugar",
+    "href": "https://github.com/goldfirere/th-desugar",
+    "about": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
+    "star": "20",
+    "fork": "14",
+    "timestamp": "2025-04-18T02:24:13.163157",
+    "stars_today": "0 stars this month"
+  }
+]

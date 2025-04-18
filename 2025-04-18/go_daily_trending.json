@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,434",
+    "fork": "2,149",
+    "timestamp": "2025-04-18T02:24:10.562776",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "caarlos0/env",
+    "href": "https://github.com/caarlos0/env",
+    "about": "A simple, zero-dependencies library to parse environment variables into structs",
+    "star": "5,346",
+    "fork": "262",
+    "timestamp": "2025-04-18T02:24:10.563100",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,597",
+    "fork": "1,249",
+    "timestamp": "2025-04-18T02:24:10.563380",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,505",
+    "fork": "2,500",
+    "timestamp": "2025-04-18T02:24:10.563657",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "25,006",
+    "fork": "983",
+    "timestamp": "2025-04-18T02:24:10.563942",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "google/gvisor",
+    "href": "https://github.com/google/gvisor",
+    "about": "Application Kernel for Containers",
+    "star": "16,366",
+    "fork": "1,360",
+    "timestamp": "2025-04-18T02:24:10.564217",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "36,128",
+    "fork": "1,763",
+    "timestamp": "2025-04-18T02:24:10.564517",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "14,078",
+    "fork": "1,034",
+    "timestamp": "2025-04-18T02:24:10.564791",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "59,882",
+    "fork": "1,522",
+    "timestamp": "2025-04-18T02:24:10.565074",
+    "stars_today": "116 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,042",
+    "fork": "1,359",
+    "timestamp": "2025-04-18T02:24:10.565345",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,268",
+    "fork": "3,519",
+    "timestamp": "2025-04-18T02:24:10.565616",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "donknap/dpanel",
+    "href": "https://github.com/donknap/dpanel",
+    "about": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+    "star": "2,401",
+    "fork": "160",
+    "timestamp": "2025-04-18T02:24:10.565882",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "10,786",
+    "fork": "1,507",
+    "timestamp": "2025-04-18T02:24:10.566156",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "8,171",
+    "fork": "569",
+    "timestamp": "2025-04-18T02:24:10.566432",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,436",
+    "fork": "8,366",
+    "timestamp": "2025-04-18T02:24:10.566704",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "45,007",
+    "fork": "9,804",
+    "timestamp": "2025-04-18T02:24:10.566986",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "href": "https://github.com/nats-io/nats.go",
+    "about": "Golang client for NATS, the cloud native messaging system.",
+    "star": "5,842",
+    "fork": "726",
+    "timestamp": "2025-04-18T02:24:10.567258",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "11,494",
+    "fork": "1,020",
+    "timestamp": "2025-04-18T02:24:10.567527",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,576",
+    "fork": "1,035",
+    "timestamp": "2025-04-18T02:24:10.567824",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,434",
+    "fork": "778",
+    "timestamp": "2025-04-18T02:24:10.568113",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,377",
+    "fork": "2,292",
+    "timestamp": "2025-04-18T02:24:10.568387",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/go-containerregistry",
+    "href": "https://github.com/google/go-containerregistry",
+    "about": "Go library and CLIs for working with container registries",
+    "star": "3,324",
+    "fork": "563",
+    "timestamp": "2025-04-18T02:24:10.568658",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "28,901",
+    "fork": "4,465",
+    "timestamp": "2025-04-18T02:24:10.568939",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "3,866",
+    "fork": "533",
+    "timestamp": "2025-04-18T02:24:10.569211",
+    "stars_today": "5 stars today"
+  }
+]
