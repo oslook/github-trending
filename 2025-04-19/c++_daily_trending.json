@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "microsoft/BitNet",
+    "href": "https://github.com/microsoft/BitNet",
+    "about": "Official inference framework for 1-bit LLMs",
+    "star": "13,824",
+    "fork": "963",
+    "timestamp": "2025-04-19T02:21:04.123892",
+    "stars_today": "402 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "35,891",
+    "fork": "10,328",
+    "timestamp": "2025-04-19T02:21:04.124199",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "NixOS/nix",
+    "href": "https://github.com/NixOS/nix",
+    "about": "Nix, the purely functional package manager",
+    "star": "14,072",
+    "fork": "1,624",
+    "timestamp": "2025-04-19T02:21:04.124505",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Neargye/magic_enum",
+    "href": "https://github.com/Neargye/magic_enum",
+    "about": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+    "star": "5,339",
+    "fork": "479",
+    "timestamp": "2025-04-19T02:21:04.124794",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "29,273",
+    "fork": "5,682",
+    "timestamp": "2025-04-19T02:21:04.125081",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "NVIDIA/nccl",
+    "href": "https://github.com/NVIDIA/nccl",
+    "about": "Optimized primitives for collective multi-GPU communication",
+    "star": "3,661",
+    "fork": "899",
+    "timestamp": "2025-04-19T02:21:04.125387",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "67,321",
+    "fork": "15,675",
+    "timestamp": "2025-04-19T02:21:04.125674",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "google/perfetto",
+    "href": "https://github.com/google/perfetto",
+    "about": "Performance instrumentation and tracing for Android, Linux and Chrome",
+    "star": "3,559",
+    "fork": "433",
+    "timestamp": "2025-04-19T02:21:04.125960",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "78,355",
+    "fork": "11,447",
+    "timestamp": "2025-04-19T02:21:04.126265",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "BehaviorTree/BehaviorTree.CPP",
+    "href": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "about": "Behavior Trees Library in C++. Batteries included.",
+    "star": "3,288",
+    "fork": "714",
+    "timestamp": "2025-04-19T02:21:04.126560",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "google/or-tools",
+    "href": "https://github.com/google/or-tools",
+    "about": "Google's Operations Research tools:",
+    "star": "11,851",
+    "fork": "2,202",
+    "timestamp": "2025-04-19T02:21:04.126845",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,275",
+    "fork": "6,940",
+    "timestamp": "2025-04-19T02:21:04.127159",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "21,677",
+    "fork": "2,622",
+    "timestamp": "2025-04-19T02:21:04.127460",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "carla-simulator/carla",
+    "href": "https://github.com/carla-simulator/carla",
+    "about": "Open-source simulator for autonomous driving research.",
+    "star": "12,337",
+    "fork": "3,967",
+    "timestamp": "2025-04-19T02:21:04.127774",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,420",
+    "fork": "1,674",
+    "timestamp": "2025-04-19T02:21:04.128059",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "href": "https://github.com/cocos/cocos-engine",
+    "about": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+    "star": "8,592",
+    "fork": "1,993",
+    "timestamp": "2025-04-19T02:21:04.128367",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "organicmaps/organicmaps",
+    "href": "https://github.com/organicmaps/organicmaps",
+    "about": "This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps",
+    "star": "10,945",
+    "fork": "1,091",
+    "timestamp": "2025-04-19T02:21:04.128684",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-swss",
+    "href": "https://github.com/sonic-net/sonic-swss",
+    "about": "SONiC Switch State Service (SwSS)",
+    "star": "188",
+    "fork": "577",
+    "timestamp": "2025-04-19T02:21:04.128972",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "scylladb/scylladb",
+    "href": "https://github.com/scylladb/scylladb",
+    "about": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+    "star": "14,403",
+    "fork": "1,372",
+    "timestamp": "2025-04-19T02:21:04.129270",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "14,146",
+    "fork": "2,412",
+    "timestamp": "2025-04-19T02:21:04.129557",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "apple/foundationdb",
+    "href": "https://github.com/apple/foundationdb",
+    "about": "FoundationDB - the open source, distributed, transactional key-value store",
+    "star": "15,078",
+    "fork": "1,351",
+    "timestamp": "2025-04-19T02:21:04.129843",
+    "stars_today": "6 stars today"
+  }
+]
