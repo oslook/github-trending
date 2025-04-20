@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,649",
+    "fork": "3,001",
+    "timestamp": "2025-04-20T02:38:58.261797",
+    "stars_today": "88 stars this month"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,689",
+    "fork": "2,294",
+    "timestamp": "2025-04-20T02:38:58.262095",
+    "stars_today": "141 stars this month"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,878",
+    "fork": "474",
+    "timestamp": "2025-04-20T02:38:58.262385",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,568",
+    "fork": "352",
+    "timestamp": "2025-04-20T02:38:58.262689",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,125",
+    "fork": "454",
+    "timestamp": "2025-04-20T02:38:58.262975",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "39",
+    "timestamp": "2025-04-20T02:38:58.263257",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,254",
+    "fork": "1,524",
+    "timestamp": "2025-04-20T02:38:58.263552",
+    "stars_today": "39 stars this month"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "887",
+    "fork": "169",
+    "timestamp": "2025-04-20T02:38:58.263835",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,155",
+    "fork": "154",
+    "timestamp": "2025-04-20T02:38:58.264116",
+    "stars_today": "27 stars this month"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,482",
+    "fork": "1,049",
+    "timestamp": "2025-04-20T02:38:58.264406",
+    "stars_today": "57 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "284",
+    "fork": "176",
+    "timestamp": "2025-04-20T02:38:58.264690",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,379",
+    "fork": "281",
+    "timestamp": "2025-04-20T02:38:58.264969",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "564",
+    "fork": "153",
+    "timestamp": "2025-04-20T02:38:58.265248",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "910",
+    "fork": "233",
+    "timestamp": "2025-04-20T02:38:58.265537",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "818",
+    "fork": "230",
+    "timestamp": "2025-04-20T02:38:58.265848",
+    "stars_today": "2 stars this month"
+  }
+]
