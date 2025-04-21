@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "kylechui/nvim-surround",
+    "href": "https://github.com/kylechui/nvim-surround",
+    "about": "Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.",
+    "star": "3,638",
+    "fork": "63",
+    "timestamp": "2025-04-21T02:40:22.291417",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "24,000",
+    "fork": "32,302",
+    "timestamp": "2025-04-21T02:40:22.291749",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "josean-dev/dev-environment-files",
+    "href": "https://github.com/josean-dev/dev-environment-files",
+    "about": "",
+    "star": "3,461",
+    "fork": "845",
+    "timestamp": "2025-04-21T02:40:22.292060",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "overextended/ox_inventory",
+    "href": "https://github.com/overextended/ox_inventory",
+    "about": "Slot-based inventory with metadata.",
+    "star": "501",
+    "fork": "797",
+    "timestamp": "2025-04-21T02:40:22.292348",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "karb94/neoscroll.nvim",
+    "href": "https://github.com/karb94/neoscroll.nvim",
+    "about": "Smooth scrolling neovim plugin written in lua",
+    "star": "1,722",
+    "fork": "40",
+    "timestamp": "2025-04-21T02:40:22.292634",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "overextended/ox_lib",
+    "href": "https://github.com/overextended/ox_lib",
+    "about": "A FiveM resource and script library for Lua and JS.",
+    "star": "365",
+    "fork": "525",
+    "timestamp": "2025-04-21T02:40:22.292935",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,692",
+    "fork": "207",
+    "timestamp": "2025-04-21T02:40:22.293246",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "6,967",
+    "fork": "453",
+    "timestamp": "2025-04-21T02:40:22.293529",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "20,538",
+    "fork": "1,390",
+    "timestamp": "2025-04-21T02:40:22.293831",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,237",
+    "fork": "91",
+    "timestamp": "2025-04-21T02:40:22.294148",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "7,055",
+    "fork": "233",
+    "timestamp": "2025-04-21T02:40:22.294433",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "overextended/ox_target",
+    "href": "https://github.com/overextended/ox_target",
+    "about": "Standalone \"third-eye\" targeting resource.",
+    "star": "161",
+    "fork": "233",
+    "timestamp": "2025-04-21T02:40:22.294735",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "sphamba/smear-cursor.nvim",
+    "href": "https://github.com/sphamba/smear-cursor.nvim",
+    "about": "🌠 Neovim plugin to animate the cursor with a smear effect in all terminals",
+    "star": "931",
+    "fork": "16",
+    "timestamp": "2025-04-21T02:40:22.295024",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "4,710",
+    "fork": "219",
+    "timestamp": "2025-04-21T02:40:22.295310",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,088",
+    "fork": "200",
+    "timestamp": "2025-04-21T02:40:22.295594",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "11,311",
+    "fork": "738",
+    "timestamp": "2025-04-21T02:40:22.295891",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "craftzdog/dotfiles-public",
+    "href": "https://github.com/craftzdog/dotfiles-public",
+    "about": "My personal dotfiles",
+    "star": "6,688",
+    "fork": "1,170",
+    "timestamp": "2025-04-21T02:40:22.296179",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/vim-be-good",
+    "href": "https://github.com/ThePrimeagen/vim-be-good",
+    "about": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+    "star": "3,696",
+    "fork": "141",
+    "timestamp": "2025-04-21T02:40:22.296491",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "17,124",
+    "fork": "420",
+    "timestamp": "2025-04-21T02:40:22.296785",
+    "stars_today": "25 stars today"
+  }
+]
