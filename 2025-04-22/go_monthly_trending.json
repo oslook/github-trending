@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "3,677",
+    "fork": "301",
+    "timestamp": "2025-04-22T02:27:03.041525",
+    "stars_today": "2,699 stars this month"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,509",
+    "fork": "543",
+    "timestamp": "2025-04-22T02:27:03.041851",
+    "stars_today": "919 stars this month"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "star": "27,808",
+    "fork": "2,420",
+    "timestamp": "2025-04-22T02:27:03.042134",
+    "stars_today": "1,716 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "34,210",
+    "fork": "3,161",
+    "timestamp": "2025-04-22T02:27:03.042415",
+    "stars_today": "817 stars this month"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "5,020",
+    "fork": "641",
+    "timestamp": "2025-04-22T02:27:03.042705",
+    "stars_today": "906 stars this month"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,446",
+    "fork": "8,373",
+    "timestamp": "2025-04-22T02:27:03.042982",
+    "stars_today": "472 stars this month"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "142,238",
+    "fork": "12,244",
+    "timestamp": "2025-04-22T02:27:03.043293",
+    "stars_today": "2,212 stars this month"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "16,823",
+    "fork": "1,442",
+    "timestamp": "2025-04-22T02:27:03.043609",
+    "stars_today": "349 stars this month"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "24,194",
+    "fork": "4,077",
+    "timestamp": "2025-04-22T02:27:03.043912",
+    "stars_today": "308 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "81,843",
+    "fork": "8,180",
+    "timestamp": "2025-04-22T02:27:03.044184",
+    "stars_today": "1,022 stars this month"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "63,688",
+    "fork": "4,265",
+    "timestamp": "2025-04-22T02:27:03.044467",
+    "stars_today": "1,390 stars this month"
+  },
+  {
+    "repo": "go-admin-team/go-admin",
+    "href": "https://github.com/go-admin-team/go-admin",
+    "about": "基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro",
+    "star": "11,911",
+    "fork": "2,467",
+    "timestamp": "2025-04-22T02:27:03.044757",
+    "stars_today": "143 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,339",
+    "fork": "637",
+    "timestamp": "2025-04-22T02:27:03.045062",
+    "stars_today": "785 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "27,320",
+    "fork": "1,462",
+    "timestamp": "2025-04-22T02:27:03.045338",
+    "stars_today": "1,183 stars this month"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "51,921",
+    "fork": "5,782",
+    "timestamp": "2025-04-22T02:27:03.045625",
+    "stars_today": "997 stars this month"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,272",
+    "fork": "202",
+    "timestamp": "2025-04-22T02:27:03.045897",
+    "stars_today": "175 stars this month"
+  },
+  {
+    "repo": "langgenius/dify-plugin-daemon",
+    "href": "https://github.com/langgenius/dify-plugin-daemon",
+    "about": "",
+    "star": "173",
+    "fork": "123",
+    "timestamp": "2025-04-22T02:27:03.046189",
+    "stars_today": "65 stars this month"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "22,699",
+    "fork": "6,650",
+    "timestamp": "2025-04-22T02:27:03.046474",
+    "stars_today": "283 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,752",
+    "fork": "4,489",
+    "timestamp": "2025-04-22T02:27:03.046745",
+    "stars_today": "210 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,544",
+    "fork": "2,503",
+    "timestamp": "2025-04-22T02:27:03.047017",
+    "stars_today": "494 stars this month"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "60,028",
+    "fork": "1,528",
+    "timestamp": "2025-04-22T02:27:03.047287",
+    "stars_today": "1,485 stars this month"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,155",
+    "fork": "1,210",
+    "timestamp": "2025-04-22T02:27:03.047576",
+    "stars_today": "122 stars this month"
+  }
+]
