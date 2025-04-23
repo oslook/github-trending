@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "45,794",
+    "fork": "2,249",
+    "timestamp": "2025-04-23T02:27:44.515157",
+    "stars_today": "92 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "10,431",
+    "fork": "692",
+    "timestamp": "2025-04-23T02:27:44.515480",
+    "stars_today": "69 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kubebuilder",
+    "href": "https://github.com/kubernetes-sigs/kubebuilder",
+    "about": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "star": "8,336",
+    "fork": "1,534",
+    "timestamp": "2025-04-23T02:27:44.515831",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "envoyproxy/gateway",
+    "href": "https://github.com/envoyproxy/gateway",
+    "about": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+    "star": "1,822",
+    "fork": "442",
+    "timestamp": "2025-04-23T02:27:44.516119",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "3,158",
+    "fork": "223",
+    "timestamp": "2025-04-23T02:27:44.516422",
+    "stars_today": "87 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,760",
+    "fork": "4,491",
+    "timestamp": "2025-04-23T02:27:44.516711",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "cloudwego/eino-ext",
+    "href": "https://github.com/cloudwego/eino-ext",
+    "about": "Various extensions for the Eino framework: https://github.com/cloudwego/eino",
+    "star": "280",
+    "fork": "83",
+    "timestamp": "2025-04-23T02:27:44.517002",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,561",
+    "fork": "854",
+    "timestamp": "2025-04-23T02:27:44.517301",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,676",
+    "fork": "903",
+    "timestamp": "2025-04-23T02:27:44.517590",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "rqlite/rqlite",
+    "href": "https://github.com/rqlite/rqlite",
+    "about": "The lightweight, user-friendly, distributed relational database built on SQLite.",
+    "star": "16,513",
+    "fork": "739",
+    "timestamp": "2025-04-23T02:27:44.517884",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "supabase/auth",
+    "href": "https://github.com/supabase/auth",
+    "about": "A JWT based API for managing users and issuing JWT tokens",
+    "star": "1,852",
+    "fork": "437",
+    "timestamp": "2025-04-23T02:27:44.518198",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "142,311",
+    "fork": "12,247",
+    "timestamp": "2025-04-23T02:27:44.518523",
+    "stars_today": "76 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "13,413",
+    "fork": "715",
+    "timestamp": "2025-04-23T02:27:44.518806",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "go-resty/resty",
+    "href": "https://github.com/go-resty/resty",
+    "about": "Simple HTTP, REST, and SSE client library for Go",
+    "star": "10,788",
+    "fork": "746",
+    "timestamp": "2025-04-23T02:27:44.519087",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "4,899",
+    "fork": "558",
+    "timestamp": "2025-04-23T02:27:44.519382",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,027",
+    "fork": "3,998",
+    "timestamp": "2025-04-23T02:27:44.519666",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-co-op/gocron",
+    "href": "https://github.com/go-co-op/gocron",
+    "about": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
+    "star": "6,138",
+    "fork": "328",
+    "timestamp": "2025-04-23T02:27:44.519953",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "usual2970/certimate",
+    "href": "https://github.com/usual2970/certimate",
+    "about": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+    "star": "6,392",
+    "fork": "584",
+    "timestamp": "2025-04-23T02:27:44.520237",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,351",
+    "fork": "2,051",
+    "timestamp": "2025-04-23T02:27:44.520561",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,165",
+    "fork": "2,307",
+    "timestamp": "2025-04-23T02:27:44.520843",
+    "stars_today": "4 stars today"
+  }
+]
