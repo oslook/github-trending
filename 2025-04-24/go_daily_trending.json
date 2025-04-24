@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "46,187",
+    "fork": "2,270",
+    "timestamp": "2025-04-24T02:29:01.020260",
+    "stars_today": "393 stars today"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "12,633",
+    "fork": "671",
+    "timestamp": "2025-04-24T02:29:01.020626",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,770",
+    "fork": "4,491",
+    "timestamp": "2025-04-24T02:29:01.020920",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "3,211",
+    "fork": "230",
+    "timestamp": "2025-04-24T02:29:01.021207",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "NVIDIA/k8s-device-plugin",
+    "href": "https://github.com/NVIDIA/k8s-device-plugin",
+    "about": "NVIDIA device plugin for Kubernetes",
+    "star": "3,167",
+    "fork": "687",
+    "timestamp": "2025-04-24T02:29:01.021506",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "58,261",
+    "fork": "9,528",
+    "timestamp": "2025-04-24T02:29:01.021786",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "spegel-org/spegel",
+    "href": "https://github.com/spegel-org/spegel",
+    "about": "Stateless cluster local OCI registry mirror.",
+    "star": "2,396",
+    "fork": "89",
+    "timestamp": "2025-04-24T02:29:01.022067",
+    "stars_today": "104 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "40,213",
+    "fork": "2,924",
+    "timestamp": "2025-04-24T02:29:01.022375",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "13,432",
+    "fork": "718",
+    "timestamp": "2025-04-24T02:29:01.022693",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,090",
+    "fork": "1,599",
+    "timestamp": "2025-04-24T02:29:01.022979",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "10,463",
+    "fork": "692",
+    "timestamp": "2025-04-24T02:29:01.023264",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,473",
+    "fork": "1,638",
+    "timestamp": "2025-04-24T02:29:01.023567",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "79,873",
+    "fork": "7,762",
+    "timestamp": "2025-04-24T02:29:01.023863",
+    "stars_today": "81 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,590",
+    "fork": "1,036",
+    "timestamp": "2025-04-24T02:29:01.024175",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "10,159",
+    "fork": "1,403",
+    "timestamp": "2025-04-24T02:29:01.024469",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,073",
+    "fork": "3,031",
+    "timestamp": "2025-04-24T02:29:01.024751",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,272",
+    "fork": "4,343",
+    "timestamp": "2025-04-24T02:29:01.025037",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,920",
+    "fork": "1,509",
+    "timestamp": "2025-04-24T02:29:01.025319",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "go-co-op/gocron",
+    "href": "https://github.com/go-co-op/gocron",
+    "about": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
+    "star": "6,147",
+    "fork": "328",
+    "timestamp": "2025-04-24T02:29:01.025633",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "45,045",
+    "fork": "9,823",
+    "timestamp": "2025-04-24T02:29:01.025912",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "rakyll/hey",
+    "href": "https://github.com/rakyll/hey",
+    "about": "HTTP load generator, ApacheBench (ab) replacement",
+    "star": "18,782",
+    "fork": "1,228",
+    "timestamp": "2025-04-24T02:29:01.026191",
+    "stars_today": "5 stars today"
+  }
+]
