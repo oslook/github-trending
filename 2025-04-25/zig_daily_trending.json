@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "lightpanda-io/browser",
+    "href": "https://github.com/lightpanda-io/browser",
+    "about": "Lightpanda: the headless browser designed for AI and automation",
+    "star": "8,626",
+    "fork": "202",
+    "timestamp": "2025-04-25T02:37:03.834873",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "natecraddock/zf",
+    "href": "https://github.com/natecraddock/zf",
+    "about": "a commandline fuzzy finder and zig module designed for filtering filepaths",
+    "star": "533",
+    "fork": "21",
+    "timestamp": "2025-04-25T02:37:03.835185",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "2,667",
+    "fork": "114",
+    "timestamp": "2025-04-25T02:37:03.835469",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "star": "38,723",
+    "fork": "2,805",
+    "timestamp": "2025-04-25T02:37:03.835778",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "zigtools/zls",
+    "href": "https://github.com/zigtools/zls",
+    "about": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+    "star": "3,712",
+    "fork": "346",
+    "timestamp": "2025-04-25T02:37:03.836287",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "karlseguin/http.zig",
+    "href": "https://github.com/karlseguin/http.zig",
+    "about": "An HTTP/1.1 server for zig",
+    "star": "945",
+    "fork": "61",
+    "timestamp": "2025-04-25T02:37:03.836573",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "href": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "star": "77,662",
+    "fork": "3,038",
+    "timestamp": "2025-04-25T02:37:03.836853",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "tigerbeetle/tigerbeetle",
+    "href": "https://github.com/tigerbeetle/tigerbeetle",
+    "about": "The financial transactions database designed for mission critical safety and performance.",
+    "star": "12,249",
+    "fork": "595",
+    "timestamp": "2025-04-25T02:37:03.837158",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "Hejsil/zig-clap",
+    "href": "https://github.com/Hejsil/zig-clap",
+    "about": "Command line argument parsing library",
+    "star": "1,215",
+    "fork": "76",
+    "timestamp": "2025-04-25T02:37:03.837467",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hexops/mach",
+    "href": "https://github.com/hexops/mach",
+    "about": "zig game engine & graphics toolkit",
+    "star": "3,897",
+    "fork": "179",
+    "timestamp": "2025-04-25T02:37:03.837745",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "zml/zml",
+    "href": "https://github.com/zml/zml",
+    "about": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+    "star": "2,229",
+    "fork": "81",
+    "timestamp": "2025-04-25T02:37:03.838054",
+    "stars_today": "0 stars today"
+  }
+]

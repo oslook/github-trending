@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,329",
+    "fork": "482",
+    "timestamp": "2025-04-25T02:36:54.861744",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "40,993",
+    "fork": "28,509",
+    "timestamp": "2025-04-25T02:36:54.862053",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "7,969",
+    "fork": "1,816",
+    "timestamp": "2025-04-25T02:36:54.862374",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "828",
+    "fork": "193",
+    "timestamp": "2025-04-25T02:36:54.862655",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "909",
+    "fork": "607",
+    "timestamp": "2025-04-25T02:36:54.862936",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,830",
+    "fork": "950",
+    "timestamp": "2025-04-25T02:36:54.863227",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,251",
+    "fork": "623",
+    "timestamp": "2025-04-25T02:36:54.863510",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,629",
+    "fork": "649",
+    "timestamp": "2025-04-25T02:36:54.863789",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,870",
+    "fork": "445",
+    "timestamp": "2025-04-25T02:36:54.864080",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,565",
+    "fork": "4,100",
+    "timestamp": "2025-04-25T02:36:54.864384",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,406",
+    "fork": "553",
+    "timestamp": "2025-04-25T02:36:54.864640",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "5,997",
+    "fork": "1,094",
+    "timestamp": "2025-04-25T02:36:54.864896",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,419",
+    "fork": "1,159",
+    "timestamp": "2025-04-25T02:36:54.865162",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,467",
+    "fork": "555",
+    "timestamp": "2025-04-25T02:36:54.865441",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,772",
+    "fork": "345",
+    "timestamp": "2025-04-25T02:36:54.865695",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,894",
+    "fork": "2,508",
+    "timestamp": "2025-04-25T02:36:54.865968",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,822",
+    "fork": "700",
+    "timestamp": "2025-04-25T02:36:54.866255",
+    "stars_today": "1 star today"
+  }
+]

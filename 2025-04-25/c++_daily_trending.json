@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "189,585",
+    "fork": "74,650",
+    "timestamp": "2025-04-25T02:36:18.014212",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "16,366",
+    "fork": "3,171",
+    "timestamp": "2025-04-25T02:36:18.014510",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "WerWolv/ImHex",
+    "href": "https://github.com/WerWolv/ImHex",
+    "about": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "star": "48,631",
+    "fork": "2,104",
+    "timestamp": "2025-04-25T02:36:18.014824",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "star": "14,963",
+    "fork": "3,627",
+    "timestamp": "2025-04-25T02:36:18.015119",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT",
+    "href": "https://github.com/NVIDIA/TensorRT",
+    "about": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "star": "11,503",
+    "fork": "2,183",
+    "timestamp": "2025-04-25T02:36:18.015405",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,136",
+    "fork": "1,584",
+    "timestamp": "2025-04-25T02:36:18.015687",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "28,653",
+    "fork": "2,249",
+    "timestamp": "2025-04-25T02:36:18.015967",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "google/perfetto",
+    "href": "https://github.com/google/perfetto",
+    "about": "Performance instrumentation and tracing for Android, Linux and Chrome",
+    "star": "3,621",
+    "fork": "440",
+    "timestamp": "2025-04-25T02:36:18.016272",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "67,375",
+    "fork": "15,684",
+    "timestamp": "2025-04-25T02:36:18.016558",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "about": "ClickHouse® is a real-time analytics database management system",
+    "star": "40,314",
+    "fork": "7,247",
+    "timestamp": "2025-04-25T02:36:18.016845",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "lballabio/QuantLib",
+    "href": "https://github.com/lballabio/QuantLib",
+    "about": "The QuantLib C++ library",
+    "star": "5,894",
+    "fork": "1,901",
+    "timestamp": "2025-04-25T02:36:18.017139",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "risc0/risc0",
+    "href": "https://github.com/risc0/risc0",
+    "about": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+    "star": "1,863",
+    "fork": "538",
+    "timestamp": "2025-04-25T02:36:18.017420",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "facebook/rocksdb",
+    "href": "https://github.com/facebook/rocksdb",
+    "about": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "star": "29,566",
+    "fork": "6,466",
+    "timestamp": "2025-04-25T02:36:18.017699",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pixie-io/pixie",
+    "href": "https://github.com/pixie-io/pixie",
+    "about": "Instant Kubernetes-Native Application Observability",
+    "star": "5,978",
+    "fork": "463",
+    "timestamp": "2025-04-25T02:36:18.018031",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "CoatiSoftware/Sourcetrail",
+    "href": "https://github.com/CoatiSoftware/Sourcetrail",
+    "about": "Sourcetrail - free and open-source interactive source explorer",
+    "star": "15,932",
+    "fork": "1,529",
+    "timestamp": "2025-04-25T02:36:18.018312",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "10,327",
+    "fork": "1,379",
+    "timestamp": "2025-04-25T02:36:18.018591",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "apache/brpc",
+    "href": "https://github.com/apache/brpc",
+    "about": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+    "star": "16,989",
+    "fork": "4,013",
+    "timestamp": "2025-04-25T02:36:18.018872",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "96,574",
+    "fork": "22,220",
+    "timestamp": "2025-04-25T02:36:18.019165",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "YosysHQ/yosys",
+    "href": "https://github.com/YosysHQ/yosys",
+    "about": "Yosys Open SYnthesis Suite",
+    "star": "3,766",
+    "fork": "933",
+    "timestamp": "2025-04-25T02:36:18.019446",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "21,696",
+    "fork": "2,625",
+    "timestamp": "2025-04-25T02:36:18.019727",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "bpftrace/bpftrace",
+    "href": "https://github.com/bpftrace/bpftrace",
+    "about": "High-level tracing language for Linux",
+    "star": "9,143",
+    "fork": "1,373",
+    "timestamp": "2025-04-25T02:36:18.020022",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Tencent/rapidjson",
+    "href": "https://github.com/Tencent/rapidjson",
+    "about": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "star": "14,655",
+    "fork": "3,577",
+    "timestamp": "2025-04-25T02:36:18.020309",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "7,348",
+    "fork": "1,205",
+    "timestamp": "2025-04-25T02:36:18.020594",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "redpanda-data/redpanda",
+    "href": "https://github.com/redpanda-data/redpanda",
+    "about": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "star": "10,250",
+    "fork": "622",
+    "timestamp": "2025-04-25T02:36:18.020878",
+    "stars_today": "3 stars today"
+  }
+]
