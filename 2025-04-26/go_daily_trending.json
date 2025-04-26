@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,168",
+    "fork": "1,365",
+    "timestamp": "2025-04-26T02:23:32.494084",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,709",
+    "fork": "2,510",
+    "timestamp": "2025-04-26T02:23:32.494368",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "joho/godotenv",
+    "href": "https://github.com/joho/godotenv",
+    "about": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+    "star": "9,151",
+    "fork": "426",
+    "timestamp": "2025-04-26T02:23:32.494627",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,959",
+    "fork": "1,523",
+    "timestamp": "2025-04-26T02:23:32.494884",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "href": "https://github.com/hashicorp/packer",
+    "about": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "star": "15,350",
+    "fork": "3,337",
+    "timestamp": "2025-04-26T02:23:32.495146",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "26,506",
+    "fork": "2,607",
+    "timestamp": "2025-04-26T02:23:32.495416",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "daytonaio/daytona",
+    "href": "https://github.com/daytonaio/daytona",
+    "about": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.",
+    "star": "15,245",
+    "fork": "1,391",
+    "timestamp": "2025-04-26T02:23:32.495681",
+    "stars_today": "118 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "46,531",
+    "fork": "2,290",
+    "timestamp": "2025-04-26T02:23:32.495957",
+    "stars_today": "103 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "27,963",
+    "fork": "1,359",
+    "timestamp": "2025-04-26T02:23:32.496246",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "href": "https://github.com/kubevirt/kubevirt",
+    "about": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "star": "6,008",
+    "fork": "1,426",
+    "timestamp": "2025-04-26T02:23:32.496524",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "79,993",
+    "fork": "7,770",
+    "timestamp": "2025-04-26T02:23:32.496802",
+    "stars_today": "70 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "4,016",
+    "fork": "324",
+    "timestamp": "2025-04-26T02:23:32.497080",
+    "stars_today": "107 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "32,123",
+    "fork": "2,448",
+    "timestamp": "2025-04-26T02:23:32.497400",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,610",
+    "fork": "862",
+    "timestamp": "2025-04-26T02:23:32.497677",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "cloudflare/cfssl",
+    "href": "https://github.com/cloudflare/cfssl",
+    "about": "CFSSL: Cloudflare's PKI and TLS toolkit",
+    "star": "8,990",
+    "fork": "1,128",
+    "timestamp": "2025-04-26T02:23:32.497949",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "volcano-sh/volcano",
+    "href": "https://github.com/volcano-sh/volcano",
+    "about": "A Cloud Native Batch System (Project under CNCF)",
+    "star": "4,610",
+    "fork": "1,055",
+    "timestamp": "2025-04-26T02:23:32.498219",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,103",
+    "fork": "1,603",
+    "timestamp": "2025-04-26T02:23:32.498475",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,629",
+    "fork": "1,590",
+    "timestamp": "2025-04-26T02:23:32.498728",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "autokitteh/autokitteh",
+    "href": "https://github.com/autokitteh/autokitteh",
+    "about": "Durable workflow automation in just a few lines of code",
+    "star": "697",
+    "fork": "23",
+    "timestamp": "2025-04-26T02:23:32.499001",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "7,856",
+    "fork": "648",
+    "timestamp": "2025-04-26T02:23:32.499323",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "27,405",
+    "fork": "1,344",
+    "timestamp": "2025-04-26T02:23:32.499604",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,325",
+    "fork": "5,922",
+    "timestamp": "2025-04-26T02:23:32.499880",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,038",
+    "fork": "529",
+    "timestamp": "2025-04-26T02:23:32.500142",
+    "stars_today": "6 stars today"
+  }
+]

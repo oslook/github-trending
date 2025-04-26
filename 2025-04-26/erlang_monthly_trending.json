@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,662",
+    "fork": "3,003",
+    "timestamp": "2025-04-26T02:23:31.355687",
+    "stars_today": "98 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "912",
+    "fork": "234",
+    "timestamp": "2025-04-26T02:23:31.355985",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "176",
+    "timestamp": "2025-04-26T02:23:31.356287",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "39",
+    "timestamp": "2025-04-26T02:23:31.356572",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "887",
+    "fork": "169",
+    "timestamp": "2025-04-26T02:23:31.356863",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,205",
+    "fork": "335",
+    "timestamp": "2025-04-26T02:23:31.357147",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,123",
+    "fork": "454",
+    "timestamp": "2025-04-26T02:23:31.357445",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "818",
+    "fork": "230",
+    "timestamp": "2025-04-26T02:23:31.357757",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",
+    "star": "14,701",
+    "fork": "2,295",
+    "timestamp": "2025-04-26T02:23:31.358040",
+    "stars_today": "125 stars this month"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "564",
+    "fork": "153",
+    "timestamp": "2025-04-26T02:23:31.358343",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,378",
+    "fork": "282",
+    "timestamp": "2025-04-26T02:23:31.358628",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,159",
+    "fork": "154",
+    "timestamp": "2025-04-26T02:23:31.358913",
+    "stars_today": "26 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "254",
+    "fork": "84",
+    "timestamp": "2025-04-26T02:23:31.359203",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,493",
+    "fork": "1,050",
+    "timestamp": "2025-04-26T02:23:31.359487",
+    "stars_today": "56 stars this month"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "424",
+    "fork": "61",
+    "timestamp": "2025-04-26T02:23:31.359768",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,257",
+    "fork": "1,524",
+    "timestamp": "2025-04-26T02:23:31.360049",
+    "stars_today": "36 stars this month"
+  }
+]

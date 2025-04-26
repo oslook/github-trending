@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "37,057",
+    "fork": "3,493",
+    "timestamp": "2025-04-26T02:23:35.605836",
+    "stars_today": "568 stars this month"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,195",
+    "fork": "1,081",
+    "timestamp": "2025-04-26T02:23:35.606108",
+    "stars_today": "272 stars this month"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,283",
+    "fork": "1,811",
+    "timestamp": "2025-04-26T02:23:35.606381",
+    "stars_today": "195 stars this month"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,875",
+    "fork": "442",
+    "timestamp": "2025-04-26T02:23:35.606668",
+    "stars_today": "94 stars this month"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,791",
+    "fork": "389",
+    "timestamp": "2025-04-26T02:23:35.606927",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "haskell-suite/haskell-src-exts",
+    "href": "https://github.com/haskell-suite/haskell-src-exts",
+    "about": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+    "star": "197",
+    "fork": "94",
+    "timestamp": "2025-04-26T02:23:35.607194",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,425",
+    "fork": "329",
+    "timestamp": "2025-04-26T02:23:35.607451",
+    "stars_today": "74 stars this month"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,252",
+    "fork": "326",
+    "timestamp": "2025-04-26T02:23:35.607742",
+    "stars_today": "51 stars this month"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,121",
+    "fork": "731",
+    "timestamp": "2025-04-26T02:23:35.608021",
+    "stars_today": "9 stars this month"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,107",
+    "fork": "50",
+    "timestamp": "2025-04-26T02:23:35.608312",
+    "stars_today": "46 stars this month"
+  },
+  {
+    "repo": "goldfirere/th-desugar",
+    "href": "https://github.com/goldfirere/th-desugar",
+    "about": "Desugars Template Haskell abstract syntax to a simpler format without changing semantics",
+    "star": "20",
+    "fork": "14",
+    "timestamp": "2025-04-26T02:23:35.608590",
+    "stars_today": "0 stars this month"
+  }
+]

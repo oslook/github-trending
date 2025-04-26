@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "588",
+    "fork": "3,195",
+    "timestamp": "2025-04-26T02:23:22.850091",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,636",
+    "fork": "904",
+    "timestamp": "2025-04-26T02:23:22.850397",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "libfuse/libfuse",
+    "href": "https://github.com/libfuse/libfuse",
+    "about": "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface",
+    "star": "5,612",
+    "fork": "1,177",
+    "timestamp": "2025-04-26T02:23:22.850680",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "axboe/fio",
+    "href": "https://github.com/axboe/fio",
+    "about": "Flexible I/O Tester",
+    "star": "5,559",
+    "fork": "1,287",
+    "timestamp": "2025-04-26T02:23:22.850965",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "php/php-src",
+    "href": "https://github.com/php/php-src",
+    "about": "The PHP Interpreter",
+    "star": "38,931",
+    "fork": "7,843",
+    "timestamp": "2025-04-26T02:23:22.851257",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Cyan4973/xxHash",
+    "href": "https://github.com/Cyan4973/xxHash",
+    "about": "Extremely fast non-cryptographic hash algorithm",
+    "star": "9,765",
+    "fork": "822",
+    "timestamp": "2025-04-26T02:23:22.851536",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "27,234",
+    "fork": "10,506",
+    "timestamp": "2025-04-26T02:23:22.851840",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,174",
+    "fork": "1,244",
+    "timestamp": "2025-04-26T02:23:22.852137",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "openssh/openssh-portable",
+    "href": "https://github.com/openssh/openssh-portable",
+    "about": "Portable OpenSSH",
+    "star": "3,324",
+    "fork": "1,872",
+    "timestamp": "2025-04-26T02:23:22.852407",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jqlang/jq",
+    "href": "https://github.com/jqlang/jq",
+    "about": "Command-line JSON processor",
+    "star": "31,607",
+    "fork": "1,618",
+    "timestamp": "2025-04-26T02:23:22.852666",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tuya/TuyaOpen",
+    "href": "https://github.com/tuya/TuyaOpen",
+    "about": "Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n",
+    "star": "524",
+    "fork": "81",
+    "timestamp": "2025-04-26T02:23:22.852924",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+    "star": "13,406",
+    "fork": "1,418",
+    "timestamp": "2025-04-26T02:23:22.853217",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "xiph/rnnoise",
+    "href": "https://github.com/xiph/rnnoise",
+    "about": "Recurrent neural network for audio noise reduction",
+    "star": "4,569",
+    "fork": "942",
+    "timestamp": "2025-04-26T02:23:22.853474",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "3,873",
+    "fork": "1,236",
+    "timestamp": "2025-04-26T02:23:22.853729",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,193",
+    "fork": "543",
+    "timestamp": "2025-04-26T02:23:22.853986",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "esnet/iperf",
+    "href": "https://github.com/esnet/iperf",
+    "about": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+    "star": "7,437",
+    "fork": "1,330",
+    "timestamp": "2025-04-26T02:23:22.854252",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/nuttx",
+    "href": "https://github.com/apache/nuttx",
+    "about": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+    "star": "3,260",
+    "fork": "1,296",
+    "timestamp": "2025-04-26T02:23:22.854508",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "signalwire/freeswitch",
+    "href": "https://github.com/signalwire/freeswitch",
+    "about": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+    "star": "3,997",
+    "fork": "1,521",
+    "timestamp": "2025-04-26T02:23:22.854771",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "openresty/lua-nginx-module",
+    "href": "https://github.com/openresty/lua-nginx-module",
+    "about": "Embed the Power of Lua into NGINX HTTP servers",
+    "star": "11,490",
+    "fork": "2,045",
+    "timestamp": "2025-04-26T02:23:22.855027",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "11,961",
+    "fork": "7,272",
+    "timestamp": "2025-04-26T02:23:22.855293",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "href": "https://github.com/fluent/fluent-bit",
+    "about": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+    "star": "6,797",
+    "fork": "1,670",
+    "timestamp": "2025-04-26T02:23:22.855550",
+    "stars_today": "3 stars today"
+  }
+]
