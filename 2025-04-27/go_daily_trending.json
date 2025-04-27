@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "25,853",
+    "fork": "2,515",
+    "timestamp": "2025-04-27T02:39:37.114665",
+    "stars_today": "145 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "16,968",
+    "fork": "1,535",
+    "timestamp": "2025-04-27T02:39:37.114973",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,860",
+    "fork": "7,992",
+    "timestamp": "2025-04-27T02:39:37.115262",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "daytonaio/daytona",
+    "href": "https://github.com/daytonaio/daytona",
+    "about": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.",
+    "star": "15,304",
+    "fork": "1,394",
+    "timestamp": "2025-04-27T02:39:37.115564",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "40,245",
+    "fork": "2,926",
+    "timestamp": "2025-04-27T02:39:37.115874",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,745",
+    "fork": "2,198",
+    "timestamp": "2025-04-27T02:39:37.116157",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,194",
+    "fork": "1,366",
+    "timestamp": "2025-04-27T02:39:37.116455",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+    "star": "8,111",
+    "fork": "2,665",
+    "timestamp": "2025-04-27T02:39:37.116740",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,176",
+    "fork": "2,309",
+    "timestamp": "2025-04-27T02:39:37.117029",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "golang/tools",
+    "href": "https://github.com/golang/tools",
+    "about": "[mirror] Go Tools",
+    "star": "7,633",
+    "fork": "2,296",
+    "timestamp": "2025-04-27T02:39:37.117313",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "13,554",
+    "fork": "720",
+    "timestamp": "2025-04-27T02:39:37.117611",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,633",
+    "fork": "862",
+    "timestamp": "2025-04-27T02:39:37.117893",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "gofr-dev/gofr",
+    "href": "https://github.com/gofr-dev/gofr",
+    "about": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+    "star": "10,177",
+    "fork": "1,656",
+    "timestamp": "2025-04-27T02:39:37.118176",
+    "stars_today": "352 stars today"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "href": "https://github.com/hashicorp/packer",
+    "about": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "star": "15,353",
+    "fork": "3,336",
+    "timestamp": "2025-04-27T02:39:37.118468",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "joho/godotenv",
+    "href": "https://github.com/joho/godotenv",
+    "about": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+    "star": "9,177",
+    "fork": "426",
+    "timestamp": "2025-04-27T02:39:37.118746",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,069",
+    "fork": "3,999",
+    "timestamp": "2025-04-27T02:39:37.119026",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "18,361",
+    "fork": "1,827",
+    "timestamp": "2025-04-27T02:39:37.119305",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "11,960",
+    "fork": "2,465",
+    "timestamp": "2025-04-27T02:39:37.119597",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "envoyproxy/gateway",
+    "href": "https://github.com/envoyproxy/gateway",
+    "about": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+    "star": "1,831",
+    "fork": "449",
+    "timestamp": "2025-04-27T02:39:37.119874",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,491",
+    "fork": "1,640",
+    "timestamp": "2025-04-27T02:39:37.120150",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "59,286",
+    "fork": "2,029",
+    "timestamp": "2025-04-27T02:39:37.120465",
+    "stars_today": "84 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,108",
+    "fork": "1,603",
+    "timestamp": "2025-04-27T02:39:37.120743",
+    "stars_today": "5 stars today"
+  }
+]
