@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "microsoft/BitNet",
+    "href": "https://github.com/microsoft/BitNet",
+    "about": "Official inference framework for 1-bit LLMs",
+    "star": "17,720",
+    "fork": "1,275",
+    "timestamp": "2025-04-29T02:36:19.169669",
+    "stars_today": "2,358 stars this week"
+  },
+  {
+    "repo": "Lizonghang/prima.cpp",
+    "href": "https://github.com/Lizonghang/prima.cpp",
+    "about": "prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters",
+    "star": "734",
+    "fork": "40",
+    "timestamp": "2025-04-29T02:36:19.169970",
+    "stars_today": "205 stars this week"
+  },
+  {
+    "repo": "WerWolv/ImHex",
+    "href": "https://github.com/WerWolv/ImHex",
+    "about": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "star": "48,708",
+    "fork": "2,110",
+    "timestamp": "2025-04-29T02:36:19.170289",
+    "stars_today": "481 stars this week"
+  },
+  {
+    "repo": "CoatiSoftware/Sourcetrail",
+    "href": "https://github.com/CoatiSoftware/Sourcetrail",
+    "about": "Sourcetrail - free and open-source interactive source explorer",
+    "star": "15,944",
+    "fork": "1,529",
+    "timestamp": "2025-04-29T02:36:19.170586",
+    "stars_today": "232 stars this week"
+  },
+  {
+    "repo": "apache/brpc",
+    "href": "https://github.com/apache/brpc",
+    "about": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+    "star": "17,007",
+    "fork": "4,020",
+    "timestamp": "2025-04-29T02:36:19.170871",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "qbittorrent/qBittorrent",
+    "href": "https://github.com/qbittorrent/qBittorrent",
+    "about": "qBittorrent BitTorrent client",
+    "star": "30,946",
+    "fork": "4,176",
+    "timestamp": "2025-04-29T02:36:19.171154",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "star": "14,991",
+    "fork": "3,634",
+    "timestamp": "2025-04-29T02:36:19.171434",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "78,927",
+    "fork": "11,539",
+    "timestamp": "2025-04-29T02:36:19.171728",
+    "stars_today": "451 stars this week"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "97,923",
+    "fork": "8,537",
+    "timestamp": "2025-04-29T02:36:19.172005",
+    "stars_today": "225 stars this week"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,147",
+    "fork": "1,588",
+    "timestamp": "2025-04-29T02:36:19.172283",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "oceanbase/oceanbase",
+    "href": "https://github.com/oceanbase/oceanbase",
+    "about": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+    "star": "9,089",
+    "fork": "1,725",
+    "timestamp": "2025-04-29T02:36:19.172575",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "cdozdil/OptiScaler",
+    "href": "https://github.com/cdozdil/OptiScaler",
+    "about": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+    "star": "2,645",
+    "fork": "76",
+    "timestamp": "2025-04-29T02:36:19.172857",
+    "stars_today": "125 stars this week"
+  },
+  {
+    "repo": "SerenityOS/serenity",
+    "href": "https://github.com/SerenityOS/serenity",
+    "about": "The Serenity Operating System 🐞",
+    "star": "31,572",
+    "fork": "3,234",
+    "timestamp": "2025-04-29T02:36:19.173137",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "wxWidgets/wxWidgets",
+    "href": "https://github.com/wxWidgets/wxWidgets",
+    "about": "Cross-Platform C++ GUI Library",
+    "star": "6,499",
+    "fork": "1,812",
+    "timestamp": "2025-04-29T02:36:19.173416",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "ashvardanian/less_slow.cpp",
+    "href": "https://github.com/ashvardanian/less_slow.cpp",
+    "about": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO",
+    "star": "1,704",
+    "fork": "67",
+    "timestamp": "2025-04-29T02:36:19.173708",
+    "stars_today": "200 stars this week"
+  },
+  {
+    "repo": "apple/foundationdb",
+    "href": "https://github.com/apple/foundationdb",
+    "about": "FoundationDB - the open source, distributed, transactional key-value store",
+    "star": "15,120",
+    "fork": "1,354",
+    "timestamp": "2025-04-29T02:36:19.173986",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "manticoresoftware/manticoresearch",
+    "href": "https://github.com/manticoresoftware/manticoresearch",
+    "about": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+    "star": "10,221",
+    "fork": "580",
+    "timestamp": "2025-04-29T02:36:19.174296",
+    "stars_today": "131 stars this week"
+  },
+  {
+    "repo": "epezent/implot",
+    "href": "https://github.com/epezent/implot",
+    "about": "Immediate Mode Plotting",
+    "star": "5,265",
+    "fork": "583",
+    "timestamp": "2025-04-29T02:36:19.174586",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "colmap/colmap",
+    "href": "https://github.com/colmap/colmap",
+    "about": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "star": "8,531",
+    "fork": "1,617",
+    "timestamp": "2025-04-29T02:36:19.174868",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "about": "Open Source Routing Machine - C++ backend",
+    "star": "6,776",
+    "fork": "3,553",
+    "timestamp": "2025-04-29T02:36:19.175151",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "189,694",
+    "fork": "74,647",
+    "timestamp": "2025-04-29T02:36:19.175432",
+    "stars_today": "277 stars this week"
+  },
+  {
+    "repo": "MarlinFirmware/Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "about": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "star": "16,709",
+    "fork": "19,414",
+    "timestamp": "2025-04-29T02:36:19.175750",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "ggml-org/whisper.cpp",
+    "href": "https://github.com/ggml-org/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "39,593",
+    "fork": "4,162",
+    "timestamp": "2025-04-29T02:36:19.176026",
+    "stars_today": "203 stars this week"
+  }
+]
