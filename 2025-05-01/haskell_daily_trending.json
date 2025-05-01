@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,890",
+    "fork": "441",
+    "timestamp": "2025-05-01T02:46:07.366811",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "37,153",
+    "fork": "3,499",
+    "timestamp": "2025-05-01T02:46:07.367160",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "clash-lang/clash-compiler",
+    "href": "https://github.com/clash-lang/clash-compiler",
+    "about": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+    "star": "1,498",
+    "fork": "159",
+    "timestamp": "2025-05-01T02:46:07.367461",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "anoma/juvix",
+    "href": "https://github.com/anoma/juvix",
+    "about": "A language for intent-centric and declarative decentralised applications",
+    "star": "479",
+    "fork": "62",
+    "timestamp": "2025-05-01T02:46:07.367746",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "haskell-suite/haskell-src-exts",
+    "href": "https://github.com/haskell-suite/haskell-src-exts",
+    "about": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+    "star": "197",
+    "fork": "94",
+    "timestamp": "2025-05-01T02:46:07.368033",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-network",
+    "href": "https://github.com/IntersectMBO/ouroboros-network",
+    "about": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+    "star": "281",
+    "fork": "87",
+    "timestamp": "2025-05-01T02:46:07.368320",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,216",
+    "fork": "1,082",
+    "timestamp": "2025-05-01T02:46:07.368615",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "tidalcycles/Tidal",
+    "href": "https://github.com/tidalcycles/Tidal",
+    "about": "Pattern language",
+    "star": "2,436",
+    "fork": "264",
+    "timestamp": "2025-05-01T02:46:07.368895",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,300",
+    "fork": "1,812",
+    "timestamp": "2025-05-01T02:46:07.369200",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cardano-scaling/hydra",
+    "href": "https://github.com/cardano-scaling/hydra",
+    "about": "Implementation of the Hydra Head protocol",
+    "star": "303",
+    "fork": "90",
+    "timestamp": "2025-05-01T02:46:07.369494",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "xmonad/X11",
+    "href": "https://github.com/xmonad/X11",
+    "about": "A Haskell binding to the X11 graphics library.",
+    "star": "110",
+    "fork": "49",
+    "timestamp": "2025-05-01T02:46:07.369800",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,093",
+    "fork": "31",
+    "timestamp": "2025-05-01T02:46:07.370111",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ghc/ghc",
+    "href": "https://github.com/ghc/ghc",
+    "about": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+    "star": "3,115",
+    "fork": "716",
+    "timestamp": "2025-05-01T02:46:07.370403",
+    "stars_today": "1 star today"
+  }
+]
