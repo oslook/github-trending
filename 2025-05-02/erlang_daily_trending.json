@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,673",
+    "fork": "3,004",
+    "timestamp": "2025-05-02T02:37:14.827062",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "320",
+    "fork": "104",
+    "timestamp": "2025-05-02T02:37:14.827365",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "176",
+    "timestamp": "2025-05-02T02:37:14.827658",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,205",
+    "fork": "335",
+    "timestamp": "2025-05-02T02:37:14.827956",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,879",
+    "fork": "474",
+    "timestamp": "2025-05-02T02:37:14.828239",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "693",
+    "fork": "232",
+    "timestamp": "2025-05-02T02:37:14.828519",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,380",
+    "fork": "282",
+    "timestamp": "2025-05-02T02:37:14.828813",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,500",
+    "fork": "1,052",
+    "timestamp": "2025-05-02T02:37:14.829099",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,569",
+    "fork": "352",
+    "timestamp": "2025-05-02T02:37:14.829381",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "couchbase/couchdb",
+    "href": "https://github.com/couchbase/couchdb",
+    "about": "CouchDB",
+    "star": "139",
+    "fork": "55",
+    "timestamp": "2025-05-02T02:37:14.829664",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,371",
+    "fork": "1,171",
+    "timestamp": "2025-05-02T02:37:14.829964",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws_credentials",
+    "href": "https://github.com/aws-beam/aws_credentials",
+    "about": "An Erlang library to provide AWS credentials",
+    "star": "28",
+    "fork": "27",
+    "timestamp": "2025-05-02T02:37:14.830249",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws-erlang",
+    "href": "https://github.com/aws-beam/aws-erlang",
+    "about": "Create, configure, and manage AWS services from Erlang code.",
+    "star": "84",
+    "fork": "35",
+    "timestamp": "2025-05-02T02:37:14.830532",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,078",
+    "fork": "235",
+    "timestamp": "2025-05-02T02:37:14.830857",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "254",
+    "fork": "84",
+    "timestamp": "2025-05-02T02:37:14.831141",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "818",
+    "fork": "230",
+    "timestamp": "2025-05-02T02:37:14.831451",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "649",
+    "fork": "138",
+    "timestamp": "2025-05-02T02:37:14.831732",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,349",
+    "fork": "434",
+    "timestamp": "2025-05-02T02:37:14.832030",
+    "stars_today": "0 stars today"
+  }
+]

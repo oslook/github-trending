@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,188",
+    "fork": "1,217",
+    "timestamp": "2025-05-02T02:37:16.961010",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "1,582",
+    "fork": "174",
+    "timestamp": "2025-05-02T02:37:16.961341",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Provision remote development environments via Terraform",
+    "star": "9,715",
+    "fork": "871",
+    "timestamp": "2025-05-02T02:37:16.961627",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/kubectl-ai",
+    "href": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "about": "AI powered Kubernetes Assistant",
+    "star": "374",
+    "fork": "44",
+    "timestamp": "2025-05-02T02:37:16.961920",
+    "stars_today": "82 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,414",
+    "fork": "2,301",
+    "timestamp": "2025-05-02T02:37:16.962197",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "139,234",
+    "fork": "11,618",
+    "timestamp": "2025-05-02T02:37:16.962473",
+    "stars_today": "84 stars today"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "href": "https://github.com/knadh/listmonk",
+    "about": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "star": "16,609",
+    "fork": "1,556",
+    "timestamp": "2025-05-02T02:37:16.962770",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,062",
+    "fork": "2,524",
+    "timestamp": "2025-05-02T02:37:16.963050",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "runatlantis/atlantis",
+    "href": "https://github.com/runatlantis/atlantis",
+    "about": "Terraform Pull Request Automation",
+    "star": "8,219",
+    "fork": "1,100",
+    "timestamp": "2025-05-02T02:37:16.963327",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,594",
+    "fork": "3,285",
+    "timestamp": "2025-05-02T02:37:16.963602",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,816",
+    "fork": "7,220",
+    "timestamp": "2025-05-02T02:37:16.963891",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "6,907",
+    "fork": "643",
+    "timestamp": "2025-05-02T02:37:16.964170",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "4,956",
+    "fork": "944",
+    "timestamp": "2025-05-02T02:37:16.964448",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "segmentio/kafka-go",
+    "href": "https://github.com/segmentio/kafka-go",
+    "about": "Kafka library in Go",
+    "star": "7,943",
+    "fork": "809",
+    "timestamp": "2025-05-02T02:37:16.964723",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-google",
+    "href": "https://github.com/hashicorp/terraform-provider-google",
+    "about": "Terraform Provider for Google Cloud Platform",
+    "star": "2,464",
+    "fork": "1,802",
+    "timestamp": "2025-05-02T02:37:16.965011",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "10,604",
+    "fork": "490",
+    "timestamp": "2025-05-02T02:37:16.965287",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,234",
+    "fork": "1,080",
+    "timestamp": "2025-05-02T02:37:16.965564",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "goreleaser/goreleaser",
+    "href": "https://github.com/goreleaser/goreleaser",
+    "about": "Release engineering, simplified",
+    "star": "14,569",
+    "fork": "985",
+    "timestamp": "2025-05-02T02:37:16.965850",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,280",
+    "fork": "9,466",
+    "timestamp": "2025-05-02T02:37:16.966126",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "59,554",
+    "fork": "2,036",
+    "timestamp": "2025-05-02T02:37:16.966432",
+    "stars_today": "56 stars today"
+  },
+  {
+    "repo": "grafana/pyroscope",
+    "href": "https://github.com/grafana/pyroscope",
+    "about": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "star": "10,511",
+    "fork": "645",
+    "timestamp": "2025-05-02T02:37:16.966708",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "23,514",
+    "fork": "2,820",
+    "timestamp": "2025-05-02T02:37:16.966997",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "Tencent/AI-Infra-Guard",
+    "href": "https://github.com/Tencent/AI-Infra-Guard",
+    "about": "A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.",
+    "star": "1,137",
+    "fork": "111",
+    "timestamp": "2025-05-02T02:37:16.967276",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bitnami-labs/sealed-secrets",
+    "href": "https://github.com/bitnami-labs/sealed-secrets",
+    "about": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "star": "8,172",
+    "fork": "703",
+    "timestamp": "2025-05-02T02:37:16.967547",
+    "stars_today": "4 stars today"
+  }
+]
