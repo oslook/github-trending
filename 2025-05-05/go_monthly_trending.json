@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "4,440",
+    "fork": "360",
+    "timestamp": "2025-05-05T02:42:22.640250",
+    "stars_today": "2,400 stars this month"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "star": "28,229",
+    "fork": "2,447",
+    "timestamp": "2025-05-05T02:42:22.640556",
+    "stars_today": "1,879 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "80,407",
+    "fork": "7,808",
+    "timestamp": "2025-05-05T02:42:22.640855",
+    "stars_today": "1,292 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "17,077",
+    "fork": "1,561",
+    "timestamp": "2025-05-05T02:42:22.641138",
+    "stars_today": "305 stars this month"
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "href": "https://github.com/plandex-ai/plandex",
+    "about": "Open source AI coding agent. Designed for large projects and real world tasks.",
+    "star": "13,119",
+    "fork": "867",
+    "timestamp": "2025-05-05T02:42:22.641425",
+    "stars_today": "1,746 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,145",
+    "fork": "2,530",
+    "timestamp": "2025-05-05T02:42:22.641705",
+    "stars_today": "868 stars this month"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "5,199",
+    "fork": "659",
+    "timestamp": "2025-05-05T02:42:22.641997",
+    "stars_today": "611 stars this month"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "60,966",
+    "fork": "1,574",
+    "timestamp": "2025-05-05T02:42:22.642276",
+    "stars_today": "2,078 stars this month"
+  },
+  {
+    "repo": "mark3labs/mcphost",
+    "href": "https://github.com/mark3labs/mcphost",
+    "about": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+    "star": "766",
+    "fork": "116",
+    "timestamp": "2025-05-05T02:42:22.642557",
+    "stars_today": "279 stars this month"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "660",
+    "fork": "45",
+    "timestamp": "2025-05-05T02:42:22.642847",
+    "stars_today": "366 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "46,910",
+    "fork": "2,315",
+    "timestamp": "2025-05-05T02:42:22.643125",
+    "stars_today": "1,912 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "59,691",
+    "fork": "2,041",
+    "timestamp": "2025-05-05T02:42:22.643432",
+    "stars_today": "1,349 stars this month"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "14,393",
+    "fork": "1,049",
+    "timestamp": "2025-05-05T02:42:22.643710",
+    "stars_today": "575 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "82,072",
+    "fork": "8,185",
+    "timestamp": "2025-05-05T02:42:22.644002",
+    "stars_today": "872 stars this month"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "4,958",
+    "fork": "559",
+    "timestamp": "2025-05-05T02:42:22.644282",
+    "stars_today": "911 stars this month"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "52,192",
+    "fork": "5,809",
+    "timestamp": "2025-05-05T02:42:22.644561",
+    "stars_today": "946 stars this month"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "31,281",
+    "fork": "899",
+    "timestamp": "2025-05-05T02:42:22.644855",
+    "stars_today": "853 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "32,355",
+    "fork": "2,467",
+    "timestamp": "2025-05-05T02:42:22.645166",
+    "stars_today": "952 stars this month"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "64,029",
+    "fork": "4,281",
+    "timestamp": "2025-05-05T02:42:22.645444",
+    "stars_today": "1,442 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "36,291",
+    "fork": "1,778",
+    "timestamp": "2025-05-05T02:42:22.645760",
+    "stars_today": "613 stars this month"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,313",
+    "fork": "207",
+    "timestamp": "2025-05-05T02:42:22.646039",
+    "stars_today": "124 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "13,627",
+    "fork": "724",
+    "timestamp": "2025-05-05T02:42:22.646316",
+    "stars_today": "370 stars this month"
+  }
+]
