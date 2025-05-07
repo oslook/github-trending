@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "GoogleCloudPlatform/kubectl-ai",
+    "href": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "about": "AI powered Kubernetes Assistant",
+    "star": "1,952",
+    "fork": "137",
+    "timestamp": "2025-05-07T02:39:49.502684",
+    "stars_today": "495 stars today"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "23,645",
+    "fork": "892",
+    "timestamp": "2025-05-07T02:39:49.503016",
+    "stars_today": "230 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,475",
+    "fork": "3,535",
+    "timestamp": "2025-05-07T02:39:49.503305",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "28,110",
+    "fork": "1,513",
+    "timestamp": "2025-05-07T02:39:49.503633",
+    "stars_today": "179 stars today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "10,100",
+    "fork": "1,179",
+    "timestamp": "2025-05-07T02:39:49.503922",
+    "stars_today": "219 stars today"
+  },
+  {
+    "repo": "gosom/google-maps-scraper",
+    "href": "https://github.com/gosom/google-maps-scraper",
+    "about": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+    "star": "1,769",
+    "fork": "214",
+    "timestamp": "2025-05-07T02:39:49.504231",
+    "stars_today": "185 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,347",
+    "fork": "4,362",
+    "timestamp": "2025-05-07T02:39:49.504563",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "danielmiessler/fabric",
+    "href": "https://github.com/danielmiessler/fabric",
+    "about": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "30,980",
+    "fork": "3,200",
+    "timestamp": "2025-05-07T02:39:49.504945",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,809",
+    "fork": "4,489",
+    "timestamp": "2025-05-07T02:39:49.505232",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "13,702",
+    "fork": "638",
+    "timestamp": "2025-05-07T02:39:49.505536",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "simulot/immich-go",
+    "href": "https://github.com/simulot/immich-go",
+    "about": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+    "star": "3,056",
+    "fork": "98",
+    "timestamp": "2025-05-07T02:39:49.505846",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,264",
+    "fork": "1,369",
+    "timestamp": "2025-05-07T02:39:49.506127",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "href": "https://github.com/kubernetes/minikube",
+    "about": "Run Kubernetes locally",
+    "star": "30,335",
+    "fork": "4,977",
+    "timestamp": "2025-05-07T02:39:49.506407",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "projectdiscovery/naabu",
+    "href": "https://github.com/projectdiscovery/naabu",
+    "about": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "star": "5,143",
+    "fork": "591",
+    "timestamp": "2025-05-07T02:39:49.506703",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "owncast/owncast",
+    "href": "https://github.com/owncast/owncast",
+    "about": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+    "star": "10,101",
+    "fork": "1,024",
+    "timestamp": "2025-05-07T02:39:49.507017",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gabe565/ascii-movie",
+    "href": "https://github.com/gabe565/ascii-movie",
+    "about": "Star Wars SSH + Telnet server written in Go.",
+    "star": "360",
+    "fork": "18",
+    "timestamp": "2025-05-07T02:39:49.507299",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "href": "https://github.com/jmoiron/sqlx",
+    "about": "general purpose extensions to golang's database/sql",
+    "star": "16,891",
+    "fork": "1,103",
+    "timestamp": "2025-05-07T02:39:49.507773",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "7,055",
+    "fork": "925",
+    "timestamp": "2025-05-07T02:39:49.508121",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "54,552",
+    "fork": "5,318",
+    "timestamp": "2025-05-07T02:39:49.508452",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-azurerm",
+    "href": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "about": "Terraform provider for Azure Resource Manager",
+    "star": "4,732",
+    "fork": "4,753",
+    "timestamp": "2025-05-07T02:39:49.508736",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,730",
+    "fork": "1,595",
+    "timestamp": "2025-05-07T02:39:49.509016",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,605",
+    "fork": "3,288",
+    "timestamp": "2025-05-07T02:39:49.509292",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "9,113",
+    "fork": "831",
+    "timestamp": "2025-05-07T02:39:49.509582",
+    "stars_today": "21 stars today"
+  }
+]
