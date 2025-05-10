@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "diku-dk/futhark",
+    "href": "https://github.com/diku-dk/futhark",
+    "about": "💥💻💥 A data-parallel functional programming language",
+    "star": "2,516",
+    "fork": "176",
+    "timestamp": "2025-05-10T02:26:49.308128",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "37,301",
+    "fork": "3,506",
+    "timestamp": "2025-05-10T02:26:49.308461",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,917",
+    "fork": "441",
+    "timestamp": "2025-05-10T02:26:49.308794",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,348",
+    "fork": "1,814",
+    "timestamp": "2025-05-10T02:26:49.309084",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "runtimeverification/haskell-backend",
+    "href": "https://github.com/runtimeverification/haskell-backend",
+    "about": "The symbolic execution engine powering the K Framework",
+    "star": "218",
+    "fork": "45",
+    "timestamp": "2025-05-10T02:26:49.309369",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,799",
+    "fork": "387",
+    "timestamp": "2025-05-10T02:26:49.309654",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "cardano-scaling/hydra",
+    "href": "https://github.com/cardano-scaling/hydra",
+    "about": "Implementation of the Hydra Head protocol",
+    "star": "303",
+    "fork": "90",
+    "timestamp": "2025-05-10T02:26:49.309951",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/ouroboros-network",
+    "href": "https://github.com/IntersectMBO/ouroboros-network",
+    "about": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+    "star": "281",
+    "fork": "87",
+    "timestamp": "2025-05-10T02:26:49.310237",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,251",
+    "fork": "1,084",
+    "timestamp": "2025-05-10T02:26:49.310518",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,132",
+    "fork": "54",
+    "timestamp": "2025-05-10T02:26:49.310814",
+    "stars_today": "2 stars today"
+  }
+]
