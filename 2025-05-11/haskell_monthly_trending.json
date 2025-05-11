@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "37,312",
+    "fork": "3,507",
+    "timestamp": "2025-05-11T02:43:42.264452",
+    "stars_today": "538 stars this month"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "10,916",
+    "fork": "441",
+    "timestamp": "2025-05-11T02:43:42.265013",
+    "stars_today": "83 stars this month"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,350",
+    "fork": "1,814",
+    "timestamp": "2025-05-11T02:43:42.265482",
+    "stars_today": "181 stars this month"
+  },
+  {
+    "repo": "haskell-suite/haskell-src-exts",
+    "href": "https://github.com/haskell-suite/haskell-src-exts",
+    "about": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+    "star": "197",
+    "fork": "94",
+    "timestamp": "2025-05-11T02:43:42.266001",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,459",
+    "fork": "332",
+    "timestamp": "2025-05-11T02:43:42.266498",
+    "stars_today": "83 stars this month"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,132",
+    "fork": "54",
+    "timestamp": "2025-05-11T02:43:42.266970",
+    "stars_today": "43 stars this month"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,255",
+    "fork": "1,084",
+    "timestamp": "2025-05-11T02:43:42.267477",
+    "stars_today": "167 stars this month"
+  },
+  {
+    "repo": "unisonweb/unison",
+    "href": "https://github.com/unisonweb/unison",
+    "about": "A friendly programming language from the future",
+    "star": "6,007",
+    "fork": "275",
+    "timestamp": "2025-05-11T02:43:42.268043",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,100",
+    "fork": "31",
+    "timestamp": "2025-05-11T02:43:42.268584",
+    "stars_today": "32 stars this month"
+  }
+]

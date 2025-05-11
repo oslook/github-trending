@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,067",
+    "fork": "536",
+    "timestamp": "2025-05-11T02:43:41.099007",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "star": "27,602",
+    "fork": "1,353",
+    "timestamp": "2025-05-11T02:43:41.099325",
+    "stars_today": "64 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "52,320",
+    "fork": "5,812",
+    "timestamp": "2025-05-11T02:43:41.099611",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "38,388",
+    "fork": "5,928",
+    "timestamp": "2025-05-11T02:43:41.099897",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,505",
+    "fork": "3,541",
+    "timestamp": "2025-05-11T02:43:41.100190",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "11,367",
+    "fork": "591",
+    "timestamp": "2025-05-11T02:43:41.100468",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "href": "https://github.com/ehang-io/nps",
+    "about": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "star": "32,380",
+    "fork": "5,843",
+    "timestamp": "2025-05-11T02:43:41.100746",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,853",
+    "fork": "7,227",
+    "timestamp": "2025-05-11T02:43:41.101024",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,392",
+    "fork": "4,104",
+    "timestamp": "2025-05-11T02:43:41.101316",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "35,320",
+    "fork": "5,388",
+    "timestamp": "2025-05-11T02:43:41.101597",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "15,931",
+    "fork": "2,207",
+    "timestamp": "2025-05-11T02:43:41.101879",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "2,029",
+    "fork": "329",
+    "timestamp": "2025-05-11T02:43:41.102172",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,403",
+    "fork": "652",
+    "timestamp": "2025-05-11T02:43:41.102450",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "k8sgpt-ai/k8sgpt",
+    "href": "https://github.com/k8sgpt-ai/k8sgpt",
+    "about": "Giving Kubernetes Superpowers to everyone",
+    "star": "6,591",
+    "fork": "808",
+    "timestamp": "2025-05-11T02:43:41.102728",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "22,810",
+    "fork": "6,674",
+    "timestamp": "2025-05-11T02:43:41.103005",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,813",
+    "fork": "4,490",
+    "timestamp": "2025-05-11T02:43:41.103290",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,619",
+    "fork": "3,289",
+    "timestamp": "2025-05-11T02:43:41.103571",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "crowdsecurity/crowdsec",
+    "href": "https://github.com/crowdsecurity/crowdsec",
+    "about": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+    "star": "10,265",
+    "fork": "501",
+    "timestamp": "2025-05-11T02:43:41.103852",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "14,268",
+    "fork": "1,751",
+    "timestamp": "2025-05-11T02:43:41.104165",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "5,278",
+    "fork": "663",
+    "timestamp": "2025-05-11T02:43:41.104447",
+    "stars_today": "20 stars today"
+  }
+]
