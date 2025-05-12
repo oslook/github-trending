@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "24,470",
+    "fork": "33,403",
+    "timestamp": "2025-05-12T02:43:35.071292",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,871",
+    "fork": "2,212",
+    "timestamp": "2025-05-12T02:43:35.071631",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "8,932",
+    "fork": "308",
+    "timestamp": "2025-05-12T02:43:35.071969",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "4,920",
+    "fork": "237",
+    "timestamp": "2025-05-12T02:43:35.072276",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "href": "https://github.com/ThePrimeagen/init.lua",
+    "about": "",
+    "star": "3,680",
+    "fork": "656",
+    "timestamp": "2025-05-12T02:43:35.072616",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,307",
+    "fork": "211",
+    "timestamp": "2025-05-12T02:43:35.072906",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "20,692",
+    "fork": "1,464",
+    "timestamp": "2025-05-12T02:43:35.073207",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "1,194",
+    "fork": "53",
+    "timestamp": "2025-05-12T02:43:35.073495",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,303",
+    "fork": "1,043",
+    "timestamp": "2025-05-12T02:43:35.073784",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,034",
+    "fork": "462",
+    "timestamp": "2025-05-12T02:43:35.074073",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,018",
+    "fork": "211",
+    "timestamp": "2025-05-12T02:43:35.074375",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "4,995",
+    "fork": "130",
+    "timestamp": "2025-05-12T02:43:35.074662",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lite-xl/lite-xl",
+    "href": "https://github.com/lite-xl/lite-xl",
+    "about": "A lightweight text editor written in Lua",
+    "star": "5,335",
+    "fork": "254",
+    "timestamp": "2025-05-12T02:43:35.074951",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "akinsho/bufferline.nvim",
+    "href": "https://github.com/akinsho/bufferline.nvim",
+    "about": "A snazzy bufferline for Neovim",
+    "star": "3,840",
+    "fork": "211",
+    "timestamp": "2025-05-12T02:43:35.075298",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/lazydev.nvim",
+    "href": "https://github.com/folke/lazydev.nvim",
+    "about": "Faster LuaLS setup for Neovim",
+    "star": "1,079",
+    "fork": "20",
+    "timestamp": "2025-05-12T02:43:35.075591",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 13.x for OpenTibia community.",
+    "star": "446",
+    "fork": "702",
+    "timestamp": "2025-05-12T02:43:35.075909",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,149",
+    "fork": "202",
+    "timestamp": "2025-05-12T02:43:35.076209",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "3,854",
+    "fork": "254",
+    "timestamp": "2025-05-12T02:43:35.076521",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "epwalsh/obsidian.nvim",
+    "href": "https://github.com/epwalsh/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "5,191",
+    "fork": "270",
+    "timestamp": "2025-05-12T02:43:35.076805",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "687",
+    "fork": "46",
+    "timestamp": "2025-05-12T02:43:35.077085",
+    "stars_today": "0 stars today"
+  }
+]
