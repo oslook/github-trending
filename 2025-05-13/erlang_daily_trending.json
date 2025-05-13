@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles",
+    "star": "14,761",
+    "fork": "2,305",
+    "timestamp": "2025-05-13T02:41:25.699016",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,523",
+    "fork": "1,054",
+    "timestamp": "2025-05-13T02:41:25.699359",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "erlsci/iso8601",
+    "href": "https://github.com/erlsci/iso8601",
+    "about": "An ISO 8601 date formating and parsing library for Erlang",
+    "star": "131",
+    "fork": "94",
+    "timestamp": "2025-05-13T02:41:25.699663",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "649",
+    "fork": "138",
+    "timestamp": "2025-05-13T02:41:25.699943",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "seth/ej",
+    "href": "https://github.com/seth/ej",
+    "about": "Helper module for working with Erlang terms representing JSON",
+    "star": "176",
+    "fork": "48",
+    "timestamp": "2025-05-13T02:41:25.700221",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dnsimple/erldns",
+    "href": "https://github.com/dnsimple/erldns",
+    "about": "DNS server, in Erlang.",
+    "star": "428",
+    "fork": "103",
+    "timestamp": "2025-05-13T02:41:25.700516",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "choptastic/qdate",
+    "href": "https://github.com/choptastic/qdate",
+    "about": "Erlang date, time, and timezone management: formatting, conversion, and date arithmetic",
+    "star": "250",
+    "fork": "83",
+    "timestamp": "2025-05-13T02:41:25.700796",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "josefs/Gradualizer",
+    "href": "https://github.com/josefs/Gradualizer",
+    "about": "A Gradual type system for Erlang",
+    "star": "619",
+    "fork": "35",
+    "timestamp": "2025-05-13T02:41:25.701082",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "912",
+    "fork": "234",
+    "timestamp": "2025-05-13T02:41:25.701373",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,687",
+    "fork": "3,009",
+    "timestamp": "2025-05-13T02:41:25.701652",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "uwiger/parse_trans",
+    "href": "https://github.com/uwiger/parse_trans",
+    "about": "Parse transform utilities for Erlang",
+    "star": "234",
+    "fork": "116",
+    "timestamp": "2025-05-13T02:41:25.701956",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "296",
+    "fork": "211",
+    "timestamp": "2025-05-13T02:41:25.702236",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,878",
+    "fork": "474",
+    "timestamp": "2025-05-13T02:41:25.702525",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws-erlang",
+    "href": "https://github.com/aws-beam/aws-erlang",
+    "about": "Create, configure, and manage AWS services from Erlang code.",
+    "star": "84",
+    "fork": "34",
+    "timestamp": "2025-05-13T02:41:25.702807",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "176",
+    "timestamp": "2025-05-13T02:41:25.703082",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,206",
+    "fork": "335",
+    "timestamp": "2025-05-13T02:41:25.703370",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,350",
+    "fork": "434",
+    "timestamp": "2025-05-13T02:41:25.703646",
+    "stars_today": "0 stars today"
+  }
+]
