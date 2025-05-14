@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,893",
+    "fork": "2,211",
+    "timestamp": "2025-05-14T02:40:05.793553",
+    "stars_today": "364 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "21,475",
+    "fork": "1,439",
+    "timestamp": "2025-05-14T02:40:05.793869",
+    "stars_today": "1,213 stars this month"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "3,664",
+    "fork": "209",
+    "timestamp": "2025-05-14T02:40:05.794213",
+    "stars_today": "483 stars this month"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "20,756",
+    "fork": "1,468",
+    "timestamp": "2025-05-14T02:40:05.794507",
+    "stars_today": "723 stars this month"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "8,947",
+    "fork": "308",
+    "timestamp": "2025-05-14T02:40:05.794815",
+    "stars_today": "319 stars this month"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,770",
+    "fork": "215",
+    "timestamp": "2025-05-14T02:40:05.795164",
+    "stars_today": "115 stars this month"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "40,810",
+    "fork": "4,914",
+    "timestamp": "2025-05-14T02:40:05.795474",
+    "stars_today": "289 stars this month"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,322",
+    "fork": "211",
+    "timestamp": "2025-05-14T02:40:05.795777",
+    "stars_today": "124 stars this month"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "10,972",
+    "fork": "840",
+    "timestamp": "2025-05-14T02:40:05.796079",
+    "stars_today": "152 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "17,408",
+    "fork": "434",
+    "timestamp": "2025-05-14T02:40:05.796392",
+    "stars_today": "441 stars this month"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,110",
+    "fork": "152",
+    "timestamp": "2025-05-14T02:40:05.796700",
+    "stars_today": "158 stars this month"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,330",
+    "fork": "291",
+    "timestamp": "2025-05-14T02:40:05.797032",
+    "stars_today": "146 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "24,573",
+    "fork": "33,575",
+    "timestamp": "2025-05-14T02:40:05.797345",
+    "stars_today": "863 stars this month"
+  },
+  {
+    "repo": "beyond-all-reason/Beyond-All-Reason",
+    "href": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "about": "Main game repository for Beyond All Reason.",
+    "star": "2,121",
+    "fork": "395",
+    "timestamp": "2025-05-14T02:40:05.797645",
+    "stars_today": "93 stars this month"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "11,565",
+    "fork": "751",
+    "timestamp": "2025-05-14T02:40:05.797945",
+    "stars_today": "395 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "4,454",
+    "fork": "244",
+    "timestamp": "2025-05-14T02:40:05.798260",
+    "stars_today": "354 stars this month"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,358",
+    "fork": "509",
+    "timestamp": "2025-05-14T02:40:05.798564",
+    "stars_today": "35 stars this month"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,578",
+    "fork": "272",
+    "timestamp": "2025-05-14T02:40:05.798897",
+    "stars_today": "92 stars this month"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "2,776",
+    "fork": "125",
+    "timestamp": "2025-05-14T02:40:05.799210",
+    "stars_today": "215 stars this month"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,318",
+    "fork": "194",
+    "timestamp": "2025-05-14T02:40:05.799513",
+    "stars_today": "130 stars this month"
+  },
+  {
+    "repo": "mistweaverco/kulala.nvim",
+    "href": "https://github.com/mistweaverco/kulala.nvim",
+    "about": "A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
+    "star": "1,182",
+    "fork": "50",
+    "timestamp": "2025-05-14T02:40:05.799816",
+    "stars_today": "179 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "7,204",
+    "fork": "236",
+    "timestamp": "2025-05-14T02:40:05.800120",
+    "stars_today": "205 stars this month"
+  }
+]
