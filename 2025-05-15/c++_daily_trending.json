@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "microsoft/BitNet",
+    "href": "https://github.com/microsoft/BitNet",
+    "about": "Official inference framework for 1-bit LLMs",
+    "star": "19,315",
+    "fork": "1,428",
+    "timestamp": "2025-05-15T02:38:54.211647",
+    "stars_today": "304 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "80,197",
+    "fork": "11,745",
+    "timestamp": "2025-05-15T02:38:54.211959",
+    "stars_today": "167 stars today"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+    "star": "10,868",
+    "fork": "1,850",
+    "timestamp": "2025-05-15T02:38:54.212245",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "97,142",
+    "fork": "22,367",
+    "timestamp": "2025-05-15T02:38:54.212529",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "16,562",
+    "fork": "3,205",
+    "timestamp": "2025-05-15T02:38:54.212823",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "href": "https://github.com/ros-navigation/navigation2",
+    "about": "ROS 2 Navigation Framework and System",
+    "star": "3,104",
+    "fork": "1,443",
+    "timestamp": "2025-05-15T02:38:54.213104",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "34,893",
+    "fork": "3,875",
+    "timestamp": "2025-05-15T02:38:54.213385",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "rizinorg/cutter",
+    "href": "https://github.com/rizinorg/cutter",
+    "about": "Free and Open Source Reverse Engineering Platform powered by rizin",
+    "star": "16,584",
+    "fork": "1,204",
+    "timestamp": "2025-05-15T02:38:54.213697",
+    "stars_today": "65 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "121,999",
+    "fork": "24,655",
+    "timestamp": "2025-05-15T02:38:54.213990",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "ValveSoftware/source-sdk-2013",
+    "href": "https://github.com/ValveSoftware/source-sdk-2013",
+    "about": "The 2013 edition of the Source SDK",
+    "star": "8,922",
+    "fork": "2,601",
+    "timestamp": "2025-05-15T02:38:54.214272",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "emscripten-core/emscripten",
+    "href": "https://github.com/emscripten-core/emscripten",
+    "about": "Emscripten: An LLVM-to-WebAssembly Compiler",
+    "star": "26,480",
+    "fork": "3,397",
+    "timestamp": "2025-05-15T02:38:54.214551",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "26,140",
+    "fork": "4,764",
+    "timestamp": "2025-05-15T02:38:54.214840",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,646",
+    "fork": "6,981",
+    "timestamp": "2025-05-15T02:38:54.215147",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "12,400",
+    "fork": "1,835",
+    "timestamp": "2025-05-15T02:38:54.215424",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "about": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "star": "26,916",
+    "fork": "8,765",
+    "timestamp": "2025-05-15T02:38:54.215702",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "about": "Cloud-native high-performance edge/middle/service proxy",
+    "star": "25,953",
+    "fork": "4,932",
+    "timestamp": "2025-05-15T02:38:54.216048",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "aristocratos/btop",
+    "href": "https://github.com/aristocratos/btop",
+    "about": "A monitor of resources",
+    "star": "24,724",
+    "fork": "746",
+    "timestamp": "2025-05-15T02:38:54.216361",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "7,490",
+    "fork": "1,226",
+    "timestamp": "2025-05-15T02:38:54.216642",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "meshtastic/firmware",
+    "href": "https://github.com/meshtastic/firmware",
+    "about": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+    "star": "4,720",
+    "fork": "1,214",
+    "timestamp": "2025-05-15T02:38:54.216965",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "21,785",
+    "fork": "2,630",
+    "timestamp": "2025-05-15T02:38:54.217241",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "36,026",
+    "fork": "10,348",
+    "timestamp": "2025-05-15T02:38:54.217517",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "valhalla/valhalla",
+    "href": "https://github.com/valhalla/valhalla",
+    "about": "Open Source Routing Engine for OpenStreetMap",
+    "star": "4,836",
+    "fork": "737",
+    "timestamp": "2025-05-15T02:38:54.217805",
+    "stars_today": "6 stars today"
+  }
+]

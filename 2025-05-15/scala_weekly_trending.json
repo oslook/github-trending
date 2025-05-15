@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,105",
+    "fork": "28,540",
+    "timestamp": "2025-05-15T02:39:20.771693",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,021",
+    "fork": "1,825",
+    "timestamp": "2025-05-15T02:39:20.772006",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,368",
+    "fork": "765",
+    "timestamp": "2025-05-15T02:39:20.772295",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,183",
+    "fork": "12,159",
+    "timestamp": "2025-05-15T02:39:20.772580",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,016",
+    "fork": "1,096",
+    "timestamp": "2025-05-15T02:39:20.772866",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,342",
+    "fork": "486",
+    "timestamp": "2025-05-15T02:39:20.773149",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,521",
+    "fork": "557",
+    "timestamp": "2025-05-15T02:39:20.773455",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",
+    "star": "2,424",
+    "fork": "404",
+    "timestamp": "2025-05-15T02:39:20.773751",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,245",
+    "fork": "1,252",
+    "timestamp": "2025-05-15T02:39:20.774036",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,207",
+    "fork": "1,343",
+    "timestamp": "2025-05-15T02:39:20.774316",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "896",
+    "fork": "252",
+    "timestamp": "2025-05-15T02:39:20.774596",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,834",
+    "fork": "951",
+    "timestamp": "2025-05-15T02:39:20.774888",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,442",
+    "fork": "1,165",
+    "timestamp": "2025-05-15T02:39:20.775166",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,269",
+    "fork": "623",
+    "timestamp": "2025-05-15T02:39:20.775441",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,158",
+    "fork": "3,586",
+    "timestamp": "2025-05-15T02:39:20.775717",
+    "stars_today": "6 stars this week"
+  }
+]

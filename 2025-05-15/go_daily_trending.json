@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,609",
+    "fork": "2,549",
+    "timestamp": "2025-05-15T02:39:03.257817",
+    "stars_today": "163 stars today"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "12,796",
+    "fork": "2,724",
+    "timestamp": "2025-05-15T02:39:03.258113",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,829",
+    "fork": "4,490",
+    "timestamp": "2025-05-15T02:39:03.258400",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,811",
+    "fork": "1,599",
+    "timestamp": "2025-05-15T02:39:03.258684",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "140,490",
+    "fork": "11,755",
+    "timestamp": "2025-05-15T02:39:03.258980",
+    "stars_today": "109 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "25,536",
+    "fork": "4,864",
+    "timestamp": "2025-05-15T02:39:03.259263",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,338",
+    "fork": "10,067",
+    "timestamp": "2025-05-15T02:39:03.259545",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "17,978",
+    "fork": "8,074",
+    "timestamp": "2025-05-15T02:39:03.259838",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,729",
+    "fork": "18,743",
+    "timestamp": "2025-05-15T02:39:03.260120",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "19,112",
+    "fork": "1,777",
+    "timestamp": "2025-05-15T02:39:03.260400",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,317",
+    "fork": "1,371",
+    "timestamp": "2025-05-15T02:39:03.260677",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "uber-go/fx",
+    "href": "https://github.com/uber-go/fx",
+    "about": "A dependency injection based application framework for Go.",
+    "star": "6,479",
+    "fork": "310",
+    "timestamp": "2025-05-15T02:39:03.260986",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,582",
+    "fork": "1,643",
+    "timestamp": "2025-05-15T02:39:03.261267",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "6,979",
+    "fork": "650",
+    "timestamp": "2025-05-15T02:39:03.261546",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,635",
+    "fork": "1,041",
+    "timestamp": "2025-05-15T02:39:03.261869",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "DataDog/dd-trace-go",
+    "href": "https://github.com/DataDog/dd-trace-go",
+    "about": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
+    "star": "741",
+    "fork": "463",
+    "timestamp": "2025-05-15T02:39:03.262151",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "13,742",
+    "fork": "640",
+    "timestamp": "2025-05-15T02:39:03.262431",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "70,124",
+    "fork": "2,513",
+    "timestamp": "2025-05-15T02:39:03.262767",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "6,551",
+    "fork": "821",
+    "timestamp": "2025-05-15T02:39:03.263079",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,783",
+    "fork": "906",
+    "timestamp": "2025-05-15T02:39:03.263363",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "2,054",
+    "fork": "3,170",
+    "timestamp": "2025-05-15T02:39:03.263645",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "langgenius/dify-sandbox",
+    "href": "https://github.com/langgenius/dify-sandbox",
+    "about": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+    "star": "839",
+    "fork": "201",
+    "timestamp": "2025-05-15T02:39:03.263949",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,217",
+    "fork": "2,312",
+    "timestamp": "2025-05-15T02:39:03.264230",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,732",
+    "fork": "716",
+    "timestamp": "2025-05-15T02:39:03.264507",
+    "stars_today": "0 stars today"
+  }
+]

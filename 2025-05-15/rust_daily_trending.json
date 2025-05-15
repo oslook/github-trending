@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "88,202",
+    "fork": "12,579",
+    "timestamp": "2025-05-15T02:39:19.439943",
+    "stars_today": "97 stars today"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "23,541",
+    "fork": "1,619",
+    "timestamp": "2025-05-15T02:39:19.440274",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "AppFlowy-IO/AppFlowy-Cloud",
+    "href": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+    "about": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+    "star": "1,456",
+    "fork": "364",
+    "timestamp": "2025-05-15T02:39:19.440557",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "61,957",
+    "fork": "3,043",
+    "timestamp": "2025-05-15T02:39:19.440855",
+    "stars_today": "413 stars today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "54,182",
+    "fork": "1,521",
+    "timestamp": "2025-05-15T02:39:19.441138",
+    "stars_today": "231 stars today"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "44,459",
+    "fork": "2,105",
+    "timestamp": "2025-05-15T02:39:19.441448",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "emilk/egui",
+    "href": "https://github.com/emilk/egui",
+    "about": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "star": "24,779",
+    "fork": "1,739",
+    "timestamp": "2025-05-15T02:39:19.441729",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "SeaQL/sea-orm",
+    "href": "https://github.com/SeaQL/sea-orm",
+    "about": "🐚 An async & dynamic ORM for Rust",
+    "star": "8,186",
+    "fork": "574",
+    "timestamp": "2025-05-15T02:39:19.442051",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,626",
+    "fork": "302",
+    "timestamp": "2025-05-15T02:39:19.442331",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "15,150",
+    "fork": "601",
+    "timestamp": "2025-05-15T02:39:19.442610",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mtkennerly/ludusavi",
+    "href": "https://github.com/mtkennerly/ludusavi",
+    "about": "Backup tool for PC game saves",
+    "star": "3,697",
+    "fork": "81",
+    "timestamp": "2025-05-15T02:39:19.442931",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "rolldown/rolldown",
+    "href": "https://github.com/rolldown/rolldown",
+    "about": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+    "star": "10,979",
+    "fork": "587",
+    "timestamp": "2025-05-15T02:39:19.443239",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "zellij-org/zellij",
+    "href": "https://github.com/zellij-org/zellij",
+    "about": "A terminal workspace with batteries included",
+    "star": "24,201",
+    "fork": "736",
+    "timestamp": "2025-05-15T02:39:19.443522",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "Schniz/fnm",
+    "href": "https://github.com/Schniz/fnm",
+    "about": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "star": "20,836",
+    "fork": "545",
+    "timestamp": "2025-05-15T02:39:19.443813",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "PyO3/maturin",
+    "href": "https://github.com/PyO3/maturin",
+    "about": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+    "star": "4,546",
+    "fork": "319",
+    "timestamp": "2025-05-15T02:39:19.444092",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "37,538",
+    "fork": "2,801",
+    "timestamp": "2025-05-15T02:39:19.444370",
+    "stars_today": "56 stars today"
+  },
+  {
+    "repo": "tikv/tikv",
+    "href": "https://github.com/tikv/tikv",
+    "about": "Distributed transactional key-value database, originally created to complement TiDB",
+    "star": "15,821",
+    "fork": "2,181",
+    "timestamp": "2025-05-15T02:39:19.444647",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "visioncortex/vtracer",
+    "href": "https://github.com/visioncortex/vtracer",
+    "about": "Raster to Vector Graphics Converter",
+    "star": "4,293",
+    "fork": "296",
+    "timestamp": "2025-05-15T02:39:19.444937",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "apache/iceberg-rust",
+    "href": "https://github.com/apache/iceberg-rust",
+    "about": "Apache Iceberg",
+    "star": "926",
+    "fork": "255",
+    "timestamp": "2025-05-15T02:39:19.445215",
+    "stars_today": "2 stars today"
+  }
+]
