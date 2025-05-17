@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "47,038",
+    "fork": "5,590",
+    "timestamp": "2025-05-17T02:36:11.312397",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "632",
+    "fork": "491",
+    "timestamp": "2025-05-17T02:36:11.312700",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "MakieOrg/Makie.jl",
+    "href": "https://github.com/MakieOrg/Makie.jl",
+    "about": "Interactive data visualizations and plotting in Julia",
+    "star": "2,535",
+    "fork": "343",
+    "timestamp": "2025-05-17T02:36:11.313018",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Regional-to-global coupled ocean and sea ice simulations based on Oceananigans.",
+    "star": "48",
+    "fork": "18",
+    "timestamp": "2025-05-17T02:36:11.313320",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/ClimaCore.jl",
+    "href": "https://github.com/CliMA/ClimaCore.jl",
+    "about": "CliMA model dycore",
+    "star": "97",
+    "fork": "16",
+    "timestamp": "2025-05-17T02:36:11.313604",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!",
+    "star": "98",
+    "fork": "23",
+    "timestamp": "2025-05-17T02:36:11.313886",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaLand.jl",
+    "href": "https://github.com/CliMA/ClimaLand.jl",
+    "about": "Clima's Land Model",
+    "star": "47",
+    "fork": "10",
+    "timestamp": "2025-05-17T02:36:11.314174",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "169",
+    "fork": "21",
+    "timestamp": "2025-05-17T02:36:11.314470",
+    "stars_today": "1 star today"
+  }
+]

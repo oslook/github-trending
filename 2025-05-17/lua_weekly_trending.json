@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "20,834",
+    "fork": "1,472",
+    "timestamp": "2025-05-17T02:36:15.033414",
+    "stars_today": "207 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "24,704",
+    "fork": "33,833",
+    "timestamp": "2025-05-17T02:36:15.033720",
+    "stars_today": "312 stars this week"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "8,971",
+    "fork": "308",
+    "timestamp": "2025-05-17T02:36:15.034013",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,334",
+    "fork": "211",
+    "timestamp": "2025-05-17T02:36:15.034316",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "3,694",
+    "fork": "214",
+    "timestamp": "2025-05-17T02:36:15.034635",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "href": "https://github.com/ThePrimeagen/init.lua",
+    "about": "",
+    "star": "3,691",
+    "fork": "656",
+    "timestamp": "2025-05-17T02:36:15.034974",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "701",
+    "fork": "46",
+    "timestamp": "2025-05-17T02:36:15.035276",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "typecraft-dev/dotfiles",
+    "href": "https://github.com/typecraft-dev/dotfiles",
+    "about": "",
+    "star": "867",
+    "fork": "188",
+    "timestamp": "2025-05-17T02:36:15.035587",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "11,918",
+    "fork": "2,210",
+    "timestamp": "2025-05-17T02:36:15.035899",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 14.x for OpenTibia community.",
+    "star": "449",
+    "fork": "705",
+    "timestamp": "2025-05-17T02:36:15.036223",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,783",
+    "fork": "215",
+    "timestamp": "2025-05-17T02:36:15.036539",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,442",
+    "fork": "276",
+    "timestamp": "2025-05-17T02:36:15.036854",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "17,512",
+    "fork": "881",
+    "timestamp": "2025-05-17T02:36:15.037137",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "4,490",
+    "fork": "244",
+    "timestamp": "2025-05-17T02:36:15.037437",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,334",
+    "fork": "195",
+    "timestamp": "2025-05-17T02:36:15.037722",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "1,198",
+    "fork": "55",
+    "timestamp": "2025-05-17T02:36:15.038008",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,036",
+    "fork": "212",
+    "timestamp": "2025-05-17T02:36:15.038304",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "7,776",
+    "fork": "622",
+    "timestamp": "2025-05-17T02:36:15.038587",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "shahrilnet/remote_lua_loader",
+    "href": "https://github.com/shahrilnet/remote_lua_loader",
+    "about": "",
+    "star": "137",
+    "fork": "21",
+    "timestamp": "2025-05-17T02:36:15.038891",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "nvim-neotest/neotest",
+    "href": "https://github.com/nvim-neotest/neotest",
+    "about": "An extensible framework for interacting with tests within NeoVim.",
+    "star": "2,707",
+    "fork": "133",
+    "timestamp": "2025-05-17T02:36:15.039174",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,536",
+    "fork": "255",
+    "timestamp": "2025-05-17T02:36:15.039469",
+    "stars_today": "28 stars this week"
+  }
+]

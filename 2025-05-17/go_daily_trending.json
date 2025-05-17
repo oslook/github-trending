@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "git-bug/git-bug",
+    "href": "https://github.com/git-bug/git-bug",
+    "about": "Distributed, offline-first bug tracker embedded in git",
+    "star": "8,934",
+    "fork": "281",
+    "timestamp": "2025-05-17T02:36:07.336128",
+    "stars_today": "165 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,568",
+    "fork": "2,742",
+    "timestamp": "2025-05-17T02:36:07.336443",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers dynamically from Kubernetes resources",
+    "star": "8,183",
+    "fork": "2,683",
+    "timestamp": "2025-05-17T02:36:07.336733",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,878",
+    "fork": "1,603",
+    "timestamp": "2025-05-17T02:36:07.337016",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "6,998",
+    "fork": "652",
+    "timestamp": "2025-05-17T02:36:07.337312",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "53,517",
+    "fork": "2,808",
+    "timestamp": "2025-05-17T02:36:07.337624",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "18,498",
+    "fork": "1,838",
+    "timestamp": "2025-05-17T02:36:07.337906",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "href": "https://github.com/plandex-ai/plandex",
+    "about": "Open source AI coding agent. Designed for large projects and real world tasks.",
+    "star": "13,390",
+    "fork": "907",
+    "timestamp": "2025-05-17T02:36:07.338187",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,807",
+    "fork": "2,208",
+    "timestamp": "2025-05-17T02:36:07.338481",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "35,407",
+    "fork": "5,394",
+    "timestamp": "2025-05-17T02:36:07.338762",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "yuin/goldmark",
+    "href": "https://github.com/yuin/goldmark",
+    "about": "🏆 A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",
+    "star": "4,050",
+    "fork": "263",
+    "timestamp": "2025-05-17T02:36:07.339043",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "klauspost/compress",
+    "href": "https://github.com/klauspost/compress",
+    "about": "Optimized Go Compression Packages",
+    "star": "5,062",
+    "fork": "331",
+    "timestamp": "2025-05-17T02:36:07.339337",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "25,400",
+    "fork": "999",
+    "timestamp": "2025-05-17T02:36:07.339619",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,256",
+    "fork": "1,089",
+    "timestamp": "2025-05-17T02:36:07.339901",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "google/uuid",
+    "href": "https://github.com/google/uuid",
+    "about": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.",
+    "star": "5,645",
+    "fork": "386",
+    "timestamp": "2025-05-17T02:36:07.340181",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,070",
+    "fork": "1,151",
+    "timestamp": "2025-05-17T02:36:07.340475",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,396",
+    "fork": "4,361",
+    "timestamp": "2025-05-17T02:36:07.340757",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "2,077",
+    "fork": "3,177",
+    "timestamp": "2025-05-17T02:36:07.341040",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "onsi/ginkgo",
+    "href": "https://github.com/onsi/ginkgo",
+    "about": "A Modern Testing Framework for Go",
+    "star": "8,642",
+    "fork": "671",
+    "timestamp": "2025-05-17T02:36:07.341384",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "href": "https://github.com/cockroachdb/cockroach",
+    "about": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "star": "30,875",
+    "fork": "3,898",
+    "timestamp": "2025-05-17T02:36:07.341673",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "19,706",
+    "fork": "601",
+    "timestamp": "2025-05-17T02:36:07.341957",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "27,881",
+    "fork": "7,231",
+    "timestamp": "2025-05-17T02:36:07.342274",
+    "stars_today": "6 stars today"
+  }
+]
