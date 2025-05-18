@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,690",
+    "fork": "2,551",
+    "timestamp": "2025-05-18T02:46:34.245334",
+    "stars_today": "435 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,377",
+    "fork": "10,070",
+    "timestamp": "2025-05-18T02:46:34.245641",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,897",
+    "fork": "1,603",
+    "timestamp": "2025-05-18T02:46:34.245945",
+    "stars_today": "151 stars this week"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "19,135",
+    "fork": "1,779",
+    "timestamp": "2025-05-18T02:46:34.246233",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,559",
+    "fork": "5,997",
+    "timestamp": "2025-05-18T02:46:34.246517",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "70,199",
+    "fork": "2,513",
+    "timestamp": "2025-05-18T02:46:34.246836",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "48,642",
+    "fork": "5,811",
+    "timestamp": "2025-05-18T02:46:34.247167",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,181",
+    "fork": "1,621",
+    "timestamp": "2025-05-18T02:46:34.247450",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,021",
+    "fork": "8,087",
+    "timestamp": "2025-05-18T02:46:34.247733",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,697",
+    "fork": "1,161",
+    "timestamp": "2025-05-18T02:46:34.248030",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "star": "10,578",
+    "fork": "942",
+    "timestamp": "2025-05-18T02:46:34.248315",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,402",
+    "fork": "4,360",
+    "timestamp": "2025-05-18T02:46:34.248599",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "29,557",
+    "fork": "3,148",
+    "timestamp": "2025-05-18T02:46:34.248882",
+    "stars_today": "237 stars this week"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "23,038",
+    "fork": "1,196",
+    "timestamp": "2025-05-18T02:46:34.249180",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "10,967",
+    "fork": "1,218",
+    "timestamp": "2025-05-18T02:46:34.249464",
+    "stars_today": "205 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,434",
+    "fork": "874",
+    "timestamp": "2025-05-18T02:46:34.249776",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "star": "23,022",
+    "fork": "3,534",
+    "timestamp": "2025-05-18T02:46:34.250074",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "ltaoo/wx_channels_download",
+    "href": "https://github.com/ltaoo/wx_channels_download",
+    "about": "微信视频号下载器",
+    "star": "1,793",
+    "fork": "261",
+    "timestamp": "2025-05-18T02:46:34.250359",
+    "stars_today": "124 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "6,553",
+    "fork": "844",
+    "timestamp": "2025-05-18T02:46:34.250629",
+    "stars_today": "238 stars this week"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "12,814",
+    "fork": "2,724",
+    "timestamp": "2025-05-18T02:46:34.250913",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "Ullaakut/cameradar",
+    "href": "https://github.com/Ullaakut/cameradar",
+    "about": "Cameradar hacks its way into RTSP videosurveillance cameras",
+    "star": "4,355",
+    "fork": "542",
+    "timestamp": "2025-05-18T02:46:34.251229",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "22,803",
+    "fork": "906",
+    "timestamp": "2025-05-18T02:46:34.251543",
+    "stars_today": "103 stars this week"
+  }
+]
