@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,725",
+    "fork": "2,551",
+    "timestamp": "2025-05-19T02:46:33.962208",
+    "stars_today": "403 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,385",
+    "fork": "10,070",
+    "timestamp": "2025-05-19T02:46:33.962505",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,902",
+    "fork": "1,603",
+    "timestamp": "2025-05-19T02:46:33.962830",
+    "stars_today": "153 stars this week"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "19,138",
+    "fork": "1,779",
+    "timestamp": "2025-05-19T02:46:33.963122",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,568",
+    "fork": "6,001",
+    "timestamp": "2025-05-19T02:46:33.963396",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,405",
+    "fork": "4,359",
+    "timestamp": "2025-05-19T02:46:33.963672",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "70,217",
+    "fork": "2,514",
+    "timestamp": "2025-05-19T02:46:33.963990",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,442",
+    "fork": "873",
+    "timestamp": "2025-05-19T02:46:33.964297",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,184",
+    "fork": "1,623",
+    "timestamp": "2025-05-19T02:46:33.964570",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "143,890",
+    "fork": "12,296",
+    "timestamp": "2025-05-19T02:46:33.964872",
+    "stars_today": "487 stars this week"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,108",
+    "fork": "1,301",
+    "timestamp": "2025-05-19T02:46:33.965162",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "iawia002/lux",
+    "href": "https://github.com/iawia002/lux",
+    "about": "👾 Fast and simple video download library and CLI tool written in Go",
+    "star": "29,565",
+    "fork": "3,148",
+    "timestamp": "2025-05-19T02:46:33.965438",
+    "stars_today": "212 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,024",
+    "fork": "8,094",
+    "timestamp": "2025-05-19T02:46:33.965710",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,701",
+    "fork": "1,161",
+    "timestamp": "2025-05-19T02:46:33.965991",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "22,828",
+    "fork": "907",
+    "timestamp": "2025-05-19T02:46:33.966288",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,844",
+    "fork": "4,492",
+    "timestamp": "2025-05-19T02:46:33.966560",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "35,425",
+    "fork": "5,394",
+    "timestamp": "2025-05-19T02:46:33.966838",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "star": "10,584",
+    "fork": "942",
+    "timestamp": "2025-05-19T02:46:33.967150",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,518",
+    "fork": "2,161",
+    "timestamp": "2025-05-19T02:46:33.967423",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "12,817",
+    "fork": "2,724",
+    "timestamp": "2025-05-19T02:46:33.967695",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "48,656",
+    "fork": "5,812",
+    "timestamp": "2025-05-19T02:46:33.968009",
+    "stars_today": "145 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,813",
+    "fork": "907",
+    "timestamp": "2025-05-19T02:46:33.968281",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,571",
+    "fork": "2,744",
+    "timestamp": "2025-05-19T02:46:33.968553",
+    "stars_today": "22 stars this week"
+  }
+]
