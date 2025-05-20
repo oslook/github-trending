@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,765",
+    "fork": "2,553",
+    "timestamp": "2025-05-20T02:41:58.120008",
+    "stars_today": "394 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,579",
+    "fork": "6,004",
+    "timestamp": "2025-05-20T02:41:58.120323",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "19,916",
+    "fork": "1,602",
+    "timestamp": "2025-05-20T02:41:58.120620",
+    "stars_today": "154 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,389",
+    "fork": "10,071",
+    "timestamp": "2025-05-20T02:41:58.120905",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,109",
+    "fork": "1,301",
+    "timestamp": "2025-05-20T02:41:58.121187",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "19,148",
+    "fork": "1,779",
+    "timestamp": "2025-05-20T02:41:58.121486",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,191",
+    "fork": "1,624",
+    "timestamp": "2025-05-20T02:41:58.121768",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,851",
+    "fork": "4,492",
+    "timestamp": "2025-05-20T02:41:58.122051",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,453",
+    "fork": "873",
+    "timestamp": "2025-05-20T02:41:58.122381",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "53,553",
+    "fork": "2,810",
+    "timestamp": "2025-05-20T02:41:58.122694",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "69,751",
+    "fork": "18,755",
+    "timestamp": "2025-05-20T02:41:58.122979",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,520",
+    "fork": "2,162",
+    "timestamp": "2025-05-20T02:41:58.123272",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "22,839",
+    "fork": "906",
+    "timestamp": "2025-05-20T02:41:58.123581",
+    "stars_today": "109 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,027",
+    "fork": "8,095",
+    "timestamp": "2025-05-20T02:41:58.123861",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "143,942",
+    "fork": "12,297",
+    "timestamp": "2025-05-20T02:41:58.124172",
+    "stars_today": "476 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,411",
+    "fork": "4,360",
+    "timestamp": "2025-05-20T02:41:58.124464",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "25,562",
+    "fork": "4,866",
+    "timestamp": "2025-05-20T02:41:58.124745",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers dynamically from Kubernetes resources",
+    "star": "8,201",
+    "fork": "2,687",
+    "timestamp": "2025-05-20T02:41:58.125027",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "star": "10,593",
+    "fork": "942",
+    "timestamp": "2025-05-20T02:41:58.125320",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "3,037",
+    "fork": "682",
+    "timestamp": "2025-05-20T02:41:58.125598",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,820",
+    "fork": "907",
+    "timestamp": "2025-05-20T02:41:58.125879",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "ltaoo/wx_channels_download",
+    "href": "https://github.com/ltaoo/wx_channels_download",
+    "about": "微信视频号下载器",
+    "star": "1,831",
+    "fork": "263",
+    "timestamp": "2025-05-20T02:41:58.126154",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "6,597",
+    "fork": "847",
+    "timestamp": "2025-05-20T02:41:58.126448",
+    "stars_today": "237 stars this week"
+  }
+]
