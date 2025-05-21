@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "ventoy/Ventoy",
+    "href": "https://github.com/ventoy/Ventoy",
+    "about": "A new bootable USB solution.",
+    "star": "67,352",
+    "fork": "4,296",
+    "timestamp": "2025-05-21T02:41:24.398248",
+    "stars_today": "235 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,718",
+    "fork": "1,116",
+    "timestamp": "2025-05-21T02:41:24.398600",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "about": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "star": "23,269",
+    "fork": "4,912",
+    "timestamp": "2025-05-21T02:41:24.398911",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "11,410",
+    "fork": "942",
+    "timestamp": "2025-05-21T02:41:24.399263",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "espeak-ng/espeak-ng",
+    "href": "https://github.com/espeak-ng/espeak-ng",
+    "about": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+    "star": "5,083",
+    "fork": "1,015",
+    "timestamp": "2025-05-21T02:41:24.399570",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,574",
+    "fork": "2,911",
+    "timestamp": "2025-05-21T02:41:24.399876",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "fastfetch-cli/fastfetch",
+    "href": "https://github.com/fastfetch-cli/fastfetch",
+    "about": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+    "star": "14,057",
+    "fork": "508",
+    "timestamp": "2025-05-21T02:41:24.400194",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,229",
+    "fork": "1,258",
+    "timestamp": "2025-05-21T02:41:24.400501",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "DPDK/dpdk",
+    "href": "https://github.com/DPDK/dpdk",
+    "about": "Data Plane Development Kit",
+    "star": "3,697",
+    "fork": "1,300",
+    "timestamp": "2025-05-21T02:41:24.400800",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoft/WSL2-Linux-Kernel",
+    "href": "https://github.com/microsoft/WSL2-Linux-Kernel",
+    "about": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+    "star": "9,001",
+    "fork": "1,186",
+    "timestamp": "2025-05-21T02:41:24.401114",
+    "stars_today": "302 stars today"
+  },
+  {
+    "repo": "hengyoush/kyanos",
+    "href": "https://github.com/hengyoush/kyanos",
+    "about": "Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.",
+    "star": "4,276",
+    "fork": "167",
+    "timestamp": "2025-05-21T02:41:24.401420",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "coolsnowwolf/lede",
+    "href": "https://github.com/coolsnowwolf/lede",
+    "about": "Lean's LEDE source",
+    "star": "30,672",
+    "fork": "19,573",
+    "timestamp": "2025-05-21T02:41:24.401724",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "623",
+    "fork": "3,198",
+    "timestamp": "2025-05-21T02:41:24.402040",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "href": "https://github.com/fluent/fluent-bit",
+    "about": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+    "star": "6,880",
+    "fork": "1,687",
+    "timestamp": "2025-05-21T02:41:24.402355",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,007",
+    "fork": "1,748",
+    "timestamp": "2025-05-21T02:41:24.402865",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "portapack-mayhem/mayhem-firmware",
+    "href": "https://github.com/portapack-mayhem/mayhem-firmware",
+    "about": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+    "star": "4,128",
+    "fork": "689",
+    "timestamp": "2025-05-21T02:41:24.403192",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "koekeishiya/yabai",
+    "href": "https://github.com/koekeishiya/yabai",
+    "about": "A tiling window manager for macOS based on binary space partitioning",
+    "star": "25,873",
+    "fork": "662",
+    "timestamp": "2025-05-21T02:41:24.403495",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "812",
+    "fork": "1,545",
+    "timestamp": "2025-05-21T02:41:24.403791",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "PerformanC/ReZygisk",
+    "href": "https://github.com/PerformanC/ReZygisk",
+    "about": "Transparent implementation of Zygisk.",
+    "star": "1,120",
+    "fork": "126",
+    "timestamp": "2025-05-21T02:41:24.404102",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "taosdata/TDengine",
+    "href": "https://github.com/taosdata/TDengine",
+    "about": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+    "star": "23,863",
+    "fork": "4,908",
+    "timestamp": "2025-05-21T02:41:24.404398",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "5,105",
+    "fork": "2,721",
+    "timestamp": "2025-05-21T02:41:24.404693",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "analogdevicesinc/no-OS",
+    "href": "https://github.com/analogdevicesinc/no-OS",
+    "about": "Software drivers in C for systems without an operating system",
+    "star": "1,112",
+    "fork": "1,710",
+    "timestamp": "2025-05-21T02:41:24.404998",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "immortalwrt/immortalwrt",
+    "href": "https://github.com/immortalwrt/immortalwrt",
+    "about": "An opensource OpenWrt variant for mainland China users.",
+    "star": "8,048",
+    "fork": "2,323",
+    "timestamp": "2025-05-21T02:41:24.405287",
+    "stars_today": "9 stars today"
+  }
+]
