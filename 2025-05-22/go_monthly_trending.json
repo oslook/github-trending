@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,820",
+    "fork": "2,557",
+    "timestamp": "2025-05-22T02:41:05.346586",
+    "stars_today": "1,312 stars this month"
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "href": "https://github.com/plandex-ai/plandex",
+    "about": "Open source AI coding agent. Designed for large projects and real world tasks.",
+    "star": "13,584",
+    "fork": "941",
+    "timestamp": "2025-05-22T02:41:05.346889",
+    "stars_today": "1,264 stars this month"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "11,000",
+    "fork": "1,220",
+    "timestamp": "2025-05-22T02:41:05.347179",
+    "stars_today": "1,401 stars this month"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "62,738",
+    "fork": "1,632",
+    "timestamp": "2025-05-22T02:41:05.347481",
+    "stars_today": "2,604 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "80,961",
+    "fork": "7,847",
+    "timestamp": "2025-05-22T02:41:05.347772",
+    "stars_today": "1,431 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "28,589",
+    "fork": "1,537",
+    "timestamp": "2025-05-22T02:41:05.348061",
+    "stars_today": "1,332 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "17,198",
+    "fork": "1,573",
+    "timestamp": "2025-05-22T02:41:05.348350",
+    "stars_today": "339 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "47,335",
+    "fork": "2,352",
+    "timestamp": "2025-05-22T02:41:05.348650",
+    "stars_today": "1,937 stars this month"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "14,403",
+    "fork": "1,767",
+    "timestamp": "2025-05-22T02:41:05.348939",
+    "stars_today": "376 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "32,728",
+    "fork": "2,495",
+    "timestamp": "2025-05-22T02:41:05.349256",
+    "stars_today": "864 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,596",
+    "fork": "6,007",
+    "timestamp": "2025-05-22T02:41:05.349555",
+    "stars_today": "354 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "28,575",
+    "fork": "4,288",
+    "timestamp": "2025-05-22T02:41:05.349840",
+    "stars_today": "548 stars this month"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "href": "https://github.com/knadh/listmonk",
+    "about": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "star": "16,897",
+    "fork": "1,589",
+    "timestamp": "2025-05-22T02:41:05.350127",
+    "stars_today": "435 stars this month"
+  },
+  {
+    "repo": "ehang-io/nps",
+    "href": "https://github.com/ehang-io/nps",
+    "about": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "star": "32,561",
+    "fork": "5,874",
+    "timestamp": "2025-05-22T02:41:05.350415",
+    "stars_today": "891 stars this month"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,902",
+    "fork": "24,035",
+    "timestamp": "2025-05-22T02:41:05.350713",
+    "stars_today": "60 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "94,141",
+    "fork": "14,042",
+    "timestamp": "2025-05-22T02:41:05.351029",
+    "stars_today": "1,339 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "60,275",
+    "fork": "2,063",
+    "timestamp": "2025-05-22T02:41:05.351340",
+    "stars_today": "1,323 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,114",
+    "fork": "1,300",
+    "timestamp": "2025-05-22T02:41:05.351637",
+    "stars_today": "55 stars this month"
+  },
+  {
+    "repo": "photoprism/photoprism",
+    "href": "https://github.com/photoprism/photoprism",
+    "about": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+    "star": "37,424",
+    "fork": "2,072",
+    "timestamp": "2025-05-22T02:41:05.351952",
+    "stars_today": "450 stars this month"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,355",
+    "fork": "1,371",
+    "timestamp": "2025-05-22T02:41:05.352238",
+    "stars_today": "318 stars this month"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "1,933",
+    "fork": "189",
+    "timestamp": "2025-05-22T02:41:05.352590",
+    "stars_today": "876 stars this month"
+  },
+  {
+    "repo": "cloudreve/Cloudreve",
+    "href": "https://github.com/cloudreve/Cloudreve",
+    "about": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+    "star": "23,044",
+    "fork": "3,542",
+    "timestamp": "2025-05-22T02:41:05.352879",
+    "stars_today": "247 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "19,144",
+    "fork": "1,850",
+    "timestamp": "2025-05-22T02:41:05.353166",
+    "stars_today": "380 stars this month"
+  }
+]
