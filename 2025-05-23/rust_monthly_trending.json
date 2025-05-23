@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "36,334",
+    "fork": "1,132",
+    "timestamp": "2025-05-23T02:41:00.566825",
+    "stars_today": "1,326 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "60,232",
+    "fork": "4,302",
+    "timestamp": "2025-05-23T02:41:00.567121",
+    "stars_today": "3,238 stars this month"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "18,190",
+    "fork": "643",
+    "timestamp": "2025-05-23T02:41:00.567400",
+    "stars_today": "1,407 stars this month"
+  },
+  {
+    "repo": "tracel-ai/burn",
+    "href": "https://github.com/tracel-ai/burn",
+    "about": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+    "star": "11,173",
+    "fork": "574",
+    "timestamp": "2025-05-23T02:41:00.567677",
+    "stars_today": "910 stars this month"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "15,087",
+    "fork": "520",
+    "timestamp": "2025-05-23T02:41:00.567982",
+    "stars_today": "2,718 stars this month"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "39,291",
+    "fork": "1,356",
+    "timestamp": "2025-05-23T02:41:00.568257",
+    "stars_today": "1,381 stars this month"
+  },
+  {
+    "repo": "tursodatabase/limbo",
+    "href": "https://github.com/tursodatabase/limbo",
+    "about": "Limbo is a project to build the modern evolution of SQLite.",
+    "star": "10,801",
+    "fork": "407",
+    "timestamp": "2025-05-23T02:41:00.568533",
+    "stars_today": "606 stars this month"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "20,698",
+    "fork": "1,831",
+    "timestamp": "2025-05-23T02:41:00.568851",
+    "stars_today": "383 stars this month"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "about": "A cross-platform, OpenGL terminal emulator.",
+    "star": "58,900",
+    "fork": "3,116",
+    "timestamp": "2025-05-23T02:41:00.569123",
+    "stars_today": "605 stars this month"
+  },
+  {
+    "repo": "GreptimeTeam/greptimedb",
+    "href": "https://github.com/GreptimeTeam/greptimedb",
+    "about": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+    "star": "5,214",
+    "fork": "375",
+    "timestamp": "2025-05-23T02:41:00.569397",
+    "stars_today": "310 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "39,685",
+    "fork": "3,905",
+    "timestamp": "2025-05-23T02:41:00.569667",
+    "stars_today": "672 stars this month"
+  },
+  {
+    "repo": "BoundaryML/baml",
+    "href": "https://github.com/BoundaryML/baml",
+    "about": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+    "star": "3,758",
+    "fork": "160",
+    "timestamp": "2025-05-23T02:41:00.569956",
+    "stars_today": "654 stars this month"
+  },
+  {
+    "repo": "MystenLabs/sui",
+    "href": "https://github.com/MystenLabs/sui",
+    "about": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "star": "6,959",
+    "fork": "11,486",
+    "timestamp": "2025-05-23T02:41:00.570231",
+    "stars_today": "151 stars this month"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "103,701",
+    "fork": "13,355",
+    "timestamp": "2025-05-23T02:41:00.570505",
+    "stars_today": "995 stars this month"
+  },
+  {
+    "repo": "longbridge/gpui-component",
+    "href": "https://github.com/longbridge/gpui-component",
+    "about": "UI components for building fantastic desktop application by using GPUI.",
+    "star": "2,967",
+    "fork": "128",
+    "timestamp": "2025-05-23T02:41:00.570789",
+    "stars_today": "2,288 stars this month"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "44,729",
+    "fork": "2,112",
+    "timestamp": "2025-05-23T02:41:00.571094",
+    "stars_today": "1,032 stars this month"
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "href": "https://github.com/ratatui/ratatui",
+    "about": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+    "star": "13,119",
+    "fork": "412",
+    "timestamp": "2025-05-23T02:41:00.571398",
+    "stars_today": "480 stars this month"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "51,434",
+    "fork": "2,052",
+    "timestamp": "2025-05-23T02:41:00.571669",
+    "stars_today": "876 stars this month"
+  },
+  {
+    "repo": "mullvad/mullvadvpn-app",
+    "href": "https://github.com/mullvad/mullvadvpn-app",
+    "about": "The Mullvad VPN client app for desktop and mobile",
+    "star": "5,827",
+    "fork": "405",
+    "timestamp": "2025-05-23T02:41:00.571952",
+    "stars_today": "130 stars this month"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "37,654",
+    "fork": "2,826",
+    "timestamp": "2025-05-23T02:41:00.572222",
+    "stars_today": "723 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "55,272",
+    "fork": "1,551",
+    "timestamp": "2025-05-23T02:41:00.572493",
+    "stars_today": "4,529 stars this month"
+  },
+  {
+    "repo": "elkowar/eww",
+    "href": "https://github.com/elkowar/eww",
+    "about": "ElKowars wacky widgets",
+    "star": "10,668",
+    "fork": "446",
+    "timestamp": "2025-05-23T02:41:00.572801",
+    "stars_today": "468 stars this month"
+  },
+  {
+    "repo": "espanso/espanso",
+    "href": "https://github.com/espanso/espanso",
+    "about": "Cross-platform Text Expander written in Rust",
+    "star": "11,337",
+    "fork": "316",
+    "timestamp": "2025-05-23T02:41:00.573067",
+    "stars_today": "459 stars this month"
+  },
+  {
+    "repo": "atuinsh/atuin",
+    "href": "https://github.com/atuinsh/atuin",
+    "about": "✨ Magical shell history",
+    "star": "23,984",
+    "fork": "649",
+    "timestamp": "2025-05-23T02:41:00.573367",
+    "stars_today": "681 stars this month"
+  }
+]
