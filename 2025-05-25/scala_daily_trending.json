@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,157",
+    "fork": "28,560",
+    "timestamp": "2025-05-25T02:49:08.026391",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,350",
+    "fork": "492",
+    "timestamp": "2025-05-25T02:49:08.026712",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,388",
+    "fork": "768",
+    "timestamp": "2025-05-25T02:49:08.027001",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,671",
+    "fork": "2,405",
+    "timestamp": "2025-05-25T02:49:08.027286",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,452",
+    "fork": "1,168",
+    "timestamp": "2025-05-25T02:49:08.027583",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,188",
+    "fork": "939",
+    "timestamp": "2025-05-25T02:49:08.027873",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,396",
+    "fork": "327",
+    "timestamp": "2025-05-25T02:49:08.028157",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,160",
+    "fork": "3,585",
+    "timestamp": "2025-05-25T02:49:08.028438",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "26",
+    "fork": "12",
+    "timestamp": "2025-05-25T02:49:08.028732",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,535",
+    "fork": "559",
+    "timestamp": "2025-05-25T02:49:08.029044",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,039",
+    "fork": "1,833",
+    "timestamp": "2025-05-25T02:49:08.029326",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "912",
+    "fork": "608",
+    "timestamp": "2025-05-25T02:49:08.029620",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,209",
+    "fork": "1,343",
+    "timestamp": "2025-05-25T02:49:08.029901",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,021",
+    "fork": "1,096",
+    "timestamp": "2025-05-25T02:49:08.030184",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Netflix/atlas",
+    "href": "https://github.com/Netflix/atlas",
+    "about": "In-memory dimensional time series database.",
+    "star": "3,487",
+    "fork": "315",
+    "timestamp": "2025-05-25T02:49:08.030465",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,380",
+    "fork": "3,109",
+    "timestamp": "2025-05-25T02:49:08.030764",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "902",
+    "fork": "252",
+    "timestamp": "2025-05-25T02:49:08.031047",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,128",
+    "fork": "554",
+    "timestamp": "2025-05-25T02:49:08.031334",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,252",
+    "fork": "1,252",
+    "timestamp": "2025-05-25T02:49:08.031630",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "834",
+    "fork": "199",
+    "timestamp": "2025-05-25T02:49:08.031912",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,200",
+    "fork": "12,158",
+    "timestamp": "2025-05-25T02:49:08.032192",
+    "stars_today": "1 star today"
+  }
+]
