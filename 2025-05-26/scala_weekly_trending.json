@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,161",
+    "fork": "28,559",
+    "timestamp": "2025-05-26T02:45:51.523575",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,039",
+    "fork": "1,833",
+    "timestamp": "2025-05-26T02:45:51.523894",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,352",
+    "fork": "492",
+    "timestamp": "2025-05-26T02:45:51.524184",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,982",
+    "fork": "725",
+    "timestamp": "2025-05-26T02:45:51.524471",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,578",
+    "fork": "4,096",
+    "timestamp": "2025-05-26T02:45:51.524810",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "814",
+    "fork": "206",
+    "timestamp": "2025-05-26T02:45:51.525106",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,659",
+    "fork": "1,206",
+    "timestamp": "2025-05-26T02:45:51.525391",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,163",
+    "fork": "3,585",
+    "timestamp": "2025-05-26T02:45:51.525693",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,204",
+    "fork": "12,158",
+    "timestamp": "2025-05-26T02:45:51.525985",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,858",
+    "fork": "716",
+    "timestamp": "2025-05-26T02:45:51.526263",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,447",
+    "fork": "1,168",
+    "timestamp": "2025-05-26T02:45:51.526546",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,424",
+    "fork": "554",
+    "timestamp": "2025-05-26T02:45:51.526841",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,839",
+    "fork": "951",
+    "timestamp": "2025-05-26T02:45:51.527126",
+    "stars_today": "2 stars this week"
+  }
+]

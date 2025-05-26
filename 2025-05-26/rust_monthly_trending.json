@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "36,384",
+    "fork": "1,136",
+    "timestamp": "2025-05-26T02:45:50.911011",
+    "stars_today": "1,306 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "60,372",
+    "fork": "4,345",
+    "timestamp": "2025-05-26T02:45:50.911306",
+    "stars_today": "3,262 stars this month"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "18,243",
+    "fork": "645",
+    "timestamp": "2025-05-26T02:45:50.911647",
+    "stars_today": "1,395 stars this month"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "39,385",
+    "fork": "1,367",
+    "timestamp": "2025-05-26T02:45:50.911933",
+    "stars_today": "1,375 stars this month"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "15,185",
+    "fork": "521",
+    "timestamp": "2025-05-26T02:45:50.912215",
+    "stars_today": "2,739 stars this month"
+  },
+  {
+    "repo": "BoundaryML/baml",
+    "href": "https://github.com/BoundaryML/baml",
+    "about": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+    "star": "3,792",
+    "fork": "164",
+    "timestamp": "2025-05-26T02:45:50.912495",
+    "stars_today": "630 stars this month"
+  },
+  {
+    "repo": "tursodatabase/limbo",
+    "href": "https://github.com/tursodatabase/limbo",
+    "about": "Limbo is a project to build the modern evolution of SQLite.",
+    "star": "10,841",
+    "fork": "409",
+    "timestamp": "2025-05-26T02:45:50.912788",
+    "stars_today": "619 stars this month"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "20,727",
+    "fork": "1,835",
+    "timestamp": "2025-05-26T02:45:50.913095",
+    "stars_today": "368 stars this month"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "about": "A cross-platform, OpenGL terminal emulator.",
+    "star": "58,933",
+    "fork": "3,115",
+    "timestamp": "2025-05-26T02:45:50.913373",
+    "stars_today": "613 stars this month"
+  },
+  {
+    "repo": "rust-lang/rust-clippy",
+    "href": "https://github.com/rust-lang/rust-clippy",
+    "about": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+    "star": "12,077",
+    "fork": "1,658",
+    "timestamp": "2025-05-26T02:45:50.913668",
+    "stars_today": "157 stars this month"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "37,710",
+    "fork": "2,832",
+    "timestamp": "2025-05-26T02:45:50.913948",
+    "stars_today": "744 stars this month"
+  },
+  {
+    "repo": "GreptimeTeam/greptimedb",
+    "href": "https://github.com/GreptimeTeam/greptimedb",
+    "about": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+    "star": "5,240",
+    "fork": "378",
+    "timestamp": "2025-05-26T02:45:50.914228",
+    "stars_today": "274 stars this month"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "103,788",
+    "fork": "13,365",
+    "timestamp": "2025-05-26T02:45:50.914505",
+    "stars_today": "965 stars this month"
+  },
+  {
+    "repo": "tracel-ai/burn",
+    "href": "https://github.com/tracel-ai/burn",
+    "about": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+    "star": "11,191",
+    "fork": "575",
+    "timestamp": "2025-05-26T02:45:50.914795",
+    "stars_today": "784 stars this month"
+  },
+  {
+    "repo": "MystenLabs/sui",
+    "href": "https://github.com/MystenLabs/sui",
+    "about": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "star": "6,969",
+    "fork": "11,487",
+    "timestamp": "2025-05-26T02:45:50.915074",
+    "stars_today": "143 stars this month"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "65,372",
+    "fork": "3,187",
+    "timestamp": "2025-05-26T02:45:50.915351",
+    "stars_today": "11,505 stars this month"
+  },
+  {
+    "repo": "longbridge/gpui-component",
+    "href": "https://github.com/longbridge/gpui-component",
+    "about": "UI components for building fantastic desktop application by using GPUI.",
+    "star": "3,008",
+    "fork": "130",
+    "timestamp": "2025-05-26T02:45:50.915680",
+    "stars_today": "2,323 stars this month"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "19,591",
+    "fork": "3,043",
+    "timestamp": "2025-05-26T02:45:50.915989",
+    "stars_today": "3,796 stars this month"
+  },
+  {
+    "repo": "elkowar/eww",
+    "href": "https://github.com/elkowar/eww",
+    "about": "ElKowars wacky widgets",
+    "star": "10,688",
+    "fork": "447",
+    "timestamp": "2025-05-26T02:45:50.916294",
+    "stars_today": "479 stars this month"
+  },
+  {
+    "repo": "espanso/espanso",
+    "href": "https://github.com/espanso/espanso",
+    "about": "Cross-platform Text Expander written in Rust",
+    "star": "11,384",
+    "fork": "319",
+    "timestamp": "2025-05-26T02:45:50.916569",
+    "stars_today": "495 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "39,753",
+    "fork": "3,914",
+    "timestamp": "2025-05-26T02:45:50.916861",
+    "stars_today": "679 stars this month"
+  },
+  {
+    "repo": "LGFae/swww",
+    "href": "https://github.com/LGFae/swww",
+    "about": "A Solution to your Wayland Wallpaper Woes",
+    "star": "2,939",
+    "fork": "78",
+    "timestamp": "2025-05-26T02:45:50.917137",
+    "stars_today": "134 stars this month"
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "href": "https://github.com/ratatui/ratatui",
+    "about": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+    "star": "13,174",
+    "fork": "415",
+    "timestamp": "2025-05-26T02:45:50.917448",
+    "stars_today": "502 stars this month"
+  },
+  {
+    "repo": "get-convex/convex-backend",
+    "href": "https://github.com/get-convex/convex-backend",
+    "about": "The open-source reactive database for app developers",
+    "star": "4,528",
+    "fork": "223",
+    "timestamp": "2025-05-26T02:45:50.917738",
+    "stars_today": "610 stars this month"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "15,671",
+    "fork": "506",
+    "timestamp": "2025-05-26T02:45:50.918044",
+    "stars_today": "787 stars this month"
+  }
+]
