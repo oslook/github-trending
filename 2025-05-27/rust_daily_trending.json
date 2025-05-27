@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "19,886",
+    "fork": "3,150",
+    "timestamp": "2025-05-27T02:40:29.192021",
+    "stars_today": "177 stars today"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "20,523",
+    "fork": "1,474",
+    "timestamp": "2025-05-27T02:40:29.192369",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "antinomyhq/forge",
+    "href": "https://github.com/antinomyhq/forge",
+    "about": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+    "star": "1,521",
+    "fork": "745",
+    "timestamp": "2025-05-27T02:40:29.192687",
+    "stars_today": "243 stars today"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "65,582",
+    "fork": "3,212",
+    "timestamp": "2025-05-27T02:40:29.192988",
+    "stars_today": "364 stars today"
+  },
+  {
+    "repo": "EasyTier/EasyTier",
+    "href": "https://github.com/EasyTier/EasyTier",
+    "about": "A simple, decentralized mesh VPN with WireGuard support.",
+    "star": "4,441",
+    "fork": "399",
+    "timestamp": "2025-05-27T02:40:29.193285",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "stalwartlabs/stalwart",
+    "href": "https://github.com/stalwartlabs/stalwart",
+    "about": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "star": "7,756",
+    "fork": "373",
+    "timestamp": "2025-05-27T02:40:29.193632",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "href": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+    "about": "A self-paced course to learn Rust, one exercise at a time.",
+    "star": "7,740",
+    "fork": "1,539",
+    "timestamp": "2025-05-27T02:40:29.193968",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "26,643",
+    "fork": "1,309",
+    "timestamp": "2025-05-27T02:40:29.194265",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "mfontanini/presenterm",
+    "href": "https://github.com/mfontanini/presenterm",
+    "about": "A markdown terminal slideshow tool",
+    "star": "6,162",
+    "fork": "123",
+    "timestamp": "2025-05-27T02:40:29.194604",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "rcore-os/rCore-Tutorial-v3",
+    "href": "https://github.com/rcore-os/rCore-Tutorial-v3",
+    "about": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+    "star": "1,836",
+    "fork": "516",
+    "timestamp": "2025-05-27T02:40:29.194900",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "tensorzero/tensorzero",
+    "href": "https://github.com/tensorzero/tensorzero",
+    "about": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+    "star": "4,336",
+    "fork": "285",
+    "timestamp": "2025-05-27T02:40:29.195198",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "getzola/zola",
+    "href": "https://github.com/getzola/zola",
+    "about": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "star": "15,327",
+    "fork": "1,044",
+    "timestamp": "2025-05-27T02:40:29.195499",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "alvr-org/ALVR",
+    "href": "https://github.com/alvr-org/ALVR",
+    "about": "Stream VR games from your PC to your headset via Wi-Fi",
+    "star": "6,256",
+    "fork": "537",
+    "timestamp": "2025-05-27T02:40:29.195856",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "eza-community/eza",
+    "href": "https://github.com/eza-community/eza",
+    "about": "A modern alternative to ls",
+    "star": "15,546",
+    "fork": "294",
+    "timestamp": "2025-05-27T02:40:29.196158",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "librespot-org/librespot",
+    "href": "https://github.com/librespot-org/librespot",
+    "about": "Open Source Spotify client library",
+    "star": "5,266",
+    "fork": "681",
+    "timestamp": "2025-05-27T02:40:29.196578",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "wezterm/wezterm",
+    "href": "https://github.com/wezterm/wezterm",
+    "about": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "star": "20,500",
+    "fork": "921",
+    "timestamp": "2025-05-27T02:40:29.196913",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "elkowar/eww",
+    "href": "https://github.com/elkowar/eww",
+    "about": "ElKowars wacky widgets",
+    "star": "10,695",
+    "fork": "447",
+    "timestamp": "2025-05-27T02:40:29.197337",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "leptos-rs/leptos",
+    "href": "https://github.com/leptos-rs/leptos",
+    "about": "Build fast web applications with Rust.",
+    "star": "18,464",
+    "fork": "763",
+    "timestamp": "2025-05-27T02:40:29.197687",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "qarmin/czkawka",
+    "href": "https://github.com/qarmin/czkawka",
+    "about": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "star": "23,719",
+    "fork": "743",
+    "timestamp": "2025-05-27T02:40:29.198018",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "36,460",
+    "fork": "1,139",
+    "timestamp": "2025-05-27T02:40:29.198314",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "37,730",
+    "fork": "2,830",
+    "timestamp": "2025-05-27T02:40:29.198624",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, mobile, and more.",
+    "star": "27,724",
+    "fork": "1,111",
+    "timestamp": "2025-05-27T02:40:29.198944",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "6,840",
+    "fork": "1,044",
+    "timestamp": "2025-05-27T02:40:29.199239",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "29,942",
+    "fork": "2,063",
+    "timestamp": "2025-05-27T02:40:29.199536",
+    "stars_today": "18 stars today"
+  }
+]
