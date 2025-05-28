@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "3,867",
+    "fork": "221",
+    "timestamp": "2025-05-28T02:42:29.006442",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,012",
+    "fork": "2,226",
+    "timestamp": "2025-05-28T02:42:29.006778",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "m4xshen/hardtime.nvim",
+    "href": "https://github.com/m4xshen/hardtime.nvim",
+    "about": "Break bad habits, master Vim motions",
+    "star": "2,909",
+    "fork": "39",
+    "timestamp": "2025-05-28T02:42:29.007071",
+    "stars_today": "261 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "13,981",
+    "fork": "599",
+    "timestamp": "2025-05-28T02:42:29.007375",
+    "stars_today": "187 stars this week"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "7,308",
+    "fork": "236",
+    "timestamp": "2025-05-28T02:42:29.007664",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "11,034",
+    "fork": "845",
+    "timestamp": "2025-05-28T02:42:29.007952",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,091",
+    "fork": "215",
+    "timestamp": "2025-05-28T02:42:29.008250",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,042",
+    "fork": "497",
+    "timestamp": "2025-05-28T02:42:29.008536",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "15,162",
+    "fork": "2,600",
+    "timestamp": "2025-05-28T02:42:29.008820",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,364",
+    "fork": "252",
+    "timestamp": "2025-05-28T02:42:29.009148",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,456",
+    "fork": "124",
+    "timestamp": "2025-05-28T02:42:29.009435",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "lite-xl/lite-xl",
+    "href": "https://github.com/lite-xl/lite-xl",
+    "about": "A lightweight text editor written in Lua",
+    "star": "5,452",
+    "fork": "260",
+    "timestamp": "2025-05-28T02:42:29.009718",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "2,875",
+    "fork": "130",
+    "timestamp": "2025-05-28T02:42:29.010001",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,453",
+    "fork": "282",
+    "timestamp": "2025-05-28T02:42:29.010332",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,330",
+    "fork": "235",
+    "timestamp": "2025-05-28T02:42:29.010641",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "mistweaverco/kulala.nvim",
+    "href": "https://github.com/mistweaverco/kulala.nvim",
+    "about": "A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
+    "star": "1,302",
+    "fork": "53",
+    "timestamp": "2025-05-28T02:42:29.010923",
+    "stars_today": "106 stars this week"
+  },
+  {
+    "repo": "loki79uk/FS25_UniversalAutoload",
+    "href": "https://github.com/loki79uk/FS25_UniversalAutoload",
+    "about": "Mod for FS25. Please download latest release below.",
+    "star": "606",
+    "fork": "41",
+    "timestamp": "2025-05-28T02:42:29.011218",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "pwntester/octo.nvim",
+    "href": "https://github.com/pwntester/octo.nvim",
+    "about": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
+    "star": "2,692",
+    "fork": "178",
+    "timestamp": "2025-05-28T02:42:29.011504",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,830",
+    "fork": "218",
+    "timestamp": "2025-05-28T02:42:29.011813",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "vague2k/vague.nvim",
+    "href": "https://github.com/vague2k/vague.nvim",
+    "about": "A cool, dark, low contrast colorscheme for Neovim. Pastel yet vivid, like a fleeting memory...",
+    "star": "507",
+    "fork": "20",
+    "timestamp": "2025-05-28T02:42:29.012096",
+    "stars_today": "47 stars this week"
+  }
+]
