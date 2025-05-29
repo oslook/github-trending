@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "3,884",
+    "fork": "223",
+    "timestamp": "2025-05-29T02:42:49.921169",
+    "stars_today": "468 stars this month"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "20,998",
+    "fork": "1,482",
+    "timestamp": "2025-05-29T02:42:49.921496",
+    "stars_today": "761 stars this month"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,049",
+    "fork": "307",
+    "timestamp": "2025-05-29T02:42:49.921783",
+    "stars_today": "352 stars this month"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,016",
+    "fork": "2,229",
+    "timestamp": "2025-05-29T02:42:49.922096",
+    "stars_today": "290 stars this month"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,369",
+    "fork": "208",
+    "timestamp": "2025-05-29T02:42:49.922398",
+    "stars_today": "152 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "24,999",
+    "fork": "34,495",
+    "timestamp": "2025-05-29T02:42:49.922682",
+    "stars_today": "920 stars this month"
+  },
+  {
+    "repo": "typecraft-dev/dotfiles",
+    "href": "https://github.com/typecraft-dev/dotfiles",
+    "about": "",
+    "star": "895",
+    "fork": "191",
+    "timestamp": "2025-05-29T02:42:49.922977",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,835",
+    "fork": "218",
+    "timestamp": "2025-05-29T02:42:49.923295",
+    "stars_today": "123 stars this month"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "7,313",
+    "fork": "236",
+    "timestamp": "2025-05-29T02:42:49.923574",
+    "stars_today": "224 stars this month"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,385",
+    "fork": "297",
+    "timestamp": "2025-05-29T02:42:49.923880",
+    "stars_today": "144 stars this month"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "17,601",
+    "fork": "884",
+    "timestamp": "2025-05-29T02:42:49.924164",
+    "stars_today": "278 stars this month"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "722",
+    "fork": "48",
+    "timestamp": "2025-05-29T02:42:49.924457",
+    "stars_today": "59 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "17,585",
+    "fork": "442",
+    "timestamp": "2025-05-29T02:42:49.924743",
+    "stars_today": "408 stars this month"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "11,046",
+    "fork": "845",
+    "timestamp": "2025-05-29T02:42:49.925025",
+    "stars_today": "165 stars this month"
+  },
+  {
+    "repo": "Exafunction/windsurf.nvim",
+    "href": "https://github.com/Exafunction/windsurf.nvim",
+    "about": "A native neovim extension for Codeium",
+    "star": "1,084",
+    "fork": "90",
+    "timestamp": "2025-05-29T02:42:49.925315",
+    "stars_today": "59 stars this month"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "4,603",
+    "fork": "259",
+    "timestamp": "2025-05-29T02:42:49.925595",
+    "stars_today": "337 stars this month"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "3,888",
+    "fork": "254",
+    "timestamp": "2025-05-29T02:42:49.925904",
+    "stars_today": "76 stars this month"
+  },
+  {
+    "repo": "jdhao/nvim-config",
+    "href": "https://github.com/jdhao/nvim-config",
+    "about": "A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",
+    "star": "3,906",
+    "fork": "564",
+    "timestamp": "2025-05-29T02:42:49.926195",
+    "stars_today": "69 stars this month"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,367",
+    "fork": "252",
+    "timestamp": "2025-05-29T02:42:49.926503",
+    "stars_today": "52 stars this month"
+  },
+  {
+    "repo": "m4xshen/hardtime.nvim",
+    "href": "https://github.com/m4xshen/hardtime.nvim",
+    "about": "Break bad habits, master Vim motions",
+    "star": "2,911",
+    "fork": "40",
+    "timestamp": "2025-05-29T02:42:49.926781",
+    "stars_today": "1,071 stars this month"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,454",
+    "fork": "282",
+    "timestamp": "2025-05-29T02:42:49.927087",
+    "stars_today": "44 stars this month"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "14,012",
+    "fork": "600",
+    "timestamp": "2025-05-29T02:42:49.927375",
+    "stars_today": "987 stars this month"
+  }
+]

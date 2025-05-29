@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "satijalab/seurat",
+    "href": "https://github.com/satijalab/seurat",
+    "about": "R toolkit for single cell genomics",
+    "star": "2,438",
+    "fork": "949",
+    "timestamp": "2025-05-29T02:42:55.590788",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Rdatatable/data.table",
+    "href": "https://github.com/Rdatatable/data.table",
+    "about": "R's data.table package extends data.frame:",
+    "star": "3,730",
+    "fork": "1,009",
+    "timestamp": "2025-05-29T02:42:55.591092",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sqjin/CellChat",
+    "href": "https://github.com/sqjin/CellChat",
+    "about": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+    "star": "698",
+    "fork": "158",
+    "timestamp": "2025-05-29T02:42:55.591401",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/dplyr",
+    "href": "https://github.com/tidyverse/dplyr",
+    "about": "dplyr: A grammar of data manipulation",
+    "star": "4,879",
+    "fork": "2,126",
+    "timestamp": "2025-05-29T02:42:55.591680",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "stuart-lab/signac",
+    "href": "https://github.com/stuart-lab/signac",
+    "about": "R toolkit for the analysis of single-cell chromatin data",
+    "star": "373",
+    "fork": "98",
+    "timestamp": "2025-05-29T02:42:55.591964",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chris-mcginnis-ucsf/DoubletFinder",
+    "href": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+    "about": "R package for detecting doublets in single-cell RNA sequencing data",
+    "star": "466",
+    "fork": "119",
+    "timestamp": "2025-05-29T02:42:55.592275",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/renv",
+    "href": "https://github.com/rstudio/renv",
+    "about": "renv: Project environments for R.",
+    "star": "1,062",
+    "fork": "155",
+    "timestamp": "2025-05-29T02:42:55.592562",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/ggplot2",
+    "href": "https://github.com/tidyverse/ggplot2",
+    "about": "An implementation of the Grammar of Graphics in R",
+    "star": "6,693",
+    "fork": "2,087",
+    "timestamp": "2025-05-29T02:42:55.592844",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "benjjneb/dada2",
+    "href": "https://github.com/benjjneb/dada2",
+    "about": "Accurate sample inference from amplicon data with single nucleotide resolution",
+    "star": "501",
+    "fork": "148",
+    "timestamp": "2025-05-29T02:42:55.593128",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "swirldev/swirl_courses",
+    "href": "https://github.com/swirldev/swirl_courses",
+    "about": "🎓 A collection of interactive courses for the swirl R package.",
+    "star": "4,423",
+    "fork": "7,247",
+    "timestamp": "2025-05-29T02:42:55.593426",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "satijalab/seurat-wrappers",
+    "href": "https://github.com/satijalab/seurat-wrappers",
+    "about": "Community-provided extensions to Seurat",
+    "star": "332",
+    "fork": "136",
+    "timestamp": "2025-05-29T02:42:55.593708",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "r-spatial/sf",
+    "href": "https://github.com/r-spatial/sf",
+    "about": "Simple Features for R",
+    "star": "1,374",
+    "fork": "303",
+    "timestamp": "2025-05-29T02:42:55.593992",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "immunogenomics/harmony",
+    "href": "https://github.com/immunogenomics/harmony",
+    "about": "Fast, sensitive and accurate integration of single-cell data with Harmony",
+    "star": "573",
+    "fork": "102",
+    "timestamp": "2025-05-29T02:42:55.594285",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "YuLab-SMU/clusterProfiler",
+    "href": "https://github.com/YuLab-SMU/clusterProfiler",
+    "about": "📊 A universal enrichment tool for interpreting omics data",
+    "star": "1,093",
+    "fork": "260",
+    "timestamp": "2025-05-29T02:42:55.594572",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "broadinstitute/infercnv",
+    "href": "https://github.com/broadinstitute/infercnv",
+    "about": "Inferring CNV from Single-Cell RNA-Seq",
+    "star": "614",
+    "fork": "173",
+    "timestamp": "2025-05-29T02:42:55.594855",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/reticulate",
+    "href": "https://github.com/rstudio/reticulate",
+    "about": "R Interface to Python",
+    "star": "1,700",
+    "fork": "342",
+    "timestamp": "2025-05-29T02:42:55.595135",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mojaveazure/seurat-disk",
+    "href": "https://github.com/mojaveazure/seurat-disk",
+    "about": "Interfaces for HDF5-based Single Cell File Formats",
+    "star": "164",
+    "fork": "52",
+    "timestamp": "2025-05-29T02:42:55.595427",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jokergoo/ComplexHeatmap",
+    "href": "https://github.com/jokergoo/ComplexHeatmap",
+    "about": "Make Complex Heatmaps",
+    "star": "1,374",
+    "fork": "235",
+    "timestamp": "2025-05-29T02:42:55.595708",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "vegandevs/vegan",
+    "href": "https://github.com/vegandevs/vegan",
+    "about": "R package for community ecologists: popular ordination methods, ecological null models & diversity analysis",
+    "star": "488",
+    "fork": "100",
+    "timestamp": "2025-05-29T02:42:55.595987",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rstudio/shiny",
+    "href": "https://github.com/rstudio/shiny",
+    "about": "Easy interactive web applications with R",
+    "star": "5,482",
+    "fork": "1,876",
+    "timestamp": "2025-05-29T02:42:55.596277",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kassambara/ggpubr",
+    "href": "https://github.com/kassambara/ggpubr",
+    "about": "'ggplot2' Based Publication Ready Plots",
+    "star": "1,178",
+    "fork": "175",
+    "timestamp": "2025-05-29T02:42:55.596558",
+    "stars_today": "0 stars today"
+  }
+]

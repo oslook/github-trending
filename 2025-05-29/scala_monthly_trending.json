@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,357",
+    "fork": "495",
+    "timestamp": "2025-05-29T02:42:58.307733",
+    "stars_today": "26 stars this month"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,859",
+    "fork": "716",
+    "timestamp": "2025-05-29T02:42:58.308038",
+    "stars_today": "38 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,043",
+    "fork": "1,836",
+    "timestamp": "2025-05-29T02:42:58.308343",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,223",
+    "fork": "12,155",
+    "timestamp": "2025-05-29T02:42:58.308627",
+    "stars_today": "154 stars this month"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,181",
+    "fork": "28,569",
+    "timestamp": "2025-05-29T02:42:58.308903",
+    "stars_today": "209 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,022",
+    "fork": "1,097",
+    "timestamp": "2025-05-29T02:42:58.309202",
+    "stars_today": "29 stars this month"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,425",
+    "fork": "554",
+    "timestamp": "2025-05-29T02:42:58.309485",
+    "stars_today": "20 stars this month"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,211",
+    "fork": "1,346",
+    "timestamp": "2025-05-29T02:42:58.309767",
+    "stars_today": "17 stars this month"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,672",
+    "fork": "656",
+    "timestamp": "2025-05-29T02:42:58.310046",
+    "stars_today": "38 stars this month"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,547",
+    "fork": "559",
+    "timestamp": "2025-05-29T02:42:58.310368",
+    "stars_today": "82 stars this month"
+  }
+]
