@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "npryce/adr-tools",
+    "href": "https://github.com/npryce/adr-tools",
+    "about": "Command-line tools for working with Architecture Decision Records",
+    "star": "4,926",
+    "fork": "604",
+    "timestamp": "2025-05-30T02:40:53.422522",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "winapps-org/winapps",
+    "href": "https://github.com/winapps-org/winapps",
+    "about": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+    "star": "2,512",
+    "fork": "97",
+    "timestamp": "2025-05-30T02:40:53.422826",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "catppuccin/tmux",
+    "href": "https://github.com/catppuccin/tmux",
+    "about": "💽 Soothing pastel theme for Tmux",
+    "star": "2,359",
+    "fork": "726",
+    "timestamp": "2025-05-30T02:40:53.423157",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "CISOfy/lynis",
+    "href": "https://github.com/CISOfy/lynis",
+    "about": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "star": "14,233",
+    "fork": "1,527",
+    "timestamp": "2025-05-30T02:40:53.423443",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "DaoCloud/public-image-mirror",
+    "href": "https://github.com/DaoCloud/public-image-mirror",
+    "about": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
+    "star": "10,205",
+    "fork": "1,203",
+    "timestamp": "2025-05-30T02:40:53.423725",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "tfutils/tfenv",
+    "href": "https://github.com/tfutils/tfenv",
+    "about": "Terraform version manager",
+    "star": "4,697",
+    "fork": "464",
+    "timestamp": "2025-05-30T02:40:53.424005",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "84,793",
+    "fork": "8,846",
+    "timestamp": "2025-05-30T02:40:53.424295",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "conda-forge/miniforge",
+    "href": "https://github.com/conda-forge/miniforge",
+    "about": "A conda-forge distribution.",
+    "star": "7,692",
+    "fork": "406",
+    "timestamp": "2025-05-30T02:40:53.424572",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "mylinuxforwork/dotfiles",
+    "href": "https://github.com/mylinuxforwork/dotfiles",
+    "about": "The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.",
+    "star": "2,846",
+    "fork": "223",
+    "timestamp": "2025-05-30T02:40:53.424849",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "Elegycloud/clash-for-linux-backup",
+    "href": "https://github.com/Elegycloud/clash-for-linux-backup",
+    "about": "基于Clash Core 制作的Clash For Linux备份仓库 A Clash For Linux Backup Warehouse Based on Clash Core",
+    "star": "3,245",
+    "fork": "1,306",
+    "timestamp": "2025-05-30T02:40:53.425141",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "zabbix/zabbix-docker",
+    "href": "https://github.com/zabbix/zabbix-docker",
+    "about": "Official Zabbix Dockerfiles",
+    "star": "2,547",
+    "fork": "1,408",
+    "timestamp": "2025-05-30T02:40:53.425418",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "SeleniumHQ/docker-selenium",
+    "href": "https://github.com/SeleniumHQ/docker-selenium",
+    "about": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale",
+    "star": "8,346",
+    "fork": "2,556",
+    "timestamp": "2025-05-30T02:40:53.425720",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "awslabs/git-secrets",
+    "href": "https://github.com/awslabs/git-secrets",
+    "about": "Prevents you from committing secrets and credentials into git repositories",
+    "star": "12,762",
+    "fork": "1,203",
+    "timestamp": "2025-05-30T02:40:53.425998",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "openshift/release",
+    "href": "https://github.com/openshift/release",
+    "about": "Release tooling for OpenShift",
+    "star": "295",
+    "fork": "1,890",
+    "timestamp": "2025-05-30T02:40:53.426288",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "bioconda/bioconda-recipes",
+    "href": "https://github.com/bioconda/bioconda-recipes",
+    "about": "Conda recipes for the bioconda channel.",
+    "star": "1,728",
+    "fork": "3,493",
+    "timestamp": "2025-05-30T02:40:53.426570",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "MicrosoftDocs/azure-devops-docs",
+    "href": "https://github.com/MicrosoftDocs/azure-devops-docs",
+    "about": "This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.",
+    "star": "894",
+    "fork": "2,549",
+    "timestamp": "2025-05-30T02:40:53.426849",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "angristan/openvpn-install",
+    "href": "https://github.com/angristan/openvpn-install",
+    "about": "Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more",
+    "star": "14,668",
+    "fork": "3,121",
+    "timestamp": "2025-05-30T02:40:53.427140",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gpakosz/.tmux",
+    "href": "https://github.com/gpakosz/.tmux",
+    "about": "Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍",
+    "star": "23,021",
+    "fork": "3,706",
+    "timestamp": "2025-05-30T02:40:53.427447",
+    "stars_today": "5 stars today"
+  }
+]

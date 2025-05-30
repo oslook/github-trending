@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "15,826",
+    "fork": "770",
+    "timestamp": "2025-05-30T02:40:28.178351",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "open62541/open62541",
+    "href": "https://github.com/open62541/open62541",
+    "about": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+    "star": "2,797",
+    "fork": "1,312",
+    "timestamp": "2025-05-30T02:40:28.178652",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "814",
+    "fork": "1,555",
+    "timestamp": "2025-05-30T02:40:28.178941",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "duixcom/Duix.Heygem",
+    "href": "https://github.com/duixcom/Duix.Heygem",
+    "about": "",
+    "star": "9,362",
+    "fork": "1,536",
+    "timestamp": "2025-05-30T02:40:28.179255",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,900",
+    "fork": "2,693",
+    "timestamp": "2025-05-30T02:40:28.179538",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "lwip-tcpip/lwip",
+    "href": "https://github.com/lwip-tcpip/lwip",
+    "about": "lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git",
+    "star": "1,268",
+    "fork": "459",
+    "timestamp": "2025-05-30T02:40:28.179823",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "madler/zlib",
+    "href": "https://github.com/madler/zlib",
+    "about": "A massively spiffy yet delicately unobtrusive compression library.",
+    "star": "6,171",
+    "fork": "2,556",
+    "timestamp": "2025-05-30T02:40:28.180117",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,606",
+    "fork": "2,925",
+    "timestamp": "2025-05-30T02:40:28.180397",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pocoproject/poco",
+    "href": "https://github.com/pocoproject/poco",
+    "about": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+    "star": "9,019",
+    "fork": "2,271",
+    "timestamp": "2025-05-30T02:40:28.180676",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "640",
+    "fork": "3,203",
+    "timestamp": "2025-05-30T02:40:28.180956",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,515",
+    "fork": "3,427",
+    "timestamp": "2025-05-30T02:40:28.181249",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jqlang/jq",
+    "href": "https://github.com/jqlang/jq",
+    "about": "Command-line JSON processor",
+    "star": "31,818",
+    "fork": "1,629",
+    "timestamp": "2025-05-30T02:40:28.181531",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+    "star": "19,194",
+    "fork": "942",
+    "timestamp": "2025-05-30T02:40:28.181808",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "3,973",
+    "fork": "472",
+    "timestamp": "2025-05-30T02:40:28.182153",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "19,740",
+    "fork": "3,647",
+    "timestamp": "2025-05-30T02:40:28.182470",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,740",
+    "fork": "1,119",
+    "timestamp": "2025-05-30T02:40:28.182775",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,697",
+    "fork": "915",
+    "timestamp": "2025-05-30T02:40:28.183065",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "bellard/quickjs",
+    "href": "https://github.com/bellard/quickjs",
+    "about": "Public repository of the QuickJS Javascript Engine.",
+    "star": "9,210",
+    "fork": "979",
+    "timestamp": "2025-05-30T02:40:28.183343",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "12,535",
+    "fork": "1,854",
+    "timestamp": "2025-05-30T02:40:28.183618",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "15,326",
+    "fork": "7,673",
+    "timestamp": "2025-05-30T02:40:28.183896",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "pr3y/Bruce",
+    "href": "https://github.com/pr3y/Bruce",
+    "about": "Predatory ESP32 Firmware",
+    "star": "2,807",
+    "fork": "404",
+    "timestamp": "2025-05-30T02:40:28.184183",
+    "stars_today": "7 stars today"
+  }
+]

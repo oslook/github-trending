@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "14,833",
+    "fork": "2,311",
+    "timestamp": "2025-05-30T02:40:35.131003",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,716",
+    "fork": "3,015",
+    "timestamp": "2025-05-30T02:40:35.131317",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "176",
+    "timestamp": "2025-05-30T02:40:35.131607",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,384",
+    "fork": "1,174",
+    "timestamp": "2025-05-30T02:40:35.131892",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "914",
+    "fork": "234",
+    "timestamp": "2025-05-30T02:40:35.132188",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,206",
+    "fork": "336",
+    "timestamp": "2025-05-30T02:40:35.132468",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,538",
+    "fork": "1,053",
+    "timestamp": "2025-05-30T02:40:35.132747",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,568",
+    "fork": "353",
+    "timestamp": "2025-05-30T02:40:35.133035",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,285",
+    "fork": "1,527",
+    "timestamp": "2025-05-30T02:40:35.133315",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "569",
+    "fork": "153",
+    "timestamp": "2025-05-30T02:40:35.133592",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,351",
+    "fork": "434",
+    "timestamp": "2025-05-30T02:40:35.133867",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,384",
+    "fork": "282",
+    "timestamp": "2025-05-30T02:40:35.134155",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "100",
+    "fork": "33",
+    "timestamp": "2025-05-30T02:40:35.134437",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "699",
+    "fork": "220",
+    "timestamp": "2025-05-30T02:40:35.134714",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "aws-beam/aws-erlang",
+    "href": "https://github.com/aws-beam/aws-erlang",
+    "about": "Create, configure, and manage AWS services from Erlang code.",
+    "star": "84",
+    "fork": "34",
+    "timestamp": "2025-05-30T02:40:35.134996",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "693",
+    "fork": "233",
+    "timestamp": "2025-05-30T02:40:35.135287",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,124",
+    "fork": "454",
+    "timestamp": "2025-05-30T02:40:35.135565",
+    "stars_today": "1 star this week"
+  }
+]
