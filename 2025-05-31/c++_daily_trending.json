@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "Atmosphere-NX/Atmosphere",
+    "href": "https://github.com/Atmosphere-NX/Atmosphere",
+    "about": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "star": "16,340",
+    "fork": "1,292",
+    "timestamp": "2025-05-31T02:37:54.486425",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "29,770",
+    "fork": "2,342",
+    "timestamp": "2025-05-31T02:37:54.486744",
+    "stars_today": "100 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "10,602",
+    "fork": "1,459",
+    "timestamp": "2025-05-31T02:37:54.487046",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "async-profiler/async-profiler",
+    "href": "https://github.com/async-profiler/async-profiler",
+    "about": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events",
+    "star": "8,231",
+    "fork": "907",
+    "timestamp": "2025-05-31T02:37:54.487346",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "122,439",
+    "fork": "24,686",
+    "timestamp": "2025-05-31T02:37:54.487665",
+    "stars_today": "91 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "26,266",
+    "fork": "4,785",
+    "timestamp": "2025-05-31T02:37:54.487969",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "81,143",
+    "fork": "11,967",
+    "timestamp": "2025-05-31T02:37:54.488267",
+    "stars_today": "76 stars today"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+    "star": "11,211",
+    "fork": "1,875",
+    "timestamp": "2025-05-31T02:37:54.488579",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "vnotex/vnote",
+    "href": "https://github.com/vnotex/vnote",
+    "about": "A pleasant note-taking platform in native C++.",
+    "star": "12,407",
+    "fork": "1,252",
+    "timestamp": "2025-05-31T02:37:54.488880",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,862",
+    "fork": "7,006",
+    "timestamp": "2025-05-31T02:37:54.489207",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "microsoft/react-native-windows",
+    "href": "https://github.com/microsoft/react-native-windows",
+    "about": "A framework for building native Windows apps with React.",
+    "star": "16,846",
+    "fork": "1,163",
+    "timestamp": "2025-05-31T02:37:54.489514",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "36,116",
+    "fork": "10,380",
+    "timestamp": "2025-05-31T02:37:54.489862",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "KhronosGroup/Vulkan-Samples",
+    "href": "https://github.com/KhronosGroup/Vulkan-Samples",
+    "about": "One stop solution for all Vulkan samples",
+    "star": "4,712",
+    "fork": "711",
+    "timestamp": "2025-05-31T02:37:54.490157",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rhasspy/piper",
+    "href": "https://github.com/rhasspy/piper",
+    "about": "A fast, local neural text to speech system",
+    "star": "9,157",
+    "fork": "714",
+    "timestamp": "2025-05-31T02:37:54.490469",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "carbon-language/carbon-lang",
+    "href": "https://github.com/carbon-language/carbon-lang",
+    "about": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+    "star": "32,857",
+    "fork": "1,490",
+    "timestamp": "2025-05-31T02:37:54.490761",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "scylladb/scylladb",
+    "href": "https://github.com/scylladb/scylladb",
+    "about": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+    "star": "14,542",
+    "fork": "1,375",
+    "timestamp": "2025-05-31T02:37:54.491051",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "facebook/folly",
+    "href": "https://github.com/facebook/folly",
+    "about": "An open-source C++ library developed and used at Facebook.",
+    "star": "29,411",
+    "fork": "5,695",
+    "timestamp": "2025-05-31T02:37:54.491343",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "deskflow/deskflow",
+    "href": "https://github.com/deskflow/deskflow",
+    "about": "Share a single keyboard and mouse between multiple computers.",
+    "star": "17,774",
+    "fork": "4,026",
+    "timestamp": "2025-05-31T02:37:54.491673",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "ApolloAuto/apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "about": "An open autonomous driving platform",
+    "star": "25,728",
+    "fork": "9,780",
+    "timestamp": "2025-05-31T02:37:54.491962",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "emscripten-core/emscripten",
+    "href": "https://github.com/emscripten-core/emscripten",
+    "about": "Emscripten: An LLVM-to-WebAssembly Compiler",
+    "star": "26,505",
+    "fork": "3,399",
+    "timestamp": "2025-05-31T02:37:54.492253",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/nccl",
+    "href": "https://github.com/NVIDIA/nccl",
+    "about": "Optimized primitives for collective multi-GPU communication",
+    "star": "3,743",
+    "fork": "926",
+    "timestamp": "2025-05-31T02:37:54.492553",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "SoftFever/OrcaSlicer",
+    "href": "https://github.com/SoftFever/OrcaSlicer",
+    "about": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "star": "9,758",
+    "fork": "1,211",
+    "timestamp": "2025-05-31T02:37:54.492871",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "href": "https://github.com/espressif/arduino-esp32",
+    "about": "Arduino core for the ESP32",
+    "star": "14,851",
+    "fork": "7,628",
+    "timestamp": "2025-05-31T02:37:54.493158",
+    "stars_today": "4 stars today"
+  }
+]
