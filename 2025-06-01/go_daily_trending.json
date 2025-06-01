@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV",
+    "star": "3,837",
+    "fork": "257",
+    "timestamp": "2025-06-01T03:00:50.344447",
+    "stars_today": "509 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "70,921",
+    "fork": "4,555",
+    "timestamp": "2025-06-01T03:00:50.344819",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "14,794",
+    "fork": "1,078",
+    "timestamp": "2025-06-01T03:00:50.345113",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "44,376",
+    "fork": "1,405",
+    "timestamp": "2025-06-01T03:00:50.345439",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "23,220",
+    "fork": "914",
+    "timestamp": "2025-06-01T03:00:50.345753",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "22,853",
+    "fork": "1,825",
+    "timestamp": "2025-06-01T03:00:50.346039",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "usual2970/certimate",
+    "href": "https://github.com/usual2970/certimate",
+    "about": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+    "star": "6,752",
+    "fork": "618",
+    "timestamp": "2025-06-01T03:00:50.346326",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "href": "https://github.com/kubernetes/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "14,959",
+    "fork": "4,238",
+    "timestamp": "2025-06-01T03:00:50.346628",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,668",
+    "fork": "1,646",
+    "timestamp": "2025-06-01T03:00:50.346914",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,223",
+    "fork": "3,046",
+    "timestamp": "2025-06-01T03:00:50.347198",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "3,887",
+    "fork": "206",
+    "timestamp": "2025-06-01T03:00:50.347497",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,844",
+    "fork": "657",
+    "timestamp": "2025-06-01T03:00:50.347812",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "40,582",
+    "fork": "2,945",
+    "timestamp": "2025-06-01T03:00:50.348126",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "26,960",
+    "fork": "2,571",
+    "timestamp": "2025-06-01T03:00:50.348411",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "11,252",
+    "fork": "794",
+    "timestamp": "2025-06-01T03:00:50.348734",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,153",
+    "fork": "8,188",
+    "timestamp": "2025-06-01T03:00:50.349020",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,893",
+    "fork": "4,499",
+    "timestamp": "2025-06-01T03:00:50.349304",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "adnanh/webhook",
+    "href": "https://github.com/adnanh/webhook",
+    "about": "webhook is a lightweight incoming webhook server to run shell commands",
+    "star": "10,942",
+    "fork": "851",
+    "timestamp": "2025-06-01T03:00:50.349632",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubernetes/enhancements",
+    "href": "https://github.com/kubernetes/enhancements",
+    "about": "Enhancements tracking repo for Kubernetes",
+    "star": "3,648",
+    "fork": "1,534",
+    "timestamp": "2025-06-01T03:00:50.349916",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "21,718",
+    "fork": "3,225",
+    "timestamp": "2025-06-01T03:00:50.350199",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "31,834",
+    "fork": "911",
+    "timestamp": "2025-06-01T03:00:50.350495",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "erigontech/erigon",
+    "href": "https://github.com/erigontech/erigon",
+    "about": "Ethereum implementation on the efficiency frontier",
+    "star": "3,356",
+    "fork": "1,285",
+    "timestamp": "2025-06-01T03:00:50.350831",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "142,369",
+    "fork": "11,940",
+    "timestamp": "2025-06-01T03:00:50.351114",
+    "stars_today": "98 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,622",
+    "fork": "5,654",
+    "timestamp": "2025-06-01T03:00:50.351396",
+    "stars_today": "1 star today"
+  }
+]
