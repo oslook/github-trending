@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "25,066",
+    "fork": "34,674",
+    "timestamp": "2025-06-02T02:48:55.883932",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "akinsho/toggleterm.nvim",
+    "href": "https://github.com/akinsho/toggleterm.nvim",
+    "about": "A neovim lua plugin to help easily manage multiple terminal windows",
+    "star": "4,879",
+    "fork": "185",
+    "timestamp": "2025-06-02T02:48:55.884265",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,186",
+    "fork": "2,774",
+    "timestamp": "2025-06-02T02:48:55.884575",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+    "star": "7,325",
+    "fork": "238",
+    "timestamp": "2025-06-02T02:48:55.884880",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,204",
+    "fork": "152",
+    "timestamp": "2025-06-02T02:48:55.885166",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,097",
+    "fork": "471",
+    "timestamp": "2025-06-02T02:48:55.885513",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,379",
+    "fork": "208",
+    "timestamp": "2025-06-02T02:48:55.885902",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "folke/lazydev.nvim",
+    "href": "https://github.com/folke/lazydev.nvim",
+    "about": "Faster LuaLS setup for Neovim",
+    "star": "1,118",
+    "fork": "26",
+    "timestamp": "2025-06-02T02:48:55.886206",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "21,808",
+    "fork": "1,462",
+    "timestamp": "2025-06-02T02:48:55.886520",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,621",
+    "fork": "277",
+    "timestamp": "2025-06-02T02:48:55.886906",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,654",
+    "fork": "130",
+    "timestamp": "2025-06-02T02:48:55.887227",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "loki79uk/FS25_UniversalAutoload",
+    "href": "https://github.com/loki79uk/FS25_UniversalAutoload",
+    "about": "Mod for FS25. Please download latest release below.",
+    "star": "611",
+    "fork": "41",
+    "timestamp": "2025-06-02T02:48:55.887511",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,573",
+    "fork": "255",
+    "timestamp": "2025-06-02T02:48:55.887807",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "numToStr/Comment.nvim",
+    "href": "https://github.com/numToStr/Comment.nvim",
+    "about": "🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
+    "star": "4,298",
+    "fork": "161",
+    "timestamp": "2025-06-02T02:48:55.888113",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "14,105",
+    "fork": "606",
+    "timestamp": "2025-06-02T02:48:55.888390",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,401",
+    "fork": "297",
+    "timestamp": "2025-06-02T02:48:55.888708",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "8,848",
+    "fork": "422",
+    "timestamp": "2025-06-02T02:48:55.889016",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,332",
+    "fork": "1,068",
+    "timestamp": "2025-06-02T02:48:55.889295",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "saecki/crates.nvim",
+    "href": "https://github.com/saecki/crates.nvim",
+    "about": "A neovim plugin that helps managing crates.io dependencies",
+    "star": "991",
+    "fork": "40",
+    "timestamp": "2025-06-02T02:48:55.889615",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "shahrilnet/remote_lua_loader",
+    "href": "https://github.com/shahrilnet/remote_lua_loader",
+    "about": "",
+    "star": "157",
+    "fork": "27",
+    "timestamp": "2025-06-02T02:48:55.889915",
+    "stars_today": "3 stars today"
+  }
+]

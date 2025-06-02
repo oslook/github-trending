@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,207",
+    "fork": "28,580",
+    "timestamp": "2025-06-02T02:49:04.652571",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,360",
+    "fork": "498",
+    "timestamp": "2025-06-02T02:49:04.652897",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,252",
+    "fork": "12,159",
+    "timestamp": "2025-06-02T02:49:04.653189",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,700",
+    "fork": "2,411",
+    "timestamp": "2025-06-02T02:49:04.653472",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,407",
+    "fork": "772",
+    "timestamp": "2025-06-02T02:49:04.653777",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,049",
+    "fork": "1,837",
+    "timestamp": "2025-06-02T02:49:04.654069",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "3,985",
+    "fork": "726",
+    "timestamp": "2025-06-02T02:49:04.654357",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "232",
+    "fork": "76",
+    "timestamp": "2025-06-02T02:49:04.654660",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,426",
+    "fork": "554",
+    "timestamp": "2025-06-02T02:49:04.654955",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,454",
+    "fork": "1,169",
+    "timestamp": "2025-06-02T02:49:04.655245",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,840",
+    "fork": "951",
+    "timestamp": "2025-06-02T02:49:04.655531",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,862",
+    "fork": "715",
+    "timestamp": "2025-06-02T02:49:04.655834",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,411",
+    "fork": "328",
+    "timestamp": "2025-06-02T02:49:04.656122",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,255",
+    "fork": "1,252",
+    "timestamp": "2025-06-02T02:49:04.656408",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,552",
+    "fork": "561",
+    "timestamp": "2025-06-02T02:49:04.656737",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "815",
+    "fork": "206",
+    "timestamp": "2025-06-02T02:49:04.657024",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,199",
+    "fork": "374",
+    "timestamp": "2025-06-02T02:49:04.657309",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,024",
+    "fork": "1,096",
+    "timestamp": "2025-06-02T02:49:04.657612",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,164",
+    "fork": "3,588",
+    "timestamp": "2025-06-02T02:49:04.657900",
+    "stars_today": "8 stars this week"
+  }
+]
