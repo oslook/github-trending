@@ -1,0 +1,47 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "47,145",
+    "fork": "5,591",
+    "timestamp": "2025-06-03T02:44:27.090075",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "634",
+    "fork": "492",
+    "timestamp": "2025-06-03T02:44:27.090391",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaArrays/FixedSizeArrays.jl",
+    "href": "https://github.com/JuliaArrays/FixedSizeArrays.jl",
+    "about": "Fixed-size multidimensional arrays. An Array-like type with less indirection at the cost of resizing capability.",
+    "star": "31",
+    "fork": "3",
+    "timestamp": "2025-06-03T02:44:27.090674",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaMolSim/Molly.jl",
+    "href": "https://github.com/JuliaMolSim/Molly.jl",
+    "about": "Molecular simulation in Julia",
+    "star": "429",
+    "fork": "58",
+    "timestamp": "2025-06-03T02:44:27.090954",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "268",
+    "fork": "46",
+    "timestamp": "2025-06-03T02:44:27.091269",
+    "stars_today": "1 star today"
+  }
+]
