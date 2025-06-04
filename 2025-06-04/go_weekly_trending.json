@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "36,743",
+    "fork": "1,794",
+    "timestamp": "2025-06-04T02:44:51.487960",
+    "stars_today": "213 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "71,630",
+    "fork": "4,586",
+    "timestamp": "2025-06-04T02:44:51.488300",
+    "stars_today": "1,102 stars this week"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "4,340",
+    "fork": "303",
+    "timestamp": "2025-06-04T02:44:51.488582",
+    "stars_today": "2,783 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,221",
+    "fork": "8,222",
+    "timestamp": "2025-06-04T02:44:51.488853",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "20,596",
+    "fork": "639",
+    "timestamp": "2025-06-04T02:44:51.489170",
+    "stars_today": "392 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "142,650",
+    "fork": "11,975",
+    "timestamp": "2025-06-04T02:44:51.489452",
+    "stars_today": "803 stars this week"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,210",
+    "fork": "1,385",
+    "timestamp": "2025-06-04T02:44:51.489733",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "googleapis/go-genai",
+    "href": "https://github.com/googleapis/go-genai",
+    "about": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+    "star": "483",
+    "fork": "53",
+    "timestamp": "2025-06-04T02:44:51.490030",
+    "stars_today": "171 stars this week"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,936",
+    "fork": "24,207",
+    "timestamp": "2025-06-04T02:44:51.490309",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "manusa/kubernetes-mcp-server",
+    "href": "https://github.com/manusa/kubernetes-mcp-server",
+    "about": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "star": "245",
+    "fork": "44",
+    "timestamp": "2025-06-04T02:44:51.490584",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,286",
+    "fork": "4,030",
+    "timestamp": "2025-06-04T02:44:51.490856",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "52,889",
+    "fork": "5,881",
+    "timestamp": "2025-06-04T02:44:51.491146",
+    "stars_today": "208 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "star": "24,626",
+    "fork": "2,406",
+    "timestamp": "2025-06-04T02:44:51.491423",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "39,307",
+    "fork": "6,595",
+    "timestamp": "2025-06-04T02:44:51.491697",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "44,442",
+    "fork": "1,409",
+    "timestamp": "2025-06-04T02:44:51.492011",
+    "stars_today": "313 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "13,911",
+    "fork": "662",
+    "timestamp": "2025-06-04T02:44:51.492318",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,631",
+    "fork": "5,654",
+    "timestamp": "2025-06-04T02:44:51.492594",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "12,799",
+    "fork": "1,173",
+    "timestamp": "2025-06-04T02:44:51.492868",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,344",
+    "fork": "1,785",
+    "timestamp": "2025-06-04T02:44:51.493181",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "gotify/server",
+    "href": "https://github.com/gotify/server",
+    "about": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+    "star": "12,733",
+    "fork": "690",
+    "timestamp": "2025-06-04T02:44:51.493460",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "64,662",
+    "fork": "4,326",
+    "timestamp": "2025-06-04T02:44:51.493741",
+    "stars_today": "152 stars this week"
+  },
+  {
+    "repo": "idursun/jjui",
+    "href": "https://github.com/idursun/jjui",
+    "about": "Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.",
+    "star": "664",
+    "fork": "22",
+    "timestamp": "2025-06-04T02:44:51.494030",
+    "stars_today": "125 stars this week"
+  }
+]

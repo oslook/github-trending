@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "aquasecurity/kube-bench",
+    "href": "https://github.com/aquasecurity/kube-bench",
+    "about": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+    "star": "7,493",
+    "fork": "1,275",
+    "timestamp": "2025-06-04T02:44:50.550939",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,662",
+    "fork": "1,762",
+    "timestamp": "2025-06-04T02:44:50.551257",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "11,921",
+    "fork": "912",
+    "timestamp": "2025-06-04T02:44:50.551550",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "googleapis/go-genai",
+    "href": "https://github.com/googleapis/go-genai",
+    "about": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+    "star": "483",
+    "fork": "53",
+    "timestamp": "2025-06-04T02:44:50.551841",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "prometheus/blackbox_exporter",
+    "href": "https://github.com/prometheus/blackbox_exporter",
+    "about": "Blackbox prober exporter",
+    "star": "5,061",
+    "fork": "1,109",
+    "timestamp": "2025-06-04T02:44:50.552137",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,221",
+    "fork": "8,222",
+    "timestamp": "2025-06-04T02:44:50.552421",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "71,630",
+    "fork": "4,586",
+    "timestamp": "2025-06-04T02:44:50.552731",
+    "stars_today": "228 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,251",
+    "fork": "1,638",
+    "timestamp": "2025-06-04T02:44:50.553083",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,682",
+    "fork": "1,648",
+    "timestamp": "2025-06-04T02:44:50.553428",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "slackhq/nebula",
+    "href": "https://github.com/slackhq/nebula",
+    "about": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "star": "15,622",
+    "fork": "1,038",
+    "timestamp": "2025-06-04T02:44:50.553782",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,333",
+    "fork": "9,508",
+    "timestamp": "2025-06-04T02:44:50.554154",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "45,299",
+    "fork": "9,881",
+    "timestamp": "2025-06-04T02:44:50.554476",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,779",
+    "fork": "1,269",
+    "timestamp": "2025-06-04T02:44:50.554761",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "14,273",
+    "fork": "984",
+    "timestamp": "2025-06-04T02:44:50.555057",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "27,014",
+    "fork": "2,656",
+    "timestamp": "2025-06-04T02:44:50.555340",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,728",
+    "fork": "565",
+    "timestamp": "2025-06-04T02:44:50.555647",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bitnami-labs/sealed-secrets",
+    "href": "https://github.com/bitnami-labs/sealed-secrets",
+    "about": "A Kubernetes controller and tool for one-way encrypted Secrets",
+    "star": "8,267",
+    "fork": "707",
+    "timestamp": "2025-06-04T02:44:50.555926",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,754",
+    "fork": "722",
+    "timestamp": "2025-06-04T02:44:50.556220",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "bufbuild/protoc-gen-validate",
+    "href": "https://github.com/bufbuild/protoc-gen-validate",
+    "about": "Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate",
+    "star": "3,942",
+    "fork": "595",
+    "timestamp": "2025-06-04T02:44:50.556502",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "TykTechnologies/tyk",
+    "href": "https://github.com/TykTechnologies/tyk",
+    "about": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+    "star": "10,169",
+    "fork": "1,119",
+    "timestamp": "2025-06-04T02:44:50.556781",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "3,070",
+    "fork": "685",
+    "timestamp": "2025-06-04T02:44:50.557077",
+    "stars_today": "2 stars today"
+  }
+]
