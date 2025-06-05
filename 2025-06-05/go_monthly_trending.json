@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "GoogleCloudPlatform/kubectl-ai",
+    "href": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "about": "AI powered Kubernetes Assistant",
+    "star": "5,976",
+    "fork": "498",
+    "timestamp": "2025-06-05T02:44:24.910980",
+    "stars_today": "5,510 stars this month"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,242",
+    "fork": "8,227",
+    "timestamp": "2025-06-05T02:44:24.911298",
+    "stars_today": "346 stars this month"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.",
+    "star": "41,575",
+    "fork": "2,953",
+    "timestamp": "2025-06-05T02:44:24.911625",
+    "stars_today": "2,430 stars this month"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "63,426",
+    "fork": "1,649",
+    "timestamp": "2025-06-05T02:44:24.911920",
+    "stars_today": "2,549 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "71,864",
+    "fork": "4,592",
+    "timestamp": "2025-06-05T02:44:24.912256",
+    "stars_today": "1,984 stars this month"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "11,080",
+    "fork": "1,230",
+    "timestamp": "2025-06-05T02:44:24.912551",
+    "stars_today": "1,441 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "27,016",
+    "fork": "2,573",
+    "timestamp": "2025-06-05T02:44:24.912850",
+    "stars_today": "921 stars this month"
+  },
+  {
+    "repo": "elastic/beats",
+    "href": "https://github.com/elastic/beats",
+    "about": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+    "star": "12,422",
+    "fork": "4,961",
+    "timestamp": "2025-06-05T02:44:24.913173",
+    "stars_today": "108 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,709",
+    "fork": "6,044",
+    "timestamp": "2025-06-05T02:44:24.913475",
+    "stars_today": "341 stars this month"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "14,560",
+    "fork": "1,784",
+    "timestamp": "2025-06-05T02:44:24.913772",
+    "stars_today": "384 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "28,777",
+    "fork": "4,311",
+    "timestamp": "2025-06-05T02:44:24.914086",
+    "stars_today": "597 stars this month"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "1,209",
+    "fork": "129",
+    "timestamp": "2025-06-05T02:44:24.914384",
+    "stars_today": "381 stars this month"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "4,938",
+    "fork": "24,215",
+    "timestamp": "2025-06-05T02:44:24.914682",
+    "stars_today": "77 stars this month"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "4,429",
+    "fork": "311",
+    "timestamp": "2025-06-05T02:44:24.914998",
+    "stars_today": "4,109 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "star": "24,662",
+    "fork": "2,407",
+    "timestamp": "2025-06-05T02:44:24.915297",
+    "stars_today": "409 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "50,775",
+    "fork": "4,541",
+    "timestamp": "2025-06-05T02:44:24.915625",
+    "stars_today": "697 stars this month"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "13,527",
+    "fork": "957",
+    "timestamp": "2025-06-05T02:44:24.915921",
+    "stars_today": "324 stars this month"
+  },
+  {
+    "repo": "dunglas/frankenphp",
+    "href": "https://github.com/dunglas/frankenphp",
+    "about": "🧟 The modern PHP app server",
+    "star": "7,977",
+    "fork": "313",
+    "timestamp": "2025-06-05T02:44:24.916257",
+    "stars_today": "261 stars this month"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,221",
+    "fork": "1,386",
+    "timestamp": "2025-06-05T02:44:24.916552",
+    "stars_today": "313 stars this month"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "7,090",
+    "fork": "664",
+    "timestamp": "2025-06-05T02:44:24.916845",
+    "stars_today": "164 stars this month"
+  },
+  {
+    "repo": "bytebase/bytebase",
+    "href": "https://github.com/bytebase/bytebase",
+    "about": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+    "star": "12,524",
+    "fork": "808",
+    "timestamp": "2025-06-05T02:44:24.917197",
+    "stars_today": "195 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,620",
+    "fork": "2,790",
+    "timestamp": "2025-06-05T02:44:24.917488",
+    "stars_today": "90 stars this month"
+  },
+  {
+    "repo": "googleapis/go-genai",
+    "href": "https://github.com/googleapis/go-genai",
+    "about": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+    "star": "490",
+    "fork": "54",
+    "timestamp": "2025-06-05T02:44:24.917780",
+    "stars_today": "250 stars this month"
+  }
+]

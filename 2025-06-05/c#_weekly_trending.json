@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "jemalloc/jemalloc",
+    "href": "https://github.com/jemalloc/jemalloc",
+    "about": "",
+    "star": "10,172",
+    "fork": "1,506",
+    "timestamp": "2025-06-05T02:44:15.917645",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+    "star": "69,509",
+    "fork": "24,052",
+    "timestamp": "2025-06-05T02:44:15.918023",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,909",
+    "fork": "2,698",
+    "timestamp": "2025-06-05T02:44:15.918317",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "9,787",
+    "fork": "2,492",
+    "timestamp": "2025-06-05T02:44:15.918608",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "11,501",
+    "fork": "953",
+    "timestamp": "2025-06-05T02:44:15.918896",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "microsoft/msquic",
+    "href": "https://github.com/microsoft/msquic",
+    "about": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+    "star": "4,340",
+    "fork": "576",
+    "timestamp": "2025-06-05T02:44:15.919198",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "about": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "star": "23,304",
+    "fork": "4,923",
+    "timestamp": "2025-06-05T02:44:15.919488",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "11,580",
+    "fork": "3,307",
+    "timestamp": "2025-06-05T02:44:15.919776",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "5,874",
+    "fork": "866",
+    "timestamp": "2025-06-05T02:44:15.920110",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tmux/tmux",
+    "href": "https://github.com/tmux/tmux",
+    "about": "tmux source code",
+    "star": "37,622",
+    "fork": "2,203",
+    "timestamp": "2025-06-05T02:44:15.920427",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "nothings/stb",
+    "href": "https://github.com/nothings/stb",
+    "about": "stb single-file public domain libraries for C/C++",
+    "star": "28,955",
+    "fork": "7,834",
+    "timestamp": "2025-06-05T02:44:15.920716",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "4,020",
+    "fork": "474",
+    "timestamp": "2025-06-05T02:44:15.921015",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+    "star": "13,725",
+    "fork": "1,439",
+    "timestamp": "2025-06-05T02:44:15.921338",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "open62541/open62541",
+    "href": "https://github.com/open62541/open62541",
+    "about": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+    "star": "2,807",
+    "fork": "1,318",
+    "timestamp": "2025-06-05T02:44:15.921634",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "torvalds/linux",
+    "href": "https://github.com/torvalds/linux",
+    "about": "Linux kernel source tree",
+    "star": "195,036",
+    "fork": "56,135",
+    "timestamp": "2025-06-05T02:44:15.921926",
+    "stars_today": "103 stars today"
+  },
+  {
+    "repo": "warmcat/libwebsockets",
+    "href": "https://github.com/warmcat/libwebsockets",
+    "about": "canonical libwebsockets.org networking library",
+    "star": "4,997",
+    "fork": "1,538",
+    "timestamp": "2025-06-05T02:44:15.922233",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rusefi/rusefi",
+    "href": "https://github.com/rusefi/rusefi",
+    "about": "rusefi - GPL internal combustion engine control unit",
+    "star": "887",
+    "fork": "290",
+    "timestamp": "2025-06-05T02:44:15.922525",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "href": "https://github.com/timescale/timescaledb",
+    "about": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+    "star": "19,226",
+    "fork": "943",
+    "timestamp": "2025-06-05T02:44:15.922815",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "micropython/micropython",
+    "href": "https://github.com/micropython/micropython",
+    "about": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+    "star": "20,444",
+    "fork": "8,217",
+    "timestamp": "2025-06-05T02:44:15.923149",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "openssh/openssh-portable",
+    "href": "https://github.com/openssh/openssh-portable",
+    "about": "Portable OpenSSH",
+    "star": "3,385",
+    "fork": "1,888",
+    "timestamp": "2025-06-05T02:44:15.923436",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "22,643",
+    "fork": "11,225",
+    "timestamp": "2025-06-05T02:44:15.923727",
+    "stars_today": "17 stars today"
+  }
+]
