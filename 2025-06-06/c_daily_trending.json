@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "torvalds/linux",
+    "href": "https://github.com/torvalds/linux",
+    "about": "Linux kernel source tree",
+    "star": "195,107",
+    "fork": "56,152",
+    "timestamp": "2025-06-06T02:43:32.053853",
+    "stars_today": "93 stars today"
+  },
+  {
+    "repo": "jemalloc/jemalloc",
+    "href": "https://github.com/jemalloc/jemalloc",
+    "about": "",
+    "star": "10,184",
+    "fork": "1,505",
+    "timestamp": "2025-06-06T02:43:32.054185",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "google/security-research",
+    "href": "https://github.com/google/security-research",
+    "about": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "star": "4,031",
+    "fork": "474",
+    "timestamp": "2025-06-06T02:43:32.054487",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "11,586",
+    "fork": "3,309",
+    "timestamp": "2025-06-06T02:43:32.054802",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "RT-Thread/rt-thread",
+    "href": "https://github.com/RT-Thread/rt-thread",
+    "about": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+    "star": "11,168",
+    "fork": "5,182",
+    "timestamp": "2025-06-06T02:43:32.055102",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "15,385",
+    "fork": "7,687",
+    "timestamp": "2025-06-06T02:43:32.055394",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "open62541/open62541",
+    "href": "https://github.com/open62541/open62541",
+    "about": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+    "star": "2,809",
+    "fork": "1,318",
+    "timestamp": "2025-06-06T02:43:32.055707",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "9,793",
+    "fork": "2,493",
+    "timestamp": "2025-06-06T02:43:32.056023",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "OpenEtherCATsociety/SOEM",
+    "href": "https://github.com/OpenEtherCATsociety/SOEM",
+    "about": "Simple Open Source EtherCAT Master",
+    "star": "1,527",
+    "fork": "740",
+    "timestamp": "2025-06-06T02:43:32.056314",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,915",
+    "fork": "2,698",
+    "timestamp": "2025-06-06T02:43:32.056602",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "systemd/systemd",
+    "href": "https://github.com/systemd/systemd",
+    "about": "The systemd System and Service Manager",
+    "star": "14,247",
+    "fork": "4,009",
+    "timestamp": "2025-06-06T02:43:32.056903",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "php/php-src",
+    "href": "https://github.com/php/php-src",
+    "about": "The PHP Interpreter",
+    "star": "39,108",
+    "fork": "7,886",
+    "timestamp": "2025-06-06T02:43:32.057195",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,708",
+    "fork": "915",
+    "timestamp": "2025-06-06T02:43:32.057483",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,517",
+    "fork": "1,032",
+    "timestamp": "2025-06-06T02:43:32.057813",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "yugabyte/yugabyte-db",
+    "href": "https://github.com/yugabyte/yugabyte-db",
+    "about": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+    "star": "9,533",
+    "fork": "1,137",
+    "timestamp": "2025-06-06T02:43:32.058108",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "signalwire/freeswitch",
+    "href": "https://github.com/signalwire/freeswitch",
+    "about": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+    "star": "4,103",
+    "fork": "1,545",
+    "timestamp": "2025-06-06T02:43:32.058399",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashcat/hashcat",
+    "href": "https://github.com/hashcat/hashcat",
+    "about": "World's fastest and most advanced password recovery utility",
+    "star": "22,775",
+    "fork": "3,083",
+    "timestamp": "2025-06-06T02:43:32.058689",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "FRRouting/frr",
+    "href": "https://github.com/FRRouting/frr",
+    "about": "The FRRouting Protocol Suite",
+    "star": "3,688",
+    "fork": "1,342",
+    "timestamp": "2025-06-06T02:43:32.058995",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "55,105",
+    "fork": "26,290",
+    "timestamp": "2025-06-06T02:43:32.059284",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,079",
+    "fork": "1,319",
+    "timestamp": "2025-06-06T02:43:32.059573",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "22,668",
+    "fork": "11,230",
+    "timestamp": "2025-06-06T02:43:32.059874",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "15,927",
+    "fork": "779",
+    "timestamp": "2025-06-06T02:43:32.060161",
+    "stars_today": "16 stars today"
+  }
+]
