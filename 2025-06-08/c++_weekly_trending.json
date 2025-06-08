@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "ArduPilot/ardupilot",
+    "href": "https://github.com/ArduPilot/ardupilot",
+    "about": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "star": "12,844",
+    "fork": "18,823",
+    "timestamp": "2025-06-08T02:52:16.164087",
+    "stars_today": "744 stars this week"
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "href": "https://github.com/78/xiaozhi-esp32",
+    "about": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+    "star": "14,690",
+    "fork": "2,804",
+    "timestamp": "2025-06-08T02:52:16.164389",
+    "stars_today": "591 stars this week"
+  },
+  {
+    "repo": "assimp/assimp",
+    "href": "https://github.com/assimp/assimp",
+    "about": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "star": "11,977",
+    "fork": "3,042",
+    "timestamp": "2025-06-08T02:52:16.164685",
+    "stars_today": "311 stars this week"
+  },
+  {
+    "repo": "carbon-language/carbon-lang",
+    "href": "https://github.com/carbon-language/carbon-lang",
+    "about": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+    "star": "32,916",
+    "fork": "1,494",
+    "timestamp": "2025-06-08T02:52:16.164969",
+    "stars_today": "75 stars this week"
+  },
+  {
+    "repo": "duckdb/ducklake",
+    "href": "https://github.com/duckdb/ducklake",
+    "about": "DuckLake is an integrated data lake and catalog format",
+    "star": "1,467",
+    "fork": "57",
+    "timestamp": "2025-06-08T02:52:16.165248",
+    "stars_today": "255 stars this week"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "45,978",
+    "fork": "7,019",
+    "timestamp": "2025-06-08T02:52:16.165567",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "telegramdesktop/tdesktop",
+    "href": "https://github.com/telegramdesktop/tdesktop",
+    "about": "Telegram Desktop messaging app",
+    "star": "27,754",
+    "fork": "5,591",
+    "timestamp": "2025-06-08T02:52:16.165843",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "10,675",
+    "fork": "1,481",
+    "timestamp": "2025-06-08T02:52:16.166119",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "alibaba/MNN",
+    "href": "https://github.com/alibaba/MNN",
+    "about": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+    "star": "11,392",
+    "fork": "1,878",
+    "timestamp": "2025-06-08T02:52:16.166395",
+    "stars_today": "178 stars this week"
+  },
+  {
+    "repo": "BehaviorTree/BehaviorTree.CPP",
+    "href": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "about": "Behavior Trees Library in C++. Batteries included.",
+    "star": "3,392",
+    "fork": "732",
+    "timestamp": "2025-06-08T02:52:16.166685",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "SoftFever/OrcaSlicer",
+    "href": "https://github.com/SoftFever/OrcaSlicer",
+    "about": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "star": "9,845",
+    "fork": "1,229",
+    "timestamp": "2025-06-08T02:52:16.166991",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "68,636",
+    "fork": "10,472",
+    "timestamp": "2025-06-08T02:52:16.167267",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "30,084",
+    "fork": "2,370",
+    "timestamp": "2025-06-08T02:52:16.167580",
+    "stars_today": "292 stars this week"
+  },
+  {
+    "repo": "google-ai-edge/LiteRT",
+    "href": "https://github.com/google-ai-edge/LiteRT",
+    "about": "LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.",
+    "star": "540",
+    "fork": "71",
+    "timestamp": "2025-06-08T02:52:16.167860",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "chiteroman/PlayIntegrityFix",
+    "href": "https://github.com/chiteroman/PlayIntegrityFix",
+    "about": "Fix Play Integrity (and SafetyNet) verdicts.",
+    "star": "7,045",
+    "fork": "442",
+    "timestamp": "2025-06-08T02:52:16.168136",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "google-ai-edge/mediapipe",
+    "href": "https://github.com/google-ai-edge/mediapipe",
+    "about": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "star": "30,125",
+    "fork": "5,382",
+    "timestamp": "2025-06-08T02:52:16.168414",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "ClassicOldSong/Apollo",
+    "href": "https://github.com/ClassicOldSong/Apollo",
+    "about": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+    "star": "4,014",
+    "fork": "74",
+    "timestamp": "2025-06-08T02:52:16.168704",
+    "stars_today": "174 stars this week"
+  },
+  {
+    "repo": "deskflow/deskflow",
+    "href": "https://github.com/deskflow/deskflow",
+    "about": "Share a single keyboard and mouse between multiple computers.",
+    "star": "17,914",
+    "fork": "4,037",
+    "timestamp": "2025-06-08T02:52:16.169013",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "TrinityCore/TrinityCore",
+    "href": "https://github.com/TrinityCore/TrinityCore",
+    "about": "TrinityCore Open Source MMO Framework (master = 11.1.5.61265, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+    "star": "10,016",
+    "fork": "6,143",
+    "timestamp": "2025-06-08T02:52:16.169290",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "19,451",
+    "fork": "3,112",
+    "timestamp": "2025-06-08T02:52:16.169577",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "dail8859/NotepadNext",
+    "href": "https://github.com/dail8859/NotepadNext",
+    "about": "A cross-platform, reimplementation of Notepad++",
+    "star": "10,404",
+    "fork": "625",
+    "timestamp": "2025-06-08T02:52:16.169882",
+    "stars_today": "120 stars this week"
+  },
+  {
+    "repo": "valhalla/valhalla",
+    "href": "https://github.com/valhalla/valhalla",
+    "about": "Open Source Routing Engine for OpenStreetMap",
+    "star": "4,889",
+    "fork": "749",
+    "timestamp": "2025-06-08T02:52:16.170157",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "doctest/doctest",
+    "href": "https://github.com/doctest/doctest",
+    "about": "The fastest feature-rich C++11/14/17/20/23 single-header testing framework",
+    "star": "6,247",
+    "fork": "664",
+    "timestamp": "2025-06-08T02:52:16.170438",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "97,847",
+    "fork": "22,505",
+    "timestamp": "2025-06-08T02:52:16.170731",
+    "stars_today": "232 stars this week"
+  }
+]
