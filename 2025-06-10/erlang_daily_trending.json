@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "couchbase/couchdb",
+    "href": "https://github.com/couchbase/couchdb",
+    "about": "CouchDB",
+    "star": "139",
+    "fork": "56",
+    "timestamp": "2025-06-10T02:46:32.274124",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "14,896",
+    "fork": "2,320",
+    "timestamp": "2025-06-10T02:46:32.274705",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "5,200",
+    "fork": "1,179",
+    "timestamp": "2025-06-10T02:46:32.275262",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "429",
+    "fork": "163",
+    "timestamp": "2025-06-10T02:46:32.275796",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,736",
+    "fork": "522",
+    "timestamp": "2025-06-10T02:46:32.276260",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,205",
+    "fork": "337",
+    "timestamp": "2025-06-10T02:46:32.276831",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlydtl/erlydtl",
+    "href": "https://github.com/erlydtl/erlydtl",
+    "about": "Django templates for Erlang",
+    "star": "503",
+    "fork": "191",
+    "timestamp": "2025-06-10T02:46:32.277291",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlware/relx",
+    "href": "https://github.com/erlware/relx",
+    "about": "Sane, simple release creation for Erlang",
+    "star": "693",
+    "fork": "233",
+    "timestamp": "2025-06-10T02:46:32.277851",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "177",
+    "timestamp": "2025-06-10T02:46:32.278385",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "570",
+    "fork": "153",
+    "timestamp": "2025-06-10T02:46:32.278841",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "100",
+    "fork": "33",
+    "timestamp": "2025-06-10T02:46:32.279385",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "65",
+    "fork": "38",
+    "timestamp": "2025-06-10T02:46:32.279851",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "914",
+    "fork": "233",
+    "timestamp": "2025-06-10T02:46:32.280384",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,737",
+    "fork": "3,017",
+    "timestamp": "2025-06-10T02:46:32.280789",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,352",
+    "fork": "434",
+    "timestamp": "2025-06-10T02:46:32.281252",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlsci/iso8601",
+    "href": "https://github.com/erlsci/iso8601",
+    "about": "An ISO 8601 date formating and parsing library for Erlang",
+    "star": "131",
+    "fork": "94",
+    "timestamp": "2025-06-10T02:46:32.281668",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,390",
+    "fork": "1,175",
+    "timestamp": "2025-06-10T02:46:32.282073",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws_credentials",
+    "href": "https://github.com/aws-beam/aws_credentials",
+    "about": "An Erlang library to provide AWS credentials",
+    "star": "28",
+    "fork": "27",
+    "timestamp": "2025-06-10T02:46:32.282570",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "321",
+    "fork": "104",
+    "timestamp": "2025-06-10T02:46:32.282976",
+    "stars_today": "0 stars today"
+  }
+]
