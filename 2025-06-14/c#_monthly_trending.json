@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "27,593",
+    "fork": "10,598",
+    "timestamp": "2025-06-14T02:40:07.342651",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "apache/nuttx",
+    "href": "https://github.com/apache/nuttx",
+    "about": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+    "star": "3,356",
+    "fork": "1,335",
+    "timestamp": "2025-06-14T02:40:07.342967",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hathach/tinyusb",
+    "href": "https://github.com/hathach/tinyusb",
+    "about": "An open source cross-platform USB stack for embedded system",
+    "star": "5,631",
+    "fork": "1,189",
+    "timestamp": "2025-06-14T02:40:07.343257",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "38,103",
+    "fork": "6,732",
+    "timestamp": "2025-06-14T02:40:07.343584",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,086",
+    "fork": "1,328",
+    "timestamp": "2025-06-14T02:40:07.343858",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,937",
+    "fork": "2,707",
+    "timestamp": "2025-06-14T02:40:07.344131",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "torvalds/linux",
+    "href": "https://github.com/torvalds/linux",
+    "about": "Linux kernel source tree",
+    "star": "195,652",
+    "fork": "56,248",
+    "timestamp": "2025-06-14T02:40:07.344416",
+    "stars_today": "90 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "12,655",
+    "fork": "1,873",
+    "timestamp": "2025-06-14T02:40:07.344690",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "acidanthera/OpenCorePkg",
+    "href": "https://github.com/acidanthera/OpenCorePkg",
+    "about": "OpenCore bootloader",
+    "star": "13,936",
+    "fork": "2,156",
+    "timestamp": "2025-06-14T02:40:07.344962",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "EpicGamesExt/raddebugger",
+    "href": "https://github.com/EpicGamesExt/raddebugger",
+    "about": "A native, user-mode, multi-process, graphical debugger.",
+    "star": "4,999",
+    "fork": "225",
+    "timestamp": "2025-06-14T02:40:07.345237",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "25,382",
+    "fork": "3,702",
+    "timestamp": "2025-06-14T02:40:07.345522",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "OpenMathLib/OpenBLAS",
+    "href": "https://github.com/OpenMathLib/OpenBLAS",
+    "about": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "star": "6,813",
+    "fork": "1,566",
+    "timestamp": "2025-06-14T02:40:07.345795",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenVPN/openvpn",
+    "href": "https://github.com/OpenVPN/openvpn",
+    "about": "OpenVPN is an open source VPN daemon",
+    "star": "11,955",
+    "fork": "3,110",
+    "timestamp": "2025-06-14T02:40:07.346066",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,539",
+    "fork": "1,033",
+    "timestamp": "2025-06-14T02:40:07.346376",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tmux/tmux",
+    "href": "https://github.com/tmux/tmux",
+    "about": "tmux source code",
+    "star": "37,733",
+    "fork": "2,207",
+    "timestamp": "2025-06-14T02:40:07.346680",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "PostHog/DeskHog",
+    "href": "https://github.com/PostHog/DeskHog",
+    "about": "A friend for your desk, a dedicated terminal for numbers",
+    "star": "267",
+    "fork": "7",
+    "timestamp": "2025-06-14T02:40:07.346958",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "kingToolbox/WindTerm",
+    "href": "https://github.com/kingToolbox/WindTerm",
+    "about": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+    "star": "26,614",
+    "fork": "2,060",
+    "timestamp": "2025-06-14T02:40:07.347222",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "bol-van/zapret",
+    "href": "https://github.com/bol-van/zapret",
+    "about": "DPI bypass multi platform",
+    "star": "11,477",
+    "fork": "810",
+    "timestamp": "2025-06-14T02:40:07.347497",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "duixcom/Duix.Heygem",
+    "href": "https://github.com/duixcom/Duix.Heygem",
+    "about": "",
+    "star": "9,842",
+    "fork": "1,620",
+    "timestamp": "2025-06-14T02:40:07.347792",
+    "stars_today": "40 stars today"
+  }
+]
