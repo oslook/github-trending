@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "14,919",
+    "fork": "2,323",
+    "timestamp": "2025-06-17T02:46:12.601400",
+    "stars_today": "158 stars this month"
+  },
+  {
+    "repo": "atomvm/AtomVM",
+    "href": "https://github.com/atomvm/AtomVM",
+    "about": "Tiny Erlang VM",
+    "star": "1,778",
+    "fork": "120",
+    "timestamp": "2025-06-17T02:46:12.601735",
+    "stars_today": "127 stars this month"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,739",
+    "fork": "520",
+    "timestamp": "2025-06-17T02:46:12.602044",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,570",
+    "fork": "353",
+    "timestamp": "2025-06-17T02:46:12.602349",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "424",
+    "fork": "60",
+    "timestamp": "2025-06-17T02:46:12.602667",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "820",
+    "fork": "229",
+    "timestamp": "2025-06-17T02:46:12.603003",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,393",
+    "fork": "1,176",
+    "timestamp": "2025-06-17T02:46:12.603303",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,124",
+    "fork": "454",
+    "timestamp": "2025-06-17T02:46:12.603608",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,302",
+    "fork": "1,530",
+    "timestamp": "2025-06-17T02:46:12.603936",
+    "stars_today": "34 stars this month"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "100",
+    "fork": "33",
+    "timestamp": "2025-06-17T02:46:12.604235",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "570",
+    "fork": "153",
+    "timestamp": "2025-06-17T02:46:12.604534",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "software-mansion/popcorn",
+    "href": "https://github.com/software-mansion/popcorn",
+    "about": "Running Elixir in the browser",
+    "star": "292",
+    "fork": "3",
+    "timestamp": "2025-06-17T02:46:12.604878",
+    "stars_today": "137 stars this month"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "93",
+    "fork": "48",
+    "timestamp": "2025-06-17T02:46:12.605178",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "914",
+    "fork": "233",
+    "timestamp": "2025-06-17T02:46:12.605476",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,351",
+    "fork": "433",
+    "timestamp": "2025-06-17T02:46:12.605785",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,742",
+    "fork": "3,018",
+    "timestamp": "2025-06-17T02:46:12.606084",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "283",
+    "fork": "177",
+    "timestamp": "2025-06-17T02:46:12.606386",
+    "stars_today": "0 stars this month"
+  }
+]
