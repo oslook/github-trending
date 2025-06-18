@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,309",
+    "fork": "1,651",
+    "timestamp": "2025-06-18T02:44:58.811829",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,681",
+    "fork": "5,653",
+    "timestamp": "2025-06-18T02:44:58.812125",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,273",
+    "fork": "1,431",
+    "timestamp": "2025-06-18T02:44:58.812412",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/karpenter",
+    "href": "https://github.com/kubernetes-sigs/karpenter",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "1,057",
+    "fork": "289",
+    "timestamp": "2025-06-18T02:44:58.812715",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "lejianwen/rustdesk-api",
+    "href": "https://github.com/lejianwen/rustdesk-api",
+    "about": "Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login",
+    "star": "1,391",
+    "fork": "293",
+    "timestamp": "2025-06-18T02:44:58.812997",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,486",
+    "fork": "1,373",
+    "timestamp": "2025-06-18T02:44:58.813279",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "Musixal/Backhaul",
+    "href": "https://github.com/Musixal/Backhaul",
+    "about": "Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.",
+    "star": "402",
+    "fork": "86",
+    "timestamp": "2025-06-18T02:44:58.813559",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "10,508",
+    "fork": "737",
+    "timestamp": "2025-06-18T02:44:58.813873",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,630",
+    "fork": "10,075",
+    "timestamp": "2025-06-18T02:44:58.814156",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "23,218",
+    "fork": "1,476",
+    "timestamp": "2025-06-18T02:44:58.814438",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,470",
+    "fork": "231",
+    "timestamp": "2025-06-18T02:44:58.814734",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "5,836",
+    "fork": "534",
+    "timestamp": "2025-06-18T02:44:58.815017",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,531",
+    "fork": "582",
+    "timestamp": "2025-06-18T02:44:58.815301",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "href": "https://github.com/go-sql-driver/mysql",
+    "about": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "star": "14,864",
+    "fork": "2,331",
+    "timestamp": "2025-06-18T02:44:58.815581",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "11,386",
+    "fork": "809",
+    "timestamp": "2025-06-18T02:44:58.815902",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "23,729",
+    "fork": "880",
+    "timestamp": "2025-06-18T02:44:58.816185",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "31,151",
+    "fork": "2,275",
+    "timestamp": "2025-06-18T02:44:58.816494",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "24,352",
+    "fork": "2,904",
+    "timestamp": "2025-06-18T02:44:58.816786",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,461",
+    "fork": "2,996",
+    "timestamp": "2025-06-18T02:44:58.817066",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "143,943",
+    "fork": "12,109",
+    "timestamp": "2025-06-18T02:44:58.817343",
+    "stars_today": "109 stars today"
+  },
+  {
+    "repo": "coredns/coredns",
+    "href": "https://github.com/coredns/coredns",
+    "about": "CoreDNS is a DNS server that chains plugins",
+    "star": "13,086",
+    "fork": "2,250",
+    "timestamp": "2025-06-18T02:44:58.817631",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,747",
+    "fork": "1,652",
+    "timestamp": "2025-06-18T02:44:58.817913",
+    "stars_today": "2 stars today"
+  }
+]
