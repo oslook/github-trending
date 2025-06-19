@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "11,256",
+    "fork": "453",
+    "timestamp": "2025-06-19T02:46:20.926758",
+    "stars_today": "334 stars this month"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,577",
+    "fork": "1,821",
+    "timestamp": "2025-06-19T02:46:20.927056",
+    "stars_today": "214 stars this month"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "38,002",
+    "fork": "3,548",
+    "timestamp": "2025-06-19T02:46:20.927367",
+    "stars_today": "621 stars this month"
+  },
+  {
+    "repo": "tidalcycles/Tidal",
+    "href": "https://github.com/tidalcycles/Tidal",
+    "about": "Pattern language",
+    "star": "2,682",
+    "fork": "273",
+    "timestamp": "2025-06-19T02:46:20.927661",
+    "stars_today": "178 stars this month"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,547",
+    "fork": "330",
+    "timestamp": "2025-06-19T02:46:20.927947",
+    "stars_today": "84 stars this month"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,134",
+    "fork": "732",
+    "timestamp": "2025-06-19T02:46:20.928227",
+    "stars_today": "15 stars this month"
+  },
+  {
+    "repo": "olivierverdier/zsh-git-prompt",
+    "href": "https://github.com/olivierverdier/zsh-git-prompt",
+    "about": "Informative git prompt for zsh",
+    "star": "1,741",
+    "fork": "399",
+    "timestamp": "2025-06-19T02:46:20.928505",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,302",
+    "fork": "328",
+    "timestamp": "2025-06-19T02:46:20.928825",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "unisonweb/unison",
+    "href": "https://github.com/unisonweb/unison",
+    "about": "A friendly programming language from the future",
+    "star": "6,057",
+    "fork": "278",
+    "timestamp": "2025-06-19T02:46:20.929105",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,415",
+    "fork": "1,095",
+    "timestamp": "2025-06-19T02:46:20.929386",
+    "stars_today": "143 stars this month"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official (but not yet stable) formatter for Nix code",
+    "star": "1,178",
+    "fork": "59",
+    "timestamp": "2025-06-19T02:46:20.929679",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "haskell/cabal",
+    "href": "https://github.com/haskell/cabal",
+    "about": "Official upstream development repository for Cabal and cabal-install",
+    "star": "1,678",
+    "fork": "712",
+    "timestamp": "2025-06-19T02:46:20.929960",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "ghc/ghc",
+    "href": "https://github.com/ghc/ghc",
+    "about": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+    "star": "3,131",
+    "fork": "720",
+    "timestamp": "2025-06-19T02:46:20.930244",
+    "stars_today": "12 stars this month"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "22,194",
+    "fork": "2,972",
+    "timestamp": "2025-06-19T02:46:16.273675",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "elixir-ecto/ecto",
+    "href": "https://github.com/elixir-ecto/ecto",
+    "about": "A toolkit for data mapping and language integrated query.",
+    "star": "6,319",
+    "fork": "1,447",
+    "timestamp": "2025-06-19T02:46:16.273984",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "kieraneglin/pinchflat",
+    "href": "https://github.com/kieraneglin/pinchflat",
+    "about": "Your next YouTube media manager",
+    "star": "3,229",
+    "fork": "76",
+    "timestamp": "2025-06-19T02:46:16.274275",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "25,364",
+    "fork": "3,440",
+    "timestamp": "2025-06-19T02:46:16.274564",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "4,031",
+    "fork": "2,740",
+    "timestamp": "2025-06-19T02:46:16.274890",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "cloudwalk/hermes-mcp",
+    "href": "https://github.com/cloudwalk/hermes-mcp",
+    "about": "Elixir Model Context Protocol (MCP) SDK",
+    "star": "194",
+    "fork": "15",
+    "timestamp": "2025-06-19T02:46:16.275174",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "duffelhq/paginator",
+    "href": "https://github.com/duffelhq/paginator",
+    "about": "Cursor-based pagination for Elixir Ecto",
+    "star": "795",
+    "fork": "98",
+    "timestamp": "2025-06-19T02:46:16.275459",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "elixir-protobuf/protobuf",
+    "href": "https://github.com/elixir-protobuf/protobuf",
+    "about": "A pure Elixir implementation of Google Protobuf.",
+    "star": "873",
+    "fork": "149",
+    "timestamp": "2025-06-19T02:46:16.275759",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "ntrepid8/ex_crypto",
+    "href": "https://github.com/ntrepid8/ex_crypto",
+    "about": "Wrapper around the Erlang crypto module for Elixir.",
+    "star": "156",
+    "fork": "51",
+    "timestamp": "2025-06-19T02:46:16.276047",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "tuist/Noora",
+    "href": "https://github.com/tuist/Noora",
+    "about": "🎨 A design system for Swift CLIs and Phoenix apps",
+    "star": "249",
+    "fork": "12",
+    "timestamp": "2025-06-19T02:46:16.276361",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "bitwalker/timex",
+    "href": "https://github.com/bitwalker/timex",
+    "about": "A complete date/time library for Elixir projects.",
+    "star": "1,782",
+    "fork": "394",
+    "timestamp": "2025-06-19T02:46:16.276662",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "commanded/eventstore",
+    "href": "https://github.com/commanded/eventstore",
+    "about": "Event store using PostgreSQL for persistence",
+    "star": "1,114",
+    "fork": "154",
+    "timestamp": "2025-06-19T02:46:16.276949",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "sequinstream/sequin",
+    "href": "https://github.com/sequinstream/sequin",
+    "about": "Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more",
+    "star": "1,374",
+    "fork": "62",
+    "timestamp": "2025-06-19T02:46:16.277234",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "7,152",
+    "fork": "362",
+    "timestamp": "2025-06-19T02:46:16.277546",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "OffchainLabs/blockscout",
+    "href": "https://github.com/OffchainLabs/blockscout",
+    "about": "",
+    "star": "46",
+    "fork": "24",
+    "timestamp": "2025-06-19T02:46:16.277869",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "electric-sql/electric",
+    "href": "https://github.com/electric-sql/electric",
+    "about": "Real-time sync for Postgres.",
+    "star": "8,601",
+    "fork": "234",
+    "timestamp": "2025-06-19T02:46:16.278149",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "brainlid/langchain",
+    "href": "https://github.com/brainlid/langchain",
+    "about": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
+    "star": "913",
+    "fork": "122",
+    "timestamp": "2025-06-19T02:46:16.278426",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,508",
+    "fork": "986",
+    "timestamp": "2025-06-19T02:46:16.278719",
+    "stars_today": "6 stars this week"
+  }
+]
