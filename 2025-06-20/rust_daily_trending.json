@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "MystenLabs/sui",
+    "href": "https://github.com/MystenLabs/sui",
+    "about": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "star": "7,098",
+    "fork": "11,534",
+    "timestamp": "2025-06-20T02:45:44.777976",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "91,008",
+    "fork": "13,113",
+    "timestamp": "2025-06-20T02:45:44.778332",
+    "stars_today": "88 stars today"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "14,920",
+    "fork": "1,213",
+    "timestamp": "2025-06-20T02:45:44.778654",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "16,309",
+    "fork": "535",
+    "timestamp": "2025-06-20T02:45:44.778990",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "61,604",
+    "fork": "4,509",
+    "timestamp": "2025-06-20T02:45:44.779300",
+    "stars_today": "118 stars today"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "16,278",
+    "fork": "549",
+    "timestamp": "2025-06-20T02:45:44.779658",
+    "stars_today": "87 stars today"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "19,509",
+    "fork": "615",
+    "timestamp": "2025-06-20T02:45:44.780186",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "15,321",
+    "fork": "610",
+    "timestamp": "2025-06-20T02:45:44.780495",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "href": "https://github.com/TabbyML/tabby",
+    "about": "Self-hosted AI coding assistant",
+    "star": "31,483",
+    "fork": "1,503",
+    "timestamp": "2025-06-20T02:45:44.780816",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,821",
+    "fork": "352",
+    "timestamp": "2025-06-20T02:45:44.781116",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "40,174",
+    "fork": "1,405",
+    "timestamp": "2025-06-20T02:45:44.781417",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "tursodatabase/limbo",
+    "href": "https://github.com/tursodatabase/limbo",
+    "about": "Limbo is a project to build the next evolution of SQLite.",
+    "star": "11,164",
+    "fork": "425",
+    "timestamp": "2025-06-20T02:45:44.781731",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "58,328",
+    "fork": "1,669",
+    "timestamp": "2025-06-20T02:45:44.782032",
+    "stars_today": "122 stars today"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+    "star": "34,093",
+    "fork": "2,273",
+    "timestamp": "2025-06-20T02:45:44.782327",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "38,076",
+    "fork": "2,885",
+    "timestamp": "2025-06-20T02:45:44.782636",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "huggingface/candle",
+    "href": "https://github.com/huggingface/candle",
+    "about": "Minimalist ML framework for Rust",
+    "star": "17,432",
+    "fork": "1,125",
+    "timestamp": "2025-06-20T02:45:44.782933",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "29,432",
+    "fork": "999",
+    "timestamp": "2025-06-20T02:45:44.783237",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "XAMPPRocky/tokei",
+    "href": "https://github.com/XAMPPRocky/tokei",
+    "about": "Count your code, quickly.",
+    "star": "12,669",
+    "fork": "585",
+    "timestamp": "2025-06-20T02:45:44.783577",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "51,943",
+    "fork": "2,079",
+    "timestamp": "2025-06-20T02:45:44.783881",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-rust",
+    "href": "https://github.com/open-telemetry/opentelemetry-rust",
+    "about": "The Rust OpenTelemetry implementation",
+    "star": "2,201",
+    "fork": "531",
+    "timestamp": "2025-06-20T02:45:44.784180",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "20,769",
+    "fork": "1,502",
+    "timestamp": "2025-06-20T02:45:44.784510",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "about": "A Flash Player emulator written in Rust",
+    "star": "16,787",
+    "fork": "890",
+    "timestamp": "2025-06-20T02:45:44.784849",
+    "stars_today": "8 stars today"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,206",
+    "fork": "948",
+    "timestamp": "2025-06-20T02:45:45.184919",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,701",
+    "fork": "656",
+    "timestamp": "2025-06-20T02:45:45.185256",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "971",
+    "fork": "199",
+    "timestamp": "2025-06-20T02:45:45.185582",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,372",
+    "fork": "549",
+    "timestamp": "2025-06-20T02:45:45.185898",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,332",
+    "fork": "28,622",
+    "timestamp": "2025-06-20T02:45:45.186202",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,577",
+    "fork": "563",
+    "timestamp": "2025-06-20T02:45:45.186537",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,433",
+    "fork": "555",
+    "timestamp": "2025-06-20T02:45:45.186857",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "913",
+    "fork": "610",
+    "timestamp": "2025-06-20T02:45:45.187164",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,438",
+    "fork": "775",
+    "timestamp": "2025-06-20T02:45:45.187469",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "845",
+    "fork": "199",
+    "timestamp": "2025-06-20T02:45:45.187786",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,449",
+    "fork": "330",
+    "timestamp": "2025-06-20T02:45:45.188091",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "WhatsApp/eqwalizer",
+    "href": "https://github.com/WhatsApp/eqwalizer",
+    "about": "A type-checker for Erlang",
+    "star": "529",
+    "fork": "32",
+    "timestamp": "2025-06-20T02:45:45.188398",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,037",
+    "fork": "1,100",
+    "timestamp": "2025-06-20T02:45:45.188713",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,204",
+    "fork": "378",
+    "timestamp": "2025-06-20T02:45:45.189022",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,311",
+    "fork": "12,146",
+    "timestamp": "2025-06-20T02:45:45.189321",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,259",
+    "fork": "1,253",
+    "timestamp": "2025-06-20T02:45:45.189629",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,089",
+    "fork": "1,852",
+    "timestamp": "2025-06-20T02:45:45.189937",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,135",
+    "fork": "557",
+    "timestamp": "2025-06-20T02:45:45.190240",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "905",
+    "fork": "255",
+    "timestamp": "2025-06-20T02:45:45.190542",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,303",
+    "fork": "631",
+    "timestamp": "2025-06-20T02:45:45.190857",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,694",
+    "fork": "1,211",
+    "timestamp": "2025-06-20T02:45:45.191156",
+    "stars_today": "1 star today"
+  }
+]

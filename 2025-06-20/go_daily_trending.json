@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "php/frankenphp",
+    "href": "https://github.com/php/frankenphp",
+    "about": "🧟 The modern PHP app server",
+    "star": "8,785",
+    "fork": "329",
+    "timestamp": "2025-06-20T02:45:29.281105",
+    "stars_today": "177 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "144,218",
+    "fork": "12,136",
+    "timestamp": "2025-06-20T02:45:29.281416",
+    "stars_today": "130 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,861",
+    "fork": "6,100",
+    "timestamp": "2025-06-20T02:45:29.281735",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,177",
+    "fork": "1,164",
+    "timestamp": "2025-06-20T02:45:29.282029",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "loft-sh/devpod",
+    "href": "https://github.com/loft-sh/devpod",
+    "about": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+    "star": "13,786",
+    "fork": "450",
+    "timestamp": "2025-06-20T02:45:29.282326",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "Ingenimax/agent-sdk-go",
+    "href": "https://github.com/Ingenimax/agent-sdk-go",
+    "about": "",
+    "star": "131",
+    "fork": "43",
+    "timestamp": "2025-06-20T02:45:29.282674",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,651",
+    "fork": "10,083",
+    "timestamp": "2025-06-20T02:45:29.282980",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "manusa/kubernetes-mcp-server",
+    "href": "https://github.com/manusa/kubernetes-mcp-server",
+    "about": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "star": "292",
+    "fork": "53",
+    "timestamp": "2025-06-20T02:45:29.283273",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,112",
+    "fork": "978",
+    "timestamp": "2025-06-20T02:45:29.283586",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,508",
+    "fork": "1,373",
+    "timestamp": "2025-06-20T02:45:29.283893",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/syzkaller",
+    "href": "https://github.com/google/syzkaller",
+    "about": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+    "star": "5,719",
+    "fork": "1,293",
+    "timestamp": "2025-06-20T02:45:29.284196",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,167",
+    "fork": "2,490",
+    "timestamp": "2025-06-20T02:45:29.284498",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,247",
+    "fork": "1,443",
+    "timestamp": "2025-06-20T02:45:29.284847",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "7,229",
+    "fork": "945",
+    "timestamp": "2025-06-20T02:45:29.285179",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,313",
+    "fork": "2,317",
+    "timestamp": "2025-06-20T02:45:29.285479",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "href": "https://github.com/kubernetes/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "15,002",
+    "fork": "4,238",
+    "timestamp": "2025-06-20T02:45:29.285795",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "href": "https://github.com/aquasecurity/kube-bench",
+    "about": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+    "star": "7,531",
+    "fork": "1,279",
+    "timestamp": "2025-06-20T02:45:29.286097",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,765",
+    "fork": "1,652",
+    "timestamp": "2025-06-20T02:45:29.286396",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,729",
+    "fork": "1,050",
+    "timestamp": "2025-06-20T02:45:29.286741",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "golang/tools",
+    "href": "https://github.com/golang/tools",
+    "about": "[mirror] Go Tools",
+    "star": "7,732",
+    "fork": "2,310",
+    "timestamp": "2025-06-20T02:45:29.287042",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+    "star": "5,109",
+    "fork": "597",
+    "timestamp": "2025-06-20T02:45:29.287341",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "25,682",
+    "fork": "3,687",
+    "timestamp": "2025-06-20T02:45:29.287644",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "21,945",
+    "fork": "4,517",
+    "timestamp": "2025-06-20T02:45:29.287940",
+    "stars_today": "5 stars today"
+  }
+]
