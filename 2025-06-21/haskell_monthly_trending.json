@@ -1,0 +1,119 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "11,266",
+    "fork": "454",
+    "timestamp": "2025-06-21T02:41:15.506516",
+    "stars_today": "337 stars this month"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,582",
+    "fork": "1,823",
+    "timestamp": "2025-06-21T02:41:15.506824",
+    "stars_today": "210 stars this month"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "38,025",
+    "fork": "3,549",
+    "timestamp": "2025-06-21T02:41:15.507147",
+    "stars_today": "600 stars this month"
+  },
+  {
+    "repo": "tidalcycles/Tidal",
+    "href": "https://github.com/tidalcycles/Tidal",
+    "about": "Pattern language",
+    "star": "2,697",
+    "fork": "275",
+    "timestamp": "2025-06-21T02:41:15.507450",
+    "stars_today": "191 stars this month"
+  },
+  {
+    "repo": "olivierverdier/zsh-git-prompt",
+    "href": "https://github.com/olivierverdier/zsh-git-prompt",
+    "about": "Informative git prompt for zsh",
+    "star": "1,741",
+    "fork": "399",
+    "timestamp": "2025-06-21T02:41:15.507733",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,421",
+    "fork": "1,094",
+    "timestamp": "2025-06-21T02:41:15.508016",
+    "stars_today": "145 stars this month"
+  },
+  {
+    "repo": "kmonad/kmonad",
+    "href": "https://github.com/kmonad/kmonad",
+    "about": "An advanced keyboard manager",
+    "star": "4,549",
+    "fork": "330",
+    "timestamp": "2025-06-21T02:41:15.508309",
+    "stars_today": "83 stars this month"
+  },
+  {
+    "repo": "unisonweb/unison",
+    "href": "https://github.com/unisonweb/unison",
+    "about": "A friendly programming language from the future",
+    "star": "6,059",
+    "fork": "278",
+    "timestamp": "2025-06-21T02:41:15.508590",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,133",
+    "fork": "732",
+    "timestamp": "2025-06-21T02:41:15.508868",
+    "stars_today": "15 stars this month"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,302",
+    "fork": "328",
+    "timestamp": "2025-06-21T02:41:15.509185",
+    "stars_today": "40 stars this month"
+  },
+  {
+    "repo": "haskell/cabal",
+    "href": "https://github.com/haskell/cabal",
+    "about": "Official upstream development repository for Cabal and cabal-install",
+    "star": "1,678",
+    "fork": "712",
+    "timestamp": "2025-06-21T02:41:15.509469",
+    "stars_today": "8 stars this month"
+  },
+  {
+    "repo": "b3nj5m1n/xdg-ninja",
+    "href": "https://github.com/b3nj5m1n/xdg-ninja",
+    "about": "A shell script which checks your $HOME for unwanted files and directories.",
+    "star": "2,863",
+    "fork": "161",
+    "timestamp": "2025-06-21T02:41:15.509749",
+    "stars_today": "31 stars this month"
+  },
+  {
+    "repo": "ghc/ghc",
+    "href": "https://github.com/ghc/ghc",
+    "about": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+    "star": "3,132",
+    "fork": "720",
+    "timestamp": "2025-06-21T02:41:15.510038",
+    "stars_today": "11 stars this month"
+  }
+]
