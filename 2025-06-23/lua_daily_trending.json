@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "supermaven-inc/supermaven-nvim",
+    "href": "https://github.com/supermaven-inc/supermaven-nvim",
+    "about": "The official Neovim plugin for Supermaven",
+    "star": "1,096",
+    "fork": "55",
+    "timestamp": "2025-06-23T02:54:44.648603",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "25,517",
+    "fork": "35,738",
+    "timestamp": "2025-06-23T02:54:44.649058",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "22,106",
+    "fork": "1,474",
+    "timestamp": "2025-06-23T02:54:44.649359",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,897",
+    "fork": "225",
+    "timestamp": "2025-06-23T02:54:44.649696",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "14,615",
+    "fork": "635",
+    "timestamp": "2025-06-23T02:54:44.649995",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,175",
+    "fork": "2,256",
+    "timestamp": "2025-06-23T02:54:44.650315",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,253",
+    "fork": "2,787",
+    "timestamp": "2025-06-23T02:54:44.650636",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "greggh/claude-code.nvim",
+    "href": "https://github.com/greggh/claude-code.nvim",
+    "about": "Seamless integration between Claude Code AI assistant and Neovim",
+    "star": "515",
+    "fork": "17",
+    "timestamp": "2025-06-23T02:54:44.650956",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/vim-be-good",
+    "href": "https://github.com/ThePrimeagen/vim-be-good",
+    "about": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+    "star": "3,864",
+    "fork": "154",
+    "timestamp": "2025-06-23T02:54:44.651270",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "overextended/ox_lib",
+    "href": "https://github.com/overextended/ox_lib",
+    "about": "A FiveM resource and script library for Lua and JS.",
+    "star": "369",
+    "fork": "580",
+    "timestamp": "2025-06-23T02:54:44.651568",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "12,018",
+    "fork": "776",
+    "timestamp": "2025-06-23T02:54:44.651855",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,157",
+    "fork": "311",
+    "timestamp": "2025-06-23T02:54:44.652145",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nvim-tree/nvim-web-devicons",
+    "href": "https://github.com/nvim-tree/nvim-web-devicons",
+    "about": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
+    "star": "2,418",
+    "fork": "204",
+    "timestamp": "2025-06-23T02:54:44.652440",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "4,759",
+    "fork": "274",
+    "timestamp": "2025-06-23T02:54:44.652730",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,360",
+    "fork": "1,100",
+    "timestamp": "2025-06-23T02:54:44.653018",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,637",
+    "fork": "261",
+    "timestamp": "2025-06-23T02:54:44.653308",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "shahrilnet/remote_lua_loader",
+    "href": "https://github.com/shahrilnet/remote_lua_loader",
+    "about": "",
+    "star": "211",
+    "fork": "41",
+    "timestamp": "2025-06-23T02:54:44.653629",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jdhao/nvim-config",
+    "href": "https://github.com/jdhao/nvim-config",
+    "about": "A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",
+    "star": "3,950",
+    "fork": "567",
+    "timestamp": "2025-06-23T02:54:44.653916",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "IntQuant/noita_entangled_worlds",
+    "href": "https://github.com/IntQuant/noita_entangled_worlds",
+    "about": "True coop multiplayer mod for Noita.",
+    "star": "757",
+    "fork": "39",
+    "timestamp": "2025-06-23T02:54:44.654202",
+    "stars_today": "1 star today"
+  }
+]
