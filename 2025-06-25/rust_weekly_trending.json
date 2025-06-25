@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "43,124",
+    "fork": "1,151",
+    "timestamp": "2025-06-25T02:48:01.952341",
+    "stars_today": "985 stars this week"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "19,673",
+    "fork": "619",
+    "timestamp": "2025-06-25T02:48:01.952667",
+    "stars_today": "257 stars this week"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "15,386",
+    "fork": "617",
+    "timestamp": "2025-06-25T02:48:01.952955",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "61,833",
+    "fork": "4,568",
+    "timestamp": "2025-06-25T02:48:01.953251",
+    "stars_today": "466 stars this week"
+  },
+  {
+    "repo": "qarmin/czkawka",
+    "href": "https://github.com/qarmin/czkawka",
+    "about": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "star": "24,195",
+    "fork": "754",
+    "timestamp": "2025-06-25T02:48:01.953568",
+    "stars_today": "153 stars this week"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,862",
+    "fork": "357",
+    "timestamp": "2025-06-25T02:48:01.953850",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "Automattic/harper",
+    "href": "https://github.com/Automattic/harper",
+    "about": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "star": "6,101",
+    "fork": "146",
+    "timestamp": "2025-06-25T02:48:01.954135",
+    "stars_today": "1,599 stars this week"
+  },
+  {
+    "repo": "MystenLabs/sui",
+    "href": "https://github.com/MystenLabs/sui",
+    "about": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "star": "7,139",
+    "fork": "11,535",
+    "timestamp": "2025-06-25T02:48:01.954428",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "29,507",
+    "fork": "1,005",
+    "timestamp": "2025-06-25T02:48:01.954710",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "91,415",
+    "fork": "13,206",
+    "timestamp": "2025-06-25T02:48:01.955022",
+    "stars_today": "597 stars this week"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "9,105",
+    "fork": "308",
+    "timestamp": "2025-06-25T02:48:01.955346",
+    "stars_today": "282 stars this week"
+  },
+  {
+    "repo": "unionlabs/union",
+    "href": "https://github.com/unionlabs/union",
+    "about": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+    "star": "68,551",
+    "fork": "3,356",
+    "timestamp": "2025-06-25T02:48:01.955631",
+    "stars_today": "1,320 stars this week"
+  },
+  {
+    "repo": "Orange-OpenSource/hurl",
+    "href": "https://github.com/Orange-OpenSource/hurl",
+    "about": "Hurl, run and test HTTP requests with plain text.",
+    "star": "16,264",
+    "fork": "647",
+    "timestamp": "2025-06-25T02:48:01.955915",
+    "stars_today": "1,265 stars this week"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "16,403",
+    "fork": "539",
+    "timestamp": "2025-06-25T02:48:01.956236",
+    "stars_today": "301 stars this week"
+  },
+  {
+    "repo": "ast-grep/ast-grep",
+    "href": "https://github.com/ast-grep/ast-grep",
+    "about": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+    "star": "9,076",
+    "fork": "235",
+    "timestamp": "2025-06-25T02:48:01.956518",
+    "stars_today": "169 stars this week"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "about": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "star": "10,282",
+    "fork": "825",
+    "timestamp": "2025-06-25T02:48:01.956801",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "15,326",
+    "fork": "597",
+    "timestamp": "2025-06-25T02:48:01.957081",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "quickwit-oss/quickwit",
+    "href": "https://github.com/quickwit-oss/quickwit",
+    "about": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+    "star": "10,137",
+    "fork": "464",
+    "timestamp": "2025-06-25T02:48:01.957376",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "28,300",
+    "fork": "1,961",
+    "timestamp": "2025-06-25T02:48:01.957655",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "href": "https://github.com/ruffle-rs/ruffle",
+    "about": "A Flash Player emulator written in Rust",
+    "star": "16,821",
+    "fork": "892",
+    "timestamp": "2025-06-25T02:48:01.957964",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "about": "A curated list of Rust code and resources.",
+    "star": "51,102",
+    "fork": "2,947",
+    "timestamp": "2025-06-25T02:48:01.958254",
+    "stars_today": "172 stars this week"
+  }
+]
