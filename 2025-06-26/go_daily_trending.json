@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "20,544",
+    "fork": "1,636",
+    "timestamp": "2025-06-26T02:46:27.374724",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,921",
+    "fork": "6,114",
+    "timestamp": "2025-06-26T02:46:27.375030",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "13,124",
+    "fork": "1,214",
+    "timestamp": "2025-06-26T02:46:27.375320",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "NVIDIA/nvidia-container-toolkit",
+    "href": "https://github.com/NVIDIA/nvidia-container-toolkit",
+    "about": "Build and run containers leveraging NVIDIA GPUs",
+    "star": "3,354",
+    "fork": "359",
+    "timestamp": "2025-06-26T02:46:27.375604",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "kitops-ml/kitops",
+    "href": "https://github.com/kitops-ml/kitops",
+    "about": "An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.",
+    "star": "976",
+    "fork": "108",
+    "timestamp": "2025-06-26T02:46:27.375905",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "awslabs/diagram-as-code",
+    "href": "https://github.com/awslabs/diagram-as-code",
+    "about": "Diagram-as-code for AWS architecture.",
+    "star": "930",
+    "fork": "62",
+    "timestamp": "2025-06-26T02:46:27.376188",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/kubectl-ai",
+    "href": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "about": "AI powered Kubernetes Assistant",
+    "star": "6,271",
+    "fork": "541",
+    "timestamp": "2025-06-26T02:46:27.376467",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "11,764",
+    "fork": "1,047",
+    "timestamp": "2025-06-26T02:46:27.376759",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "81,763",
+    "fork": "7,910",
+    "timestamp": "2025-06-26T02:46:27.377038",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,514",
+    "fork": "2,313",
+    "timestamp": "2025-06-26T02:46:27.377318",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "27,349",
+    "fork": "2,686",
+    "timestamp": "2025-06-26T02:46:27.377597",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kgateway-dev/kgateway",
+    "href": "https://github.com/kgateway-dev/kgateway",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "4,590",
+    "fork": "523",
+    "timestamp": "2025-06-26T02:46:27.377888",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "oras-project/oras",
+    "href": "https://github.com/oras-project/oras",
+    "about": "OCI registry client - managing content like artifacts, images, packages",
+    "star": "1,785",
+    "fork": "197",
+    "timestamp": "2025-06-26T02:46:27.378174",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "27,246",
+    "fork": "2,599",
+    "timestamp": "2025-06-26T02:46:27.378454",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubeedge/kubeedge",
+    "href": "https://github.com/kubeedge/kubeedge",
+    "about": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+    "star": "7,118",
+    "fork": "1,769",
+    "timestamp": "2025-06-26T02:46:27.378746",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "10,428",
+    "fork": "1,041",
+    "timestamp": "2025-06-26T02:46:27.379025",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "18,686",
+    "fork": "1,865",
+    "timestamp": "2025-06-26T02:46:27.379303",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "kubernetes/kube-state-metrics",
+    "href": "https://github.com/kubernetes/kube-state-metrics",
+    "about": "Add-on agent to generate and expose cluster-level metrics.",
+    "star": "5,776",
+    "fork": "2,086",
+    "timestamp": "2025-06-26T02:46:27.379589",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "35,673",
+    "fork": "5,433",
+    "timestamp": "2025-06-26T02:46:27.379885",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,335",
+    "fork": "1,660",
+    "timestamp": "2025-06-26T02:46:27.380168",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,700",
+    "fork": "3,556",
+    "timestamp": "2025-06-26T02:46:27.380449",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "11,774",
+    "fork": "1,372",
+    "timestamp": "2025-06-26T02:46:27.380771",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,777",
+    "fork": "1,178",
+    "timestamp": "2025-06-26T02:46:27.381051",
+    "stars_today": "2 stars today"
+  }
+]
