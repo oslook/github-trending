@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "21,258",
+    "fork": "1,663",
+    "timestamp": "2025-06-30T02:52:47.519073",
+    "stars_today": "980 stars this week"
+  },
+  {
+    "repo": "psviderski/uncloud",
+    "href": "https://github.com/psviderski/uncloud",
+    "about": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+    "star": "1,445",
+    "fork": "34",
+    "timestamp": "2025-06-30T02:52:47.519579",
+    "stars_today": "434 stars this week"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "30,003",
+    "fork": "3,361",
+    "timestamp": "2025-06-30T02:52:47.519860",
+    "stars_today": "293 stars this week"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "32,707",
+    "fork": "928",
+    "timestamp": "2025-06-30T02:52:47.520153",
+    "stars_today": "275 stars this week"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "11,337",
+    "fork": "759",
+    "timestamp": "2025-06-30T02:52:47.520459",
+    "stars_today": "613 stars this week"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "31,357",
+    "fork": "4,834",
+    "timestamp": "2025-06-30T02:52:47.520734",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "anchore/grype",
+    "href": "https://github.com/anchore/grype",
+    "about": "A vulnerability scanner for container images and filesystems",
+    "star": "10,154",
+    "fork": "649",
+    "timestamp": "2025-06-30T02:52:47.521020",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "11,796",
+    "fork": "1,049",
+    "timestamp": "2025-06-30T02:52:47.521292",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "25,702",
+    "fork": "976",
+    "timestamp": "2025-06-30T02:52:47.521590",
+    "stars_today": "343 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,716",
+    "fork": "3,556",
+    "timestamp": "2025-06-30T02:52:47.521859",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "146,395",
+    "fork": "12,381",
+    "timestamp": "2025-06-30T02:52:47.522170",
+    "stars_today": "496 stars this week"
+  },
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "1,800",
+    "fork": "124",
+    "timestamp": "2025-06-30T02:52:47.522446",
+    "stars_today": "228 stars this week"
+  },
+  {
+    "repo": "Musixal/Backhaul",
+    "href": "https://github.com/Musixal/Backhaul",
+    "about": "Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.",
+    "star": "526",
+    "fork": "108",
+    "timestamp": "2025-06-30T02:52:47.522714",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,386",
+    "fork": "9,551",
+    "timestamp": "2025-06-30T02:52:47.522983",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "13,185",
+    "fork": "1,220",
+    "timestamp": "2025-06-30T02:52:47.523254",
+    "stars_today": "143 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "33,560",
+    "fork": "2,594",
+    "timestamp": "2025-06-30T02:52:47.523551",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "45,481",
+    "fork": "9,911",
+    "timestamp": "2025-06-30T02:52:47.523821",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/httpx",
+    "href": "https://github.com/projectdiscovery/httpx",
+    "about": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+    "star": "8,656",
+    "fork": "924",
+    "timestamp": "2025-06-30T02:52:47.524103",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "ginuerzh/gost",
+    "href": "https://github.com/ginuerzh/gost",
+    "about": "GO Simple Tunnel - a simple tunnel written in golang",
+    "star": "16,887",
+    "fork": "2,573",
+    "timestamp": "2025-06-30T02:52:47.524372",
+    "stars_today": "38 stars this week"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "25,649",
+    "fork": "36,038",
+    "timestamp": "2025-06-30T02:52:53.288278",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "ravitemer/mcphub.nvim",
+    "href": "https://github.com/ravitemer/mcphub.nvim",
+    "about": "An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.",
+    "star": "1,233",
+    "fork": "52",
+    "timestamp": "2025-06-30T02:52:53.288605",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "17,934",
+    "fork": "450",
+    "timestamp": "2025-06-30T02:52:53.288906",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,500",
+    "fork": "301",
+    "timestamp": "2025-06-30T02:52:53.289219",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,801",
+    "fork": "2,159",
+    "timestamp": "2025-06-30T02:52:53.289502",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "22,193",
+    "fork": "1,479",
+    "timestamp": "2025-06-30T02:52:53.289784",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "17,839",
+    "fork": "897",
+    "timestamp": "2025-06-30T02:52:53.290076",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,215",
+    "fork": "2,260",
+    "timestamp": "2025-06-30T02:52:53.290392",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,780",
+    "fork": "363",
+    "timestamp": "2025-06-30T02:52:53.290674",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,270",
+    "fork": "2,784",
+    "timestamp": "2025-06-30T02:52:53.290983",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,676",
+    "fork": "279",
+    "timestamp": "2025-06-30T02:52:53.291292",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "5,273",
+    "fork": "202",
+    "timestamp": "2025-06-30T02:52:53.291570",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "5,136",
+    "fork": "137",
+    "timestamp": "2025-06-30T02:52:53.291845",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,531",
+    "fork": "124",
+    "timestamp": "2025-06-30T02:52:53.292134",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "4,327",
+    "fork": "257",
+    "timestamp": "2025-06-30T02:52:53.292437",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,657",
+    "fork": "261",
+    "timestamp": "2025-06-30T02:52:53.292714",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "IntQuant/noita_entangled_worlds",
+    "href": "https://github.com/IntQuant/noita_entangled_worlds",
+    "about": "True coop multiplayer mod for Noita.",
+    "star": "770",
+    "fork": "40",
+    "timestamp": "2025-06-30T02:52:53.293004",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Grokitach/Stalker_GAMMA",
+    "href": "https://github.com/Grokitach/Stalker_GAMMA",
+    "about": "S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files.",
+    "star": "877",
+    "fork": "153",
+    "timestamp": "2025-06-30T02:52:53.293280",
+    "stars_today": "2 stars today"
+  }
+]
