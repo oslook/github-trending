@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "27,856",
+    "fork": "10,640",
+    "timestamp": "2025-07-04T02:46:55.009141",
+    "stars_today": "87 stars today"
+  },
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "11,677",
+    "fork": "964",
+    "timestamp": "2025-07-04T02:46:55.009443",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "16,377",
+    "fork": "804",
+    "timestamp": "2025-07-04T02:46:55.009751",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "20,058",
+    "fork": "3,696",
+    "timestamp": "2025-07-04T02:46:55.010064",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "15,705",
+    "fork": "7,741",
+    "timestamp": "2025-07-04T02:46:55.010347",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+    "star": "69,865",
+    "fork": "24,110",
+    "timestamp": "2025-07-04T02:46:55.010643",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,098",
+    "fork": "1,335",
+    "timestamp": "2025-07-04T02:46:55.010926",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "685",
+    "fork": "3,211",
+    "timestamp": "2025-07-04T02:46:55.011207",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,318",
+    "fork": "1,290",
+    "timestamp": "2025-07-04T02:46:55.011501",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "jemalloc/jemalloc",
+    "href": "https://github.com/jemalloc/jemalloc",
+    "about": "",
+    "star": "10,274",
+    "fork": "1,532",
+    "timestamp": "2025-07-04T02:46:55.011808",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "OpenVPN/openvpn",
+    "href": "https://github.com/OpenVPN/openvpn",
+    "about": "OpenVPN is an open source VPN daemon",
+    "star": "12,049",
+    "fork": "3,123",
+    "timestamp": "2025-07-04T02:46:55.012088",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "tmux/tmux",
+    "href": "https://github.com/tmux/tmux",
+    "about": "tmux source code",
+    "star": "37,966",
+    "fork": "2,216",
+    "timestamp": "2025-07-04T02:46:55.012395",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "840",
+    "fork": "1,576",
+    "timestamp": "2025-07-04T02:46:55.012696",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "signalwire/freeswitch",
+    "href": "https://github.com/signalwire/freeswitch",
+    "about": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+    "star": "4,165",
+    "fork": "1,565",
+    "timestamp": "2025-07-04T02:46:55.012980",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,746",
+    "fork": "925",
+    "timestamp": "2025-07-04T02:46:55.013266",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "espressif/esp-brookesia",
+    "href": "https://github.com/espressif/esp-brookesia",
+    "about": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+    "star": "249",
+    "fork": "29",
+    "timestamp": "2025-07-04T02:46:55.013557",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,154",
+    "fork": "1,787",
+    "timestamp": "2025-07-04T02:46:55.013831",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,974",
+    "fork": "2,721",
+    "timestamp": "2025-07-04T02:46:55.014111",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "u-boot/u-boot",
+    "href": "https://github.com/u-boot/u-boot",
+    "about": "\"Das U-Boot\" Source Tree",
+    "star": "4,518",
+    "fork": "3,982",
+    "timestamp": "2025-07-04T02:46:55.014394",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,688",
+    "fork": "1,311",
+    "timestamp": "2025-07-04T02:46:55.014690",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "openwall/john",
+    "href": "https://github.com/openwall/john",
+    "about": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+    "star": "11,573",
+    "fork": "2,266",
+    "timestamp": "2025-07-04T02:46:55.014972",
+    "stars_today": "16 stars today"
+  }
+]

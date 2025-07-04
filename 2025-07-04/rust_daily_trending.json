@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "EasyTier/EasyTier",
+    "href": "https://github.com/EasyTier/EasyTier",
+    "about": "A simple, decentralized mesh VPN with WireGuard support.",
+    "star": "5,397",
+    "fork": "464",
+    "timestamp": "2025-07-04T02:47:20.286890",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "BoundaryML/baml",
+    "href": "https://github.com/BoundaryML/baml",
+    "about": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+    "star": "4,321",
+    "fork": "191",
+    "timestamp": "2025-07-04T02:47:20.287195",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "get-convex/convex-backend",
+    "href": "https://github.com/get-convex/convex-backend",
+    "about": "The open-source reactive database for app developers",
+    "star": "5,472",
+    "fork": "283",
+    "timestamp": "2025-07-04T02:47:20.287513",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "zama-ai/tfhe-rs",
+    "href": "https://github.com/zama-ai/tfhe-rs",
+    "about": "TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.",
+    "star": "1,269",
+    "fork": "201",
+    "timestamp": "2025-07-04T02:47:20.287806",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "60,219",
+    "fork": "1,717",
+    "timestamp": "2025-07-04T02:47:20.288095",
+    "stars_today": "139 stars today"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "53,479",
+    "fork": "2,163",
+    "timestamp": "2025-07-04T02:47:20.288410",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "theopfr/somo",
+    "href": "https://github.com/theopfr/somo",
+    "about": "A human-friendly alternative to netstat for socket and port monitoring on Linux.",
+    "star": "1,747",
+    "fork": "46",
+    "timestamp": "2025-07-04T02:47:20.288713",
+    "stars_today": "98 stars today"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "21,250",
+    "fork": "3,591",
+    "timestamp": "2025-07-04T02:47:20.289001",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "15,431",
+    "fork": "620",
+    "timestamp": "2025-07-04T02:47:20.289285",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "href": "https://github.com/influxdata/influxdb",
+    "about": "Scalable datastore for metrics, events, and real-time analytics",
+    "star": "30,262",
+    "fork": "3,621",
+    "timestamp": "2025-07-04T02:47:20.289585",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "15,443",
+    "fork": "1,280",
+    "timestamp": "2025-07-04T02:47:20.289871",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "15,504",
+    "fork": "604",
+    "timestamp": "2025-07-04T02:47:20.290155",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "52,164",
+    "fork": "2,092",
+    "timestamp": "2025-07-04T02:47:20.290444",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "vosen/ZLUDA",
+    "href": "https://github.com/vosen/ZLUDA",
+    "about": "CUDA on non-NVIDIA GPUs",
+    "star": "11,655",
+    "fork": "745",
+    "timestamp": "2025-07-04T02:47:20.290744",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "4,955",
+    "fork": "370",
+    "timestamp": "2025-07-04T02:47:20.291023",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "19,868",
+    "fork": "630",
+    "timestamp": "2025-07-04T02:47:20.291336",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "38,341",
+    "fork": "2,906",
+    "timestamp": "2025-07-04T02:47:20.291631",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "tursodatabase/turso",
+    "href": "https://github.com/tursodatabase/turso",
+    "about": "Turso Database is a project to build the next evolution of SQLite.",
+    "star": "11,527",
+    "fork": "442",
+    "timestamp": "2025-07-04T02:47:20.291915",
+    "stars_today": "114 stars today"
+  },
+  {
+    "repo": "mmastrac/stylus",
+    "href": "https://github.com/mmastrac/stylus",
+    "about": "Lightweight status page for home infrastructure",
+    "star": "157",
+    "fork": "4",
+    "timestamp": "2025-07-04T02:47:20.292197",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "lldap/lldap",
+    "href": "https://github.com/lldap/lldap",
+    "about": "Light LDAP implementation",
+    "star": "5,187",
+    "fork": "266",
+    "timestamp": "2025-07-04T02:47:20.292515",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "cocoindex-io/cocoindex",
+    "href": "https://github.com/cocoindex-io/cocoindex",
+    "about": "Data transformation framework for AI. Ultra performant, with incremental processing.",
+    "star": "2,074",
+    "fork": "141",
+    "timestamp": "2025-07-04T02:47:20.292804",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "paradedb/paradedb",
+    "href": "https://github.com/paradedb/paradedb",
+    "about": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+    "star": "7,252",
+    "fork": "248",
+    "timestamp": "2025-07-04T02:47:20.293119",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "apache/arrow-rs",
+    "href": "https://github.com/apache/arrow-rs",
+    "about": "Official Rust implementation of Apache Arrow",
+    "star": "3,006",
+    "fork": "965",
+    "timestamp": "2025-07-04T02:47:20.293402",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "35,643",
+    "fork": "1,870",
+    "timestamp": "2025-07-04T02:47:20.293698",
+    "stars_today": "13 stars today"
+  }
+]
