@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "11,311",
+    "fork": "457",
+    "timestamp": "2025-07-05T02:41:59.703812",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "38,214",
+    "fork": "3,570",
+    "timestamp": "2025-07-05T02:41:59.704155",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,468",
+    "fork": "1,104",
+    "timestamp": "2025-07-05T02:41:59.704441",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,641",
+    "fork": "1,824",
+    "timestamp": "2025-07-05T02:41:59.704726",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,134",
+    "fork": "732",
+    "timestamp": "2025-07-05T02:41:59.705025",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "commercialhaskell/stack",
+    "href": "https://github.com/commercialhaskell/stack",
+    "about": "The Haskell Tool Stack",
+    "star": "4,017",
+    "fork": "847",
+    "timestamp": "2025-07-05T02:41:59.705314",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "haskell/cabal",
+    "href": "https://github.com/haskell/cabal",
+    "about": "Official upstream development repository for Cabal and cabal-install",
+    "star": "1,676",
+    "fork": "714",
+    "timestamp": "2025-07-05T02:41:59.705598",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,162",
+    "fork": "32",
+    "timestamp": "2025-07-05T02:41:59.705908",
+    "stars_today": "2 stars today"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "argoproj/argo-rollouts",
+    "href": "https://github.com/argoproj/argo-rollouts",
+    "about": "Progressive Delivery for Kubernetes",
+    "star": "3,130",
+    "fork": "985",
+    "timestamp": "2025-07-05T02:41:58.522438",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "145,591",
+    "fork": "12,300",
+    "timestamp": "2025-07-05T02:41:58.522743",
+    "stars_today": "114 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "19,775",
+    "fork": "1,895",
+    "timestamp": "2025-07-05T02:41:58.523046",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "19,989",
+    "fork": "6,146",
+    "timestamp": "2025-07-05T02:41:58.523332",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "24,747",
+    "fork": "971",
+    "timestamp": "2025-07-05T02:41:58.523646",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,456",
+    "fork": "1,409",
+    "timestamp": "2025-07-05T02:41:58.523945",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "38,675",
+    "fork": "5,965",
+    "timestamp": "2025-07-05T02:41:58.524235",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "yusing/godoxy",
+    "href": "https://github.com/yusing/godoxy",
+    "about": "Easy to use reverse proxy with docker integration",
+    "star": "2,249",
+    "fork": "86",
+    "timestamp": "2025-07-05T02:41:58.524545",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "27,356",
+    "fork": "2,610",
+    "timestamp": "2025-07-05T02:41:58.524826",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "48,147",
+    "fork": "2,426",
+    "timestamp": "2025-07-05T02:41:58.525122",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "35,787",
+    "fork": "3,277",
+    "timestamp": "2025-07-05T02:41:58.525404",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "patrickmn/go-cache",
+    "href": "https://github.com/patrickmn/go-cache",
+    "about": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+    "star": "8,530",
+    "fork": "889",
+    "timestamp": "2025-07-05T02:41:58.525694",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,609",
+    "fork": "1,378",
+    "timestamp": "2025-07-05T02:41:58.525991",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "25,912",
+    "fork": "3,713",
+    "timestamp": "2025-07-05T02:41:58.526272",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "95,856",
+    "fork": "14,183",
+    "timestamp": "2025-07-05T02:41:58.526581",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,550",
+    "fork": "625",
+    "timestamp": "2025-07-05T02:41:58.526862",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "53,544",
+    "fork": "5,993",
+    "timestamp": "2025-07-05T02:41:58.527160",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "15,795",
+    "fork": "3,326",
+    "timestamp": "2025-07-05T02:41:58.527446",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,685",
+    "fork": "2,861",
+    "timestamp": "2025-07-05T02:41:58.527729",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "55,418",
+    "fork": "5,387",
+    "timestamp": "2025-07-05T02:41:58.528112",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "59,312",
+    "fork": "9,638",
+    "timestamp": "2025-07-05T02:41:58.528396",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "18,733",
+    "fork": "1,872",
+    "timestamp": "2025-07-05T02:41:58.528674",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,017",
+    "fork": "748",
+    "timestamp": "2025-07-05T02:41:58.528998",
+    "stars_today": "16 stars today"
+  }
+]

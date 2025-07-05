@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "qinwf/awesome-R",
+    "href": "https://github.com/qinwf/awesome-R",
+    "about": "A curated list of awesome R packages, frameworks and software.",
+    "star": "6,213",
+    "fork": "1,506",
+    "timestamp": "2025-07-05T02:42:12.262478",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "tidyverse/ellmer",
+    "href": "https://github.com/tidyverse/ellmer",
+    "about": "Call LLM APIs from R",
+    "star": "480",
+    "fork": "84",
+    "timestamp": "2025-07-05T02:42:12.262783",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "satijalab/seurat",
+    "href": "https://github.com/satijalab/seurat",
+    "about": "R toolkit for single cell genomics",
+    "star": "2,457",
+    "fork": "949",
+    "timestamp": "2025-07-05T02:42:12.263088",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chris-mcginnis-ucsf/DoubletFinder",
+    "href": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+    "about": "R package for detecting doublets in single-cell RNA sequencing data",
+    "star": "479",
+    "fork": "119",
+    "timestamp": "2025-07-05T02:42:12.263377",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rdpeng/ProgrammingAssignment2",
+    "href": "https://github.com/rdpeng/ProgrammingAssignment2",
+    "about": "Repository for Programming Assignment 2 for R Programming on Coursera",
+    "star": "857",
+    "fork": "144,005",
+    "timestamp": "2025-07-05T02:42:12.263658",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "swirldev/swirl_courses",
+    "href": "https://github.com/swirldev/swirl_courses",
+    "about": "🎓 A collection of interactive courses for the swirl R package.",
+    "star": "4,434",
+    "fork": "7,246",
+    "timestamp": "2025-07-05T02:42:12.263944",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "stuart-lab/signac",
+    "href": "https://github.com/stuart-lab/signac",
+    "about": "R toolkit for the analysis of single-cell chromatin data",
+    "star": "376",
+    "fork": "98",
+    "timestamp": "2025-07-05T02:42:12.264228",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "YuLab-SMU/clusterProfiler",
+    "href": "https://github.com/YuLab-SMU/clusterProfiler",
+    "about": "📊 A universal enrichment tool for interpreting omics data",
+    "star": "1,098",
+    "fork": "262",
+    "timestamp": "2025-07-05T02:42:12.264513",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/ggplot2",
+    "href": "https://github.com/tidyverse/ggplot2",
+    "about": "An implementation of the Grammar of Graphics in R",
+    "star": "6,719",
+    "fork": "2,091",
+    "timestamp": "2025-07-05T02:42:12.264802",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sqjin/CellChat",
+    "href": "https://github.com/sqjin/CellChat",
+    "about": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+    "star": "709",
+    "fork": "159",
+    "timestamp": "2025-07-05T02:42:12.265099",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "immunogenomics/harmony",
+    "href": "https://github.com/immunogenomics/harmony",
+    "about": "Fast, sensitive and accurate integration of single-cell data with Harmony",
+    "star": "580",
+    "fork": "103",
+    "timestamp": "2025-07-05T02:42:12.265375",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jokergoo/ComplexHeatmap",
+    "href": "https://github.com/jokergoo/ComplexHeatmap",
+    "about": "Make Complex Heatmaps",
+    "star": "1,387",
+    "fork": "237",
+    "timestamp": "2025-07-05T02:42:12.265657",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "r-spatial/sf",
+    "href": "https://github.com/r-spatial/sf",
+    "about": "Simple Features for R",
+    "star": "1,378",
+    "fork": "302",
+    "timestamp": "2025-07-05T02:42:12.265958",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kassambara/ggpubr",
+    "href": "https://github.com/kassambara/ggpubr",
+    "about": "'ggplot2' Based Publication Ready Plots",
+    "star": "1,186",
+    "fork": "176",
+    "timestamp": "2025-07-05T02:42:12.266248",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/infercnv",
+    "href": "https://github.com/broadinstitute/infercnv",
+    "about": "Inferring CNV from Single-Cell RNA-Seq",
+    "star": "624",
+    "fork": "177",
+    "timestamp": "2025-07-05T02:42:12.266533",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joey711/phyloseq",
+    "href": "https://github.com/joey711/phyloseq",
+    "about": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+    "star": "616",
+    "fork": "190",
+    "timestamp": "2025-07-05T02:42:12.266816",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tidyverse/dplyr",
+    "href": "https://github.com/tidyverse/dplyr",
+    "about": "dplyr: A grammar of data manipulation",
+    "star": "4,894",
+    "fork": "2,127",
+    "timestamp": "2025-07-05T02:42:12.267108",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/rmarkdown",
+    "href": "https://github.com/rstudio/rmarkdown",
+    "about": "Dynamic Documents for R",
+    "star": "2,947",
+    "fork": "991",
+    "timestamp": "2025-07-05T02:42:12.267389",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "MRCIEU/TwoSampleMR",
+    "href": "https://github.com/MRCIEU/TwoSampleMR",
+    "about": "R package for performing 2-sample MR using MR-Base database",
+    "star": "497",
+    "fork": "183",
+    "timestamp": "2025-07-05T02:42:12.267671",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "cole-trapnell-lab/monocle3",
+    "href": "https://github.com/cole-trapnell-lab/monocle3",
+    "about": "",
+    "star": "390",
+    "fork": "107",
+    "timestamp": "2025-07-05T02:42:12.268004",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rstudio/renv",
+    "href": "https://github.com/rstudio/renv",
+    "about": "renv: Project environments for R.",
+    "star": "1,076",
+    "fork": "156",
+    "timestamp": "2025-07-05T02:42:12.268292",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "saeyslab/nichenetr",
+    "href": "https://github.com/saeyslab/nichenetr",
+    "about": "NicheNet: predict active ligand-target links between interacting cells",
+    "star": "550",
+    "fork": "127",
+    "timestamp": "2025-07-05T02:42:12.268575",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benjjneb/dada2",
+    "href": "https://github.com/benjjneb/dada2",
+    "about": "Accurate sample inference from amplicon data with single nucleotide resolution",
+    "star": "508",
+    "fork": "151",
+    "timestamp": "2025-07-05T02:42:12.268886",
+    "stars_today": "0 stars today"
+  }
+]
