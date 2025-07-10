@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,337",
+    "fork": "1,296",
+    "timestamp": "2025-07-10T02:50:05.410104",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "5,218",
+    "fork": "2,788",
+    "timestamp": "2025-07-10T02:50:05.410415",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "12,434",
+    "fork": "7,606",
+    "timestamp": "2025-07-10T02:50:05.410706",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "civetweb/civetweb",
+    "href": "https://github.com/civetweb/civetweb",
+    "about": "Embedded C/C++ web server",
+    "star": "3,124",
+    "fork": "993",
+    "timestamp": "2025-07-10T02:50:05.411007",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ripplebiz/MeshCore",
+    "href": "https://github.com/ripplebiz/MeshCore",
+    "about": "A new lightweight, hybrid routing mesh protocol for packet radios",
+    "star": "715",
+    "fork": "104",
+    "timestamp": "2025-07-10T02:50:05.411292",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "acidanthera/OpenCorePkg",
+    "href": "https://github.com/acidanthera/OpenCorePkg",
+    "about": "OpenCore bootloader",
+    "star": "13,998",
+    "fork": "2,160",
+    "timestamp": "2025-07-10T02:50:05.411576",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "u-boot/u-boot",
+    "href": "https://github.com/u-boot/u-boot",
+    "about": "\"Das U-Boot\" Source Tree",
+    "star": "4,529",
+    "fork": "3,988",
+    "timestamp": "2025-07-10T02:50:05.411875",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "href": "https://github.com/raspberrypi/linux",
+    "about": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+    "star": "11,835",
+    "fork": "5,200",
+    "timestamp": "2025-07-10T02:50:05.412165",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "38,267",
+    "fork": "6,765",
+    "timestamp": "2025-07-10T02:50:05.412477",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "systemd/systemd",
+    "href": "https://github.com/systemd/systemd",
+    "about": "The systemd System and Service Manager",
+    "star": "14,355",
+    "fork": "4,037",
+    "timestamp": "2025-07-10T02:50:05.412757",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "torvalds/linux",
+    "href": "https://github.com/torvalds/linux",
+    "about": "Linux kernel source tree",
+    "star": "197,322",
+    "fork": "56,880",
+    "timestamp": "2025-07-10T02:50:05.413056",
+    "stars_today": "98 stars today"
+  },
+  {
+    "repo": "UberGuidoZ/Flipper",
+    "href": "https://github.com/UberGuidoZ/Flipper",
+    "about": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "star": "15,528",
+    "fork": "3,556",
+    "timestamp": "2025-07-10T02:50:05.413345",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "bytecodealliance/wasm-micro-runtime",
+    "href": "https://github.com/bytecodealliance/wasm-micro-runtime",
+    "about": "WebAssembly Micro Runtime (WAMR)",
+    "star": "5,435",
+    "fork": "704",
+    "timestamp": "2025-07-10T02:50:05.413630",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "22,981",
+    "fork": "11,347",
+    "timestamp": "2025-07-10T02:50:05.413930",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "5,994",
+    "fork": "2,726",
+    "timestamp": "2025-07-10T02:50:05.414215",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "843",
+    "fork": "1,583",
+    "timestamp": "2025-07-10T02:50:05.414501",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,697",
+    "fork": "1,311",
+    "timestamp": "2025-07-10T02:50:05.414797",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "raysan5/raylib",
+    "href": "https://github.com/raysan5/raylib",
+    "about": "A simple and easy-to-use library to enjoy videogames programming",
+    "star": "27,142",
+    "fork": "2,577",
+    "timestamp": "2025-07-10T02:50:05.415113",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "confluentinc/librdkafka",
+    "href": "https://github.com/confluentinc/librdkafka",
+    "about": "The Apache Kafka C/C++ library",
+    "star": "690",
+    "fork": "3,210",
+    "timestamp": "2025-07-10T02:50:05.415395",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,594",
+    "fork": "1,039",
+    "timestamp": "2025-07-10T02:50:05.415712",
+    "stars_today": "1 star today"
+  }
+]
