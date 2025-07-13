@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,918",
+    "fork": "1,199",
+    "timestamp": "2025-07-13T03:01:03.356366",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "5,979",
+    "fork": "450",
+    "timestamp": "2025-07-13T03:01:03.356668",
+    "stars_today": "457 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "25,975",
+    "fork": "3,716",
+    "timestamp": "2025-07-13T03:01:03.356965",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "59,434",
+    "fork": "9,655",
+    "timestamp": "2025-07-13T03:01:03.357266",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "45,840",
+    "fork": "9,938",
+    "timestamp": "2025-07-13T03:01:03.357572",
+    "stars_today": "134 stars today"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "href": "https://github.com/kubernetes/client-go",
+    "about": "Go client for Kubernetes.",
+    "star": "9,507",
+    "fork": "3,006",
+    "timestamp": "2025-07-13T03:01:03.357850",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,758",
+    "fork": "4,404",
+    "timestamp": "2025-07-13T03:01:03.358144",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,227",
+    "fork": "7,284",
+    "timestamp": "2025-07-13T03:01:03.358419",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "17,484",
+    "fork": "1,591",
+    "timestamp": "2025-07-13T03:01:03.358694",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "1,902",
+    "fork": "142",
+    "timestamp": "2025-07-13T03:01:03.358991",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,078",
+    "fork": "18,779",
+    "timestamp": "2025-07-13T03:01:03.359271",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Ullaakut/cameradar",
+    "href": "https://github.com/Ullaakut/cameradar",
+    "about": "Cameradar hacks its way into RTSP videosurveillance cameras",
+    "star": "4,488",
+    "fork": "558",
+    "timestamp": "2025-07-13T03:01:03.359575",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "lharries/whatsapp-mcp",
+    "href": "https://github.com/lharries/whatsapp-mcp",
+    "about": "WhatsApp MCP server",
+    "star": "4,433",
+    "fork": "640",
+    "timestamp": "2025-07-13T03:01:03.359850",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "10,671",
+    "fork": "387",
+    "timestamp": "2025-07-13T03:01:03.360138",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "sqlc-dev/sqlc",
+    "href": "https://github.com/sqlc-dev/sqlc",
+    "about": "Generate type-safe code from SQL",
+    "star": "15,513",
+    "fork": "897",
+    "timestamp": "2025-07-13T03:01:03.360415",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "6,369",
+    "fork": "633",
+    "timestamp": "2025-07-13T03:01:03.360688",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,011",
+    "fork": "4,526",
+    "timestamp": "2025-07-13T03:01:03.360975",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "googleapis/google-api-go-client",
+    "href": "https://github.com/googleapis/google-api-go-client",
+    "about": "Auto-generated Google APIs for Go.",
+    "star": "4,290",
+    "fork": "1,173",
+    "timestamp": "2025-07-13T03:01:03.361252",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,599",
+    "fork": "626",
+    "timestamp": "2025-07-13T03:01:03.361527",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "12,964",
+    "fork": "2,225",
+    "timestamp": "2025-07-13T03:01:03.361807",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,753",
+    "fork": "8,407",
+    "timestamp": "2025-07-13T03:01:03.362127",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,114",
+    "fork": "1,822",
+    "timestamp": "2025-07-13T03:01:03.362433",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "17,302",
+    "fork": "1,476",
+    "timestamp": "2025-07-13T03:01:03.362737",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "joho/godotenv",
+    "href": "https://github.com/joho/godotenv",
+    "about": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+    "star": "9,510",
+    "fork": "428",
+    "timestamp": "2025-07-13T03:01:03.363034",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "kgateway-dev/kgateway",
+    "href": "https://github.com/kgateway-dev/kgateway",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "4,631",
+    "fork": "538",
+    "timestamp": "2025-07-13T03:01:03.363313",
+    "stars_today": "4 stars today"
+  }
+]

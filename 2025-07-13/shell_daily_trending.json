@@ -1,0 +1,128 @@
+[
+  {
+    "repo": "grafana/docker-otel-lgtm",
+    "href": "https://github.com/grafana/docker-otel-lgtm",
+    "about": "OpenTelemetry backend in a Docker image",
+    "star": "1,199",
+    "fork": "125",
+    "timestamp": "2025-07-13T03:01:19.184385",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "deviantony/docker-elk",
+    "href": "https://github.com/deviantony/docker-elk",
+    "about": "The Elastic stack (ELK) powered by Docker and Compose.",
+    "star": "17,960",
+    "fork": "6,942",
+    "timestamp": "2025-07-13T03:01:19.184685",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ophub/amlogic-s9xxx-openwrt",
+    "href": "https://github.com/ophub/amlogic-s9xxx-openwrt",
+    "about": "Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+    "star": "2,311",
+    "fork": "2,041",
+    "timestamp": "2025-07-13T03:01:19.184978",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "JamesTurland/JimsGarage",
+    "href": "https://github.com/JamesTurland/JimsGarage",
+    "about": "Homelab Goodies",
+    "star": "3,685",
+    "fork": "737",
+    "timestamp": "2025-07-13T03:01:19.185259",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "antonbabenko/pre-commit-terraform",
+    "href": "https://github.com/antonbabenko/pre-commit-terraform",
+    "about": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+    "star": "3,488",
+    "fork": "567",
+    "timestamp": "2025-07-13T03:01:19.185564",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "docker-mailserver/docker-mailserver",
+    "href": "https://github.com/docker-mailserver/docker-mailserver",
+    "about": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+    "star": "16,717",
+    "fork": "1,946",
+    "timestamp": "2025-07-13T03:01:19.185838",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "85,765",
+    "fork": "9,020",
+    "timestamp": "2025-07-13T03:01:19.186127",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ohmyzsh/ohmyzsh",
+    "href": "https://github.com/ohmyzsh/ohmyzsh",
+    "about": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "star": "179,895",
+    "fork": "26,144",
+    "timestamp": "2025-07-13T03:01:19.186430",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "rockerBOO/awesome-neovim",
+    "href": "https://github.com/rockerBOO/awesome-neovim",
+    "about": "Collections of awesome neovim plugins.",
+    "star": "18,448",
+    "fork": "836",
+    "timestamp": "2025-07-13T03:01:19.186730",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "openshift/release",
+    "href": "https://github.com/openshift/release",
+    "about": "Release tooling for OpenShift",
+    "star": "299",
+    "fork": "1,922",
+    "timestamp": "2025-07-13T03:01:19.187016",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "acmesh-official/acme.sh",
+    "href": "https://github.com/acmesh-official/acme.sh",
+    "about": "A pure Unix shell script implementing ACME client protocol",
+    "star": "43,333",
+    "fork": "5,293",
+    "timestamp": "2025-07-13T03:01:19.187290",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "armbian/build",
+    "href": "https://github.com/armbian/build",
+    "about": "Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",
+    "star": "4,728",
+    "fork": "2,620",
+    "timestamp": "2025-07-13T03:01:19.187590",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "007revad/Synology_HDD_db",
+    "href": "https://github.com/007revad/Synology_HDD_db",
+    "about": "Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more",
+    "star": "4,267",
+    "fork": "278",
+    "timestamp": "2025-07-13T03:01:19.187901",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "DaoCloud/public-image-mirror",
+    "href": "https://github.com/DaoCloud/public-image-mirror",
+    "about": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
+    "star": "10,733",
+    "fork": "1,251",
+    "timestamp": "2025-07-13T03:01:19.188180",
+    "stars_today": "12 stars today"
+  }
+]
