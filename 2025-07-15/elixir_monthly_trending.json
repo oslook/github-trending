@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "anoma/anoma",
+    "href": "https://github.com/anoma/anoma",
+    "about": "Reference implementation of Anoma",
+    "star": "31,348",
+    "fork": "3,913",
+    "timestamp": "2025-07-15T02:58:06.011480",
+    "stars_today": "2,382 stars this month"
+  },
+  {
+    "repo": "elixir-lang/elixir",
+    "href": "https://github.com/elixir-lang/elixir",
+    "about": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "star": "25,468",
+    "fork": "3,439",
+    "timestamp": "2025-07-15T02:58:06.011784",
+    "stars_today": "161 stars this month"
+  },
+  {
+    "repo": "phoenixframework/phoenix_live_view",
+    "href": "https://github.com/phoenixframework/phoenix_live_view",
+    "about": "Rich, real-time user experiences with server-rendered HTML",
+    "star": "6,539",
+    "fork": "992",
+    "timestamp": "2025-07-15T02:58:06.012061",
+    "stars_today": "45 stars this month"
+  },
+  {
+    "repo": "phoenixframework/phoenix",
+    "href": "https://github.com/phoenixframework/phoenix",
+    "about": "Peace of mind from prototype to production",
+    "star": "22,260",
+    "fork": "2,983",
+    "timestamp": "2025-07-15T02:58:06.012355",
+    "stars_today": "119 stars this month"
+  },
+  {
+    "repo": "ash-project/ash",
+    "href": "https://github.com/ash-project/ash",
+    "about": "A declarative, extensible framework for building Elixir applications.",
+    "star": "1,985",
+    "fork": "291",
+    "timestamp": "2025-07-15T02:58:06.012634",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "supabase/realtime",
+    "href": "https://github.com/supabase/realtime",
+    "about": "Broadcast, Presence, and Postgres Changes via WebSockets",
+    "star": "7,189",
+    "fork": "372",
+    "timestamp": "2025-07-15T02:58:06.012939",
+    "stars_today": "53 stars this month"
+  },
+  {
+    "repo": "electric-sql/electric",
+    "href": "https://github.com/electric-sql/electric",
+    "about": "Real-time sync for Postgres.",
+    "star": "8,727",
+    "fork": "242",
+    "timestamp": "2025-07-15T02:58:06.013214",
+    "stars_today": "156 stars this month"
+  },
+  {
+    "repo": "brainlid/langchain",
+    "href": "https://github.com/brainlid/langchain",
+    "about": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
+    "star": "929",
+    "fork": "132",
+    "timestamp": "2025-07-15T02:58:06.013512",
+    "stars_today": "22 stars this month"
+  },
+  {
+    "repo": "elixir-ecto/ecto",
+    "href": "https://github.com/elixir-ecto/ecto",
+    "about": "A toolkit for data mapping and language integrated query.",
+    "star": "6,338",
+    "fork": "1,460",
+    "timestamp": "2025-07-15T02:58:06.013786",
+    "stars_today": "29 stars this month"
+  },
+  {
+    "repo": "plausible/analytics",
+    "href": "https://github.com/plausible/analytics",
+    "about": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
+    "star": "22,894",
+    "fork": "1,244",
+    "timestamp": "2025-07-15T02:58:06.014086",
+    "stars_today": "260 stars this month"
+  },
+  {
+    "repo": "supabase/supavisor",
+    "href": "https://github.com/supabase/supavisor",
+    "about": "A cloud-native, multi-tenant Postgres connection pooler.",
+    "star": "1,973",
+    "fork": "74",
+    "timestamp": "2025-07-15T02:58:06.014402",
+    "stars_today": "40 stars this month"
+  },
+  {
+    "repo": "OffchainLabs/blockscout",
+    "href": "https://github.com/OffchainLabs/blockscout",
+    "about": "",
+    "star": "47",
+    "fork": "24",
+    "timestamp": "2025-07-15T02:58:06.014705",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "cloudwalk/hermes-mcp",
+    "href": "https://github.com/cloudwalk/hermes-mcp",
+    "about": "Elixir Model Context Protocol (MCP) SDK",
+    "star": "236",
+    "fork": "16",
+    "timestamp": "2025-07-15T02:58:06.014990",
+    "stars_today": "50 stars this month"
+  },
+  {
+    "repo": "kieraneglin/pinchflat",
+    "href": "https://github.com/kieraneglin/pinchflat",
+    "about": "Your next YouTube media manager",
+    "star": "3,323",
+    "fork": "77",
+    "timestamp": "2025-07-15T02:58:06.015265",
+    "stars_today": "120 stars this month"
+  },
+  {
+    "repo": "sequinstream/sequin",
+    "href": "https://github.com/sequinstream/sequin",
+    "about": "Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more",
+    "star": "1,446",
+    "fork": "69",
+    "timestamp": "2025-07-15T02:58:06.015577",
+    "stars_today": "89 stars this month"
+  },
+  {
+    "repo": "duffelhq/paginator",
+    "href": "https://github.com/duffelhq/paginator",
+    "about": "Cursor-based pagination for Elixir Ecto",
+    "star": "800",
+    "fork": "98",
+    "timestamp": "2025-07-15T02:58:06.015852",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "ash-project/ash_ai",
+    "href": "https://github.com/ash-project/ash_ai",
+    "about": "Structured outputs, vectorization and tool calling for your Ash application",
+    "star": "104",
+    "fork": "31",
+    "timestamp": "2025-07-15T02:58:06.016134",
+    "stars_today": "20 stars this month"
+  },
+  {
+    "repo": "bluzky/salad_ui",
+    "href": "https://github.com/bluzky/salad_ui",
+    "about": "Phoenix Liveview component library inspired by shadcn UI",
+    "star": "918",
+    "fork": "63",
+    "timestamp": "2025-07-15T02:58:06.016473",
+    "stars_today": "34 stars this month"
+  },
+  {
+    "repo": "teslamate-org/teslamate",
+    "href": "https://github.com/teslamate-org/teslamate",
+    "about": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+    "star": "6,867",
+    "fork": "832",
+    "timestamp": "2025-07-15T02:58:06.016751",
+    "stars_today": "84 stars this month"
+  },
+  {
+    "repo": "blockscout/blockscout",
+    "href": "https://github.com/blockscout/blockscout",
+    "about": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+    "star": "4,063",
+    "fork": "2,757",
+    "timestamp": "2025-07-15T02:58:06.017049",
+    "stars_today": "51 stars this month"
+  }
+]

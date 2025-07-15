@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "25,994",
+    "fork": "36,805",
+    "timestamp": "2025-07-15T02:58:15.697534",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "4,914",
+    "fork": "279",
+    "timestamp": "2025-07-15T02:58:15.697832",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "21,606",
+    "fork": "1,514",
+    "timestamp": "2025-07-15T02:58:15.698119",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,177",
+    "fork": "509",
+    "timestamp": "2025-07-15T02:58:15.698414",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "folke/trouble.nvim",
+    "href": "https://github.com/folke/trouble.nvim",
+    "about": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+    "star": "6,296",
+    "fork": "191",
+    "timestamp": "2025-07-15T02:58:15.698741",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "akinsho/bufferline.nvim",
+    "href": "https://github.com/akinsho/bufferline.nvim",
+    "about": "A snazzy bufferline for Neovim",
+    "star": "3,951",
+    "fork": "217",
+    "timestamp": "2025-07-15T02:58:15.699051",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort",
+    "star": "7,535",
+    "fork": "244",
+    "timestamp": "2025-07-15T02:58:15.699345",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "18,112",
+    "fork": "462",
+    "timestamp": "2025-07-15T02:58:15.699625",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "Bekaboo/dropbar.nvim",
+    "href": "https://github.com/Bekaboo/dropbar.nvim",
+    "about": "IDE-like breadcrumbs, out of the box",
+    "star": "1,371",
+    "fork": "36",
+    "timestamp": "2025-07-15T02:58:15.699927",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,292",
+    "fork": "2,268",
+    "timestamp": "2025-07-15T02:58:15.700225",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "folke/lazydev.nvim",
+    "href": "https://github.com/folke/lazydev.nvim",
+    "about": "Faster LuaLS setup for Neovim",
+    "star": "1,179",
+    "fork": "30",
+    "timestamp": "2025-07-15T02:58:15.700510",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall2",
+    "href": "https://github.com/xiaorouji/openwrt-passwall2",
+    "about": "",
+    "star": "1,899",
+    "fork": "522",
+    "timestamp": "2025-07-15T02:58:15.700804",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,702",
+    "fork": "259",
+    "timestamp": "2025-07-15T02:58:15.701077",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,068",
+    "fork": "134",
+    "timestamp": "2025-07-15T02:58:15.701360",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,395",
+    "fork": "1,135",
+    "timestamp": "2025-07-15T02:58:15.701633",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "goolord/alpha-nvim",
+    "href": "https://github.com/goolord/alpha-nvim",
+    "about": "a lua powered greeter like vim-startify / dashboard-nvim",
+    "star": "2,190",
+    "fork": "122",
+    "timestamp": "2025-07-15T02:58:15.701906",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,689",
+    "fork": "130",
+    "timestamp": "2025-07-15T02:58:15.702203",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,341",
+    "fork": "2,790",
+    "timestamp": "2025-07-15T02:58:15.702502",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 14.x for OpenTibia community.",
+    "star": "473",
+    "fork": "735",
+    "timestamp": "2025-07-15T02:58:15.702805",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "typecraft-dev/dotfiles",
+    "href": "https://github.com/typecraft-dev/dotfiles",
+    "about": "",
+    "star": "982",
+    "fork": "196",
+    "timestamp": "2025-07-15T02:58:15.703097",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,582",
+    "fork": "129",
+    "timestamp": "2025-07-15T02:58:15.703379",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nvimtools/none-ls.nvim",
+    "href": "https://github.com/nvimtools/none-ls.nvim",
+    "about": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "star": "3,020",
+    "fork": "104",
+    "timestamp": "2025-07-15T02:58:15.703658",
+    "stars_today": "1 star today"
+  }
+]
