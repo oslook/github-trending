@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,084",
+    "fork": "2,458",
+    "timestamp": "2025-07-16T02:54:37.886604",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,704",
+    "fork": "2,885",
+    "timestamp": "2025-07-16T02:54:37.886907",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "17,010",
+    "fork": "1,491",
+    "timestamp": "2025-07-16T02:54:37.887199",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "22,020",
+    "fork": "3,305",
+    "timestamp": "2025-07-16T02:54:37.887503",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "RezaSi/go-interview-practice",
+    "href": "https://github.com/RezaSi/go-interview-practice",
+    "about": "Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.",
+    "star": "573",
+    "fork": "160",
+    "timestamp": "2025-07-16T02:54:37.887791",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "href": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "star": "30,577",
+    "fork": "1,666",
+    "timestamp": "2025-07-16T02:54:37.888077",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "1,967",
+    "fork": "322",
+    "timestamp": "2025-07-16T02:54:37.888375",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,137",
+    "fork": "4,494",
+    "timestamp": "2025-07-16T02:54:37.888680",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,659",
+    "fork": "1,379",
+    "timestamp": "2025-07-16T02:54:37.888967",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "27,723",
+    "fork": "2,708",
+    "timestamp": "2025-07-16T02:54:37.889255",
+    "stars_today": "101 stars today"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "9,218",
+    "fork": "1,264",
+    "timestamp": "2025-07-16T02:54:37.889555",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "18,963",
+    "fork": "3,610",
+    "timestamp": "2025-07-16T02:54:37.889844",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,529",
+    "fork": "4,059",
+    "timestamp": "2025-07-16T02:54:37.890128",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,699",
+    "fork": "2,626",
+    "timestamp": "2025-07-16T02:54:37.890425",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "59,480",
+    "fork": "9,663",
+    "timestamp": "2025-07-16T02:54:37.890715",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,120",
+    "fork": "2,963",
+    "timestamp": "2025-07-16T02:54:37.891026",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,775",
+    "fork": "4,406",
+    "timestamp": "2025-07-16T02:54:37.891308",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "35,797",
+    "fork": "5,458",
+    "timestamp": "2025-07-16T02:54:37.891601",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "19,752",
+    "fork": "883",
+    "timestamp": "2025-07-16T02:54:37.891912",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lxc/incus",
+    "href": "https://github.com/lxc/incus",
+    "about": "Powerful system container and virtual machine manager",
+    "star": "3,789",
+    "fork": "324",
+    "timestamp": "2025-07-16T02:54:37.892192",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "35,991",
+    "fork": "3,298",
+    "timestamp": "2025-07-16T02:54:37.892510",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "21,484",
+    "fork": "1,676",
+    "timestamp": "2025-07-16T02:54:37.892795",
+    "stars_today": "16 stars today"
+  }
+]
