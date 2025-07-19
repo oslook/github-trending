@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,156",
+    "fork": "1,875",
+    "timestamp": "2025-07-19T02:49:58.477897",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,869",
+    "fork": "2,432",
+    "timestamp": "2025-07-19T02:49:58.478196",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE",
+    "star": "2,505",
+    "fork": "407",
+    "timestamp": "2025-07-19T02:49:58.478476",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,479",
+    "fork": "28,692",
+    "timestamp": "2025-07-19T02:49:58.478766",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,634",
+    "fork": "565",
+    "timestamp": "2025-07-19T02:49:58.479074",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Texera/texera",
+    "href": "https://github.com/Texera/texera",
+    "about": "Collaborative Machine-Learning-Centric Data Analytics Using Workflows",
+    "star": "184",
+    "fork": "91",
+    "timestamp": "2025-07-19T02:49:58.479350",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,498",
+    "fork": "1,174",
+    "timestamp": "2025-07-19T02:49:58.479636",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,908",
+    "fork": "732",
+    "timestamp": "2025-07-19T02:49:58.479916",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,389",
+    "fork": "558",
+    "timestamp": "2025-07-19T02:49:58.480197",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "851",
+    "fork": "199",
+    "timestamp": "2025-07-19T02:49:58.480473",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,725",
+    "fork": "1,213",
+    "timestamp": "2025-07-19T02:49:58.480763",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,068",
+    "fork": "1,107",
+    "timestamp": "2025-07-19T02:49:58.481036",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,824",
+    "fork": "357",
+    "timestamp": "2025-07-19T02:49:58.481314",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,497",
+    "fork": "784",
+    "timestamp": "2025-07-19T02:49:58.481589",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,463",
+    "fork": "561",
+    "timestamp": "2025-07-19T02:49:58.481874",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,344",
+    "fork": "632",
+    "timestamp": "2025-07-19T02:49:58.482149",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,218",
+    "fork": "949",
+    "timestamp": "2025-07-19T02:49:58.482425",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheHive-Project/Cortex",
+    "href": "https://github.com/TheHive-Project/Cortex",
+    "about": "Cortex: a Powerful Observable Analysis and Active Response Engine",
+    "star": "1,447",
+    "fork": "244",
+    "timestamp": "2025-07-19T02:49:58.482711",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "910",
+    "fork": "256",
+    "timestamp": "2025-07-19T02:49:58.482990",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,502",
+    "fork": "336",
+    "timestamp": "2025-07-19T02:49:58.483268",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,209",
+    "fork": "380",
+    "timestamp": "2025-07-19T02:49:58.483542",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "2,994",
+    "fork": "2,852",
+    "timestamp": "2025-07-19T02:49:58.483829",
+    "stars_today": "0 stars today"
+  }
+]
