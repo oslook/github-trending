@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,326",
+    "fork": "2,268",
+    "timestamp": "2025-07-20T03:05:09.235680",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "21,703",
+    "fork": "1,523",
+    "timestamp": "2025-07-20T03:05:09.236001",
+    "stars_today": "144 stars this week"
+  },
+  {
+    "repo": "ntop/ntopng",
+    "href": "https://github.com/ntop/ntopng",
+    "about": "Web-based Traffic and Security Network Traffic Monitoring",
+    "star": "6,951",
+    "fork": "703",
+    "timestamp": "2025-07-20T03:05:09.236287",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "4,960",
+    "fork": "281",
+    "timestamp": "2025-07-20T03:05:09.236567",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "26,100",
+    "fork": "37,012",
+    "timestamp": "2025-07-20T03:05:09.236848",
+    "stars_today": "181 stars this week"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,359",
+    "fork": "2,794",
+    "timestamp": "2025-07-20T03:05:09.237187",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall2",
+    "href": "https://github.com/xiaorouji/openwrt-passwall2",
+    "about": "",
+    "star": "1,915",
+    "fork": "526",
+    "timestamp": "2025-07-20T03:05:09.237487",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "5,968",
+    "fork": "229",
+    "timestamp": "2025-07-20T03:05:09.237792",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,594",
+    "fork": "130",
+    "timestamp": "2025-07-20T03:05:09.238084",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI-powered coding, seamlessly in Neovim",
+    "star": "4,560",
+    "fork": "274",
+    "timestamp": "2025-07-20T03:05:09.238390",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,093",
+    "fork": "134",
+    "timestamp": "2025-07-20T03:05:09.238665",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "18,190",
+    "fork": "462",
+    "timestamp": "2025-07-20T03:05:09.238969",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "rcarriga/nvim-dap-ui",
+    "href": "https://github.com/rcarriga/nvim-dap-ui",
+    "about": "A UI for nvim-dap",
+    "star": "3,065",
+    "fork": "118",
+    "timestamp": "2025-07-20T03:05:09.239276",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "22,407",
+    "fork": "1,495",
+    "timestamp": "2025-07-20T03:05:09.239558",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort",
+    "star": "7,569",
+    "fork": "244",
+    "timestamp": "2025-07-20T03:05:09.239836",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "nvim-neotest/neotest",
+    "href": "https://github.com/nvim-neotest/neotest",
+    "about": "An extensible framework for interacting with tests within NeoVim.",
+    "star": "2,786",
+    "fork": "145",
+    "timestamp": "2025-07-20T03:05:09.240129",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "5,522",
+    "fork": "280",
+    "timestamp": "2025-07-20T03:05:09.240406",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "15,196",
+    "fork": "672",
+    "timestamp": "2025-07-20T03:05:09.240681",
+    "stars_today": "132 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,404",
+    "fork": "162",
+    "timestamp": "2025-07-20T03:05:09.240993",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,409",
+    "fork": "1,139",
+    "timestamp": "2025-07-20T03:05:09.241273",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "sphamba/smear-cursor.nvim",
+    "href": "https://github.com/sphamba/smear-cursor.nvim",
+    "about": "🌠 Neovim plugin to animate the cursor with a smear effect in all terminals",
+    "star": "1,160",
+    "fork": "23",
+    "timestamp": "2025-07-20T03:05:09.241550",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,708",
+    "fork": "259",
+    "timestamp": "2025-07-20T03:05:09.241829",
+    "stars_today": "20 stars this week"
+  }
+]
