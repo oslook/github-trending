@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "22,387",
+    "fork": "1,719",
+    "timestamp": "2025-07-22T02:56:53.525104",
+    "stars_today": "886 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "15,976",
+    "fork": "5,679",
+    "timestamp": "2025-07-22T02:56:53.525407",
+    "stars_today": "228 stars this week"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "18,465",
+    "fork": "1,504",
+    "timestamp": "2025-07-22T02:56:53.525688",
+    "stars_today": "1,085 stars this week"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "15,551",
+    "fork": "1,870",
+    "timestamp": "2025-07-22T02:56:53.525983",
+    "stars_today": "399 stars this week"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "22,067",
+    "fork": "3,320",
+    "timestamp": "2025-07-22T02:56:53.526262",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "27,621",
+    "fork": "2,636",
+    "timestamp": "2025-07-22T02:56:53.526539",
+    "stars_today": "116 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "83,245",
+    "fork": "8,270",
+    "timestamp": "2025-07-22T02:56:53.526813",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "13,989",
+    "fork": "1,007",
+    "timestamp": "2025-07-22T02:56:53.527103",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "22,389",
+    "fork": "4,408",
+    "timestamp": "2025-07-22T02:56:53.527379",
+    "stars_today": "132 stars this week"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,982",
+    "fork": "1,288",
+    "timestamp": "2025-07-22T02:56:53.527658",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "147,142",
+    "fork": "12,474",
+    "timestamp": "2025-07-22T02:56:53.527960",
+    "stars_today": "714 stars this week"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "27,892",
+    "fork": "2,716",
+    "timestamp": "2025-07-22T02:56:53.528237",
+    "stars_today": "282 stars this week"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "13,380",
+    "fork": "2,328",
+    "timestamp": "2025-07-22T02:56:53.528510",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "quii/learn-go-with-tests",
+    "href": "https://github.com/quii/learn-go-with-tests",
+    "about": "Learn Go with test-driven development",
+    "star": "23,018",
+    "fork": "2,888",
+    "timestamp": "2025-07-22T02:56:53.528811",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "3,965",
+    "fork": "628",
+    "timestamp": "2025-07-22T02:56:53.529132",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "getzep/zep",
+    "href": "https://github.com/getzep/zep",
+    "about": "Zep | Examples, Integrations, & More",
+    "star": "3,410",
+    "fork": "518",
+    "timestamp": "2025-07-22T02:56:53.529413",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "hypermodeinc/badger",
+    "href": "https://github.com/hypermodeinc/badger",
+    "about": "Fast key-value DB in Go.",
+    "star": "14,818",
+    "fork": "1,235",
+    "timestamp": "2025-07-22T02:56:53.529689",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "9,130",
+    "fork": "651",
+    "timestamp": "2025-07-22T02:56:53.530137",
+    "stars_today": "148 stars this week"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "7,379",
+    "fork": "953",
+    "timestamp": "2025-07-22T02:56:53.530484",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,110",
+    "fork": "2,463",
+    "timestamp": "2025-07-22T02:56:53.530769",
+    "stars_today": "38 stars this week"
+  }
+]
