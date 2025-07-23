@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "18,654",
+    "fork": "1,524",
+    "timestamp": "2025-07-23T02:57:55.842488",
+    "stars_today": "192 stars today"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,181",
+    "fork": "220",
+    "timestamp": "2025-07-23T02:57:55.842836",
+    "stars_today": "71 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "54,814",
+    "fork": "2,860",
+    "timestamp": "2025-07-23T02:57:55.843184",
+    "stars_today": "108 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,230",
+    "fork": "763",
+    "timestamp": "2025-07-23T02:57:55.843509",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "59,592",
+    "fork": "9,670",
+    "timestamp": "2025-07-23T02:57:55.843805",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "14,359",
+    "fork": "354",
+    "timestamp": "2025-07-23T02:57:55.844137",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "10,458",
+    "fork": "1,443",
+    "timestamp": "2025-07-23T02:57:55.844432",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "96,460",
+    "fork": "14,236",
+    "timestamp": "2025-07-23T02:57:55.844755",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "everywall/ladder",
+    "href": "https://github.com/everywall/ladder",
+    "about": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "star": "4,997",
+    "fork": "204",
+    "timestamp": "2025-07-23T02:57:55.845071",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,423",
+    "fork": "9,594",
+    "timestamp": "2025-07-23T02:57:55.845366",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "49,878",
+    "fork": "10,114",
+    "timestamp": "2025-07-23T02:57:55.845738",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,637",
+    "fork": "1,446",
+    "timestamp": "2025-07-23T02:57:55.846051",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "12,059",
+    "fork": "797",
+    "timestamp": "2025-07-23T02:57:55.846376",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "30,451",
+    "fork": "1,912",
+    "timestamp": "2025-07-23T02:57:55.846696",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "53,927",
+    "fork": "6,024",
+    "timestamp": "2025-07-23T02:57:55.847005",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "23,237",
+    "fork": "6,766",
+    "timestamp": "2025-07-23T02:57:55.847303",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "24,936",
+    "fork": "1,657",
+    "timestamp": "2025-07-23T02:57:55.847589",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "go-acme/lego",
+    "href": "https://github.com/go-acme/lego",
+    "about": "Let's Encrypt/ACME client and library written in Go",
+    "star": "8,739",
+    "fork": "1,076",
+    "timestamp": "2025-07-23T02:57:55.847877",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "bytebase/bytebase",
+    "href": "https://github.com/bytebase/bytebase",
+    "about": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+    "star": "12,773",
+    "fork": "823",
+    "timestamp": "2025-07-23T02:57:55.848184",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "55,669",
+    "fork": "5,401",
+    "timestamp": "2025-07-23T02:57:55.848503",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "NVIDIA/nvidia-container-toolkit",
+    "href": "https://github.com/NVIDIA/nvidia-container-toolkit",
+    "about": "Build and run containers leveraging NVIDIA GPUs",
+    "star": "3,462",
+    "fork": "379",
+    "timestamp": "2025-07-23T02:57:55.848788",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "swaggo/swag",
+    "href": "https://github.com/swaggo/swag",
+    "about": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "star": "11,984",
+    "fork": "1,290",
+    "timestamp": "2025-07-23T02:57:55.849085",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,612",
+    "fork": "592",
+    "timestamp": "2025-07-23T02:57:55.849416",
+    "stars_today": "2 stars today"
+  }
+]
