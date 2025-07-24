@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,204",
+    "fork": "18,780",
+    "timestamp": "2025-07-24T02:56:45.594817",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,225",
+    "fork": "225",
+    "timestamp": "2025-07-24T02:56:45.595165",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,279",
+    "fork": "1,175",
+    "timestamp": "2025-07-24T02:56:45.595484",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "docker/cli",
+    "href": "https://github.com/docker/cli",
+    "about": "The Docker CLI",
+    "star": "5,356",
+    "fork": "2,021",
+    "timestamp": "2025-07-24T02:56:45.595782",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "tenable/terrascan",
+    "href": "https://github.com/tenable/terrascan",
+    "about": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+    "star": "5,084",
+    "fork": "525",
+    "timestamp": "2025-07-24T02:56:45.596078",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "13,440",
+    "fork": "2,340",
+    "timestamp": "2025-07-24T02:56:45.596381",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "8,287",
+    "fork": "399",
+    "timestamp": "2025-07-24T02:56:45.596680",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,249",
+    "fork": "765",
+    "timestamp": "2025-07-24T02:56:45.597007",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,492",
+    "fork": "4,153",
+    "timestamp": "2025-07-24T02:56:45.597302",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,804",
+    "fork": "4,412",
+    "timestamp": "2025-07-24T02:56:45.597609",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "18,844",
+    "fork": "1,880",
+    "timestamp": "2025-07-24T02:56:45.597900",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,645",
+    "fork": "1,448",
+    "timestamp": "2025-07-24T02:56:45.598191",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "5,907",
+    "fork": "640",
+    "timestamp": "2025-07-24T02:56:45.598494",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "11,924",
+    "fork": "1,388",
+    "timestamp": "2025-07-24T02:56:45.598817",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,124",
+    "fork": "2,466",
+    "timestamp": "2025-07-24T02:56:45.599107",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,730",
+    "fork": "2,901",
+    "timestamp": "2025-07-24T02:56:45.599411",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "62,240",
+    "fork": "2,134",
+    "timestamp": "2025-07-24T02:56:45.599731",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "1,908",
+    "fork": "575",
+    "timestamp": "2025-07-24T02:56:45.600018",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "star": "30,022",
+    "fork": "2,608",
+    "timestamp": "2025-07-24T02:56:45.600309",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,578",
+    "fork": "1,424",
+    "timestamp": "2025-07-24T02:56:45.600613",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "5,983",
+    "fork": "1,207",
+    "timestamp": "2025-07-24T02:56:45.600903",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,721",
+    "fork": "2,630",
+    "timestamp": "2025-07-24T02:56:45.601200",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kubernetes/kube-state-metrics",
+    "href": "https://github.com/kubernetes/kube-state-metrics",
+    "about": "Add-on agent to generate and expose cluster-level metrics.",
+    "star": "5,809",
+    "fork": "2,094",
+    "timestamp": "2025-07-24T02:56:45.601504",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,817",
+    "fork": "1,069",
+    "timestamp": "2025-07-24T02:56:45.601828",
+    "stars_today": "6 stars today"
+  }
+]

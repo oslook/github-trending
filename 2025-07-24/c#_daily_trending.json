@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "12,592",
+    "fork": "7,682",
+    "timestamp": "2025-07-24T02:56:37.165230",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "11,748",
+    "fork": "3,342",
+    "timestamp": "2025-07-24T02:56:37.165570",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "11,145",
+    "fork": "1,449",
+    "timestamp": "2025-07-24T02:56:37.165875",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "madler/zlib",
+    "href": "https://github.com/madler/zlib",
+    "about": "A massively spiffy yet delicately unobtrusive compression library.",
+    "star": "6,270",
+    "fork": "2,587",
+    "timestamp": "2025-07-24T02:56:37.166178",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "15,850",
+    "fork": "7,774",
+    "timestamp": "2025-07-24T02:56:37.166490",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "signalwire/freeswitch",
+    "href": "https://github.com/signalwire/freeswitch",
+    "about": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+    "star": "4,220",
+    "fork": "1,579",
+    "timestamp": "2025-07-24T02:56:37.166796",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "25,548",
+    "fork": "3,725",
+    "timestamp": "2025-07-24T02:56:37.167110",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "55,733",
+    "fork": "26,431",
+    "timestamp": "2025-07-24T02:56:37.167425",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "brunodev85/winlator",
+    "href": "https://github.com/brunodev85/winlator",
+    "about": "Android application for running Windows applications with Wine and Box86/Box64",
+    "star": "13,655",
+    "fork": "819",
+    "timestamp": "2025-07-24T02:56:37.167718",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,779",
+    "fork": "930",
+    "timestamp": "2025-07-24T02:56:37.168008",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,726",
+    "fork": "1,312",
+    "timestamp": "2025-07-24T02:56:37.168299",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mit-pdos/xv6-riscv",
+    "href": "https://github.com/mit-pdos/xv6-riscv",
+    "about": "Xv6 for RISC-V",
+    "star": "8,291",
+    "fork": "3,093",
+    "timestamp": "2025-07-24T02:56:37.168607",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "12,974",
+    "fork": "1,912",
+    "timestamp": "2025-07-24T02:56:37.168899",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,019",
+    "fork": "2,735",
+    "timestamp": "2025-07-24T02:56:37.169195",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "iovisor/bcc",
+    "href": "https://github.com/iovisor/bcc",
+    "about": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "star": "21,592",
+    "fork": "3,990",
+    "timestamp": "2025-07-24T02:56:37.169504",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "5,256",
+    "fork": "2,807",
+    "timestamp": "2025-07-24T02:56:37.169795",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "28,017",
+    "fork": "10,670",
+    "timestamp": "2025-07-24T02:56:37.170115",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "6,011",
+    "fork": "884",
+    "timestamp": "2025-07-24T02:56:37.170452",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nginx/nginx",
+    "href": "https://github.com/nginx/nginx",
+    "about": "The official NGINX Open Source repository.",
+    "star": "27,524",
+    "fork": "7,435",
+    "timestamp": "2025-07-24T02:56:37.170745",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,377",
+    "fork": "1,308",
+    "timestamp": "2025-07-24T02:56:37.171039",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,631",
+    "fork": "1,043",
+    "timestamp": "2025-07-24T02:56:37.171364",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "EpicGamesExt/raddebugger",
+    "href": "https://github.com/EpicGamesExt/raddebugger",
+    "about": "A native, user-mode, multi-process, graphical debugger.",
+    "star": "5,266",
+    "fork": "236",
+    "timestamp": "2025-07-24T02:56:37.171654",
+    "stars_today": "62 stars today"
+  }
+]
