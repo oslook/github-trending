@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,290",
+    "fork": "1,646",
+    "timestamp": "2025-07-26T02:51:07.207866",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "about": "ClickHouse® is a real-time analytics database management system",
+    "star": "41,927",
+    "fork": "7,502",
+    "timestamp": "2025-07-26T02:51:07.208158",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "ikawrakow/ik_llama.cpp",
+    "href": "https://github.com/ikawrakow/ik_llama.cpp",
+    "about": "llama.cpp fork with additional SOTA quants and improved performance",
+    "star": "868",
+    "fork": "105",
+    "timestamp": "2025-07-26T02:51:07.208442",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "68,626",
+    "fork": "15,799",
+    "timestamp": "2025-07-26T02:51:07.208721",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "about": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "star": "27,160",
+    "fork": "8,797",
+    "timestamp": "2025-07-26T02:51:07.209012",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/perfetto",
+    "href": "https://github.com/google/perfetto",
+    "about": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+    "star": "4,393",
+    "fork": "530",
+    "timestamp": "2025-07-26T02:51:07.209290",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "project-chip/connectedhomeip",
+    "href": "https://github.com/project-chip/connectedhomeip",
+    "about": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "star": "8,110",
+    "fork": "2,215",
+    "timestamp": "2025-07-26T02:51:07.209569",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "google/flatbuffers",
+    "href": "https://github.com/google/flatbuffers",
+    "about": "FlatBuffers: Memory Efficient Serialization Library",
+    "star": "24,528",
+    "fork": "3,369",
+    "timestamp": "2025-07-26T02:51:07.209862",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "google/sentencepiece",
+    "href": "https://github.com/google/sentencepiece",
+    "about": "Unsupervised text tokenizer for Neural Network-based text generation.",
+    "star": "11,109",
+    "fork": "1,269",
+    "timestamp": "2025-07-26T02:51:07.210139",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "oceanbase/oceanbase",
+    "href": "https://github.com/oceanbase/oceanbase",
+    "about": "The Fastest Distributed Database for Transactional, Analytical, and AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs",
+    "star": "9,343",
+    "fork": "1,763",
+    "timestamp": "2025-07-26T02:51:07.210419",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "deskflow/deskflow",
+    "href": "https://github.com/deskflow/deskflow",
+    "about": "Share a single keyboard and mouse between multiple computers.",
+    "star": "19,198",
+    "fork": "4,109",
+    "timestamp": "2025-07-26T02:51:07.210723",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "href": "https://github.com/cocos/cocos-engine",
+    "about": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+    "star": "8,853",
+    "fork": "2,019",
+    "timestamp": "2025-07-26T02:51:07.211014",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "simdjson/simdjson",
+    "href": "https://github.com/simdjson/simdjson",
+    "about": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+    "star": "20,906",
+    "fork": "1,089",
+    "timestamp": "2025-07-26T02:51:07.211293",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "microsoft/IoT-For-Beginners",
+    "href": "https://github.com/microsoft/IoT-For-Beginners",
+    "about": "12 Weeks, 24 Lessons, IoT for All!",
+    "star": "16,343",
+    "fork": "2,565",
+    "timestamp": "2025-07-26T02:51:07.211573",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "11,127",
+    "fork": "1,617",
+    "timestamp": "2025-07-26T02:51:07.211867",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "risc0/risc0",
+    "href": "https://github.com/risc0/risc0",
+    "about": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+    "star": "1,940",
+    "fork": "592",
+    "timestamp": "2025-07-26T02:51:07.212145",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "123,159",
+    "fork": "24,769",
+    "timestamp": "2025-07-26T02:51:07.212420",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "about": "Cloud-native high-performance edge/middle/service proxy",
+    "star": "26,315",
+    "fork": "5,022",
+    "timestamp": "2025-07-26T02:51:07.212696",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
+    "href": "https://github.com/FreeCAD/FreeCAD",
+    "about": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+    "star": "25,566",
+    "fork": "4,693",
+    "timestamp": "2025-07-26T02:51:07.213016",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "83,479",
+    "fork": "12,452",
+    "timestamp": "2025-07-26T02:51:07.213292",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "swiftlang/swift",
+    "href": "https://github.com/swiftlang/swift",
+    "about": "The Swift Programming Language",
+    "star": "68,879",
+    "fork": "10,507",
+    "timestamp": "2025-07-26T02:51:07.213571",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "14,670",
+    "fork": "2,462",
+    "timestamp": "2025-07-26T02:51:07.213861",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,632",
+    "fork": "1,697",
+    "timestamp": "2025-07-26T02:51:07.214139",
+    "stars_today": "1 star today"
+  }
+]

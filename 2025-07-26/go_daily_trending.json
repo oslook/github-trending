@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "13,665",
+    "fork": "855",
+    "timestamp": "2025-07-26T02:51:16.842420",
+    "stars_today": "985 stars today"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "7,727",
+    "fork": "652",
+    "timestamp": "2025-07-26T02:51:16.842715",
+    "stars_today": "542 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,306",
+    "fork": "18,786",
+    "timestamp": "2025-07-26T02:51:16.843010",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "href": "https://github.com/kubevirt/kubevirt",
+    "about": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "star": "6,217",
+    "fork": "1,475",
+    "timestamp": "2025-07-26T02:51:16.843286",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,168",
+    "fork": "6,212",
+    "timestamp": "2025-07-26T02:51:16.843559",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "containers/kubernetes-mcp-server",
+    "href": "https://github.com/containers/kubernetes-mcp-server",
+    "about": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "star": "414",
+    "fork": "69",
+    "timestamp": "2025-07-26T02:51:16.843848",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "54,149",
+    "fork": "6,037",
+    "timestamp": "2025-07-26T02:51:16.844121",
+    "stars_today": "140 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,424",
+    "fork": "9,605",
+    "timestamp": "2025-07-26T02:51:16.844393",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "11,683",
+    "fork": "1,753",
+    "timestamp": "2025-07-26T02:51:16.844666",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,037",
+    "fork": "4,535",
+    "timestamp": "2025-07-26T02:51:16.844952",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "7,388",
+    "fork": "682",
+    "timestamp": "2025-07-26T02:51:16.845224",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "45,920",
+    "fork": "9,945",
+    "timestamp": "2025-07-26T02:51:16.845496",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "5,930",
+    "fork": "645",
+    "timestamp": "2025-07-26T02:51:16.845779",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "26,498",
+    "fork": "999",
+    "timestamp": "2025-07-26T02:51:16.846085",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers dynamically from Kubernetes resources",
+    "star": "8,349",
+    "fork": "2,728",
+    "timestamp": "2025-07-26T02:51:16.846360",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,029",
+    "fork": "3,618",
+    "timestamp": "2025-07-26T02:51:16.846630",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,670",
+    "fork": "3,948",
+    "timestamp": "2025-07-26T02:51:16.846913",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,605",
+    "fork": "1,424",
+    "timestamp": "2025-07-26T02:51:16.847186",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "onsi/ginkgo",
+    "href": "https://github.com/onsi/ginkgo",
+    "about": "A Modern Testing Framework for Go",
+    "star": "8,728",
+    "fork": "676",
+    "timestamp": "2025-07-26T02:51:16.847484",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,591",
+    "fork": "4,069",
+    "timestamp": "2025-07-26T02:51:16.847769",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "helm-unittest/helm-unittest",
+    "href": "https://github.com/helm-unittest/helm-unittest",
+    "about": "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.",
+    "star": "1,077",
+    "fork": "284",
+    "timestamp": "2025-07-26T02:51:16.848050",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,270",
+    "fork": "7,291",
+    "timestamp": "2025-07-26T02:51:16.848324",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "38,784",
+    "fork": "5,983",
+    "timestamp": "2025-07-26T02:51:16.848599",
+    "stars_today": "3 stars today"
+  }
+]
