@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "anthropics/claude-code",
+    "href": "https://github.com/anthropics/claude-code",
+    "about": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "star": "26,515",
+    "fork": "1,462",
+    "timestamp": "2025-07-29T03:08:36.058944",
+    "stars_today": "10,470 stars this month"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "star": "23,625",
+    "fork": "974",
+    "timestamp": "2025-07-29T03:08:36.059272",
+    "stars_today": "1,902 stars this month"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "38,065",
+    "fork": "2,060",
+    "timestamp": "2025-07-29T03:08:36.059583",
+    "stars_today": "1,633 stars this month"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,572",
+    "fork": "5,260",
+    "timestamp": "2025-07-29T03:08:36.059879",
+    "stars_today": "97 stars this month"
+  },
+  {
+    "repo": "Atlas-OS/Atlas",
+    "href": "https://github.com/Atlas-OS/Atlas",
+    "about": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",
+    "star": "16,253",
+    "fork": "586",
+    "timestamp": "2025-07-29T03:08:36.060163",
+    "stars_today": "405 stars this month"
+  },
+  {
+    "repo": "microsoft/Agents",
+    "href": "https://github.com/microsoft/Agents",
+    "about": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+    "star": "355",
+    "fork": "117",
+    "timestamp": "2025-07-29T03:08:36.060445",
+    "stars_today": "53 stars this month"
+  },
+  {
+    "repo": "dotnet/core",
+    "href": "https://github.com/dotnet/core",
+    "about": ".NET news, announcements, release notes, and more!",
+    "star": "21,514",
+    "fork": "4,919",
+    "timestamp": "2025-07-29T03:08:36.060735",
+    "stars_today": "60 stars this month"
+  },
+  {
+    "repo": "ntdevlabs/tiny11builder",
+    "href": "https://github.com/ntdevlabs/tiny11builder",
+    "about": "Scripts to build a trimmed-down Windows 11 image.",
+    "star": "12,396",
+    "fork": "1,004",
+    "timestamp": "2025-07-29T03:08:36.061053",
+    "stars_today": "218 stars this month"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "11,602",
+    "fork": "3,414",
+    "timestamp": "2025-07-29T03:08:36.061340",
+    "stars_today": "235 stars this month"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,560",
+    "fork": "279",
+    "timestamp": "2025-07-29T03:08:36.061615",
+    "stars_today": "60 stars this month"
+  },
+  {
+    "repo": "cisagov/ScubaGear",
+    "href": "https://github.com/cisagov/ScubaGear",
+    "about": "Automation to assess the state of your M365 tenant against CISA's baselines",
+    "star": "2,236",
+    "fork": "301",
+    "timestamp": "2025-07-29T03:08:36.061906",
+    "stars_today": "47 stars this month"
+  },
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "6,675",
+    "fork": "935",
+    "timestamp": "2025-07-29T03:08:36.062187",
+    "stars_today": "143 stars this month"
+  },
+  {
+    "repo": "SkipToTheEndpoint/OpenIntuneBaseline",
+    "href": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+    "about": "Community-driven baseline to accelerate Intune adoption and learning.",
+    "star": "882",
+    "fork": "182",
+    "timestamp": "2025-07-29T03:08:36.062468",
+    "stars_today": "69 stars this month"
+  },
+  {
+    "repo": "memstechtips/UnattendedWinstall",
+    "href": "https://github.com/memstechtips/UnattendedWinstall",
+    "about": "Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.",
+    "star": "5,014",
+    "fork": "508",
+    "timestamp": "2025-07-29T03:08:36.062762",
+    "stars_today": "104 stars this month"
+  },
+  {
+    "repo": "dartraiden/NVIDIA-patcher",
+    "href": "https://github.com/dartraiden/NVIDIA-patcher",
+    "about": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.",
+    "star": "820",
+    "fork": "69",
+    "timestamp": "2025-07-29T03:08:36.063036",
+    "stars_today": "71 stars this month"
+  },
+  {
+    "repo": "jamesstringerparsec/Easy-GPU-PV",
+    "href": "https://github.com/jamesstringerparsec/Easy-GPU-PV",
+    "about": "A Project dedicated to making GPU Partitioning on Windows easier!",
+    "star": "4,986",
+    "fork": "505",
+    "timestamp": "2025-07-29T03:08:36.063296",
+    "stars_today": "75 stars this month"
+  },
+  {
+    "repo": "PowerShellMafia/PowerSploit",
+    "href": "https://github.com/PowerShellMafia/PowerSploit",
+    "about": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "star": "12,482",
+    "fork": "4,701",
+    "timestamp": "2025-07-29T03:08:36.063565",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "hak5/usbrubberducky-payloads",
+    "href": "https://github.com/hak5/usbrubberducky-payloads",
+    "about": "The Official USB Rubber Ducky Payload Repository",
+    "star": "4,958",
+    "fork": "1,516",
+    "timestamp": "2025-07-29T03:08:36.063849",
+    "stars_today": "101 stars this month"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "1,904",
+    "fork": "577",
+    "timestamp": "2025-07-29T03:08:36.064123",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "Sycnex/Windows10Debloater",
+    "href": "https://github.com/Sycnex/Windows10Debloater",
+    "about": "Script to remove Windows 10 bloatware.",
+    "star": "18,584",
+    "fork": "2,073",
+    "timestamp": "2025-07-29T03:08:36.064395",
+    "stars_today": "65 stars this month"
+  },
+  {
+    "repo": "Azure/azure-sdk",
+    "href": "https://github.com/Azure/azure-sdk",
+    "about": "This is the Azure SDK parent repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the Azure SDK.",
+    "star": "558",
+    "fork": "331",
+    "timestamp": "2025-07-29T03:08:36.064671",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "meetrevision/playbook",
+    "href": "https://github.com/meetrevision/playbook",
+    "about": "A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility",
+    "star": "1,346",
+    "fork": "90",
+    "timestamp": "2025-07-29T03:08:36.064960",
+    "stars_today": "58 stars this month"
+  }
+]
