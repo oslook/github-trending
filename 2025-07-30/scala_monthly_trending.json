@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,564",
+    "fork": "28,706",
+    "timestamp": "2025-07-30T03:01:26.794633",
+    "stars_today": "241 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,518",
+    "fork": "790",
+    "timestamp": "2025-07-30T03:01:26.794957",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,445",
+    "fork": "12,155",
+    "timestamp": "2025-07-30T03:01:26.795250",
+    "stars_today": "173 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "16,917",
+    "fork": "2,441",
+    "timestamp": "2025-07-30T03:01:26.795537",
+    "stars_today": "146 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,183",
+    "fork": "1,880",
+    "timestamp": "2025-07-30T03:01:26.795916",
+    "stars_today": "77 stars this month"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,353",
+    "fork": "633",
+    "timestamp": "2025-07-30T03:01:26.796207",
+    "stars_today": "45 stars this month"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,241",
+    "fork": "1,368",
+    "timestamp": "2025-07-30T03:01:26.796498",
+    "stars_today": "20 stars this month"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,781",
+    "fork": "661",
+    "timestamp": "2025-07-30T03:01:26.796805",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "apache/cassandra-spark-connector",
+    "href": "https://github.com/apache/cassandra-spark-connector",
+    "about": "Apache Spark to Apache Cassandra connector",
+    "star": "1,947",
+    "fork": "929",
+    "timestamp": "2025-07-30T03:01:26.797097",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "microsoft/SynapseML",
+    "href": "https://github.com/microsoft/SynapseML",
+    "about": "Simple and Distributed Machine Learning",
+    "star": "5,154",
+    "fork": "848",
+    "timestamp": "2025-07-30T03:01:26.797381",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "917",
+    "fork": "612",
+    "timestamp": "2025-07-30T03:01:26.797664",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,225",
+    "fork": "951",
+    "timestamp": "2025-07-30T03:01:26.797962",
+    "stars_today": "17 stars this month"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,471",
+    "fork": "563",
+    "timestamp": "2025-07-30T03:01:26.798245",
+    "stars_today": "37 stars this month"
+  },
+  {
+    "repo": "apache/openwhisk",
+    "href": "https://github.com/apache/openwhisk",
+    "about": "Apache OpenWhisk is an open source serverless cloud platform",
+    "star": "6,667",
+    "fork": "1,174",
+    "timestamp": "2025-07-30T03:01:26.798528",
+    "stars_today": "17 stars this month"
+  },
+  {
+    "repo": "JetBrains/intellij-scala",
+    "href": "https://github.com/JetBrains/intellij-scala",
+    "about": "Scala plugin for IntelliJ IDEA",
+    "star": "1,217",
+    "fork": "413",
+    "timestamp": "2025-07-30T03:01:26.798827",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE",
+    "star": "2,528",
+    "fork": "410",
+    "timestamp": "2025-07-30T03:01:26.799117",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "1,009",
+    "fork": "208",
+    "timestamp": "2025-07-30T03:01:26.799403",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "chipsalliance/diplomacy",
+    "href": "https://github.com/chipsalliance/diplomacy",
+    "about": "",
+    "star": "20",
+    "fork": "14",
+    "timestamp": "2025-07-30T03:01:26.799724",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "33",
+    "fork": "25",
+    "timestamp": "2025-07-30T03:01:26.800015",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "195",
+    "fork": "51",
+    "timestamp": "2025-07-30T03:01:26.800302",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,501",
+    "fork": "1,175",
+    "timestamp": "2025-07-30T03:01:26.800593",
+    "stars_today": "31 stars this month"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,830",
+    "fork": "357",
+    "timestamp": "2025-07-30T03:01:26.800890",
+    "stars_today": "24 stars this month"
+  }
+]

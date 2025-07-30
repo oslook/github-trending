@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "5,708",
+    "fork": "458",
+    "timestamp": "2025-07-30T03:01:09.941108",
+    "stars_today": "92 stars today"
+  },
+  {
+    "repo": "projectdiscovery/httpx",
+    "href": "https://github.com/projectdiscovery/httpx",
+    "about": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+    "star": "8,779",
+    "fork": "940",
+    "timestamp": "2025-07-30T03:01:09.941412",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+    "star": "13,562",
+    "fork": "1,278",
+    "timestamp": "2025-07-30T03:01:09.941717",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,828",
+    "fork": "4,415",
+    "timestamp": "2025-07-30T03:01:09.942009",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,000",
+    "fork": "961",
+    "timestamp": "2025-07-30T03:01:09.942325",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "donknap/dpanel",
+    "href": "https://github.com/donknap/dpanel",
+    "about": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+    "star": "3,046",
+    "fork": "203",
+    "timestamp": "2025-07-30T03:01:09.942620",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "1,227",
+    "fork": "102",
+    "timestamp": "2025-07-30T03:01:09.942951",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,962",
+    "fork": "2,061",
+    "timestamp": "2025-07-30T03:01:09.943276",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "8,247",
+    "fork": "603",
+    "timestamp": "2025-07-30T03:01:09.943568",
+    "stars_today": "98 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "73,957",
+    "fork": "4,671",
+    "timestamp": "2025-07-30T03:01:09.943901",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "3,294",
+    "fork": "144",
+    "timestamp": "2025-07-30T03:01:09.944192",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "stakater/Reloader",
+    "href": "https://github.com/stakater/Reloader",
+    "about": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
+    "star": "8,898",
+    "fork": "585",
+    "timestamp": "2025-07-30T03:01:09.944487",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,458",
+    "fork": "1,696",
+    "timestamp": "2025-07-30T03:01:09.944792",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "29,422",
+    "fork": "2,083",
+    "timestamp": "2025-07-30T03:01:09.945082",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "10,566",
+    "fork": "509",
+    "timestamp": "2025-07-30T03:01:09.945372",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "36,236",
+    "fork": "3,321",
+    "timestamp": "2025-07-30T03:01:09.945665",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "star": "30,277",
+    "fork": "2,636",
+    "timestamp": "2025-07-30T03:01:09.945973",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "ariga/atlas",
+    "href": "https://github.com/ariga/atlas",
+    "about": "Manage your database schema as code",
+    "star": "7,125",
+    "fork": "308",
+    "timestamp": "2025-07-30T03:01:09.946273",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,227",
+    "fork": "925",
+    "timestamp": "2025-07-30T03:01:09.946565",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "4,201",
+    "fork": "698",
+    "timestamp": "2025-07-30T03:01:09.946900",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "anchore/grype",
+    "href": "https://github.com/anchore/grype",
+    "about": "A vulnerability scanner for container images and filesystems",
+    "star": "10,343",
+    "fork": "668",
+    "timestamp": "2025-07-30T03:01:09.947189",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,748",
+    "fork": "1,380",
+    "timestamp": "2025-07-30T03:01:09.947481",
+    "stars_today": "10 stars today"
+  }
+]
