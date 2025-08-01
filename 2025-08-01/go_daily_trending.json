@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "6,130",
+    "fork": "475",
+    "timestamp": "2025-08-01T03:11:43.926849",
+    "stars_today": "184 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,315",
+    "fork": "1,484",
+    "timestamp": "2025-08-01T03:11:43.927198",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "28,994",
+    "fork": "2,062",
+    "timestamp": "2025-08-01T03:11:43.927511",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "1,867",
+    "fork": "201",
+    "timestamp": "2025-08-01T03:11:43.927793",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "anchore/grype",
+    "href": "https://github.com/anchore/grype",
+    "about": "A vulnerability scanner for container images and filesystems",
+    "star": "10,369",
+    "fork": "669",
+    "timestamp": "2025-08-01T03:11:43.928087",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "10,653",
+    "fork": "517",
+    "timestamp": "2025-08-01T03:11:43.928368",
+    "stars_today": "84 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,506",
+    "fork": "4,159",
+    "timestamp": "2025-08-01T03:11:43.928646",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "25,373",
+    "fork": "2,277",
+    "timestamp": "2025-08-01T03:11:43.928939",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,589",
+    "fork": "621",
+    "timestamp": "2025-08-01T03:11:43.929219",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,875",
+    "fork": "3,562",
+    "timestamp": "2025-08-01T03:11:43.929501",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/terraformer",
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "about": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "star": "13,887",
+    "fork": "1,789",
+    "timestamp": "2025-08-01T03:11:43.929782",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "envoyproxy/ai-gateway",
+    "href": "https://github.com/envoyproxy/ai-gateway",
+    "about": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.",
+    "star": "470",
+    "fork": "81",
+    "timestamp": "2025-08-01T03:11:43.930102",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "sst/opencode",
+    "href": "https://github.com/sst/opencode",
+    "about": "AI coding agent, built for the terminal.",
+    "star": "15,836",
+    "fork": "984",
+    "timestamp": "2025-08-01T03:11:43.930411",
+    "stars_today": "234 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,606",
+    "fork": "2,323",
+    "timestamp": "2025-08-01T03:11:43.930691",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "18,815",
+    "fork": "8,418",
+    "timestamp": "2025-08-01T03:11:43.930993",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+    "star": "1,957",
+    "fork": "346",
+    "timestamp": "2025-08-01T03:11:43.931273",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "href": "https://github.com/nats-io/nats.go",
+    "about": "Golang client for NATS, the cloud native messaging system.",
+    "star": "6,055",
+    "fork": "760",
+    "timestamp": "2025-08-01T03:11:43.931552",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,173",
+    "fork": "4,500",
+    "timestamp": "2025-08-01T03:11:43.931830",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "3,351",
+    "fork": "146",
+    "timestamp": "2025-08-01T03:11:43.932121",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,765",
+    "fork": "1,380",
+    "timestamp": "2025-08-01T03:11:43.932401",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,149",
+    "fork": "2,469",
+    "timestamp": "2025-08-01T03:11:43.932678",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "8,332",
+    "fork": "399",
+    "timestamp": "2025-08-01T03:11:43.932970",
+    "stars_today": "9 stars today"
+  }
+]
