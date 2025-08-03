@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,419",
+    "fork": "2,279",
+    "timestamp": "2025-08-03T03:09:15.395781",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,625",
+    "fork": "306",
+    "timestamp": "2025-08-03T03:09:15.396121",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "5,042",
+    "fork": "284",
+    "timestamp": "2025-08-03T03:09:15.396413",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "12,402",
+    "fork": "798",
+    "timestamp": "2025-08-03T03:09:15.396719",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "3,367",
+    "fork": "55",
+    "timestamp": "2025-08-03T03:09:15.397010",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,155",
+    "fork": "144",
+    "timestamp": "2025-08-03T03:09:15.397303",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort",
+    "star": "7,684",
+    "fork": "247",
+    "timestamp": "2025-08-03T03:09:15.397614",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "21,910",
+    "fork": "1,537",
+    "timestamp": "2025-08-03T03:09:15.397919",
+    "stars_today": "120 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "26,463",
+    "fork": "37,756",
+    "timestamp": "2025-08-03T03:09:15.398217",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "nvim-lua/plenary.nvim",
+    "href": "https://github.com/nvim-lua/plenary.nvim",
+    "about": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "star": "3,177",
+    "fork": "314",
+    "timestamp": "2025-08-03T03:09:15.398531",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,018",
+    "fork": "230",
+    "timestamp": "2025-08-03T03:09:15.398859",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "ayamir/nvimdots",
+    "href": "https://github.com/ayamir/nvimdots",
+    "about": "A well configured and structured Neovim.",
+    "star": "3,210",
+    "fork": "473",
+    "timestamp": "2025-08-03T03:09:15.399153",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,053",
+    "fork": "905",
+    "timestamp": "2025-08-03T03:09:15.399460",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,436",
+    "fork": "265",
+    "timestamp": "2025-08-03T03:09:15.399784",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572",
+    "star": "904",
+    "fork": "51",
+    "timestamp": "2025-08-03T03:09:15.400079",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "4,684",
+    "fork": "281",
+    "timestamp": "2025-08-03T03:09:15.400404",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,470",
+    "fork": "107",
+    "timestamp": "2025-08-03T03:09:15.400745",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "esx-framework/esx_core",
+    "href": "https://github.com/esx-framework/esx_core",
+    "about": "Official Repo For core resources for esx-legacy",
+    "star": "422",
+    "fork": "780",
+    "timestamp": "2025-08-03T03:09:15.401037",
+    "stars_today": "3 stars this week"
+  }
+]
