@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "6,333",
+    "fork": "487",
+    "timestamp": "2025-08-04T03:11:32.940552",
+    "stars_today": "981 stars this week"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "4,327",
+    "fork": "717",
+    "timestamp": "2025-08-04T03:11:32.940899",
+    "stars_today": "224 stars this week"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "20,046",
+    "fork": "1,831",
+    "timestamp": "2025-08-04T03:11:32.941189",
+    "stars_today": "709 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "34,335",
+    "fork": "2,683",
+    "timestamp": "2025-08-04T03:11:32.941503",
+    "stars_today": "234 stars this week"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "17,632",
+    "fork": "1,610",
+    "timestamp": "2025-08-04T03:11:32.941820",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "10,729",
+    "fork": "522",
+    "timestamp": "2025-08-04T03:11:32.942110",
+    "stars_today": "398 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,081",
+    "fork": "968",
+    "timestamp": "2025-08-04T03:11:32.942420",
+    "stars_today": "161 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "star": "148,583",
+    "fork": "12,655",
+    "timestamp": "2025-08-04T03:11:32.942699",
+    "stars_today": "953 stars this week"
+  },
+  {
+    "repo": "sky22333/hubproxy",
+    "href": "https://github.com/sky22333/hubproxy",
+    "about": "基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。",
+    "star": "1,121",
+    "fork": "106",
+    "timestamp": "2025-08-04T03:11:32.943000",
+    "stars_today": "282 stars this week"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "33,889",
+    "fork": "960",
+    "timestamp": "2025-08-04T03:11:32.943282",
+    "stars_today": "303 stars this week"
+  },
+  {
+    "repo": "google/oss-rebuild",
+    "href": "https://github.com/google/oss-rebuild",
+    "about": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
+    "star": "566",
+    "fork": "29",
+    "timestamp": "2025-08-04T03:11:32.943563",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "26,160",
+    "fork": "1,061",
+    "timestamp": "2025-08-04T03:11:32.943856",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,473",
+    "fork": "3,074",
+    "timestamp": "2025-08-04T03:11:32.944137",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "donknap/dpanel",
+    "href": "https://github.com/donknap/dpanel",
+    "about": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+    "star": "3,086",
+    "fork": "206",
+    "timestamp": "2025-08-04T03:11:32.944416",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "href": "https://github.com/kubevirt/kubevirt",
+    "about": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "star": "6,244",
+    "fork": "1,480",
+    "timestamp": "2025-08-04T03:11:32.944686",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "16,482",
+    "fork": "2,526",
+    "timestamp": "2025-08-04T03:11:32.944978",
+    "stars_today": "368 stars this week"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "15,805",
+    "fork": "1,140",
+    "timestamp": "2025-08-04T03:11:32.945259",
+    "stars_today": "154 stars this week"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "9,692",
+    "fork": "702",
+    "timestamp": "2025-08-04T03:11:32.945539",
+    "stars_today": "252 stars this week"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "23,888",
+    "fork": "3,560",
+    "timestamp": "2025-08-04T03:11:32.945829",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,838",
+    "fork": "736",
+    "timestamp": "2025-08-04T03:11:32.946108",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "14,417",
+    "fork": "768",
+    "timestamp": "2025-08-04T03:11:32.946387",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "cloudreve/cloudreve",
+    "href": "https://github.com/cloudreve/cloudreve",
+    "about": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+    "star": "24,408",
+    "fork": "3,644",
+    "timestamp": "2025-08-04T03:11:32.946666",
+    "stars_today": "187 stars this week"
+  }
+]
