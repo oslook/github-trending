@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,804",
+    "fork": "3,020",
+    "timestamp": "2025-08-06T03:02:06.080727",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,205",
+    "fork": "155",
+    "timestamp": "2025-08-06T03:02:06.081026",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqtt",
+    "href": "https://github.com/emqx/emqtt",
+    "about": "Erlang MQTT 5.0 Client",
+    "star": "423",
+    "fork": "175",
+    "timestamp": "2025-08-06T03:02:06.081363",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "299",
+    "fork": "212",
+    "timestamp": "2025-08-06T03:02:06.081661",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,614",
+    "fork": "1,055",
+    "timestamp": "2025-08-06T03:02:06.081942",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "823",
+    "fork": "229",
+    "timestamp": "2025-08-06T03:02:06.082244",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "atomvm/AtomVM",
+    "href": "https://github.com/atomvm/AtomVM",
+    "about": "Tiny Erlang VM",
+    "star": "1,829",
+    "fork": "122",
+    "timestamp": "2025-08-06T03:02:06.082543",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,084",
+    "fork": "2,353",
+    "timestamp": "2025-08-06T03:02:06.082830",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "5,098",
+    "fork": "1,121",
+    "timestamp": "2025-08-06T03:02:06.083109",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "software-mansion/popcorn",
+    "href": "https://github.com/software-mansion/popcorn",
+    "about": "Running Elixir in the browser",
+    "star": "423",
+    "fork": "6",
+    "timestamp": "2025-08-06T03:02:06.083431",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "epgsql/epgsql",
+    "href": "https://github.com/epgsql/epgsql",
+    "about": "Erlang PostgreSQL client library.",
+    "star": "430",
+    "fork": "164",
+    "timestamp": "2025-08-06T03:02:06.083763",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,355",
+    "fork": "436",
+    "timestamp": "2025-08-06T03:02:06.084051",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "699",
+    "fork": "219",
+    "timestamp": "2025-08-06T03:02:06.084338",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,125",
+    "fork": "453",
+    "timestamp": "2025-08-06T03:02:06.084647",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "virtan/eep",
+    "href": "https://github.com/virtan/eep",
+    "about": "Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy",
+    "star": "242",
+    "fork": "32",
+    "timestamp": "2025-08-06T03:02:06.084935",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "896",
+    "fork": "169",
+    "timestamp": "2025-08-06T03:02:06.085224",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,417",
+    "fork": "1,177",
+    "timestamp": "2025-08-06T03:02:06.085532",
+    "stars_today": "1 star today"
+  }
+]
