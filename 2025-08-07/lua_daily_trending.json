@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,545",
+    "fork": "240",
+    "timestamp": "2025-08-07T03:02:27.250429",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "21,972",
+    "fork": "1,538",
+    "timestamp": "2025-08-07T03:02:27.250741",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 14.x for OpenTibia community.",
+    "star": "477",
+    "fork": "741",
+    "timestamp": "2025-08-07T03:02:27.251056",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,595",
+    "fork": "204",
+    "timestamp": "2025-08-07T03:02:27.251343",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lukas-reineke/indent-blankline.nvim",
+    "href": "https://github.com/lukas-reineke/indent-blankline.nvim",
+    "about": "Indent guides for Neovim",
+    "star": "4,672",
+    "fork": "111",
+    "timestamp": "2025-08-07T03:02:27.251669",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "15,485",
+    "fork": "690",
+    "timestamp": "2025-08-07T03:02:27.251951",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "5,689",
+    "fork": "297",
+    "timestamp": "2025-08-07T03:02:27.252232",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,446",
+    "fork": "2,284",
+    "timestamp": "2025-08-07T03:02:27.252556",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "1,307",
+    "fork": "66",
+    "timestamp": "2025-08-07T03:02:27.252839",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,343",
+    "fork": "319",
+    "timestamp": "2025-08-07T03:02:27.253117",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,805",
+    "fork": "138",
+    "timestamp": "2025-08-07T03:02:27.253439",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "41,477",
+    "fork": "4,960",
+    "timestamp": "2025-08-07T03:02:27.253729",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "jdhao/nvim-config",
+    "href": "https://github.com/jdhao/nvim-config",
+    "about": "A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",
+    "star": "4,007",
+    "fork": "577",
+    "timestamp": "2025-08-07T03:02:27.254013",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nvim-orgmode/orgmode",
+    "href": "https://github.com/nvim-orgmode/orgmode",
+    "about": "Orgmode clone written in Lua for Neovim 0.10.3+.",
+    "star": "3,433",
+    "fork": "164",
+    "timestamp": "2025-08-07T03:02:27.254294",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "folke/trouble.nvim",
+    "href": "https://github.com/folke/trouble.nvim",
+    "about": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+    "star": "6,356",
+    "fork": "192",
+    "timestamp": "2025-08-07T03:02:27.254586",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "jitsi/docker-jitsi-meet",
+    "href": "https://github.com/jitsi/docker-jitsi-meet",
+    "about": "Jitsi Meet on Docker",
+    "star": "3,311",
+    "fork": "1,457",
+    "timestamp": "2025-08-07T03:02:27.254866",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "greggh/claude-code.nvim",
+    "href": "https://github.com/greggh/claude-code.nvim",
+    "about": "Seamless integration between Claude Code AI assistant and Neovim",
+    "star": "1,022",
+    "fork": "33",
+    "timestamp": "2025-08-07T03:02:27.255177",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "15,457",
+    "fork": "2,632",
+    "timestamp": "2025-08-07T03:02:27.255475",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "tukui-org/ElvUI",
+    "href": "https://github.com/tukui-org/ElvUI",
+    "about": "User Interface replacement AddOn for World of Warcraft.",
+    "star": "531",
+    "fork": "179",
+    "timestamp": "2025-08-07T03:02:27.255759",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "shellRaining/hlchunk.nvim",
+    "href": "https://github.com/shellRaining/hlchunk.nvim",
+    "about": "This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",
+    "star": "830",
+    "fork": "41",
+    "timestamp": "2025-08-07T03:02:27.256043",
+    "stars_today": "1 star today"
+  }
+]

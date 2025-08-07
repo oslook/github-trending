@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "28,229",
+    "fork": "10,758",
+    "timestamp": "2025-08-07T03:02:11.125179",
+    "stars_today": "105 stars today"
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "href": "https://github.com/NVIDIA/cuda-samples",
+    "about": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+    "star": "7,893",
+    "fork": "2,097",
+    "timestamp": "2025-08-07T03:02:11.125493",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "38,468",
+    "fork": "6,814",
+    "timestamp": "2025-08-07T03:02:11.125804",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "hashcat/hashcat",
+    "href": "https://github.com/hashcat/hashcat",
+    "about": "World's fastest and most advanced password recovery utility",
+    "star": "23,816",
+    "fork": "3,169",
+    "timestamp": "2025-08-07T03:02:11.126084",
+    "stars_today": "325 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,272",
+    "fork": "1,818",
+    "timestamp": "2025-08-07T03:02:11.126360",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "sqlcipher/sqlcipher",
+    "href": "https://github.com/sqlcipher/sqlcipher",
+    "about": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+    "star": "6,753",
+    "fork": "1,317",
+    "timestamp": "2025-08-07T03:02:11.126676",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "20,456",
+    "fork": "3,747",
+    "timestamp": "2025-08-07T03:02:11.126983",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+    "star": "70,328",
+    "fork": "24,153",
+    "timestamp": "2025-08-07T03:02:11.127258",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,666",
+    "fork": "1,049",
+    "timestamp": "2025-08-07T03:02:11.127581",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,900",
+    "fork": "1,158",
+    "timestamp": "2025-08-07T03:02:11.127885",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "duixcom/Duix.Heygem",
+    "href": "https://github.com/duixcom/Duix.Heygem",
+    "about": "",
+    "star": "10,875",
+    "fork": "1,779",
+    "timestamp": "2025-08-07T03:02:11.128180",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "nothings/stb",
+    "href": "https://github.com/nothings/stb",
+    "about": "stb single-file public domain libraries for C/C++",
+    "star": "29,557",
+    "fork": "7,864",
+    "timestamp": "2025-08-07T03:02:11.128469",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "nginx/nginx",
+    "href": "https://github.com/nginx/nginx",
+    "about": "The official NGINX Open Source repository.",
+    "star": "27,667",
+    "fork": "7,448",
+    "timestamp": "2025-08-07T03:02:11.128745",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "11,826",
+    "fork": "3,347",
+    "timestamp": "2025-08-07T03:02:11.129018",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "microsoft/Windows-driver-samples",
+    "href": "https://github.com/microsoft/Windows-driver-samples",
+    "about": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+    "star": "7,434",
+    "fork": "4,996",
+    "timestamp": "2025-08-07T03:02:11.129290",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,617",
+    "fork": "3,448",
+    "timestamp": "2025-08-07T03:02:11.129579",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "pjsip/pjproject",
+    "href": "https://github.com/pjsip/pjproject",
+    "about": "PJSIP project",
+    "star": "2,391",
+    "fork": "879",
+    "timestamp": "2025-08-07T03:02:11.129854",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "13,073",
+    "fork": "1,929",
+    "timestamp": "2025-08-07T03:02:11.130123",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "12,805",
+    "fork": "7,744",
+    "timestamp": "2025-08-07T03:02:11.130394",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "href": "https://github.com/ImageMagick/ImageMagick",
+    "about": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
+    "star": "14,155",
+    "fork": "1,473",
+    "timestamp": "2025-08-07T03:02:11.130706",
+    "stars_today": "7 stars today"
+  }
+]
