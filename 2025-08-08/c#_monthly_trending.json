@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "20,635",
+    "fork": "3,761",
+    "timestamp": "2025-08-08T03:01:39.365864",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "hashcat/hashcat",
+    "href": "https://github.com/hashcat/hashcat",
+    "about": "World's fastest and most advanced password recovery utility",
+    "star": "23,839",
+    "fork": "3,169",
+    "timestamp": "2025-08-08T03:01:39.366209",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "11,202",
+    "fork": "1,455",
+    "timestamp": "2025-08-08T03:01:39.366493",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "38,477",
+    "fork": "6,814",
+    "timestamp": "2025-08-08T03:01:39.366816",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,403",
+    "fork": "1,325",
+    "timestamp": "2025-08-08T03:01:39.367098",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ventoy/Ventoy",
+    "href": "https://github.com/ventoy/Ventoy",
+    "about": "A new bootable USB solution.",
+    "star": "69,684",
+    "fork": "4,431",
+    "timestamp": "2025-08-08T03:01:39.367379",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,279",
+    "fork": "1,818",
+    "timestamp": "2025-08-08T03:01:39.367666",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "href": "https://github.com/NVIDIA/cuda-samples",
+    "about": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+    "star": "7,904",
+    "fork": "2,098",
+    "timestamp": "2025-08-08T03:01:39.367960",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "OISF/suricata",
+    "href": "https://github.com/OISF/suricata",
+    "about": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+    "star": "5,459",
+    "fork": "1,558",
+    "timestamp": "2025-08-08T03:01:39.368239",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "systemd/systemd",
+    "href": "https://github.com/systemd/systemd",
+    "about": "The systemd System and Service Manager",
+    "star": "14,463",
+    "fork": "4,055",
+    "timestamp": "2025-08-08T03:01:39.368564",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "5,905",
+    "fork": "1,159",
+    "timestamp": "2025-08-08T03:01:39.368894",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "28,260",
+    "fork": "10,766",
+    "timestamp": "2025-08-08T03:01:39.369201",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "duixcom/Duix.Heygem",
+    "href": "https://github.com/duixcom/Duix.Heygem",
+    "about": "",
+    "star": "10,893",
+    "fork": "1,780",
+    "timestamp": "2025-08-08T03:01:39.369530",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "10,843",
+    "fork": "2,946",
+    "timestamp": "2025-08-08T03:01:39.369869",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,819",
+    "fork": "934",
+    "timestamp": "2025-08-08T03:01:39.370155",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "linux-rdma/rdma-core",
+    "href": "https://github.com/linux-rdma/rdma-core",
+    "about": "RDMA core userspace libraries and daemons",
+    "star": "1,892",
+    "fork": "765",
+    "timestamp": "2025-08-08T03:01:39.370435",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jart/cosmopolitan",
+    "href": "https://github.com/jart/cosmopolitan",
+    "about": "build-once run-anywhere c library",
+    "star": "19,634",
+    "fork": "695",
+    "timestamp": "2025-08-08T03:01:39.370751",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "microsoft/Windows-driver-samples",
+    "href": "https://github.com/microsoft/Windows-driver-samples",
+    "about": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+    "star": "7,435",
+    "fork": "4,996",
+    "timestamp": "2025-08-08T03:01:39.371029",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,132",
+    "fork": "1,355",
+    "timestamp": "2025-08-08T03:01:39.371310",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kokke/tiny-AES-c",
+    "href": "https://github.com/kokke/tiny-AES-c",
+    "about": "Small portable AES128/192/256 in C",
+    "star": "4,641",
+    "fork": "1,348",
+    "timestamp": "2025-08-08T03:01:39.371586",
+    "stars_today": "1 star today"
+  }
+]
