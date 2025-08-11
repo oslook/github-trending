@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "microsoft/mcp-for-beginners",
+    "href": "https://github.com/microsoft/mcp-for-beginners",
+    "about": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "star": "8,503",
+    "fork": "2,297",
+    "timestamp": "2025-08-11T03:01:35.200926",
+    "stars_today": "2,198 stars this week"
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "href": "https://github.com/vllm-project/vllm",
+    "about": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "star": "54,774",
+    "fork": "9,279",
+    "timestamp": "2025-08-11T03:01:35.201284",
+    "stars_today": "926 stars this week"
+  },
+  {
+    "repo": "python-poetry/poetry",
+    "href": "https://github.com/python-poetry/poetry",
+    "about": "Python packaging and dependency management made easy",
+    "star": "33,811",
+    "fork": "2,371",
+    "timestamp": "2025-08-11T03:01:35.201607",
+    "stars_today": "330 stars this week"
+  },
+  {
+    "repo": "HKUDS/LightRAG",
+    "href": "https://github.com/HKUDS/LightRAG",
+    "about": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "star": "19,319",
+    "fork": "2,737",
+    "timestamp": "2025-08-11T03:01:35.201904",
+    "stars_today": "259 stars this week"
+  },
+  {
+    "repo": "sinaptik-ai/pandas-ai",
+    "href": "https://github.com/sinaptik-ai/pandas-ai",
+    "about": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+    "star": "21,689",
+    "fork": "2,099",
+    "timestamp": "2025-08-11T03:01:35.202204",
+    "stars_today": "457 stars this week"
+  },
+  {
+    "repo": "comfyanonymous/ComfyUI",
+    "href": "https://github.com/comfyanonymous/ComfyUI",
+    "about": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "star": "85,078",
+    "fork": "9,429",
+    "timestamp": "2025-08-11T03:01:35.202521",
+    "stars_today": "834 stars this week"
+  },
+  {
+    "repo": "zauberzeug/nicegui",
+    "href": "https://github.com/zauberzeug/nicegui",
+    "about": "Create web-based user interfaces with Python. The nice way.",
+    "star": "13,146",
+    "fork": "793",
+    "timestamp": "2025-08-11T03:01:35.202865",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "datalab-to/surya",
+    "href": "https://github.com/datalab-to/surya",
+    "about": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+    "star": "18,064",
+    "fork": "1,219",
+    "timestamp": "2025-08-11T03:01:35.203161",
+    "stars_today": "148 stars this week"
+  },
+  {
+    "repo": "souzatharsis/podcastfy",
+    "href": "https://github.com/souzatharsis/podcastfy",
+    "about": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
+    "star": "5,049",
+    "fork": "574",
+    "timestamp": "2025-08-11T03:01:35.203524",
+    "stars_today": "806 stars this week"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "href": "https://github.com/reflex-dev/reflex",
+    "about": "🕸️ Web apps in pure Python 🐍",
+    "star": "25,379",
+    "fork": "1,489",
+    "timestamp": "2025-08-11T03:01:35.203840",
+    "stars_today": "1,431 stars this week"
+  },
+  {
+    "repo": "openai/tiktoken",
+    "href": "https://github.com/openai/tiktoken",
+    "about": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+    "star": "15,481",
+    "fork": "1,166",
+    "timestamp": "2025-08-11T03:01:35.204137",
+    "stars_today": "177 stars this week"
+  },
+  {
+    "repo": "openai/openai-python",
+    "href": "https://github.com/openai/openai-python",
+    "about": "The official Python library for the OpenAI API",
+    "star": "28,263",
+    "fork": "4,170",
+    "timestamp": "2025-08-11T03:01:35.204431",
+    "stars_today": "707 stars this week"
+  },
+  {
+    "repo": "TideDra/zotero-arxiv-daily",
+    "href": "https://github.com/TideDra/zotero-arxiv-daily",
+    "about": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+    "star": "3,144",
+    "fork": "2,574",
+    "timestamp": "2025-08-11T03:01:35.204742",
+    "stars_today": "548 stars this week"
+  },
+  {
+    "repo": "google/adk-samples",
+    "href": "https://github.com/google/adk-samples",
+    "about": "A collection of sample agents built with Agent Development (ADK)",
+    "star": "4,426",
+    "fork": "1,244",
+    "timestamp": "2025-08-11T03:01:35.205032",
+    "stars_today": "666 stars this week"
+  },
+  {
+    "repo": "9001/copyparty",
+    "href": "https://github.com/9001/copyparty",
+    "about": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "star": "22,591",
+    "fork": "810",
+    "timestamp": "2025-08-11T03:01:35.205358",
+    "stars_today": "3,637 stars this week"
+  }
+]
