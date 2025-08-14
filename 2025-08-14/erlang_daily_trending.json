@@ -1,0 +1,128 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,114",
+    "fork": "2,355",
+    "timestamp": "2025-08-14T02:48:51.913037",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,125",
+    "fork": "453",
+    "timestamp": "2025-08-14T02:48:51.913346",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,880",
+    "fork": "473",
+    "timestamp": "2025-08-14T02:48:51.913635",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "823",
+    "fork": "230",
+    "timestamp": "2025-08-14T02:48:51.913960",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chef/chef-server",
+    "href": "https://github.com/chef/chef-server",
+    "about": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+    "star": "299",
+    "fork": "212",
+    "timestamp": "2025-08-14T02:48:51.914247",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,214",
+    "fork": "156",
+    "timestamp": "2025-08-14T02:48:51.914530",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,625",
+    "fork": "1,056",
+    "timestamp": "2025-08-14T02:48:51.914813",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,813",
+    "fork": "3,017",
+    "timestamp": "2025-08-14T02:48:51.915108",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "915",
+    "fork": "234",
+    "timestamp": "2025-08-14T02:48:51.915390",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "5,075",
+    "fork": "1,135",
+    "timestamp": "2025-08-14T02:48:51.915674",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,088",
+    "fork": "236",
+    "timestamp": "2025-08-14T02:48:51.915997",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,419",
+    "fork": "1,177",
+    "timestamp": "2025-08-14T02:48:51.916282",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "devinus/poolboy",
+    "href": "https://github.com/devinus/poolboy",
+    "about": "A hunky Erlang worker pool factory",
+    "star": "1,578",
+    "fork": "352",
+    "timestamp": "2025-08-14T02:48:51.916565",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "virtan/eep",
+    "href": "https://github.com/virtan/eep",
+    "about": "Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy",
+    "star": "243",
+    "fork": "32",
+    "timestamp": "2025-08-14T02:48:51.916847",
+    "stars_today": "0 stars today"
+  }
+]

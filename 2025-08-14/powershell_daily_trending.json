@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,610",
+    "fork": "5,304",
+    "timestamp": "2025-08-14T02:49:06.232104",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "11,677",
+    "fork": "3,438",
+    "timestamp": "2025-08-14T02:49:06.232419",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Romanitho/Winget-AutoUpdate",
+    "href": "https://github.com/Romanitho/Winget-AutoUpdate",
+    "about": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
+    "star": "1,596",
+    "fork": "165",
+    "timestamp": "2025-08-14T02:49:06.232748",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "dotnet/core",
+    "href": "https://github.com/dotnet/core",
+    "about": ".NET news, announcements, release notes, and more!",
+    "star": "21,552",
+    "fork": "4,923",
+    "timestamp": "2025-08-14T02:49:06.233066",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "SkipToTheEndpoint/OpenIntuneBaseline",
+    "href": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+    "about": "Community-driven baseline to accelerate Intune adoption and learning.",
+    "star": "928",
+    "fork": "189",
+    "timestamp": "2025-08-14T02:49:06.233364",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "star": "24,787",
+    "fork": "1,025",
+    "timestamp": "2025-08-14T02:49:06.233693",
+    "stars_today": "79 stars today"
+  },
+  {
+    "repo": "NetSPI/MicroBurst",
+    "href": "https://github.com/NetSPI/MicroBurst",
+    "about": "A collection of scripts for assessing Microsoft Azure security",
+    "star": "2,225",
+    "fork": "329",
+    "timestamp": "2025-08-14T02:49:06.233992",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "6,732",
+    "fork": "945",
+    "timestamp": "2025-08-14T02:49:06.234274",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ScoopInstaller/Main",
+    "href": "https://github.com/ScoopInstaller/Main",
+    "about": "📦 The default bucket for Scoop.",
+    "star": "1,721",
+    "fork": "1,070",
+    "timestamp": "2025-08-14T02:49:06.234584",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hak5/usbrubberducky-payloads",
+    "href": "https://github.com/hak5/usbrubberducky-payloads",
+    "about": "The Official USB Rubber Ducky Payload Repository",
+    "star": "5,004",
+    "fork": "1,523",
+    "timestamp": "2025-08-14T02:49:06.234863",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ScoopInstaller/Scoop",
+    "href": "https://github.com/ScoopInstaller/Scoop",
+    "about": "A command-line installer for Windows.",
+    "star": "22,728",
+    "fork": "1,472",
+    "timestamp": "2025-08-14T02:49:06.235177",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "SpotX-Official/SpotX",
+    "href": "https://github.com/SpotX-Official/SpotX",
+    "about": "SpotX patcher used for patching the desktop version of Spotify",
+    "star": "17,820",
+    "fork": "917",
+    "timestamp": "2025-08-14T02:49:06.235450",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "jakehildreth/Locksmith",
+    "href": "https://github.com/jakehildreth/Locksmith",
+    "about": "A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.",
+    "star": "1,284",
+    "fork": "125",
+    "timestamp": "2025-08-14T02:49:06.235750",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "jenkinsci/docker",
+    "href": "https://github.com/jenkinsci/docker",
+    "about": "Docker official jenkins repo",
+    "star": "7,116",
+    "fork": "4,656",
+    "timestamp": "2025-08-14T02:49:06.236036",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,590",
+    "fork": "285",
+    "timestamp": "2025-08-14T02:49:06.236309",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "microsoft/Agents",
+    "href": "https://github.com/microsoft/Agents",
+    "about": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+    "star": "380",
+    "fork": "126",
+    "timestamp": "2025-08-14T02:49:06.236582",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Azure/Microsoft-Defender-for-Cloud",
+    "href": "https://github.com/Azure/Microsoft-Defender-for-Cloud",
+    "about": "Welcome to the Microsoft Defender for Cloud community repository",
+    "star": "1,824",
+    "fork": "819",
+    "timestamp": "2025-08-14T02:49:06.236855",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/MSRC-Microsoft-Security-Updates-API",
+    "href": "https://github.com/microsoft/MSRC-Microsoft-Security-Updates-API",
+    "about": "Repo with getting started projects for the Microsoft Security Updates API (msrc.microsoft.com/update-guide)",
+    "star": "425",
+    "fork": "145",
+    "timestamp": "2025-08-14T02:49:06.237144",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Azure/AzureLocal-Supportability",
+    "href": "https://github.com/Azure/AzureLocal-Supportability",
+    "about": "Welcome to the Azure Local Supportability Forum! This is where the Azure Local team will track troubleshooting guides and issues with Azure Local. We will maintain this repo in order to provide a central location for community driven supportability content.",
+    "star": "49",
+    "fork": "35",
+    "timestamp": "2025-08-14T02:49:06.237418",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "redcanaryco/invoke-atomicredteam",
+    "href": "https://github.com/redcanaryco/invoke-atomicredteam",
+    "about": "Invoke-AtomicRedTeam is a PowerShell module to execute tests as defined in the [atomics folder](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) of Red Canary's Atomic Red Team project.",
+    "star": "941",
+    "fork": "218",
+    "timestamp": "2025-08-14T02:49:06.237693",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CrowdStrike/psfalcon",
+    "href": "https://github.com/CrowdStrike/psfalcon",
+    "about": "PowerShell for CrowdStrike's OAuth2 APIs",
+    "star": "427",
+    "fork": "73",
+    "timestamp": "2025-08-14T02:49:06.237982",
+    "stars_today": "0 stars today"
+  }
+]

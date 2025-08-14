@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "55,770",
+    "fork": "2,915",
+    "timestamp": "2025-08-14T02:48:54.048709",
+    "stars_today": "327 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,638",
+    "fork": "1,707",
+    "timestamp": "2025-08-14T02:48:54.049028",
+    "stars_today": "86 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,820",
+    "fork": "2,937",
+    "timestamp": "2025-08-14T02:48:54.049315",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "74,730",
+    "fork": "4,691",
+    "timestamp": "2025-08-14T02:48:54.049624",
+    "stars_today": "311 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "6,570",
+    "fork": "489",
+    "timestamp": "2025-08-14T02:48:54.049910",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "php/frankenphp",
+    "href": "https://github.com/php/frankenphp",
+    "about": "🧟 The modern PHP app server",
+    "star": "10,021",
+    "fork": "372",
+    "timestamp": "2025-08-14T02:48:54.050207",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,272",
+    "fork": "2,477",
+    "timestamp": "2025-08-14T02:48:54.050485",
+    "stars_today": "67 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,513",
+    "fork": "21,079",
+    "timestamp": "2025-08-14T02:48:54.050767",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "10,660",
+    "fork": "963",
+    "timestamp": "2025-08-14T02:48:54.051057",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,216",
+    "fork": "581",
+    "timestamp": "2025-08-14T02:48:54.051339",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mudler/LocalAGI",
+    "href": "https://github.com/mudler/LocalAGI",
+    "about": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).",
+    "star": "1,048",
+    "fork": "147",
+    "timestamp": "2025-08-14T02:48:54.051646",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "13,760",
+    "fork": "1,299",
+    "timestamp": "2025-08-14T02:48:54.051938",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "15,976",
+    "fork": "1,913",
+    "timestamp": "2025-08-14T02:48:54.052225",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "40,223",
+    "fork": "6,913",
+    "timestamp": "2025-08-14T02:48:54.052507",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "32,925",
+    "fork": "4,418",
+    "timestamp": "2025-08-14T02:48:54.052794",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "19,995",
+    "fork": "2,232",
+    "timestamp": "2025-08-14T02:48:54.053096",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "59,904",
+    "fork": "9,717",
+    "timestamp": "2025-08-14T02:48:54.053389",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "97,389",
+    "fork": "14,326",
+    "timestamp": "2025-08-14T02:48:54.053703",
+    "stars_today": "90 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,382",
+    "fork": "642",
+    "timestamp": "2025-08-14T02:48:54.054001",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,198",
+    "fork": "1,320",
+    "timestamp": "2025-08-14T02:48:54.054286",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,667",
+    "fork": "632",
+    "timestamp": "2025-08-14T02:48:54.054571",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "26,163",
+    "fork": "4,934",
+    "timestamp": "2025-08-14T02:48:54.054853",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,103",
+    "fork": "4,548",
+    "timestamp": "2025-08-14T02:48:54.055147",
+    "stars_today": "5 stars today"
+  }
+]
