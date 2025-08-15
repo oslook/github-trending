@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,453",
+    "fork": "1,035",
+    "timestamp": "2025-08-15T02:50:22.772208",
+    "stars_today": "77 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,318",
+    "fork": "2,481",
+    "timestamp": "2025-08-15T02:50:22.772513",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,120",
+    "fork": "9,968",
+    "timestamp": "2025-08-15T02:50:22.772804",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,038",
+    "fork": "663",
+    "timestamp": "2025-08-15T02:50:22.773103",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,222",
+    "fork": "4,503",
+    "timestamp": "2025-08-15T02:50:22.773394",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "55,934",
+    "fork": "2,926",
+    "timestamp": "2025-08-15T02:50:22.773708",
+    "stars_today": "274 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,837",
+    "fork": "2,947",
+    "timestamp": "2025-08-15T02:50:22.773990",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "74,853",
+    "fork": "4,692",
+    "timestamp": "2025-08-15T02:50:22.774320",
+    "stars_today": "149 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "6,585",
+    "fork": "492",
+    "timestamp": "2025-08-15T02:50:22.774602",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "13,778",
+    "fork": "1,301",
+    "timestamp": "2025-08-15T02:50:22.774884",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "11,798",
+    "fork": "839",
+    "timestamp": "2025-08-15T02:50:22.775215",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "22,248",
+    "fork": "3,367",
+    "timestamp": "2025-08-15T02:50:22.775499",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,661",
+    "fork": "1,708",
+    "timestamp": "2025-08-15T02:50:22.775781",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "17,486",
+    "fork": "1,485",
+    "timestamp": "2025-08-15T02:50:22.776115",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,748",
+    "fork": "1,226",
+    "timestamp": "2025-08-15T02:50:22.776411",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "2,067",
+    "fork": "195",
+    "timestamp": "2025-08-15T02:50:22.776692",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,679",
+    "fork": "602",
+    "timestamp": "2025-08-15T02:50:22.776973",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/karpenter",
+    "href": "https://github.com/kubernetes-sigs/karpenter",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "1,251",
+    "fork": "320",
+    "timestamp": "2025-08-15T02:50:22.777269",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,454",
+    "fork": "784",
+    "timestamp": "2025-08-15T02:50:22.777579",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,360",
+    "fork": "6,271",
+    "timestamp": "2025-08-15T02:50:22.777857",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,386",
+    "fork": "643",
+    "timestamp": "2025-08-15T02:50:22.778152",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-mcp-server",
+    "href": "https://github.com/hashicorp/terraform-mcp-server",
+    "about": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+    "star": "823",
+    "fork": "68",
+    "timestamp": "2025-08-15T02:50:22.778436",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,411",
+    "fork": "2,515",
+    "timestamp": "2025-08-15T02:50:22.778722",
+    "stars_today": "5 stars today"
+  }
+]
