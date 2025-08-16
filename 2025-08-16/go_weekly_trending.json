@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,524",
+    "fork": "1,041",
+    "timestamp": "2025-08-16T02:42:22.463234",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "55,993",
+    "fork": "2,927",
+    "timestamp": "2025-08-16T02:42:22.463564",
+    "stars_today": "910 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "74,942",
+    "fork": "4,694",
+    "timestamp": "2025-08-16T02:42:22.463937",
+    "stars_today": "757 stars this week"
+  },
+  {
+    "repo": "steveiliop56/tinyauth",
+    "href": "https://github.com/steveiliop56/tinyauth",
+    "about": "The simplest way to protect your apps with a login screen.",
+    "star": "4,822",
+    "fork": "140",
+    "timestamp": "2025-08-16T02:42:22.464248",
+    "stars_today": "988 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "63,636",
+    "fork": "2,192",
+    "timestamp": "2025-08-16T02:42:22.464555",
+    "stars_today": "493 stars this week"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "2,312",
+    "fork": "194",
+    "timestamp": "2025-08-16T02:42:22.464848",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "27,033",
+    "fork": "1,022",
+    "timestamp": "2025-08-16T02:42:22.465156",
+    "stars_today": "266 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,376",
+    "fork": "2,484",
+    "timestamp": "2025-08-16T02:42:22.465432",
+    "stars_today": "193 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "97,476",
+    "fork": "14,341",
+    "timestamp": "2025-08-16T02:42:22.465735",
+    "stars_today": "473 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,842",
+    "fork": "2,948",
+    "timestamp": "2025-08-16T02:42:22.466028",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "30,836",
+    "fork": "1,229",
+    "timestamp": "2025-08-16T02:42:22.466336",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,670",
+    "fork": "1,709",
+    "timestamp": "2025-08-16T02:42:22.466615",
+    "stars_today": "192 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "50,151",
+    "fork": "5,976",
+    "timestamp": "2025-08-16T02:42:22.466933",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,539",
+    "fork": "21,113",
+    "timestamp": "2025-08-16T02:42:22.467210",
+    "stars_today": "101 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "18,109",
+    "fork": "849",
+    "timestamp": "2025-08-16T02:42:22.467512",
+    "stars_today": "246 stars this week"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "21,718",
+    "fork": "685",
+    "timestamp": "2025-08-16T02:42:22.467789",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "116,903",
+    "fork": "41,165",
+    "timestamp": "2025-08-16T02:42:22.468074",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "sst/opencode",
+    "href": "https://github.com/sst/opencode",
+    "about": "AI coding agent, built for the terminal.",
+    "star": "19,681",
+    "fork": "1,263",
+    "timestamp": "2025-08-16T02:42:22.468380",
+    "stars_today": "1,490 stars this week"
+  },
+  {
+    "repo": "gotify/server",
+    "href": "https://github.com/gotify/server",
+    "about": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+    "star": "13,488",
+    "fork": "744",
+    "timestamp": "2025-08-16T02:42:22.468658",
+    "stars_today": "211 stars this week"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,311",
+    "fork": "1,453",
+    "timestamp": "2025-08-16T02:42:22.468946",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "10,691",
+    "fork": "962",
+    "timestamp": "2025-08-16T02:42:22.469226",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "lxc/incus",
+    "href": "https://github.com/lxc/incus",
+    "about": "Powerful system container and virtual machine manager",
+    "star": "3,988",
+    "fork": "336",
+    "timestamp": "2025-08-16T02:42:22.469504",
+    "stars_today": "135 stars this week"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,376",
+    "fork": "2,484",
+    "timestamp": "2025-08-16T02:42:22.068924",
+    "stars_today": "70 stars today"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,125",
+    "fork": "669",
+    "timestamp": "2025-08-16T02:42:22.069218",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "74,942",
+    "fork": "4,694",
+    "timestamp": "2025-08-16T02:42:22.069570",
+    "stars_today": "121 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,842",
+    "fork": "2,948",
+    "timestamp": "2025-08-16T02:42:22.069858",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "59,940",
+    "fork": "9,722",
+    "timestamp": "2025-08-16T02:42:22.070137",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "23,498",
+    "fork": "1,481",
+    "timestamp": "2025-08-16T02:42:22.070414",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,524",
+    "fork": "1,041",
+    "timestamp": "2025-08-16T02:42:22.070686",
+    "stars_today": "126 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,777",
+    "fork": "2,645",
+    "timestamp": "2025-08-16T02:42:22.070974",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "55,993",
+    "fork": "2,927",
+    "timestamp": "2025-08-16T02:42:22.071279",
+    "stars_today": "81 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,547",
+    "fork": "1,287",
+    "timestamp": "2025-08-16T02:42:22.071552",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "15,293",
+    "fork": "1,061",
+    "timestamp": "2025-08-16T02:42:22.071836",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,425",
+    "fork": "2,516",
+    "timestamp": "2025-08-16T02:42:22.072114",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,161",
+    "fork": "9,975",
+    "timestamp": "2025-08-16T02:42:22.072386",
+    "stars_today": "110 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "72,876",
+    "fork": "2,569",
+    "timestamp": "2025-08-16T02:42:22.072686",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,204",
+    "fork": "1,320",
+    "timestamp": "2025-08-16T02:42:22.072973",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,676",
+    "fork": "632",
+    "timestamp": "2025-08-16T02:42:22.073247",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,683",
+    "fork": "602",
+    "timestamp": "2025-08-16T02:42:22.073522",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,617",
+    "fork": "627",
+    "timestamp": "2025-08-16T02:42:22.073803",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,670",
+    "fork": "1,709",
+    "timestamp": "2025-08-16T02:42:22.074092",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "26,187",
+    "fork": "4,934",
+    "timestamp": "2025-08-16T02:42:22.074377",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "50,151",
+    "fork": "5,976",
+    "timestamp": "2025-08-16T02:42:22.074684",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/karpenter",
+    "href": "https://github.com/kubernetes-sigs/karpenter",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "1,252",
+    "fork": "321",
+    "timestamp": "2025-08-16T02:42:22.074971",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "docker/cli",
+    "href": "https://github.com/docker/cli",
+    "about": "The Docker CLI",
+    "star": "5,396",
+    "fork": "2,038",
+    "timestamp": "2025-08-16T02:42:22.075247",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "116,903",
+    "fork": "41,165",
+    "timestamp": "2025-08-16T02:42:22.075525",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,624",
+    "fork": "253",
+    "timestamp": "2025-08-16T02:42:22.075798",
+    "stars_today": "2 stars today"
+  }
+]
