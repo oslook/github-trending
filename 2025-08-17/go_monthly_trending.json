@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "sst/opencode",
+    "href": "https://github.com/sst/opencode",
+    "about": "AI coding agent, built for the terminal.",
+    "star": "19,807",
+    "fork": "1,273",
+    "timestamp": "2025-08-17T02:54:15.976518",
+    "stars_today": "6,848 stars this month"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "6,776",
+    "fork": "521",
+    "timestamp": "2025-08-17T02:54:15.976822",
+    "stars_today": "1,762 stars this month"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "150,335",
+    "fork": "12,835",
+    "timestamp": "2025-08-17T02:54:15.977131",
+    "stars_today": "4,051 stars this month"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "1,619",
+    "fork": "126",
+    "timestamp": "2025-08-17T02:54:15.977412",
+    "stars_today": "655 stars this month"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "34,404",
+    "fork": "972",
+    "timestamp": "2025-08-17T02:54:15.977692",
+    "stars_today": "1,193 stars this month"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,037",
+    "fork": "2,929",
+    "timestamp": "2025-08-17T02:54:15.978012",
+    "stars_today": "1,816 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "63,675",
+    "fork": "2,195",
+    "timestamp": "2025-08-17T02:54:15.978329",
+    "stars_today": "1,784 stars this month"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "2,322",
+    "fork": "194",
+    "timestamp": "2025-08-17T02:54:15.978609",
+    "stars_today": "275 stars this month"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "21,112",
+    "fork": "2,100",
+    "timestamp": "2025-08-17T02:54:15.978904",
+    "stars_today": "3,735 stars this month"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "14,879",
+    "fork": "974",
+    "timestamp": "2025-08-17T02:54:15.979211",
+    "stars_today": "2,968 stars this month"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "16,527",
+    "fork": "2,627",
+    "timestamp": "2025-08-17T02:54:15.979488",
+    "stars_today": "504 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "17,756",
+    "fork": "1,615",
+    "timestamp": "2025-08-17T02:54:15.979764",
+    "stars_today": "270 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,550",
+    "fork": "1,045",
+    "timestamp": "2025-08-17T02:54:15.980056",
+    "stars_today": "349 stars this month"
+  },
+  {
+    "repo": "steveiliop56/tinyauth",
+    "href": "https://github.com/steveiliop56/tinyauth",
+    "about": "The simplest way to protect your apps with a login screen.",
+    "star": "4,848",
+    "fork": "141",
+    "timestamp": "2025-08-17T02:54:15.980363",
+    "stars_today": "1,557 stars this month"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "16,015",
+    "fork": "1,914",
+    "timestamp": "2025-08-17T02:54:15.980640",
+    "stars_today": "929 stars this month"
+  },
+  {
+    "repo": "slackhq/nebula",
+    "href": "https://github.com/slackhq/nebula",
+    "about": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "star": "16,029",
+    "fork": "1,060",
+    "timestamp": "2025-08-17T02:54:15.980935",
+    "stars_today": "236 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,137",
+    "fork": "984",
+    "timestamp": "2025-08-17T02:54:15.981246",
+    "stars_today": "315 stars this month"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "4,568",
+    "fork": "744",
+    "timestamp": "2025-08-17T02:54:15.981554",
+    "stars_today": "606 stars this month"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,392",
+    "fork": "2,484",
+    "timestamp": "2025-08-17T02:54:15.981865",
+    "stars_today": "332 stars this month"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "10,718",
+    "fork": "1,062",
+    "timestamp": "2025-08-17T02:54:15.982157",
+    "stars_today": "204 stars this month"
+  },
+  {
+    "repo": "gotify/server",
+    "href": "https://github.com/gotify/server",
+    "about": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+    "star": "13,503",
+    "fork": "744",
+    "timestamp": "2025-08-17T02:54:15.982443",
+    "stars_today": "482 stars this month"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "9,868",
+    "fork": "711",
+    "timestamp": "2025-08-17T02:54:15.982719",
+    "stars_today": "531 stars this month"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "14,827",
+    "fork": "4,275",
+    "timestamp": "2025-08-17T02:54:15.983037",
+    "stars_today": "264 stars this month"
+  }
+]

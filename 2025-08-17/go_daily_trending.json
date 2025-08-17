@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,172",
+    "fork": "668",
+    "timestamp": "2025-08-17T02:54:15.152597",
+    "stars_today": "90 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,392",
+    "fork": "2,484",
+    "timestamp": "2025-08-17T02:54:15.152916",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,550",
+    "fork": "1,045",
+    "timestamp": "2025-08-17T02:54:15.153205",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,397",
+    "fork": "647",
+    "timestamp": "2025-08-17T02:54:15.153486",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-mcp-server",
+    "href": "https://github.com/hashicorp/terraform-mcp-server",
+    "about": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+    "star": "834",
+    "fork": "71",
+    "timestamp": "2025-08-17T02:54:15.153764",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,485",
+    "fork": "786",
+    "timestamp": "2025-08-17T02:54:15.154084",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "25,921",
+    "fork": "3,043",
+    "timestamp": "2025-08-17T02:54:15.154364",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,173",
+    "fork": "9,974",
+    "timestamp": "2025-08-17T02:54:15.154641",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "72,921",
+    "fork": "2,571",
+    "timestamp": "2025-08-17T02:54:15.154962",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,703",
+    "fork": "4,074",
+    "timestamp": "2025-08-17T02:54:15.155244",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,717",
+    "fork": "8,597",
+    "timestamp": "2025-08-17T02:54:15.155520",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "cloudwego/hertz",
+    "href": "https://github.com/cloudwego/hertz",
+    "about": "Go HTTP framework with high-performance and strong-extensibility for building micro-services.",
+    "star": "6,611",
+    "fork": "605",
+    "timestamp": "2025-08-17T02:54:15.155804",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "83,603",
+    "fork": "8,299",
+    "timestamp": "2025-08-17T02:54:15.156102",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,694",
+    "fork": "4,007",
+    "timestamp": "2025-08-17T02:54:15.156382",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "11,385",
+    "fork": "1,265",
+    "timestamp": "2025-08-17T02:54:15.156667",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,856",
+    "fork": "1,379",
+    "timestamp": "2025-08-17T02:54:15.156960",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "NVIDIA/nvidia-container-toolkit",
+    "href": "https://github.com/NVIDIA/nvidia-container-toolkit",
+    "about": "Build and run containers leveraging NVIDIA GPUs",
+    "star": "3,557",
+    "fork": "390",
+    "timestamp": "2025-08-17T02:54:15.157237",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,112",
+    "fork": "4,549",
+    "timestamp": "2025-08-17T02:54:15.157515",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "150,068",
+    "fork": "12,503",
+    "timestamp": "2025-08-17T02:54:15.157823",
+    "stars_today": "85 stars today"
+  },
+  {
+    "repo": "fyne-io/fyne",
+    "href": "https://github.com/fyne-io/fyne",
+    "about": "Cross platform GUI toolkit in Go inspired by Material Design",
+    "star": "26,952",
+    "fork": "1,471",
+    "timestamp": "2025-08-17T02:54:15.158141",
+    "stars_today": "6 stars today"
+  }
+]
