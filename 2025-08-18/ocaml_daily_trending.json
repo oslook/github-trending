@@ -1,0 +1,65 @@
+[
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "5,900",
+    "fork": "1,161",
+    "timestamp": "2025-08-18T02:57:43.454937",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "12,519",
+    "fork": "757",
+    "timestamp": "2025-08-18T02:57:43.455353",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,342",
+    "fork": "2,043",
+    "timestamp": "2025-08-18T02:57:43.455634",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "semgrep/testo",
+    "href": "https://github.com/semgrep/testo",
+    "about": "Test framework for OCaml",
+    "star": "25",
+    "fork": "4",
+    "timestamp": "2025-08-18T02:57:43.455968",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "semgrep/ocaml-tree-sitter-core",
+    "href": "https://github.com/semgrep/ocaml-tree-sitter-core",
+    "about": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+    "star": "36",
+    "fork": "7",
+    "timestamp": "2025-08-18T02:57:43.456265",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "opengrep/opengrep",
+    "href": "https://github.com/opengrep/opengrep",
+    "about": "🔎 Static code analysis engine to find security issues in code.",
+    "star": "1,525",
+    "fork": "106",
+    "timestamp": "2025-08-18T02:57:43.456550",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "astrada/google-drive-ocamlfuse",
+    "href": "https://github.com/astrada/google-drive-ocamlfuse",
+    "about": "FUSE filesystem over Google Drive",
+    "star": "5,761",
+    "fork": "359",
+    "timestamp": "2025-08-18T02:57:43.456830",
+    "stars_today": "0 stars today"
+  }
+]

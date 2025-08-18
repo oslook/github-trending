@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "couchbase/couchdb",
+    "href": "https://github.com/couchbase/couchdb",
+    "about": "CouchDB",
+    "star": "139",
+    "fork": "56",
+    "timestamp": "2025-08-18T02:57:33.306989",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "seth/ej",
+    "href": "https://github.com/seth/ej",
+    "about": "Helper module for working with Erlang terms representing JSON",
+    "star": "176",
+    "fork": "46",
+    "timestamp": "2025-08-18T02:57:33.307299",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "5,064",
+    "fork": "1,141",
+    "timestamp": "2025-08-18T02:57:33.307582",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,817",
+    "fork": "3,016",
+    "timestamp": "2025-08-18T02:57:33.307860",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "657",
+    "fork": "139",
+    "timestamp": "2025-08-18T02:57:33.308138",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "757",
+    "fork": "160",
+    "timestamp": "2025-08-18T02:57:33.308429",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,127",
+    "fork": "2,358",
+    "timestamp": "2025-08-18T02:57:33.308706",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,754",
+    "fork": "518",
+    "timestamp": "2025-08-18T02:57:33.308982",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "285",
+    "fork": "177",
+    "timestamp": "2025-08-18T02:57:33.309268",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,359",
+    "fork": "435",
+    "timestamp": "2025-08-18T02:57:33.309545",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "916",
+    "fork": "234",
+    "timestamp": "2025-08-18T02:57:33.309820",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "323",
+    "fork": "108",
+    "timestamp": "2025-08-18T02:57:33.310095",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,421",
+    "fork": "1,178",
+    "timestamp": "2025-08-18T02:57:33.310384",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "seriyps/mtproto_proxy",
+    "href": "https://github.com/seriyps/mtproto_proxy",
+    "about": "High performance Erlang MTProto proxy that powers https://t.me/socksy_bot",
+    "star": "641",
+    "fork": "117",
+    "timestamp": "2025-08-18T02:57:33.310692",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,087",
+    "fork": "236",
+    "timestamp": "2025-08-18T02:57:33.310989",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "101",
+    "fork": "33",
+    "timestamp": "2025-08-18T02:57:33.311280",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,879",
+    "fork": "473",
+    "timestamp": "2025-08-18T02:57:33.311556",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "822",
+    "fork": "230",
+    "timestamp": "2025-08-18T02:57:33.311859",
+    "stars_today": "0 stars today"
+  }
+]

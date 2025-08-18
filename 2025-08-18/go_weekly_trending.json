@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,582",
+    "fork": "1,046",
+    "timestamp": "2025-08-18T02:57:35.340138",
+    "stars_today": "302 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,080",
+    "fork": "4,698",
+    "timestamp": "2025-08-18T02:57:35.340476",
+    "stars_today": "839 stars this week"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,091",
+    "fork": "2,934",
+    "timestamp": "2025-08-18T02:57:35.340786",
+    "stars_today": "985 stars this week"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,175",
+    "fork": "669",
+    "timestamp": "2025-08-18T02:57:35.341067",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,395",
+    "fork": "2,485",
+    "timestamp": "2025-08-18T02:57:35.341356",
+    "stars_today": "224 stars this week"
+  },
+  {
+    "repo": "steveiliop56/tinyauth",
+    "href": "https://github.com/steveiliop56/tinyauth",
+    "about": "The simplest way to protect your apps with a login screen.",
+    "star": "4,883",
+    "fork": "142",
+    "timestamp": "2025-08-18T02:57:35.341660",
+    "stars_today": "591 stars this week"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "2,331",
+    "fork": "194",
+    "timestamp": "2025-08-18T02:57:35.341935",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,847",
+    "fork": "2,951",
+    "timestamp": "2025-08-18T02:57:35.342207",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,675",
+    "fork": "1,710",
+    "timestamp": "2025-08-18T02:57:35.342495",
+    "stars_today": "190 stars this week"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "30,848",
+    "fork": "1,230",
+    "timestamp": "2025-08-18T02:57:35.342801",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "72,952",
+    "fork": "2,571",
+    "timestamp": "2025-08-18T02:57:35.343100",
+    "stars_today": "262 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "10,708",
+    "fork": "962",
+    "timestamp": "2025-08-18T02:57:35.343390",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "97,533",
+    "fork": "14,344",
+    "timestamp": "2025-08-18T02:57:35.343692",
+    "stars_today": "412 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,551",
+    "fork": "21,117",
+    "timestamp": "2025-08-18T02:57:35.343965",
+    "stars_today": "99 stars this week"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,063",
+    "fork": "989",
+    "timestamp": "2025-08-18T02:57:35.344251",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "50,183",
+    "fork": "5,984",
+    "timestamp": "2025-08-18T02:57:35.344554",
+    "stars_today": "208 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "27,107",
+    "fork": "1,024",
+    "timestamp": "2025-08-18T02:57:35.344853",
+    "stars_today": "276 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,407",
+    "fork": "647",
+    "timestamp": "2025-08-18T02:57:35.345127",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "40,293",
+    "fork": "6,934",
+    "timestamp": "2025-08-18T02:57:35.345413",
+    "stars_today": "144 stars this week"
+  },
+  {
+    "repo": "kubernetes/kops",
+    "href": "https://github.com/kubernetes/kops",
+    "about": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+    "star": "16,371",
+    "fork": "4,683",
+    "timestamp": "2025-08-18T02:57:35.345685",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "10,729",
+    "fork": "1,063",
+    "timestamp": "2025-08-18T02:57:35.345959",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "e2b-dev/infra",
+    "href": "https://github.com/e2b-dev/infra",
+    "about": "Infrastructure that's powering E2B Cloud.",
+    "star": "608",
+    "fork": "147",
+    "timestamp": "2025-08-18T02:57:35.346252",
+    "stars_today": "28 stars this week"
+  }
+]

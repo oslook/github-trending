@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "echasnovski/mini.nvim",
+    "href": "https://github.com/echasnovski/mini.nvim",
+    "about": "Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort",
+    "star": "7,796",
+    "fork": "251",
+    "timestamp": "2025-08-18T02:57:42.315279",
+    "stars_today": "275 stars this month"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "5,772",
+    "fork": "302",
+    "timestamp": "2025-08-18T02:57:42.315581",
+    "stars_today": "303 stars this month"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,230",
+    "fork": "148",
+    "timestamp": "2025-08-18T02:57:42.315869",
+    "stars_today": "167 stars this month"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "22,119",
+    "fork": "1,549",
+    "timestamp": "2025-08-18T02:57:42.316151",
+    "stars_today": "510 stars this month"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "12,563",
+    "fork": "819",
+    "timestamp": "2025-08-18T02:57:42.316443",
+    "stars_today": "374 stars this month"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,465",
+    "fork": "1,182",
+    "timestamp": "2025-08-18T02:57:42.316723",
+    "stars_today": "74 stars this month"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "3,430",
+    "fork": "55",
+    "timestamp": "2025-08-18T02:57:42.316997",
+    "stars_today": "166 stars this month"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,678",
+    "fork": "304",
+    "timestamp": "2025-08-18T02:57:42.317316",
+    "stars_today": "135 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "26,747",
+    "fork": "38,432",
+    "timestamp": "2025-08-18T02:57:42.317597",
+    "stars_today": "770 stars this month"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,800",
+    "fork": "264",
+    "timestamp": "2025-08-18T02:57:42.317879",
+    "stars_today": "117 stars this month"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,067",
+    "fork": "232",
+    "timestamp": "2025-08-18T02:57:42.318181",
+    "stars_today": "123 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "18,543",
+    "fork": "472",
+    "timestamp": "2025-08-18T02:57:42.318468",
+    "stars_today": "440 stars this month"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "15,495",
+    "fork": "2,636",
+    "timestamp": "2025-08-18T02:57:42.318746",
+    "stars_today": "144 stars this month"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,837",
+    "fork": "140",
+    "timestamp": "2025-08-18T02:57:42.319048",
+    "stars_today": "101 stars this month"
+  },
+  {
+    "repo": "nvim-lua/plenary.nvim",
+    "href": "https://github.com/nvim-lua/plenary.nvim",
+    "about": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "star": "3,196",
+    "fork": "315",
+    "timestamp": "2025-08-18T02:57:42.319338",
+    "stars_today": "49 stars this month"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,291",
+    "fork": "515",
+    "timestamp": "2025-08-18T02:57:42.319612",
+    "stars_today": "135 stars this month"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,498",
+    "fork": "2,291",
+    "timestamp": "2025-08-18T02:57:42.319915",
+    "stars_today": "219 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,337",
+    "fork": "483",
+    "timestamp": "2025-08-18T02:57:42.320190",
+    "stars_today": "131 stars this month"
+  },
+  {
+    "repo": "vague2k/vague.nvim",
+    "href": "https://github.com/vague2k/vague.nvim",
+    "about": "A cool, dark, low contrast colorscheme for Neovim. Pastel yet vivid, like a fleeting memory...",
+    "star": "698",
+    "fork": "23",
+    "timestamp": "2025-08-18T02:57:42.320474",
+    "stars_today": "126 stars this month"
+  }
+]
