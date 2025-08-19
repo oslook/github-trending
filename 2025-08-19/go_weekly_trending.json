@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,608",
+    "fork": "1,047",
+    "timestamp": "2025-08-19T02:40:06.472385",
+    "stars_today": "331 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,168",
+    "fork": "4,706",
+    "timestamp": "2025-08-19T02:40:06.472733",
+    "stars_today": "912 stars this week"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,134",
+    "fork": "2,937",
+    "timestamp": "2025-08-19T02:40:06.473052",
+    "stars_today": "990 stars this week"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,179",
+    "fork": "673",
+    "timestamp": "2025-08-19T02:40:06.473333",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,400",
+    "fork": "2,487",
+    "timestamp": "2025-08-19T02:40:06.473630",
+    "stars_today": "223 stars this week"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "2,334",
+    "fork": "195",
+    "timestamp": "2025-08-19T02:40:06.473914",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,852",
+    "fork": "2,958",
+    "timestamp": "2025-08-19T02:40:06.474195",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "30,860",
+    "fork": "1,230",
+    "timestamp": "2025-08-19T02:40:06.474504",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "50,198",
+    "fork": "5,987",
+    "timestamp": "2025-08-19T02:40:06.474822",
+    "stars_today": "202 stars this week"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,082",
+    "fork": "990",
+    "timestamp": "2025-08-19T02:40:06.475101",
+    "stars_today": "149 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,681",
+    "fork": "1,711",
+    "timestamp": "2025-08-19T02:40:06.475377",
+    "stars_today": "189 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "72,983",
+    "fork": "2,572",
+    "timestamp": "2025-08-19T02:40:06.475698",
+    "stars_today": "274 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,558",
+    "fork": "21,122",
+    "timestamp": "2025-08-19T02:40:06.475978",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "97,559",
+    "fork": "14,345",
+    "timestamp": "2025-08-19T02:40:06.476283",
+    "stars_today": "387 stars this week"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,410",
+    "fork": "648",
+    "timestamp": "2025-08-19T02:40:06.476572",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "kubernetes/kops",
+    "href": "https://github.com/kubernetes/kops",
+    "about": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+    "star": "16,377",
+    "fork": "4,684",
+    "timestamp": "2025-08-19T02:40:06.476849",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,355",
+    "fork": "7,312",
+    "timestamp": "2025-08-19T02:40:06.477125",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "google/go-github",
+    "href": "https://github.com/google/go-github",
+    "about": "Go library for accessing the GitHub v3 API",
+    "star": "10,902",
+    "fork": "2,157",
+    "timestamp": "2025-08-19T02:40:06.477399",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,346",
+    "fork": "1,040",
+    "timestamp": "2025-08-19T02:40:06.477703",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "40,306",
+    "fork": "6,933",
+    "timestamp": "2025-08-19T02:40:06.478014",
+    "stars_today": "140 stars this week"
+  }
+]
