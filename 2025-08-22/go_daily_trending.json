@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,795",
+    "fork": "8,643",
+    "timestamp": "2025-08-22T02:38:03.959262",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "edoardottt/cariddi",
+    "href": "https://github.com/edoardottt/cariddi",
+    "about": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+    "star": "2,482",
+    "fork": "220",
+    "timestamp": "2025-08-22T02:38:03.959594",
+    "stars_today": "254 stars today"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "9,443",
+    "fork": "809",
+    "timestamp": "2025-08-22T02:38:03.959883",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "24,462",
+    "fork": "2,865",
+    "timestamp": "2025-08-22T02:38:03.960179",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,447",
+    "fork": "2,523",
+    "timestamp": "2025-08-22T02:38:03.960472",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,508",
+    "fork": "18,800",
+    "timestamp": "2025-08-22T02:38:03.960753",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,002",
+    "fork": "2,680",
+    "timestamp": "2025-08-22T02:38:03.961033",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "54,733",
+    "fork": "6,096",
+    "timestamp": "2025-08-22T02:38:03.961325",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,416",
+    "fork": "6,299",
+    "timestamp": "2025-08-22T02:38:03.961603",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,585",
+    "fork": "3,089",
+    "timestamp": "2025-08-22T02:38:03.961881",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,343",
+    "fork": "1,502",
+    "timestamp": "2025-08-22T02:38:03.962200",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,469",
+    "fork": "9,669",
+    "timestamp": "2025-08-22T02:38:03.962479",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,009",
+    "fork": "893",
+    "timestamp": "2025-08-22T02:38:03.962783",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,113",
+    "fork": "5,685",
+    "timestamp": "2025-08-22T02:38:03.963059",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "20,261",
+    "fork": "1,954",
+    "timestamp": "2025-08-22T02:38:03.963362",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "50,119",
+    "fork": "10,149",
+    "timestamp": "2025-08-22T02:38:03.963636",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "13,874",
+    "fork": "1,312",
+    "timestamp": "2025-08-22T02:38:03.963911",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/kubectl-ai",
+    "href": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "about": "AI powered Kubernetes Assistant",
+    "star": "6,692",
+    "fork": "583",
+    "timestamp": "2025-08-22T02:38:03.964201",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "href": "https://github.com/nats-io/nats.go",
+    "about": "Golang client for NATS, the cloud native messaging system.",
+    "star": "6,098",
+    "fork": "764",
+    "timestamp": "2025-08-22T02:38:03.964477",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "urfave/cli",
+    "href": "https://github.com/urfave/cli",
+    "about": "A declarative, simple, fast, and fun package for building command line tools in Go",
+    "star": "23,443",
+    "fork": "1,752",
+    "timestamp": "2025-08-22T02:38:03.964752",
+    "stars_today": "8 stars today"
+  }
+]

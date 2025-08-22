@@ -1,0 +1,74 @@
+[
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "11,454",
+    "fork": "471",
+    "timestamp": "2025-08-22T02:38:04.956029",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "37,957",
+    "fork": "1,846",
+    "timestamp": "2025-08-22T02:38:04.956348",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "jgm/pandoc",
+    "href": "https://github.com/jgm/pandoc",
+    "about": "Universal markup converter",
+    "star": "38,867",
+    "fork": "3,597",
+    "timestamp": "2025-08-22T02:38:04.956661",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,621",
+    "fork": "1,109",
+    "timestamp": "2025-08-22T02:38:04.956952",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,209",
+    "fork": "33",
+    "timestamp": "2025-08-22T02:38:04.957276",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "simplex-chat/simplex-chat",
+    "href": "https://github.com/simplex-chat/simplex-chat",
+    "about": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "star": "9,352",
+    "fork": "473",
+    "timestamp": "2025-08-22T02:38:04.957591",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "NixOS/nixfmt",
+    "href": "https://github.com/NixOS/nixfmt",
+    "about": "The official formatter for Nix code",
+    "star": "1,249",
+    "fork": "59",
+    "timestamp": "2025-08-22T02:38:04.957899",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "simonmichael/hledger",
+    "href": "https://github.com/simonmichael/hledger",
+    "about": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+    "star": "3,373",
+    "fork": "335",
+    "timestamp": "2025-08-22T02:38:04.958217",
+    "stars_today": "1 star today"
+  }
+]

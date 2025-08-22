@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "colmap/colmap",
+    "href": "https://github.com/colmap/colmap",
+    "about": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "star": "9,609",
+    "fork": "1,754",
+    "timestamp": "2025-08-22T02:37:55.299368",
+    "stars_today": "385 stars this week"
+  },
+  {
+    "repo": "ggml-org/whisper.cpp",
+    "href": "https://github.com/ggml-org/whisper.cpp",
+    "about": "Port of OpenAI's Whisper model in C/C++",
+    "star": "42,554",
+    "fork": "4,579",
+    "timestamp": "2025-08-22T02:37:55.299666",
+    "stars_today": "264 stars this week"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "href": "https://github.com/duckdb/duckdb",
+    "about": "DuckDB is an analytical in-process SQL database management system",
+    "star": "32,191",
+    "fork": "2,528",
+    "timestamp": "2025-08-22T02:37:55.299955",
+    "stars_today": "591 stars this week"
+  },
+  {
+    "repo": "NickvisionApps/Parabolic",
+    "href": "https://github.com/NickvisionApps/Parabolic",
+    "about": "Download web video and audio",
+    "star": "3,423",
+    "fork": "159",
+    "timestamp": "2025-08-22T02:37:55.300252",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "85,286",
+    "fork": "12,776",
+    "timestamp": "2025-08-22T02:37:55.300535",
+    "stars_today": "487 stars this week"
+  },
+  {
+    "repo": "SoftFever/OrcaSlicer",
+    "href": "https://github.com/SoftFever/OrcaSlicer",
+    "about": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "star": "10,490",
+    "fork": "1,347",
+    "timestamp": "2025-08-22T02:37:55.300841",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "k2-fsa/sherpa-onnx",
+    "href": "https://github.com/k2-fsa/sherpa-onnx",
+    "about": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+    "star": "7,146",
+    "fork": "831",
+    "timestamp": "2025-08-22T02:37:55.301132",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "cifertech/nRFBox",
+    "href": "https://github.com/cifertech/nRFBox",
+    "about": "Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks.",
+    "star": "1,049",
+    "fork": "142",
+    "timestamp": "2025-08-22T02:37:55.301416",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "123,502",
+    "fork": "24,823",
+    "timestamp": "2025-08-22T02:37:55.301686",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "CleverRaven/Cataclysm-DDA",
+    "href": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "about": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "star": "11,550",
+    "fork": "4,340",
+    "timestamp": "2025-08-22T02:37:55.301968",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "OHF-Voice/piper1-gpl",
+    "href": "https://github.com/OHF-Voice/piper1-gpl",
+    "about": "Fast and local neural text-to-speech engine",
+    "star": "645",
+    "fork": "52",
+    "timestamp": "2025-08-22T02:37:55.302258",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "amnezia-vpn/amnezia-client",
+    "href": "https://github.com/amnezia-vpn/amnezia-client",
+    "about": "Amnezia VPN Client (Desktop+Mobile)",
+    "star": "7,923",
+    "fork": "518",
+    "timestamp": "2025-08-22T02:37:55.302527",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "azerothcore/azerothcore-wotlk",
+    "href": "https://github.com/azerothcore/azerothcore-wotlk",
+    "about": "Complete Open Source and Modular solution for MMO",
+    "star": "7,361",
+    "fork": "2,939",
+    "timestamp": "2025-08-22T02:37:55.302803",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "godotengine/godot",
+    "href": "https://github.com/godotengine/godot",
+    "about": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "star": "100,463",
+    "fork": "23,028",
+    "timestamp": "2025-08-22T02:37:55.303086",
+    "stars_today": "354 stars this week"
+  },
+  {
+    "repo": "MarlinFirmware/Marlin",
+    "href": "https://github.com/MarlinFirmware/Marlin",
+    "about": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "star": "16,937",
+    "fork": "19,520",
+    "timestamp": "2025-08-22T02:37:55.303406",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "RPCS3/rpcs3",
+    "href": "https://github.com/RPCS3/rpcs3",
+    "about": "PlayStation 3 emulator and debugger",
+    "star": "17,322",
+    "fork": "2,104",
+    "timestamp": "2025-08-22T02:37:55.303686",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "ai-dynamo/nixl",
+    "href": "https://github.com/ai-dynamo/nixl",
+    "about": "NVIDIA Inference Xfer Library (NIXL)",
+    "star": "556",
+    "fork": "128",
+    "timestamp": "2025-08-22T02:37:55.303963",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "mltframework/shotcut",
+    "href": "https://github.com/mltframework/shotcut",
+    "about": "cross-platform (Qt), open-source (GPLv3) video editor",
+    "star": "12,526",
+    "fork": "1,235",
+    "timestamp": "2025-08-22T02:37:55.304259",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "daijro/camoufox",
+    "href": "https://github.com/daijro/camoufox",
+    "about": "🦊 Anti-detect browser",
+    "star": "2,976",
+    "fork": "251",
+    "timestamp": "2025-08-22T02:37:55.304565",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "WerWolv/ImHex",
+    "href": "https://github.com/WerWolv/ImHex",
+    "about": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "star": "50,195",
+    "fork": "2,207",
+    "timestamp": "2025-08-22T02:37:55.304870",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "Neargye/magic_enum",
+    "href": "https://github.com/Neargye/magic_enum",
+    "about": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+    "star": "5,628",
+    "fork": "500",
+    "timestamp": "2025-08-22T02:37:55.305160",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "aseprite/aseprite",
+    "href": "https://github.com/aseprite/aseprite",
+    "about": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "star": "33,429",
+    "fork": "7,304",
+    "timestamp": "2025-08-22T02:37:55.305439",
+    "stars_today": "129 stars this week"
+  }
+]

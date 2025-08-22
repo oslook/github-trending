@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,685",
+    "fork": "1,053",
+    "timestamp": "2025-08-22T02:38:04.662133",
+    "stars_today": "297 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,405",
+    "fork": "4,714",
+    "timestamp": "2025-08-22T02:38:04.662465",
+    "stars_today": "610 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "73,083",
+    "fork": "2,572",
+    "timestamp": "2025-08-22T02:38:04.662786",
+    "stars_today": "287 stars this week"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,190",
+    "fork": "676",
+    "timestamp": "2025-08-22T02:38:04.663076",
+    "stars_today": "162 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,420",
+    "fork": "2,493",
+    "timestamp": "2025-08-22T02:38:04.663400",
+    "stars_today": "133 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "29,759",
+    "fork": "2,105",
+    "timestamp": "2025-08-22T02:38:04.663684",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,795",
+    "fork": "8,643",
+    "timestamp": "2025-08-22T02:38:04.663968",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "2,005",
+    "fork": "217",
+    "timestamp": "2025-08-22T02:38:04.664265",
+    "stars_today": "84 stars this week"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "9,443",
+    "fork": "809",
+    "timestamp": "2025-08-22T02:38:04.664548",
+    "stars_today": "835 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "50,255",
+    "fork": "5,994",
+    "timestamp": "2025-08-22T02:38:04.664852",
+    "stars_today": "163 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,375",
+    "fork": "7,316",
+    "timestamp": "2025-08-22T02:38:04.665145",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "24,462",
+    "fork": "2,865",
+    "timestamp": "2025-08-22T02:38:04.665428",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,368",
+    "fork": "1,039",
+    "timestamp": "2025-08-22T02:38:04.665712",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,863",
+    "fork": "2,967",
+    "timestamp": "2025-08-22T02:38:04.665991",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,141",
+    "fork": "991",
+    "timestamp": "2025-08-22T02:38:04.666284",
+    "stars_today": "131 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "18,889",
+    "fork": "441",
+    "timestamp": "2025-08-22T02:38:04.666566",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "10,748",
+    "fork": "971",
+    "timestamp": "2025-08-22T02:38:04.666844",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "terrastruct/d2",
+    "href": "https://github.com/terrastruct/d2",
+    "about": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "star": "21,486",
+    "fork": "566",
+    "timestamp": "2025-08-22T02:38:04.667150",
+    "stars_today": "345 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,651",
+    "fork": "260",
+    "timestamp": "2025-08-22T02:38:04.667450",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "8,564",
+    "fork": "700",
+    "timestamp": "2025-08-22T02:38:04.667759",
+    "stars_today": "53 stars this week"
+  }
+]
