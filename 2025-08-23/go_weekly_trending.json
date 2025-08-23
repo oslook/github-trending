@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "2,145",
+    "fork": "224",
+    "timestamp": "2025-08-23T02:24:41.411634",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,458",
+    "fork": "4,717",
+    "timestamp": "2025-08-23T02:24:41.412014",
+    "stars_today": "568 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,695",
+    "fork": "1,055",
+    "timestamp": "2025-08-23T02:24:41.412385",
+    "stars_today": "191 stars this week"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "9,470",
+    "fork": "813",
+    "timestamp": "2025-08-23T02:24:41.412764",
+    "stars_today": "850 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "73,113",
+    "fork": "2,571",
+    "timestamp": "2025-08-23T02:24:41.413172",
+    "stars_today": "271 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,430",
+    "fork": "2,493",
+    "timestamp": "2025-08-23T02:24:41.413493",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,815",
+    "fork": "8,647",
+    "timestamp": "2025-08-23T02:24:41.413828",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,654",
+    "fork": "451",
+    "timestamp": "2025-08-23T02:24:41.414148",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "google/wire",
+    "href": "https://github.com/google/wire",
+    "about": "Compile-time Dependency Injection for Go",
+    "star": "14,195",
+    "fork": "677",
+    "timestamp": "2025-08-23T02:24:41.414498",
+    "stars_today": "125 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "24,487",
+    "fork": "2,866",
+    "timestamp": "2025-08-23T02:24:41.414866",
+    "stars_today": "138 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,213",
+    "fork": "9,981",
+    "timestamp": "2025-08-23T02:24:41.415222",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,656",
+    "fork": "260",
+    "timestamp": "2025-08-23T02:24:41.415559",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,167",
+    "fork": "992",
+    "timestamp": "2025-08-23T02:24:41.415936",
+    "stars_today": "143 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "18,901",
+    "fork": "442",
+    "timestamp": "2025-08-23T02:24:41.416259",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "29,773",
+    "fork": "2,105",
+    "timestamp": "2025-08-23T02:24:41.416618",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "gophish/gophish",
+    "href": "https://github.com/gophish/gophish",
+    "about": "Open-Source Phishing Toolkit",
+    "star": "13,002",
+    "fork": "2,682",
+    "timestamp": "2025-08-23T02:24:41.416927",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "31,435",
+    "fork": "2,281",
+    "timestamp": "2025-08-23T02:24:41.417287",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "isaacphi/mcp-language-server",
+    "href": "https://github.com/isaacphi/mcp-language-server",
+    "about": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
+    "star": "982",
+    "fork": "65",
+    "timestamp": "2025-08-23T02:24:41.417654",
+    "stars_today": "64 stars this week"
+  }
+]
