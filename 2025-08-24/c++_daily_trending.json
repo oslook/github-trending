@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "36,852",
+    "fork": "10,479",
+    "timestamp": "2025-08-24T02:48:00.675423",
+    "stars_today": "95 stars today"
+  },
+  {
+    "repo": "google/highway",
+    "href": "https://github.com/google/highway",
+    "about": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "star": "4,932",
+    "fork": "374",
+    "timestamp": "2025-08-24T02:48:00.675712",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "deskflow/deskflow",
+    "href": "https://github.com/deskflow/deskflow",
+    "about": "Share a single keyboard and mouse between multiple computers.",
+    "star": "19,699",
+    "fork": "4,149",
+    "timestamp": "2025-08-24T02:48:00.676045",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "17,637",
+    "fork": "3,415",
+    "timestamp": "2025-08-24T02:48:00.676321",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "8,281",
+    "fork": "1,397",
+    "timestamp": "2025-08-24T02:48:00.676592",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "href": "https://github.com/gabime/spdlog",
+    "about": "Fast C++ logging library.",
+    "star": "27,129",
+    "fork": "4,893",
+    "timestamp": "2025-08-24T02:48:00.676880",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "zeux/meshoptimizer",
+    "href": "https://github.com/zeux/meshoptimizer",
+    "about": "Mesh optimization library that makes meshes smaller and faster to render",
+    "star": "6,632",
+    "fork": "561",
+    "timestamp": "2025-08-24T02:48:00.677156",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "ROCm/rocm-systems",
+    "href": "https://github.com/ROCm/rocm-systems",
+    "about": "super repo for rocm systems projects",
+    "star": "49",
+    "fork": "21",
+    "timestamp": "2025-08-24T02:48:00.677429",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "46,945",
+    "fork": "7,107",
+    "timestamp": "2025-08-24T02:48:00.677729",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "22,242",
+    "fork": "2,685",
+    "timestamp": "2025-08-24T02:48:00.678012",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "mavlink/qgroundcontrol",
+    "href": "https://github.com/mavlink/qgroundcontrol",
+    "about": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+    "star": "3,922",
+    "fork": "4,213",
+    "timestamp": "2025-08-24T02:48:00.678282",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rapidsai/cudf",
+    "href": "https://github.com/rapidsai/cudf",
+    "about": "cuDF - GPU DataFrame Library",
+    "star": "9,128",
+    "fork": "965",
+    "timestamp": "2025-08-24T02:48:00.678554",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-swss",
+    "href": "https://github.com/sonic-net/sonic-swss",
+    "about": "SONiC Switch State Service (SwSS)",
+    "star": "202",
+    "fork": "618",
+    "timestamp": "2025-08-24T02:48:00.678834",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "11,421",
+    "fork": "1,700",
+    "timestamp": "2025-08-24T02:48:00.679106",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "CoatiSoftware/Sourcetrail",
+    "href": "https://github.com/CoatiSoftware/Sourcetrail",
+    "about": "Sourcetrail - free and open-source interactive source explorer",
+    "star": "16,207",
+    "fork": "1,580",
+    "timestamp": "2025-08-24T02:48:00.679375",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "shader-slang/slang",
+    "href": "https://github.com/shader-slang/slang",
+    "about": "Making it easier to work with shaders",
+    "star": "4,446",
+    "fork": "338",
+    "timestamp": "2025-08-24T02:48:00.679644",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "19,720",
+    "fork": "3,134",
+    "timestamp": "2025-08-24T02:48:00.679929",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "href": "https://github.com/ml-explore/mlx",
+    "about": "MLX: An array framework for Apple silicon",
+    "star": "22,017",
+    "fork": "1,319",
+    "timestamp": "2025-08-24T02:48:00.680251",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,681",
+    "fork": "1,696",
+    "timestamp": "2025-08-24T02:48:00.680526",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "TrinityCore/TrinityCore",
+    "href": "https://github.com/TrinityCore/TrinityCore",
+    "about": "TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+    "star": "10,151",
+    "fork": "6,215",
+    "timestamp": "2025-08-24T02:48:00.680807",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "abseil/abseil-cpp",
+    "href": "https://github.com/abseil/abseil-cpp",
+    "about": "Abseil Common Libraries (C++)",
+    "star": "16,242",
+    "fork": "2,830",
+    "timestamp": "2025-08-24T02:48:00.681095",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "href": "https://github.com/firebase/firebase-ios-sdk",
+    "about": "Firebase SDK for Apple App Development",
+    "star": "6,332",
+    "fork": "1,657",
+    "timestamp": "2025-08-24T02:48:00.681367",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "tensorflow/tflite-micro",
+    "href": "https://github.com/tensorflow/tflite-micro",
+    "about": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
+    "star": "2,447",
+    "fork": "930",
+    "timestamp": "2025-08-24T02:48:00.681639",
+    "stars_today": "1 star today"
+  }
+]
