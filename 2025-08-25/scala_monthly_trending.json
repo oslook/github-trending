@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,747",
+    "fork": "28,750",
+    "timestamp": "2025-08-25T02:44:04.011906",
+    "stars_today": "277 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,584",
+    "fork": "805",
+    "timestamp": "2025-08-25T02:44:04.012213",
+    "stars_today": "83 stars this month"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,511",
+    "fork": "12,161",
+    "timestamp": "2025-08-25T02:44:04.012516",
+    "stars_today": "151 stars this month"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,261",
+    "fork": "1,373",
+    "timestamp": "2025-08-25T02:44:04.012792",
+    "stars_today": "24 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,094",
+    "fork": "1,109",
+    "timestamp": "2025-08-25T02:44:04.013073",
+    "stars_today": "33 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,420",
+    "fork": "569",
+    "timestamp": "2025-08-25T02:44:04.013353",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,403",
+    "fork": "3,109",
+    "timestamp": "2025-08-25T02:44:04.013650",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "821",
+    "fork": "217",
+    "timestamp": "2025-08-25T02:44:04.013929",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "861",
+    "fork": "202",
+    "timestamp": "2025-08-25T02:44:04.014207",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,229",
+    "fork": "1,902",
+    "timestamp": "2025-08-25T02:44:04.014494",
+    "stars_today": "62 stars this month"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "35",
+    "fork": "29",
+    "timestamp": "2025-08-25T02:44:04.014771",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,705",
+    "fork": "569",
+    "timestamp": "2025-08-25T02:44:04.015073",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,579",
+    "fork": "350",
+    "timestamp": "2025-08-25T02:44:04.015351",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,233",
+    "fork": "384",
+    "timestamp": "2025-08-25T02:44:04.015672",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,582",
+    "fork": "4,083",
+    "timestamp": "2025-08-25T02:44:04.015980",
+    "stars_today": "12 stars this month"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,156",
+    "fork": "559",
+    "timestamp": "2025-08-25T02:44:04.016259",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "zio/zio-blocks",
+    "href": "https://github.com/zio/zio-blocks",
+    "about": "Powerful, joyful building blocks for modern cloud-native applications.",
+    "star": "41",
+    "fork": "21",
+    "timestamp": "2025-08-25T02:44:04.016550",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "926",
+    "fork": "254",
+    "timestamp": "2025-08-25T02:44:04.016828",
+    "stars_today": "13 stars this month"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,234",
+    "fork": "954",
+    "timestamp": "2025-08-25T02:44:04.017105",
+    "stars_today": "15 stars this month"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,425",
+    "fork": "177",
+    "timestamp": "2025-08-25T02:44:04.017382",
+    "stars_today": "35 stars this month"
+  }
+]

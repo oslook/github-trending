@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,747",
+    "fork": "28,750",
+    "timestamp": "2025-08-25T02:44:02.694033",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,229",
+    "fork": "1,902",
+    "timestamp": "2025-08-25T02:44:02.694341",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "923",
+    "fork": "612",
+    "timestamp": "2025-08-25T02:44:02.694644",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,420",
+    "fork": "569",
+    "timestamp": "2025-08-25T02:44:02.694932",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "WhatsApp/eqwalizer",
+    "href": "https://github.com/WhatsApp/eqwalizer",
+    "about": "A type-checker for Erlang",
+    "star": "532",
+    "fork": "32",
+    "timestamp": "2025-08-25T02:44:02.695215",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,014",
+    "fork": "2,863",
+    "timestamp": "2025-08-25T02:44:02.695510",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,940",
+    "fork": "741",
+    "timestamp": "2025-08-25T02:44:02.695798",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,579",
+    "fork": "350",
+    "timestamp": "2025-08-25T02:44:02.696087",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,008",
+    "fork": "2,458",
+    "timestamp": "2025-08-25T02:44:02.696370",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "typelevel/fs2",
+    "href": "https://github.com/typelevel/fs2",
+    "about": "Compositional, streaming I/O library for Scala",
+    "star": "2,416",
+    "fork": "619",
+    "timestamp": "2025-08-25T02:44:02.696667",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,705",
+    "fork": "569",
+    "timestamp": "2025-08-25T02:44:02.696979",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,584",
+    "fork": "805",
+    "timestamp": "2025-08-25T02:44:02.697267",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "snowplow/stream-collector",
+    "href": "https://github.com/snowplow/stream-collector",
+    "about": "Collector for cloud-native web, mobile and event analytics, running on AWS and GCP",
+    "star": "33",
+    "fork": "36",
+    "timestamp": "2025-08-25T02:44:02.697567",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "airbnb/chronon",
+    "href": "https://github.com/airbnb/chronon",
+    "about": "Chronon is a data platform for serving for AI/ML applications.",
+    "star": "837",
+    "fork": "75",
+    "timestamp": "2025-08-25T02:44:02.697852",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "35",
+    "fork": "29",
+    "timestamp": "2025-08-25T02:44:02.698135",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "1,028",
+    "fork": "213",
+    "timestamp": "2025-08-25T02:44:02.698415",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,376",
+    "fork": "636",
+    "timestamp": "2025-08-25T02:44:02.698710",
+    "stars_today": "1 star today"
+  }
+]
