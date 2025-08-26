@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "2,281",
+    "fork": "227",
+    "timestamp": "2025-08-26T02:39:20.478402",
+    "stars_today": "346 stars this week"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,818",
+    "fork": "278",
+    "timestamp": "2025-08-26T02:39:20.478790",
+    "stars_today": "260 stars this week"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "9,525",
+    "fork": "823",
+    "timestamp": "2025-08-26T02:39:20.479081",
+    "stars_today": "795 stars this week"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,845",
+    "fork": "8,663",
+    "timestamp": "2025-08-26T02:39:20.479363",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "isaacphi/mcp-language-server",
+    "href": "https://github.com/isaacphi/mcp-language-server",
+    "about": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
+    "star": "1,006",
+    "fork": "65",
+    "timestamp": "2025-08-26T02:39:20.479639",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,215",
+    "fork": "997",
+    "timestamp": "2025-08-26T02:39:20.479961",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "getlago/lago",
+    "href": "https://github.com/getlago/lago",
+    "about": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+    "star": "8,256",
+    "fork": "427",
+    "timestamp": "2025-08-26T02:39:20.480266",
+    "stars_today": "190 stars this week"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,664",
+    "fork": "452",
+    "timestamp": "2025-08-26T02:39:20.480547",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "ffuf/ffuf",
+    "href": "https://github.com/ffuf/ffuf",
+    "about": "Fast web fuzzer written in Go",
+    "star": "14,591",
+    "fork": "1,450",
+    "timestamp": "2025-08-26T02:39:20.480835",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,555",
+    "fork": "4,724",
+    "timestamp": "2025-08-26T02:39:20.481138",
+    "stars_today": "447 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,715",
+    "fork": "1,054",
+    "timestamp": "2025-08-26T02:39:20.481414",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,042",
+    "fork": "896",
+    "timestamp": "2025-08-26T02:39:20.481717",
+    "stars_today": "100 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "18,939",
+    "fork": "444",
+    "timestamp": "2025-08-26T02:39:20.482008",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "17,554",
+    "fork": "1,494",
+    "timestamp": "2025-08-26T02:39:20.482311",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,668",
+    "fork": "260",
+    "timestamp": "2025-08-26T02:39:20.482588",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,042",
+    "fork": "2,684",
+    "timestamp": "2025-08-26T02:39:20.482875",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "sqshq/sampler",
+    "href": "https://github.com/sqshq/sampler",
+    "about": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+    "star": "13,917",
+    "fork": "639",
+    "timestamp": "2025-08-26T02:39:20.483152",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "screego/server",
+    "href": "https://github.com/screego/server",
+    "about": "screen sharing for developers https://screego.net/",
+    "star": "9,577",
+    "fork": "678",
+    "timestamp": "2025-08-26T02:39:20.483430",
+    "stars_today": "340 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "50,144",
+    "fork": "10,156",
+    "timestamp": "2025-08-26T02:39:20.483709",
+    "stars_today": "82 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "20,301",
+    "fork": "1,956",
+    "timestamp": "2025-08-26T02:39:20.484057",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,381",
+    "fork": "1,210",
+    "timestamp": "2025-08-26T02:39:20.484336",
+    "stars_today": "33 stars this week"
+  }
+]
