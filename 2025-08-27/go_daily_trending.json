@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "9,361",
+    "fork": "676",
+    "timestamp": "2025-08-27T02:24:49.950474",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,392",
+    "fork": "1,213",
+    "timestamp": "2025-08-27T02:24:49.950806",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "25,072",
+    "fork": "1,667",
+    "timestamp": "2025-08-27T02:24:49.951105",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,719",
+    "fork": "1,712",
+    "timestamp": "2025-08-27T02:24:49.951416",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,842",
+    "fork": "280",
+    "timestamp": "2025-08-27T02:24:49.951755",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,461",
+    "fork": "6,323",
+    "timestamp": "2025-08-27T02:24:49.952073",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,694",
+    "fork": "634",
+    "timestamp": "2025-08-27T02:24:49.952373",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "10,601",
+    "fork": "1,456",
+    "timestamp": "2025-08-27T02:24:49.952667",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "20,038",
+    "fork": "2,239",
+    "timestamp": "2025-08-27T02:24:49.952976",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,909",
+    "fork": "1,379",
+    "timestamp": "2025-08-27T02:24:49.953277",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "testcontainers/testcontainers-go",
+    "href": "https://github.com/testcontainers/testcontainers-go",
+    "about": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+    "star": "4,294",
+    "fork": "567",
+    "timestamp": "2025-08-27T02:24:49.953605",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "10,972",
+    "fork": "532",
+    "timestamp": "2025-08-27T02:24:49.953913",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "gdy666/lucky",
+    "href": "https://github.com/gdy666/lucky",
+    "about": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser",
+    "star": "6,297",
+    "fork": "588",
+    "timestamp": "2025-08-27T02:24:49.954200",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "4,389",
+    "fork": "247",
+    "timestamp": "2025-08-27T02:24:49.954474",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,639",
+    "fork": "634",
+    "timestamp": "2025-08-27T02:24:49.954776",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "26,269",
+    "fork": "4,942",
+    "timestamp": "2025-08-27T02:24:49.955069",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "karmada-io/karmada",
+    "href": "https://github.com/karmada-io/karmada",
+    "about": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+    "star": "5,009",
+    "fork": "994",
+    "timestamp": "2025-08-27T02:24:49.955353",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "30,605",
+    "fork": "2,499",
+    "timestamp": "2025-08-27T02:24:49.955640",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "bytedance/sonic",
+    "href": "https://github.com/bytedance/sonic",
+    "about": "A blazingly fast JSON serializing & deserializing library",
+    "star": "8,532",
+    "fork": "412",
+    "timestamp": "2025-08-27T02:24:49.955939",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,354",
+    "fork": "939",
+    "timestamp": "2025-08-27T02:24:49.956235",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,134",
+    "fork": "4,551",
+    "timestamp": "2025-08-27T02:24:49.956528",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "12,076",
+    "fork": "1,070",
+    "timestamp": "2025-08-27T02:24:49.956834",
+    "stars_today": "8 stars today"
+  }
+]

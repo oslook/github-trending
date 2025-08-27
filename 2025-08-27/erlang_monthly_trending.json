@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,167",
+    "fork": "2,361",
+    "timestamp": "2025-08-27T02:24:48.724132",
+    "stars_today": "141 stars this month"
+  },
+  {
+    "repo": "dgiot/dgiot",
+    "href": "https://github.com/dgiot/dgiot",
+    "about": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935",
+    "star": "5,068",
+    "fork": "1,142",
+    "timestamp": "2025-08-27T02:24:48.724443",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "822",
+    "fork": "230",
+    "timestamp": "2025-08-27T02:24:48.724781",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "899",
+    "fork": "169",
+    "timestamp": "2025-08-27T02:24:48.725070",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "66",
+    "fork": "38",
+    "timestamp": "2025-08-27T02:24:48.725359",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,832",
+    "fork": "3,024",
+    "timestamp": "2025-08-27T02:24:48.725648",
+    "stars_today": "55 stars this month"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,645",
+    "fork": "1,055",
+    "timestamp": "2025-08-27T02:24:48.725950",
+    "stars_today": "47 stars this month"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "427",
+    "fork": "61",
+    "timestamp": "2025-08-27T02:24:48.726238",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,397",
+    "fork": "1,532",
+    "timestamp": "2025-08-27T02:24:48.726527",
+    "stars_today": "47 stars this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "285",
+    "fork": "177",
+    "timestamp": "2025-08-27T02:24:48.726833",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,422",
+    "fork": "1,179",
+    "timestamp": "2025-08-27T02:24:48.727125",
+    "stars_today": "12 stars this month"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "323",
+    "fork": "110",
+    "timestamp": "2025-08-27T02:24:48.727413",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "atomvm/AtomVM",
+    "href": "https://github.com/atomvm/AtomVM",
+    "about": "Tiny Erlang VM",
+    "star": "1,852",
+    "fork": "121",
+    "timestamp": "2025-08-27T02:24:48.727711",
+    "stars_today": "40 stars this month"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,397",
+    "fork": "282",
+    "timestamp": "2025-08-27T02:24:48.728002",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,757",
+    "fork": "518",
+    "timestamp": "2025-08-27T02:24:48.728290",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "658",
+    "fork": "139",
+    "timestamp": "2025-08-27T02:24:48.728575",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,126",
+    "fork": "453",
+    "timestamp": "2025-08-27T02:24:48.728869",
+    "stars_today": "1 star this month"
+  }
+]
