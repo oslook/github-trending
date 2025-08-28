@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,588",
+    "fork": "807",
+    "timestamp": "2025-08-28T02:24:42.400282",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,771",
+    "fork": "28,754",
+    "timestamp": "2025-08-28T02:24:42.400592",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,421",
+    "fork": "572",
+    "timestamp": "2025-08-28T02:24:42.400878",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "scalapb/ScalaPB",
+    "href": "https://github.com/scalapb/ScalaPB",
+    "about": "Protocol buffer compiler for Scala.",
+    "star": "1,322",
+    "fork": "291",
+    "timestamp": "2025-08-28T02:24:42.401174",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,264",
+    "fork": "1,372",
+    "timestamp": "2025-08-28T02:24:42.401456",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,517",
+    "fork": "12,161",
+    "timestamp": "2025-08-28T02:24:42.401741",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,862",
+    "fork": "950",
+    "timestamp": "2025-08-28T02:24:42.402015",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,583",
+    "fork": "4,082",
+    "timestamp": "2025-08-28T02:24:42.402341",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,708",
+    "fork": "568",
+    "timestamp": "2025-08-28T02:24:42.402654",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,586",
+    "fork": "351",
+    "timestamp": "2025-08-28T02:24:42.402938",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,023",
+    "fork": "2,458",
+    "timestamp": "2025-08-28T02:24:42.403235",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,402",
+    "fork": "3,109",
+    "timestamp": "2025-08-28T02:24:42.403519",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "36",
+    "fork": "29",
+    "timestamp": "2025-08-28T02:24:42.403800",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "862",
+    "fork": "203",
+    "timestamp": "2025-08-28T02:24:42.404094",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,016",
+    "fork": "2,863",
+    "timestamp": "2025-08-28T02:24:42.404375",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,491",
+    "fork": "566",
+    "timestamp": "2025-08-28T02:24:42.404656",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "yahoo/CMAK",
+    "href": "https://github.com/yahoo/CMAK",
+    "about": "CMAK is a tool for managing Apache Kafka clusters",
+    "star": "11,927",
+    "fork": "2,499",
+    "timestamp": "2025-08-28T02:24:42.404936",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,234",
+    "fork": "1,901",
+    "timestamp": "2025-08-28T02:24:42.405230",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,424",
+    "fork": "177",
+    "timestamp": "2025-08-28T02:24:42.405513",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,289",
+    "fork": "1,256",
+    "timestamp": "2025-08-28T02:24:42.405794",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,532",
+    "fork": "1,180",
+    "timestamp": "2025-08-28T02:24:42.406085",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "typelevel/cats-effect",
+    "href": "https://github.com/typelevel/cats-effect",
+    "about": "The pure asynchronous runtime for Scala",
+    "star": "2,156",
+    "fork": "558",
+    "timestamp": "2025-08-28T02:24:42.406364",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,093",
+    "fork": "1,111",
+    "timestamp": "2025-08-28T02:24:42.406642",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,755",
+    "fork": "1,215",
+    "timestamp": "2025-08-28T02:24:42.406924",
+    "stars_today": "7 stars this week"
+  }
+]

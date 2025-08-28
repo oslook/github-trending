@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "151,078",
+    "fork": "12,931",
+    "timestamp": "2025-08-28T02:24:26.446267",
+    "stars_today": "3,816 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,622",
+    "fork": "4,730",
+    "timestamp": "2025-08-28T02:24:26.446609",
+    "stars_today": "1,889 stars this month"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "34,743",
+    "fork": "981",
+    "timestamp": "2025-08-28T02:24:26.446906",
+    "stars_today": "1,233 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,725",
+    "fork": "1,056",
+    "timestamp": "2025-08-28T02:24:26.447267",
+    "stars_today": "501 stars this month"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "7,008",
+    "fork": "544",
+    "timestamp": "2025-08-28T02:24:26.447563",
+    "stars_today": "1,699 stars this month"
+  },
+  {
+    "repo": "openai/openai-go",
+    "href": "https://github.com/openai/openai-go",
+    "about": "The official Go library for the OpenAI API",
+    "star": "2,378",
+    "fork": "196",
+    "timestamp": "2025-08-28T02:24:26.447860",
+    "stars_today": "283 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "64,107",
+    "fork": "2,207",
+    "timestamp": "2025-08-28T02:24:26.448197",
+    "stars_today": "1,853 stars this month"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "16,549",
+    "fork": "2,652",
+    "timestamp": "2025-08-28T02:24:26.448500",
+    "stars_today": "516 stars this month"
+  },
+  {
+    "repo": "steveiliop56/tinyauth",
+    "href": "https://github.com/steveiliop56/tinyauth",
+    "about": "The simplest way to protect your apps with a login screen.",
+    "star": "5,165",
+    "fork": "150",
+    "timestamp": "2025-08-28T02:24:26.448821",
+    "stars_today": "1,731 stars this month"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,858",
+    "fork": "280",
+    "timestamp": "2025-08-28T02:24:26.449161",
+    "stars_today": "553 stars this month"
+  },
+  {
+    "repo": "sst/opencode",
+    "href": "https://github.com/sst/opencode",
+    "about": "AI coding agent, built for the terminal.",
+    "star": "21,238",
+    "fork": "1,438",
+    "timestamp": "2025-08-28T02:24:26.449484",
+    "stars_today": "6,335 stars this month"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "9,993",
+    "fork": "721",
+    "timestamp": "2025-08-28T02:24:26.449772",
+    "stars_today": "586 stars this month"
+  },
+  {
+    "repo": "RezaSi/go-interview-practice",
+    "href": "https://github.com/RezaSi/go-interview-practice",
+    "about": "Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.",
+    "star": "1,109",
+    "fork": "491",
+    "timestamp": "2025-08-28T02:24:26.450100",
+    "stars_today": "423 stars this month"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,445",
+    "fork": "2,494",
+    "timestamp": "2025-08-28T02:24:26.450389",
+    "stars_today": "348 stars this month"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,278",
+    "fork": "2,947",
+    "timestamp": "2025-08-28T02:24:26.450704",
+    "stars_today": "1,453 stars this month"
+  },
+  {
+    "repo": "gotify/server",
+    "href": "https://github.com/gotify/server",
+    "about": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+    "star": "13,622",
+    "fork": "751",
+    "timestamp": "2025-08-28T02:24:26.450990",
+    "stars_today": "554 stars this month"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,865",
+    "fork": "8,675",
+    "timestamp": "2025-08-28T02:24:26.451292",
+    "stars_today": "298 stars this month"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,257",
+    "fork": "999",
+    "timestamp": "2025-08-28T02:24:26.451574",
+    "stars_today": "519 stars this month"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "21,876",
+    "fork": "689",
+    "timestamp": "2025-08-28T02:24:26.451852",
+    "stars_today": "500 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,473",
+    "fork": "6,326",
+    "timestamp": "2025-08-28T02:24:26.452145",
+    "stars_today": "323 stars this month"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "21,847",
+    "fork": "2,316",
+    "timestamp": "2025-08-28T02:24:26.452425",
+    "stars_today": "2,590 stars this month"
+  }
+]

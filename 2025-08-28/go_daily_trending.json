@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "9,943",
+    "fork": "763",
+    "timestamp": "2025-08-28T02:24:26.055640",
+    "stars_today": "121 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,626",
+    "fork": "2,985",
+    "timestamp": "2025-08-28T02:24:26.055970",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,473",
+    "fork": "6,326",
+    "timestamp": "2025-08-28T02:24:26.056273",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "beam-cloud/beta9",
+    "href": "https://github.com/beam-cloud/beta9",
+    "about": "Secure, high-performance AI infrastructure in Python.",
+    "star": "1,251",
+    "fork": "111",
+    "timestamp": "2025-08-28T02:24:26.056556",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "nucleuscloud/neosync",
+    "href": "https://github.com/nucleuscloud/neosync",
+    "about": "Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.",
+    "star": "4,114",
+    "fork": "191",
+    "timestamp": "2025-08-28T02:24:26.056837",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "83,744",
+    "fork": "8,306",
+    "timestamp": "2025-08-28T02:24:26.057130",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "href": "https://github.com/1Panel-dev/1Panel",
+    "about": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "star": "30,975",
+    "fork": "2,709",
+    "timestamp": "2025-08-28T02:24:26.057409",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "25,075",
+    "fork": "1,668",
+    "timestamp": "2025-08-28T02:24:26.057687",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "9,394",
+    "fork": "678",
+    "timestamp": "2025-08-28T02:24:26.057964",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,399",
+    "fork": "1,215",
+    "timestamp": "2025-08-28T02:24:26.058258",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "2,404",
+    "fork": "400",
+    "timestamp": "2025-08-28T02:24:26.058540",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,217",
+    "fork": "1,322",
+    "timestamp": "2025-08-28T02:24:26.058818",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "google/osv-scalibr",
+    "href": "https://github.com/google/osv-scalibr",
+    "about": "OSV-SCALIBR: A library for Software Composition Analysis",
+    "star": "470",
+    "fork": "73",
+    "timestamp": "2025-08-28T02:24:26.059110",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "15,158",
+    "fork": "886",
+    "timestamp": "2025-08-28T02:24:26.059387",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "29,149",
+    "fork": "2,061",
+    "timestamp": "2025-08-28T02:24:26.059690",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,363",
+    "fork": "939",
+    "timestamp": "2025-08-28T02:24:26.059971",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "8,424",
+    "fork": "404",
+    "timestamp": "2025-08-28T02:24:26.060265",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "25,455",
+    "fork": "2,278",
+    "timestamp": "2025-08-28T02:24:26.060546",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,873",
+    "fork": "2,971",
+    "timestamp": "2025-08-28T02:24:26.060824",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,591",
+    "fork": "800",
+    "timestamp": "2025-08-28T02:24:26.061142",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "snail007/goproxy",
+    "href": "https://github.com/snail007/goproxy",
+    "about": "🔥 Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",
+    "star": "16,574",
+    "fork": "3,075",
+    "timestamp": "2025-08-28T02:24:26.061422",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,537",
+    "fork": "4,189",
+    "timestamp": "2025-08-28T02:24:26.061699",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "13,673",
+    "fork": "2,383",
+    "timestamp": "2025-08-28T02:24:26.061976",
+    "stars_today": "13 stars today"
+  }
+]
