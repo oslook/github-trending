@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,593",
+    "fork": "808",
+    "timestamp": "2025-08-30T02:19:27.818781",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,423",
+    "fork": "572",
+    "timestamp": "2025-08-30T02:19:27.819081",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,785",
+    "fork": "28,757",
+    "timestamp": "2025-08-30T02:19:27.819368",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "scalapb/ScalaPB",
+    "href": "https://github.com/scalapb/ScalaPB",
+    "about": "Protocol buffer compiler for Scala.",
+    "star": "1,322",
+    "fork": "291",
+    "timestamp": "2025-08-30T02:19:27.819663",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,242",
+    "fork": "1,902",
+    "timestamp": "2025-08-30T02:19:27.819943",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,030",
+    "fork": "2,460",
+    "timestamp": "2025-08-30T02:19:27.820220",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,403",
+    "fork": "3,108",
+    "timestamp": "2025-08-30T02:19:27.820518",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,584",
+    "fork": "4,082",
+    "timestamp": "2025-08-30T02:19:27.820827",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,946",
+    "fork": "747",
+    "timestamp": "2025-08-30T02:19:27.821105",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,863",
+    "fork": "950",
+    "timestamp": "2025-08-30T02:19:27.821382",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,096",
+    "fork": "1,112",
+    "timestamp": "2025-08-30T02:19:27.821671",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,426",
+    "fork": "177",
+    "timestamp": "2025-08-30T02:19:27.821951",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,018",
+    "fork": "2,863",
+    "timestamp": "2025-08-30T02:19:27.822230",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,713",
+    "fork": "568",
+    "timestamp": "2025-08-30T02:19:27.822548",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "1,033",
+    "fork": "214",
+    "timestamp": "2025-08-30T02:19:27.822826",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,493",
+    "fork": "566",
+    "timestamp": "2025-08-30T02:19:27.823103",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "197",
+    "fork": "51",
+    "timestamp": "2025-08-30T02:19:27.823383",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "37",
+    "fork": "30",
+    "timestamp": "2025-08-30T02:19:27.823672",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,589",
+    "fork": "351",
+    "timestamp": "2025-08-30T02:19:27.823953",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,234",
+    "fork": "387",
+    "timestamp": "2025-08-30T02:19:27.824230",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,290",
+    "fork": "1,256",
+    "timestamp": "2025-08-30T02:19:27.824516",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip-inclusive-cache",
+    "href": "https://github.com/chipsalliance/rocket-chip-inclusive-cache",
+    "about": "An RTL generator for a last-level shared inclusive TileLink cache controller",
+    "star": "22",
+    "fork": "23",
+    "timestamp": "2025-08-30T02:19:27.824794",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,534",
+    "fork": "1,180",
+    "timestamp": "2025-08-30T02:19:27.825069",
+    "stars_today": "10 stars this week"
+  }
+]

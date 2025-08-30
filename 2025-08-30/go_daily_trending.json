@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "17,995",
+    "fork": "1,626",
+    "timestamp": "2025-08-30T02:19:11.869983",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,703",
+    "fork": "2,985",
+    "timestamp": "2025-08-30T02:19:11.870311",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "25,092",
+    "fork": "1,671",
+    "timestamp": "2025-08-30T02:19:11.870612",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "10,099",
+    "fork": "779",
+    "timestamp": "2025-08-30T02:19:11.870892",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "kgretzky/evilginx2",
+    "href": "https://github.com/kgretzky/evilginx2",
+    "about": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "star": "13,691",
+    "fork": "2,388",
+    "timestamp": "2025-08-30T02:19:11.871170",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "60,136",
+    "fork": "9,745",
+    "timestamp": "2025-08-30T02:19:11.871452",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "56,319",
+    "fork": "5,460",
+    "timestamp": "2025-08-30T02:19:11.871774",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,360",
+    "fork": "10,005",
+    "timestamp": "2025-08-30T02:19:11.872054",
+    "stars_today": "95 stars today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "10,797",
+    "fork": "1,066",
+    "timestamp": "2025-08-30T02:19:11.872342",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,739",
+    "fork": "1,715",
+    "timestamp": "2025-08-30T02:19:11.872644",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "14,361",
+    "fork": "1,341",
+    "timestamp": "2025-08-30T02:19:11.872925",
+    "stars_today": "363 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,199",
+    "fork": "3,646",
+    "timestamp": "2025-08-30T02:19:11.873204",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mostlygeek/llama-swap",
+    "href": "https://github.com/mostlygeek/llama-swap",
+    "about": "Model swapping for llama.cpp (or any local OpenAI API compatible server)",
+    "star": "1,430",
+    "fork": "88",
+    "timestamp": "2025-08-30T02:19:11.873491",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "href": "https://github.com/knadh/listmonk",
+    "about": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "star": "17,708",
+    "fork": "1,728",
+    "timestamp": "2025-08-30T02:19:11.873771",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "27,528",
+    "fork": "1,036",
+    "timestamp": "2025-08-30T02:19:11.874079",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "6,714",
+    "fork": "504",
+    "timestamp": "2025-08-30T02:19:11.874357",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "prometheus/client_golang",
+    "href": "https://github.com/prometheus/client_golang",
+    "about": "Prometheus instrumentation library for Go applications",
+    "star": "5,769",
+    "fork": "1,226",
+    "timestamp": "2025-08-30T02:19:11.874644",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "8,440",
+    "fork": "405",
+    "timestamp": "2025-08-30T02:19:11.874923",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ipfs/kubo",
+    "href": "https://github.com/ipfs/kubo",
+    "about": "An IPFS implementation in Go",
+    "star": "16,665",
+    "fork": "3,096",
+    "timestamp": "2025-08-30T02:19:11.875197",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "volcano-sh/volcano",
+    "href": "https://github.com/volcano-sh/volcano",
+    "about": "A Cloud Native Batch System (Project under CNCF)",
+    "star": "4,904",
+    "fork": "1,184",
+    "timestamp": "2025-08-30T02:19:11.875473",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "11,200",
+    "fork": "546",
+    "timestamp": "2025-08-30T02:19:11.875764",
+    "stars_today": "162 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "6,169",
+    "fork": "3,682",
+    "timestamp": "2025-08-30T02:19:11.876045",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,476",
+    "fork": "2,527",
+    "timestamp": "2025-08-30T02:19:11.876319",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "testcontainers/testcontainers-go",
+    "href": "https://github.com/testcontainers/testcontainers-go",
+    "about": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+    "star": "4,311",
+    "fork": "569",
+    "timestamp": "2025-08-30T02:19:11.876640",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,138",
+    "fork": "5,693",
+    "timestamp": "2025-08-30T02:19:11.876916",
+    "stars_today": "1 star today"
+  }
+]

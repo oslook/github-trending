@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "koalaman/shellcheck",
+    "href": "https://github.com/koalaman/shellcheck",
+    "about": "ShellCheck, a static analysis tool for shell scripts",
+    "star": "38,003",
+    "fork": "1,849",
+    "timestamp": "2025-08-30T02:19:12.574625",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hadolint/hadolint",
+    "href": "https://github.com/hadolint/hadolint",
+    "about": "Dockerfile linter, validate inline bash, written in Haskell",
+    "star": "11,468",
+    "fork": "472",
+    "timestamp": "2025-08-30T02:19:12.574960",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "unisonweb/unison",
+    "href": "https://github.com/unisonweb/unison",
+    "about": "A friendly programming language from the future",
+    "star": "6,178",
+    "fork": "281",
+    "timestamp": "2025-08-30T02:19:12.575243",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "simplex-chat/simplex-chat",
+    "href": "https://github.com/simplex-chat/simplex-chat",
+    "about": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "star": "9,409",
+    "fork": "483",
+    "timestamp": "2025-08-30T02:19:12.575564",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "href": "https://github.com/PostgREST/postgrest",
+    "about": "REST API for any Postgres database",
+    "star": "25,656",
+    "fork": "1,109",
+    "timestamp": "2025-08-30T02:19:12.575844",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "haskell/haskell-language-server",
+    "href": "https://github.com/haskell/haskell-language-server",
+    "about": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+    "star": "2,831",
+    "fork": "405",
+    "timestamp": "2025-08-30T02:19:12.576123",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "IntersectMBO/cardano-node",
+    "href": "https://github.com/IntersectMBO/cardano-node",
+    "about": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "star": "3,140",
+    "fork": "733",
+    "timestamp": "2025-08-30T02:19:12.576399",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "crytic/echidna",
+    "href": "https://github.com/crytic/echidna",
+    "about": "Ethereum smart contract fuzzer",
+    "star": "2,973",
+    "fork": "406",
+    "timestamp": "2025-08-30T02:19:12.576695",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "maralorn/nix-output-monitor",
+    "href": "https://github.com/maralorn/nix-output-monitor",
+    "about": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+    "star": "1,220",
+    "fork": "33",
+    "timestamp": "2025-08-30T02:19:12.577000",
+    "stars_today": "0 stars today"
+  }
+]

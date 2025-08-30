@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "11,770",
+    "fork": "3,453",
+    "timestamp": "2025-08-30T02:19:23.430746",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,661",
+    "fork": "5,358",
+    "timestamp": "2025-08-30T02:19:23.431041",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "MicrosoftDocs/PowerShell-Docs",
+    "href": "https://github.com/MicrosoftDocs/PowerShell-Docs",
+    "about": "The official PowerShell documentation sources",
+    "star": "2,247",
+    "fork": "1,647",
+    "timestamp": "2025-08-30T02:19:23.431326",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mandiant/flare-vm",
+    "href": "https://github.com/mandiant/flare-vm",
+    "about": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+    "star": "7,651",
+    "fork": "1,022",
+    "timestamp": "2025-08-30T02:19:23.431625",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "microsoft/Agents",
+    "href": "https://github.com/microsoft/Agents",
+    "about": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+    "star": "413",
+    "fork": "152",
+    "timestamp": "2025-08-30T02:19:23.431904",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "jenkinsci/docker",
+    "href": "https://github.com/jenkinsci/docker",
+    "about": "Docker official jenkins repo",
+    "star": "7,144",
+    "fork": "4,670",
+    "timestamp": "2025-08-30T02:19:23.432181",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "SkipToTheEndpoint/OpenIntuneBaseline",
+    "href": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+    "about": "Community-driven baseline to accelerate Intune adoption and learning.",
+    "star": "963",
+    "fork": "194",
+    "timestamp": "2025-08-30T02:19:23.432459",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "PowerShellMafia/PowerSploit",
+    "href": "https://github.com/PowerShellMafia/PowerSploit",
+    "about": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "star": "12,557",
+    "fork": "4,700",
+    "timestamp": "2025-08-30T02:19:23.432751",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Scoop",
+    "href": "https://github.com/ScoopInstaller/Scoop",
+    "about": "A command-line installer for Windows.",
+    "star": "22,805",
+    "fork": "1,475",
+    "timestamp": "2025-08-30T02:19:23.433058",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "cisagov/ScubaGear",
+    "href": "https://github.com/cisagov/ScubaGear",
+    "about": "Automation to assess the state of your M365 tenant against CISA's baselines",
+    "star": "2,283",
+    "fork": "312",
+    "timestamp": "2025-08-30T02:19:23.433340",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ScoopInstaller/Main",
+    "href": "https://github.com/ScoopInstaller/Main",
+    "about": "📦 The default bucket for Scoop.",
+    "star": "1,726",
+    "fork": "1,072",
+    "timestamp": "2025-08-30T02:19:23.433659",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Romanitho/Winget-AutoUpdate",
+    "href": "https://github.com/Romanitho/Winget-AutoUpdate",
+    "about": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
+    "star": "1,623",
+    "fork": "166",
+    "timestamp": "2025-08-30T02:19:23.433966",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Azure/Enterprise-Scale",
+    "href": "https://github.com/Azure/Enterprise-Scale",
+    "about": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",
+    "star": "1,852",
+    "fork": "1,029",
+    "timestamp": "2025-08-30T02:19:23.434243",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Azure/Microsoft-Defender-for-Cloud",
+    "href": "https://github.com/Azure/Microsoft-Defender-for-Cloud",
+    "about": "Welcome to the Microsoft Defender for Cloud community repository",
+    "star": "1,827",
+    "fork": "822",
+    "timestamp": "2025-08-30T02:19:23.434579",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "helldivers2fixes/HellbombScript",
+    "href": "https://github.com/helldivers2fixes/HellbombScript",
+    "about": "PowerShell Script for Identifying/Fixing Issues for HD2 (Windows only)",
+    "star": "79",
+    "fork": "5",
+    "timestamp": "2025-08-30T02:19:23.434858",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,610",
+    "fork": "290",
+    "timestamp": "2025-08-30T02:19:23.435128",
+    "stars_today": "1 star today"
+  }
+]
