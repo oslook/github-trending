@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,802",
+    "fork": "28,766",
+    "timestamp": "2025-09-02T02:27:16.332384",
+    "stars_today": "250 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,600",
+    "fork": "808",
+    "timestamp": "2025-09-02T02:27:16.332701",
+    "stars_today": "84 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,097",
+    "fork": "1,113",
+    "timestamp": "2025-09-02T02:27:16.333034",
+    "stars_today": "31 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,045",
+    "fork": "2,463",
+    "timestamp": "2025-09-02T02:27:16.333319",
+    "stars_today": "136 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,425",
+    "fork": "573",
+    "timestamp": "2025-09-02T02:27:16.333618",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,266",
+    "fork": "1,370",
+    "timestamp": "2025-09-02T02:27:16.333904",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for Twitter's Recommendation Algorithm",
+    "star": "63,534",
+    "fork": "12,158",
+    "timestamp": "2025-09-02T02:27:16.334189",
+    "stars_today": "150 stars this month"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,864",
+    "fork": "949",
+    "timestamp": "2025-09-02T02:27:16.334464",
+    "stars_today": "13 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "863",
+    "fork": "203",
+    "timestamp": "2025-09-02T02:27:16.334761",
+    "stars_today": "8 stars this month"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "822",
+    "fork": "216",
+    "timestamp": "2025-09-02T02:27:16.335046",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "38",
+    "fork": "30",
+    "timestamp": "2025-09-02T02:27:16.335329",
+    "stars_today": "6 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,245",
+    "fork": "1,904",
+    "timestamp": "2025-09-02T02:27:16.335622",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,584",
+    "fork": "4,081",
+    "timestamp": "2025-09-02T02:27:16.335934",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,947",
+    "fork": "748",
+    "timestamp": "2025-09-02T02:27:16.336216",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,235",
+    "fork": "387",
+    "timestamp": "2025-09-02T02:27:16.336497",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,594",
+    "fork": "351",
+    "timestamp": "2025-09-02T02:27:16.336794",
+    "stars_today": "57 stars this month"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,021",
+    "fork": "2,865",
+    "timestamp": "2025-09-02T02:27:16.337074",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,714",
+    "fork": "568",
+    "timestamp": "2025-09-02T02:27:16.337390",
+    "stars_today": "63 stars this month"
+  },
+  {
+    "repo": "chipsalliance/diplomacy",
+    "href": "https://github.com/chipsalliance/diplomacy",
+    "about": "",
+    "star": "21",
+    "fork": "15",
+    "timestamp": "2025-09-02T02:27:16.337705",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,405",
+    "fork": "3,108",
+    "timestamp": "2025-09-02T02:27:16.337990",
+    "stars_today": "15 stars this month"
+  }
+]
