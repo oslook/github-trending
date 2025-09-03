@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "22,311",
+    "fork": "1,585",
+    "timestamp": "2025-09-03T02:18:13.008580",
+    "stars_today": "470 stars this month"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "5,075",
+    "fork": "290",
+    "timestamp": "2025-09-03T02:18:13.008933",
+    "stars_today": "421 stars this month"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,493",
+    "fork": "1,205",
+    "timestamp": "2025-09-03T02:18:13.009226",
+    "stars_today": "65 stars this month"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,591",
+    "fork": "2,316",
+    "timestamp": "2025-09-03T02:18:13.009542",
+    "stars_today": "210 stars this month"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,912",
+    "fork": "143",
+    "timestamp": "2025-09-03T02:18:13.009869",
+    "stars_today": "137 stars this month"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,636",
+    "fork": "168",
+    "timestamp": "2025-09-03T02:18:13.010158",
+    "stars_today": "177 stars this month"
+  },
+  {
+    "repo": "coder/claudecode.nvim",
+    "href": "https://github.com/coder/claudecode.nvim",
+    "about": "🧩 Claude Code Neovim IDE Extension",
+    "star": "1,005",
+    "fork": "75",
+    "timestamp": "2025-09-03T02:18:13.010447",
+    "stars_today": "338 stars this month"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,620",
+    "fork": "242",
+    "timestamp": "2025-09-03T02:18:13.010758",
+    "stars_today": "112 stars this month"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,732",
+    "fork": "303",
+    "timestamp": "2025-09-03T02:18:13.011082",
+    "stars_today": "131 stars this month"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,525",
+    "fork": "303",
+    "timestamp": "2025-09-03T02:18:13.011394",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "nvim-lua/plenary.nvim",
+    "href": "https://github.com/nvim-lua/plenary.nvim",
+    "about": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+    "star": "3,220",
+    "fork": "316",
+    "timestamp": "2025-09-03T02:18:13.011685",
+    "stars_today": "55 stars this month"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "12,704",
+    "fork": "823",
+    "timestamp": "2025-09-03T02:18:13.011985",
+    "stars_today": "338 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,393",
+    "fork": "488",
+    "timestamp": "2025-09-03T02:18:13.012276",
+    "stars_today": "123 stars this month"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,112",
+    "fork": "237",
+    "timestamp": "2025-09-03T02:18:13.012593",
+    "stars_today": "108 stars this month"
+  },
+  {
+    "repo": "beyond-all-reason/Beyond-All-Reason",
+    "href": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "about": "Main game repository for Beyond All Reason.",
+    "star": "2,408",
+    "fork": "455",
+    "timestamp": "2025-09-03T02:18:13.012896",
+    "stars_today": "102 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,006",
+    "fork": "1,510",
+    "timestamp": "2025-09-03T02:18:13.013185",
+    "stars_today": "463 stars this month"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、候选手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572",
+    "star": "1,074",
+    "fork": "63",
+    "timestamp": "2025-09-03T02:18:13.013478",
+    "stars_today": "183 stars this month"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,792",
+    "fork": "287",
+    "timestamp": "2025-09-03T02:18:13.013790",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,840",
+    "fork": "266",
+    "timestamp": "2025-09-03T02:18:13.014084",
+    "stars_today": "106 stars this month"
+  },
+  {
+    "repo": "akinsho/bufferline.nvim",
+    "href": "https://github.com/akinsho/bufferline.nvim",
+    "about": "A snazzy bufferline for Neovim",
+    "star": "4,035",
+    "fork": "224",
+    "timestamp": "2025-09-03T02:18:13.014390",
+    "stars_today": "58 stars this month"
+  }
+]
