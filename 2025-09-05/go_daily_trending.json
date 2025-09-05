@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,376",
+    "fork": "2,713",
+    "timestamp": "2025-09-05T02:21:54.086727",
+    "stars_today": "175 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "20,579",
+    "fork": "1,975",
+    "timestamp": "2025-09-05T02:21:54.087065",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "50,450",
+    "fork": "2,612",
+    "timestamp": "2025-09-05T02:21:54.087374",
+    "stars_today": "77 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "22,372",
+    "fork": "3,387",
+    "timestamp": "2025-09-05T02:21:54.087675",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,166",
+    "fork": "5,697",
+    "timestamp": "2025-09-05T02:21:54.087972",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "href": "https://github.com/sigstore/cosign",
+    "about": "Code signing and transparency for containers and binaries",
+    "star": "5,192",
+    "fork": "620",
+    "timestamp": "2025-09-05T02:21:54.088288",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,187",
+    "fork": "102",
+    "timestamp": "2025-09-05T02:21:54.088602",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,376",
+    "fork": "1,531",
+    "timestamp": "2025-09-05T02:21:54.088927",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "vllm-project/aibrix",
+    "href": "https://github.com/vllm-project/aibrix",
+    "about": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+    "star": "4,189",
+    "fork": "452",
+    "timestamp": "2025-09-05T02:21:54.089266",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "anchore/grype",
+    "href": "https://github.com/anchore/grype",
+    "about": "A vulnerability scanner for container images and filesystems",
+    "star": "10,578",
+    "fork": "682",
+    "timestamp": "2025-09-05T02:21:54.089560",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,899",
+    "fork": "2,991",
+    "timestamp": "2025-09-05T02:21:54.089852",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "29,930",
+    "fork": "1,464",
+    "timestamp": "2025-09-05T02:21:54.090159",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,820",
+    "fork": "4,095",
+    "timestamp": "2025-09-05T02:21:54.090453",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "dexidp/dex",
+    "href": "https://github.com/dexidp/dex",
+    "about": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+    "star": "10,113",
+    "fork": "1,831",
+    "timestamp": "2025-09-05T02:21:54.090742",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "11,158",
+    "fork": "442",
+    "timestamp": "2025-09-05T02:21:54.091035",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "3,243",
+    "fork": "711",
+    "timestamp": "2025-09-05T02:21:54.091386",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "35,037",
+    "fork": "2,734",
+    "timestamp": "2025-09-05T02:21:54.091709",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,276",
+    "fork": "4,512",
+    "timestamp": "2025-09-05T02:21:54.092002",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,274",
+    "fork": "41,294",
+    "timestamp": "2025-09-05T02:21:54.092315",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,225",
+    "fork": "1,324",
+    "timestamp": "2025-09-05T02:21:54.092608",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+    "star": "2,074",
+    "fork": "364",
+    "timestamp": "2025-09-05T02:21:54.092900",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "33,060",
+    "fork": "4,428",
+    "timestamp": "2025-09-05T02:21:54.093205",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "42,689",
+    "fork": "3,598",
+    "timestamp": "2025-09-05T02:21:54.093520",
+    "stars_today": "21 stars today"
+  }
+]

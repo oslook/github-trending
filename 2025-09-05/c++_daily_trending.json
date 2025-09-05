@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "apache/arrow",
+    "href": "https://github.com/apache/arrow",
+    "about": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+    "star": "15,905",
+    "fork": "3,845",
+    "timestamp": "2025-09-05T02:21:46.712708",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "google/or-tools",
+    "href": "https://github.com/google/or-tools",
+    "about": "Google's Operations Research tools:",
+    "star": "12,438",
+    "fork": "2,269",
+    "timestamp": "2025-09-05T02:21:46.713011",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "href": "https://github.com/protocolbuffers/protobuf",
+    "about": "Protocol Buffers - Google's data interchange format",
+    "star": "68,954",
+    "fork": "15,851",
+    "timestamp": "2025-09-05T02:21:46.713313",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "123,672",
+    "fork": "24,837",
+    "timestamp": "2025-09-05T02:21:46.713600",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT",
+    "href": "https://github.com/NVIDIA/TensorRT",
+    "about": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "star": "12,110",
+    "fork": "2,245",
+    "timestamp": "2025-09-05T02:21:46.713881",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "href": "https://github.com/tensorflow/tensorflow",
+    "about": "An Open Source Machine Learning Framework for Everyone",
+    "star": "191,491",
+    "fork": "74,816",
+    "timestamp": "2025-09-05T02:21:46.714177",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "NVIDIA/cutlass",
+    "href": "https://github.com/NVIDIA/cutlass",
+    "about": "CUDA Templates for Linear Algebra Subroutines",
+    "star": "8,370",
+    "fork": "1,421",
+    "timestamp": "2025-09-05T02:21:46.714461",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "47,086",
+    "fork": "7,119",
+    "timestamp": "2025-09-05T02:21:46.714772",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "ai-dynamo/nixl",
+    "href": "https://github.com/ai-dynamo/nixl",
+    "about": "NVIDIA Inference Xfer Library (NIXL)",
+    "star": "589",
+    "fork": "134",
+    "timestamp": "2025-09-05T02:21:46.715071",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grpc/grpc",
+    "href": "https://github.com/grpc/grpc",
+    "about": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "star": "43,593",
+    "fork": "10,880",
+    "timestamp": "2025-09-05T02:21:46.715355",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "MAZHARMIK/Interview_DS_Algo",
+    "href": "https://github.com/MAZHARMIK/Interview_DS_Algo",
+    "about": "Super Repository for Coding Interview Preperation",
+    "star": "3,216",
+    "fork": "1,549",
+    "timestamp": "2025-09-05T02:21:46.715633",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "href": "https://github.com/catchorg/Catch2",
+    "about": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "star": "19,757",
+    "fork": "3,138",
+    "timestamp": "2025-09-05T02:21:46.715901",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pybind/pybind11",
+    "href": "https://github.com/pybind/pybind11",
+    "about": "Seamless operability between C++11 and Python",
+    "star": "17,222",
+    "fork": "2,214",
+    "timestamp": "2025-09-05T02:21:46.716213",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "NVIDIA/nccl",
+    "href": "https://github.com/NVIDIA/nccl",
+    "about": "Optimized primitives for collective multi-GPU communication",
+    "star": "4,006",
+    "fork": "1,004",
+    "timestamp": "2025-09-05T02:21:46.716497",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "11,510",
+    "fork": "1,717",
+    "timestamp": "2025-09-05T02:21:46.716775",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "href": "https://github.com/ClickHouse/ClickHouse",
+    "about": "ClickHouse® is a real-time analytics database management system",
+    "star": "42,696",
+    "fork": "7,618",
+    "timestamp": "2025-09-05T02:21:46.717078",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "opencv/opencv",
+    "href": "https://github.com/opencv/opencv",
+    "about": "Open Source Computer Vision Library",
+    "star": "83,819",
+    "fork": "56,270",
+    "timestamp": "2025-09-05T02:21:46.717391",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "kuzudb/kuzu",
+    "href": "https://github.com/kuzudb/kuzu",
+    "about": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+    "star": "3,094",
+    "fork": "199",
+    "timestamp": "2025-09-05T02:21:46.717669",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "17,752",
+    "fork": "3,427",
+    "timestamp": "2025-09-05T02:21:46.717946",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "qgis/QGIS",
+    "href": "https://github.com/qgis/QGIS",
+    "about": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "star": "11,746",
+    "fork": "3,200",
+    "timestamp": "2025-09-05T02:21:46.718264",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "google-ai-edge/LiteRT",
+    "href": "https://github.com/google-ai-edge/LiteRT",
+    "about": "LiteRT continues the legacy of TensorFlow Lite as the trusted, high-performance runtime for on-device AI. Now with LiteRT Next, we're expanding our vision with a new generation of APIs designed for superior performance and simplified hardware acceleration. Discover what's next for on-device AI.",
+    "star": "750",
+    "fork": "109",
+    "timestamp": "2025-09-05T02:21:46.718540",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "dusty-nv/jetson-inference",
+    "href": "https://github.com/dusty-nv/jetson-inference",
+    "about": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+    "star": "8,496",
+    "fork": "3,072",
+    "timestamp": "2025-09-05T02:21:46.718816",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "href": "https://github.com/facebookresearch/faiss",
+    "about": "A library for efficient similarity search and clustering of dense vectors.",
+    "star": "36,929",
+    "fork": "4,018",
+    "timestamp": "2025-09-05T02:21:46.719108",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "ROCm/rocm-systems",
+    "href": "https://github.com/ROCm/rocm-systems",
+    "about": "super repo for rocm systems projects",
+    "star": "70",
+    "fork": "28",
+    "timestamp": "2025-09-05T02:21:46.719384",
+    "stars_today": "3 stars today"
+  }
+]
