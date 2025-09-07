@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,614",
+    "fork": "2,731",
+    "timestamp": "2025-09-07T02:25:30.658173",
+    "stars_today": "491 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,014",
+    "fork": "1,998",
+    "timestamp": "2025-09-07T02:25:30.658474",
+    "stars_today": "564 stars this week"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,381",
+    "fork": "110",
+    "timestamp": "2025-09-07T02:25:30.658775",
+    "stars_today": "558 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "50,591",
+    "fork": "2,623",
+    "timestamp": "2025-09-07T02:25:30.659071",
+    "stars_today": "417 stars this week"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "1,612",
+    "fork": "168",
+    "timestamp": "2025-09-07T02:25:30.659354",
+    "stars_today": "356 stars this week"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,803",
+    "fork": "2,996",
+    "timestamp": "2025-09-07T02:25:30.659670",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+    "star": "1,422",
+    "fork": "56",
+    "timestamp": "2025-09-07T02:25:30.659997",
+    "stars_today": "190 stars this week"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "11,380",
+    "fork": "1,570",
+    "timestamp": "2025-09-07T02:25:30.660283",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,281",
+    "fork": "4,513",
+    "timestamp": "2025-09-07T02:25:30.660564",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "vllm-project/aibrix",
+    "href": "https://github.com/vllm-project/aibrix",
+    "about": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+    "star": "4,201",
+    "fork": "451",
+    "timestamp": "2025-09-07T02:25:30.660887",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "29,966",
+    "fork": "1,465",
+    "timestamp": "2025-09-07T02:25:30.661170",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,938",
+    "fork": "1,453",
+    "timestamp": "2025-09-07T02:25:30.661449",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "45,993",
+    "fork": "1,446",
+    "timestamp": "2025-09-07T02:25:30.661755",
+    "stars_today": "149 stars this week"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,385",
+    "fork": "1,534",
+    "timestamp": "2025-09-07T02:25:30.662141",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "lightningnetwork/lnd",
+    "href": "https://github.com/lightningnetwork/lnd",
+    "about": "Lightning Network Daemon ⚡️",
+    "star": "8,020",
+    "fork": "2,192",
+    "timestamp": "2025-09-07T02:25:30.662423",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "7,566",
+    "fork": "973",
+    "timestamp": "2025-09-07T02:25:30.662728",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "gogf/gf",
+    "href": "https://github.com/gogf/gf",
+    "about": "A powerful framework for faster, easier, and more efficient project development.",
+    "star": "12,691",
+    "fork": "1,708",
+    "timestamp": "2025-09-07T02:25:30.663061",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,136",
+    "fork": "1,636",
+    "timestamp": "2025-09-07T02:25:30.663337",
+    "stars_today": "94 stars this week"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "4,241",
+    "fork": "672",
+    "timestamp": "2025-09-07T02:25:30.663643",
+    "stars_today": "71 stars this week"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "42,715",
+    "fork": "3,599",
+    "timestamp": "2025-09-07T02:25:30.663958",
+    "stars_today": "118 stars this week"
+  },
+  {
+    "repo": "asternic/wuzapi",
+    "href": "https://github.com/asternic/wuzapi",
+    "about": "Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)",
+    "star": "475",
+    "fork": "252",
+    "timestamp": "2025-09-07T02:25:30.664232",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "22,880",
+    "fork": "4,514",
+    "timestamp": "2025-09-07T02:25:30.664509",
+    "stars_today": "99 stars this week"
+  }
+]

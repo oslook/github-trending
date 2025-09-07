@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,785",
+    "fork": "1,066",
+    "timestamp": "2025-09-07T02:25:29.551013",
+    "stars_today": "525 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,934",
+    "fork": "4,751",
+    "timestamp": "2025-09-07T02:25:29.551357",
+    "stars_today": "1,924 stars this month"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "12,042",
+    "fork": "591",
+    "timestamp": "2025-09-07T02:25:29.551664",
+    "stars_today": "4,498 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,014",
+    "fork": "1,998",
+    "timestamp": "2025-09-07T02:25:29.551979",
+    "stars_today": "839 stars this month"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+    "star": "1,422",
+    "fork": "56",
+    "timestamp": "2025-09-07T02:25:29.552309",
+    "stars_today": "807 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "98,320",
+    "fork": "14,423",
+    "timestamp": "2025-09-07T02:25:29.552633",
+    "stars_today": "1,482 stars this month"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "2,334",
+    "fork": "226",
+    "timestamp": "2025-09-07T02:25:29.552944",
+    "stars_today": "452 stars this month"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,949",
+    "fork": "282",
+    "timestamp": "2025-09-07T02:25:29.553284",
+    "stars_today": "531 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,803",
+    "fork": "2,996",
+    "timestamp": "2025-09-07T02:25:29.553617",
+    "stars_today": "492 stars this month"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "73,517",
+    "fork": "2,582",
+    "timestamp": "2025-09-07T02:25:29.553960",
+    "stars_today": "986 stars this month"
+  },
+  {
+    "repo": "steveiliop56/tinyauth",
+    "href": "https://github.com/steveiliop56/tinyauth",
+    "about": "The simplest way to protect your apps with a login screen.",
+    "star": "5,364",
+    "fork": "156",
+    "timestamp": "2025-09-07T02:25:29.554297",
+    "stars_today": "1,800 stars this month"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,942",
+    "fork": "8,746",
+    "timestamp": "2025-09-07T02:25:29.554591",
+    "stars_today": "291 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,914",
+    "fork": "2,999",
+    "timestamp": "2025-09-07T02:25:29.554897",
+    "stars_today": "163 stars this month"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,374",
+    "fork": "1,006",
+    "timestamp": "2025-09-07T02:25:29.555191",
+    "stars_today": "533 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,136",
+    "fork": "1,636",
+    "timestamp": "2025-09-07T02:25:29.555483",
+    "stars_today": "504 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,614",
+    "fork": "2,731",
+    "timestamp": "2025-09-07T02:25:29.555778",
+    "stars_today": "792 stars this month"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,486",
+    "fork": "2,494",
+    "timestamp": "2025-09-07T02:25:29.556098",
+    "stars_today": "342 stars this month"
+  },
+  {
+    "repo": "RezaSi/go-interview-practice",
+    "href": "https://github.com/RezaSi/go-interview-practice",
+    "about": "Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.",
+    "star": "1,184",
+    "fork": "545",
+    "timestamp": "2025-09-07T02:25:29.556431",
+    "stars_today": "441 stars this month"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,431",
+    "fork": "2,956",
+    "timestamp": "2025-09-07T02:25:29.556755",
+    "stars_today": "1,440 stars this month"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "15,002",
+    "fork": "4,352",
+    "timestamp": "2025-09-07T02:25:29.557094",
+    "stars_today": "282 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,556",
+    "fork": "6,352",
+    "timestamp": "2025-09-07T02:25:29.557391",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "2,449",
+    "fork": "404",
+    "timestamp": "2025-09-07T02:25:29.557686",
+    "stars_today": "300 stars this month"
+  }
+]
