@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,801",
+    "fork": "1,066",
+    "timestamp": "2025-09-08T02:26:56.470488",
+    "stars_today": "533 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "75,965",
+    "fork": "4,752",
+    "timestamp": "2025-09-08T02:26:56.470826",
+    "stars_today": "1,921 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,173",
+    "fork": "2,004",
+    "timestamp": "2025-09-08T02:26:56.471141",
+    "stars_today": "1,052 stars this month"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+    "star": "1,435",
+    "fork": "57",
+    "timestamp": "2025-09-08T02:26:56.471477",
+    "stars_today": "813 stars this month"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "2,340",
+    "fork": "226",
+    "timestamp": "2025-09-08T02:26:56.471766",
+    "stars_today": "452 stars this month"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,959",
+    "fork": "283",
+    "timestamp": "2025-09-08T02:26:56.472085",
+    "stars_today": "535 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "98,359",
+    "fork": "14,425",
+    "timestamp": "2025-09-08T02:26:56.472424",
+    "stars_today": "1,473 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,813",
+    "fork": "2,997",
+    "timestamp": "2025-09-08T02:26:56.472748",
+    "stars_today": "490 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,713",
+    "fork": "2,739",
+    "timestamp": "2025-09-08T02:26:56.473036",
+    "stars_today": "895 stars this month"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "12,116",
+    "fork": "596",
+    "timestamp": "2025-09-08T02:26:56.473338",
+    "stars_today": "4,210 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,155",
+    "fork": "1,636",
+    "timestamp": "2025-09-08T02:26:56.473624",
+    "stars_today": "511 stars this month"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,948",
+    "fork": "8,750",
+    "timestamp": "2025-09-08T02:26:56.473910",
+    "stars_today": "296 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,916",
+    "fork": "2,998",
+    "timestamp": "2025-09-08T02:26:56.474211",
+    "stars_today": "164 stars this month"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,388",
+    "fork": "1,007",
+    "timestamp": "2025-09-08T02:26:56.474500",
+    "stars_today": "537 stars this month"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "73,553",
+    "fork": "2,583",
+    "timestamp": "2025-09-08T02:26:56.474819",
+    "stars_today": "976 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,563",
+    "fork": "6,353",
+    "timestamp": "2025-09-08T02:26:56.475103",
+    "stars_today": "297 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "14,997",
+    "fork": "376",
+    "timestamp": "2025-09-08T02:26:56.475405",
+    "stars_today": "542 stars this month"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,491",
+    "fork": "2,495",
+    "timestamp": "2025-09-08T02:26:56.475691",
+    "stars_today": "343 stars this month"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "15,009",
+    "fork": "4,354",
+    "timestamp": "2025-09-08T02:26:56.476006",
+    "stars_today": "291 stars this month"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,450",
+    "fork": "2,958",
+    "timestamp": "2025-09-08T02:26:56.476361",
+    "stars_today": "1,440 stars this month"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "2,457",
+    "fork": "407",
+    "timestamp": "2025-09-08T02:26:56.476705",
+    "stars_today": "302 stars this month"
+  }
+]

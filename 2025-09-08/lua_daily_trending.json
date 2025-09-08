@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,108",
+    "fork": "39,255",
+    "timestamp": "2025-09-08T02:27:02.662597",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、候选手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572",
+    "star": "1,112",
+    "fork": "64",
+    "timestamp": "2025-09-08T02:27:02.662922",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "4,056",
+    "fork": "258",
+    "timestamp": "2025-09-08T02:27:02.663284",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,501",
+    "fork": "1,210",
+    "timestamp": "2025-09-08T02:27:02.663601",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nvimtools/none-ls.nvim",
+    "href": "https://github.com/nvimtools/none-ls.nvim",
+    "about": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "star": "3,088",
+    "fork": "107",
+    "timestamp": "2025-09-08T02:27:02.663908",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "22,375",
+    "fork": "1,588",
+    "timestamp": "2025-09-08T02:27:02.664229",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "18,749",
+    "fork": "478",
+    "timestamp": "2025-09-08T02:27:02.664533",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "vague2k/vague.nvim",
+    "href": "https://github.com/vague2k/vague.nvim",
+    "about": "A cool, dark, low contrast colorscheme for Neovim. Pastel yet vivid, like a fleeting memory...",
+    "star": "745",
+    "fork": "28",
+    "timestamp": "2025-09-08T02:27:02.664837",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "5,301",
+    "fork": "146",
+    "timestamp": "2025-09-08T02:27:02.665165",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,924",
+    "fork": "143",
+    "timestamp": "2025-09-08T02:27:02.665513",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Arrow-kb/FS25_RealisticLivestock",
+    "href": "https://github.com/Arrow-kb/FS25_RealisticLivestock",
+    "about": "",
+    "star": "203",
+    "fork": "20",
+    "timestamp": "2025-09-08T02:27:02.665836",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,883",
+    "fork": "376",
+    "timestamp": "2025-09-08T02:27:02.666153",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "tomasklaen/uosc",
+    "href": "https://github.com/tomasklaen/uosc",
+    "about": "Feature-rich minimalist proximity-based UI for MPV player.",
+    "star": "2,533",
+    "fork": "82",
+    "timestamp": "2025-09-08T02:27:02.666458",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "5,908",
+    "fork": "313",
+    "timestamp": "2025-09-08T02:27:02.666762",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,215",
+    "fork": "914",
+    "timestamp": "2025-09-08T02:27:02.667064",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "star": "41,703",
+    "fork": "4,975",
+    "timestamp": "2025-09-08T02:27:02.667376",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "3,479",
+    "fork": "53",
+    "timestamp": "2025-09-08T02:27:02.667675",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "typecraft-dev/dotfiles",
+    "href": "https://github.com/typecraft-dev/dotfiles",
+    "about": "",
+    "star": "1,082",
+    "fork": "213",
+    "timestamp": "2025-09-08T02:27:02.667991",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "12,770",
+    "fork": "826",
+    "timestamp": "2025-09-08T02:27:02.668302",
+    "stars_today": "10 stars today"
+  }
+]

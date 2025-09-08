@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "14,726",
+    "fork": "453",
+    "timestamp": "2025-09-08T02:26:55.700802",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,173",
+    "fork": "2,004",
+    "timestamp": "2025-09-08T02:26:55.701199",
+    "stars_today": "232 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,713",
+    "fork": "2,739",
+    "timestamp": "2025-09-08T02:26:55.701502",
+    "stars_today": "122 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "28,705",
+    "fork": "2,771",
+    "timestamp": "2025-09-08T02:26:55.701794",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "151,852",
+    "fork": "13,048",
+    "timestamp": "2025-09-08T02:26:55.702083",
+    "stars_today": "86 stars today"
+  },
+  {
+    "repo": "gofr-dev/gofr",
+    "href": "https://github.com/gofr-dev/gofr",
+    "about": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+    "star": "12,761",
+    "fork": "1,696",
+    "timestamp": "2025-09-08T02:26:55.702391",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "26,412",
+    "fork": "3,101",
+    "timestamp": "2025-09-08T02:26:55.702677",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "18,427",
+    "fork": "862",
+    "timestamp": "2025-09-08T02:26:55.702989",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "15,009",
+    "fork": "4,354",
+    "timestamp": "2025-09-08T02:26:55.703319",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "10,866",
+    "fork": "993",
+    "timestamp": "2025-09-08T02:26:55.703610",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "star": "11,470",
+    "fork": "1,036",
+    "timestamp": "2025-09-08T02:26:55.703892",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "31,067",
+    "fork": "4,556",
+    "timestamp": "2025-09-08T02:26:55.704188",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "14,123",
+    "fork": "784",
+    "timestamp": "2025-09-08T02:26:55.704476",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "omriharel/deej",
+    "href": "https://github.com/omriharel/deej",
+    "about": "Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux",
+    "star": "5,228",
+    "fork": "518",
+    "timestamp": "2025-09-08T02:26:55.704757",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "charmbracelet/gum",
+    "href": "https://github.com/charmbracelet/gum",
+    "about": "A tool for glamorous shell scripts 🎀",
+    "star": "21,067",
+    "fork": "419",
+    "timestamp": "2025-09-08T02:26:55.705025",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "p4gefau1t/trojan-go",
+    "href": "https://github.com/p4gefau1t/trojan-go",
+    "about": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+    "star": "8,173",
+    "fork": "1,750",
+    "timestamp": "2025-09-08T02:26:55.705328",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "24,629",
+    "fork": "1,974",
+    "timestamp": "2025-09-08T02:26:55.705611",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "star": "35,108",
+    "fork": "2,748",
+    "timestamp": "2025-09-08T02:26:55.705944",
+    "stars_today": "32 stars today"
+  }
+]
