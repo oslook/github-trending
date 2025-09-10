@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,810",
+    "fork": "2,745",
+    "timestamp": "2025-09-10T02:18:14.420200",
+    "stars_today": "706 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,338",
+    "fork": "2,012",
+    "timestamp": "2025-09-10T02:18:14.420523",
+    "stars_today": "943 stars this week"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,578",
+    "fork": "124",
+    "timestamp": "2025-09-10T02:18:14.420832",
+    "stars_today": "596 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "50,692",
+    "fork": "2,626",
+    "timestamp": "2025-09-10T02:18:14.421117",
+    "stars_today": "473 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "14,957",
+    "fork": "456",
+    "timestamp": "2025-09-10T02:18:14.421402",
+    "stars_today": "726 stars this week"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "31,143",
+    "fork": "4,561",
+    "timestamp": "2025-09-10T02:18:14.421696",
+    "stars_today": "174 stars this week"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "1,670",
+    "fork": "173",
+    "timestamp": "2025-09-10T02:18:14.421980",
+    "stars_today": "189 stars this week"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,964",
+    "fork": "1,455",
+    "timestamp": "2025-09-10T02:18:14.422264",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "46,880",
+    "fork": "5,046",
+    "timestamp": "2025-09-10T02:18:14.422565",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,285",
+    "fork": "4,515",
+    "timestamp": "2025-09-10T02:18:14.422847",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "11,392",
+    "fork": "1,570",
+    "timestamp": "2025-09-10T02:18:14.423129",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "oapi-codegen/oapi-codegen",
+    "href": "https://github.com/oapi-codegen/oapi-codegen",
+    "about": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "star": "7,581",
+    "fork": "973",
+    "timestamp": "2025-09-10T02:18:14.423443",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,200",
+    "fork": "5,701",
+    "timestamp": "2025-09-10T02:18:14.423742",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "vllm-project/aibrix",
+    "href": "https://github.com/vllm-project/aibrix",
+    "about": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+    "star": "4,211",
+    "fork": "453",
+    "timestamp": "2025-09-10T02:18:14.424047",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "ipfs/kubo",
+    "href": "https://github.com/ipfs/kubo",
+    "about": "An IPFS implementation in Go",
+    "star": "16,716",
+    "fork": "3,105",
+    "timestamp": "2025-09-10T02:18:14.424323",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,929",
+    "fork": "2,999",
+    "timestamp": "2025-09-10T02:18:14.424614",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,407",
+    "fork": "1,547",
+    "timestamp": "2025-09-10T02:18:14.424921",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,647",
+    "fork": "18,808",
+    "timestamp": "2025-09-10T02:18:14.425198",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "asternic/wuzapi",
+    "href": "https://github.com/asternic/wuzapi",
+    "about": "Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)",
+    "star": "486",
+    "fork": "257",
+    "timestamp": "2025-09-10T02:18:14.425485",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,900",
+    "fork": "1,083",
+    "timestamp": "2025-09-10T02:18:14.425795",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "aldinokemal/go-whatsapp-web-multidevice",
+    "href": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+    "about": "GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.",
+    "star": "2,384",
+    "fork": "596",
+    "timestamp": "2025-09-10T02:18:14.426098",
+    "stars_today": "61 stars this week"
+  }
+]

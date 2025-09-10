@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "5,813",
+    "fork": "1,068",
+    "timestamp": "2025-09-10T02:18:14.963639",
+    "stars_today": "549 stars this month"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "76,046",
+    "fork": "4,757",
+    "timestamp": "2025-09-10T02:18:14.963978",
+    "stars_today": "1,961 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,338",
+    "fork": "2,012",
+    "timestamp": "2025-09-10T02:18:14.964268",
+    "stars_today": "1,208 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,810",
+    "fork": "2,745",
+    "timestamp": "2025-09-10T02:18:14.964570",
+    "stars_today": "974 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,169",
+    "fork": "1,639",
+    "timestamp": "2025-09-10T02:18:14.964857",
+    "stars_today": "519 stars this month"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "73,614",
+    "fork": "2,586",
+    "timestamp": "2025-09-10T02:18:14.965170",
+    "stars_today": "998 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,837",
+    "fork": "2,998",
+    "timestamp": "2025-09-10T02:18:14.965493",
+    "stars_today": "494 stars this month"
+  },
+  {
+    "repo": "SpecterOps/BloodHound",
+    "href": "https://github.com/SpecterOps/BloodHound",
+    "about": "Six Degrees of Domain Admin",
+    "star": "2,348",
+    "fork": "227",
+    "timestamp": "2025-09-10T02:18:14.965779",
+    "stars_today": "451 stars this month"
+  },
+  {
+    "repo": "ibnaleem/gosearch",
+    "href": "https://github.com/ibnaleem/gosearch",
+    "about": "🔍 Search anyone's digital footprint across 300+ websites",
+    "star": "2,967",
+    "fork": "285",
+    "timestamp": "2025-09-10T02:18:14.966086",
+    "stars_today": "523 stars this month"
+  },
+  {
+    "repo": "GoogleCloudPlatform/microservices-demo",
+    "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "about": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "star": "18,967",
+    "fork": "8,770",
+    "timestamp": "2025-09-10T02:18:14.966362",
+    "stars_today": "301 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,587",
+    "fork": "6,355",
+    "timestamp": "2025-09-10T02:18:14.966651",
+    "stars_today": "295 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "3,929",
+    "fork": "2,999",
+    "timestamp": "2025-09-10T02:18:14.966929",
+    "stars_today": "165 stars this month"
+  },
+  {
+    "repo": "containrrr/watchtower",
+    "href": "https://github.com/containrrr/watchtower",
+    "about": "A process for automating Docker container base image updates.",
+    "star": "23,416",
+    "fork": "1,007",
+    "timestamp": "2025-09-10T02:18:14.967208",
+    "stars_today": "546 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "15,032",
+    "fork": "376",
+    "timestamp": "2025-09-10T02:18:14.967496",
+    "stars_today": "559 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "14,957",
+    "fork": "456",
+    "timestamp": "2025-09-10T02:18:14.967776",
+    "stars_today": "1,365 stars this month"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "2,488",
+    "fork": "407",
+    "timestamp": "2025-09-10T02:18:14.968054",
+    "stars_today": "319 stars this month"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,502",
+    "fork": "2,496",
+    "timestamp": "2025-09-10T02:18:14.968330",
+    "stars_today": "345 stars this month"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "10,912",
+    "fork": "1,000",
+    "timestamp": "2025-09-10T02:18:14.968620",
+    "stars_today": "320 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "98,436",
+    "fork": "14,437",
+    "timestamp": "2025-09-10T02:18:14.968923",
+    "stars_today": "1,502 stars this month"
+  },
+  {
+    "repo": "FiloSottile/mkcert",
+    "href": "https://github.com/FiloSottile/mkcert",
+    "about": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "star": "56,497",
+    "fork": "2,959",
+    "timestamp": "2025-09-10T02:18:14.969227",
+    "stars_today": "1,465 stars this month"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "8,704",
+    "fork": "707",
+    "timestamp": "2025-09-10T02:18:14.969542",
+    "stars_today": "221 stars this month"
+  }
+]
