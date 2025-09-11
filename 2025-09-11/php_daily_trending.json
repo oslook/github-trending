@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "composer/composer",
+    "href": "https://github.com/composer/composer",
+    "about": "Dependency Manager for PHP",
+    "star": "29,110",
+    "fork": "4,682",
+    "timestamp": "2025-09-11T02:22:43.056571",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "statamic/cms",
+    "href": "https://github.com/statamic/cms",
+    "about": "The core Laravel CMS Composer package",
+    "star": "4,531",
+    "fork": "585",
+    "timestamp": "2025-09-11T02:22:43.056912",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "PHPMailer/PHPMailer",
+    "href": "https://github.com/PHPMailer/PHPMailer",
+    "about": "The classic email sending library for PHP",
+    "star": "21,717",
+    "fork": "9,852",
+    "timestamp": "2025-09-11T02:22:43.057204",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mautic/mautic",
+    "href": "https://github.com/mautic/mautic",
+    "about": "Mautic: Open Source Marketing Automation Software.",
+    "star": "8,629",
+    "fork": "2,987",
+    "timestamp": "2025-09-11T02:22:43.057535",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "roundcube/roundcubemail",
+    "href": "https://github.com/roundcube/roundcubemail",
+    "about": "The Roundcube Webmail suite",
+    "star": "6,501",
+    "fork": "1,697",
+    "timestamp": "2025-09-11T02:22:43.057829",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "PHPOffice/PhpSpreadsheet",
+    "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+    "about": "A pure PHP library for reading and writing spreadsheet files",
+    "star": "13,755",
+    "fork": "3,608",
+    "timestamp": "2025-09-11T02:22:43.058118",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "woocommerce/woocommerce",
+    "href": "https://github.com/woocommerce/woocommerce",
+    "about": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+    "star": "9,956",
+    "fork": "10,751",
+    "timestamp": "2025-09-11T02:22:43.058404",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "vrana/adminer",
+    "href": "https://github.com/vrana/adminer",
+    "about": "Database management in a single PHP file",
+    "star": "7,006",
+    "fork": "1,138",
+    "timestamp": "2025-09-11T02:22:43.058731",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "bagisto/bagisto",
+    "href": "https://github.com/bagisto/bagisto",
+    "about": "Free and open source laravel eCommerce platform",
+    "star": "21,505",
+    "fork": "2,669",
+    "timestamp": "2025-09-11T02:22:43.059016",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "Intervention/image",
+    "href": "https://github.com/Intervention/image",
+    "about": "PHP Image Processing",
+    "star": "14,236",
+    "fork": "1,507",
+    "timestamp": "2025-09-11T02:22:43.059324",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "opnsense/plugins",
+    "href": "https://github.com/opnsense/plugins",
+    "about": "OPNsense plugin collection",
+    "star": "976",
+    "fork": "727",
+    "timestamp": "2025-09-11T02:22:43.059651",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "laravel/wayfinder",
+    "href": "https://github.com/laravel/wayfinder",
+    "about": "",
+    "star": "1,257",
+    "fork": "49",
+    "timestamp": "2025-09-11T02:22:43.059958",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "rectorphp/rector",
+    "href": "https://github.com/rectorphp/rector",
+    "about": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+    "star": "9,931",
+    "fork": "728",
+    "timestamp": "2025-09-11T02:22:43.060243",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "EasyCorp/EasyAdminBundle",
+    "href": "https://github.com/EasyCorp/EasyAdminBundle",
+    "about": "EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.",
+    "star": "4,193",
+    "fork": "1,065",
+    "timestamp": "2025-09-11T02:22:43.060537",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "opnsense/core",
+    "href": "https://github.com/opnsense/core",
+    "about": "OPNsense GUI, API and systems backend",
+    "star": "3,968",
+    "fork": "848",
+    "timestamp": "2025-09-11T02:22:43.060852",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "magicblack/maccms10",
+    "href": "https://github.com/magicblack/maccms10",
+    "about": "苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序",
+    "star": "2,621",
+    "fork": "898",
+    "timestamp": "2025-09-11T02:22:43.061134",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "barryvdh/laravel-debugbar",
+    "href": "https://github.com/barryvdh/laravel-debugbar",
+    "about": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+    "star": "18,700",
+    "fork": "1,582",
+    "timestamp": "2025-09-11T02:22:43.061440",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "monicahq/monica",
+    "href": "https://github.com/monicahq/monica",
+    "about": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "star": "23,393",
+    "fork": "2,350",
+    "timestamp": "2025-09-11T02:22:43.061742",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "akaunting/akaunting",
+    "href": "https://github.com/akaunting/akaunting",
+    "about": "Online Accounting Software",
+    "star": "9,155",
+    "fork": "2,711",
+    "timestamp": "2025-09-11T02:22:43.062026",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "PHPCompatibility/PHPCompatibility",
+    "href": "https://github.com/PHPCompatibility/PHPCompatibility",
+    "about": "PHP Compatibility check for PHP_CodeSniffer",
+    "star": "2,253",
+    "fork": "204",
+    "timestamp": "2025-09-11T02:22:43.062341",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "magento/magento2",
+    "href": "https://github.com/magento/magento2",
+    "about": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+    "star": "11,916",
+    "fork": "9,398",
+    "timestamp": "2025-09-11T02:22:43.062642",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "WordPress/wordpress-develop",
+    "href": "https://github.com/WordPress/wordpress-develop",
+    "about": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "star": "3,075",
+    "fork": "3,057",
+    "timestamp": "2025-09-11T02:22:43.062935",
+    "stars_today": "0 stars today"
+  }
+]

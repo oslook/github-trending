@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "21,395",
+    "fork": "1,547",
+    "timestamp": "2025-09-11T02:22:47.797187",
+    "stars_today": "337 stars this week"
+  },
+  {
+    "repo": "Eventual-Inc/Daft",
+    "href": "https://github.com/Eventual-Inc/Daft",
+    "about": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+    "star": "4,307",
+    "fork": "294",
+    "timestamp": "2025-09-11T02:22:47.797550",
+    "stars_today": "954 stars this week"
+  },
+  {
+    "repo": "google/comprehensive-rust",
+    "href": "https://github.com/google/comprehensive-rust",
+    "about": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "star": "31,897",
+    "fork": "1,894",
+    "timestamp": "2025-09-11T02:22:47.797840",
+    "stars_today": "375 stars this week"
+  },
+  {
+    "repo": "zama-ai/fhevm",
+    "href": "https://github.com/zama-ai/fhevm",
+    "about": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "star": "18,174",
+    "fork": "760",
+    "timestamp": "2025-09-11T02:22:47.798124",
+    "stars_today": "1,702 stars this week"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "33,175",
+    "fork": "4,172",
+    "timestamp": "2025-09-11T02:22:47.798406",
+    "stars_today": "6,399 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "98,055",
+    "fork": "14,377",
+    "timestamp": "2025-09-11T02:22:47.798731",
+    "stars_today": "763 stars this week"
+  },
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "40,028",
+    "fork": "4,648",
+    "timestamp": "2025-09-11T02:22:47.799018",
+    "stars_today": "1,747 stars this week"
+  },
+  {
+    "repo": "carthage-software/mago",
+    "href": "https://github.com/carthage-software/mago",
+    "about": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+    "star": "1,241",
+    "fork": "54",
+    "timestamp": "2025-09-11T02:22:47.799301",
+    "stars_today": "419 stars this week"
+  },
+  {
+    "repo": "Automattic/harper",
+    "href": "https://github.com/Automattic/harper",
+    "about": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "star": "8,089",
+    "fork": "202",
+    "timestamp": "2025-09-11T02:22:47.799594",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "slint-ui/slint",
+    "href": "https://github.com/slint-ui/slint",
+    "about": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+    "star": "20,319",
+    "fork": "737",
+    "timestamp": "2025-09-11T02:22:47.799873",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "Orange-OpenSource/hurl",
+    "href": "https://github.com/Orange-OpenSource/hurl",
+    "about": "Hurl, run and test HTTP requests with plain text.",
+    "star": "17,618",
+    "fork": "688",
+    "timestamp": "2025-09-11T02:22:47.800149",
+    "stars_today": "380 stars this week"
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "4,970",
+    "fork": "1,857",
+    "timestamp": "2025-09-11T02:22:47.800424",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "19,156",
+    "fork": "628",
+    "timestamp": "2025-09-11T02:22:47.800744",
+    "stars_today": "334 stars this week"
+  },
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "1,191",
+    "fork": "45",
+    "timestamp": "2025-09-11T02:22:47.801050",
+    "stars_today": "550 stars this week"
+  },
+  {
+    "repo": "ast-grep/ast-grep",
+    "href": "https://github.com/ast-grep/ast-grep",
+    "about": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+    "star": "10,238",
+    "fork": "265",
+    "timestamp": "2025-09-11T02:22:47.801360",
+    "stars_today": "361 stars this week"
+  },
+  {
+    "repo": "hatoo/oha",
+    "href": "https://github.com/hatoo/oha",
+    "about": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+    "star": "9,108",
+    "fork": "258",
+    "timestamp": "2025-09-11T02:22:47.801704",
+    "stars_today": "283 stars this week"
+  },
+  {
+    "repo": "atuinsh/atuin",
+    "href": "https://github.com/atuinsh/atuin",
+    "about": "✨ Magical shell history",
+    "star": "25,735",
+    "fork": "699",
+    "timestamp": "2025-09-11T02:22:47.802015",
+    "stars_today": "153 stars this week"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "16,294",
+    "fork": "672",
+    "timestamp": "2025-09-11T02:22:47.802291",
+    "stars_today": "113 stars this week"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Extremely fast Query Engine for DataFrames, written in Rust",
+    "star": "35,296",
+    "fork": "2,392",
+    "timestamp": "2025-09-11T02:22:47.802580",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "idootop/open-xiaoai",
+    "href": "https://github.com/idootop/open-xiaoai",
+    "about": "让小爱音箱「听见你的声音」，解锁无限可能。",
+    "star": "1,205",
+    "fork": "116",
+    "timestamp": "2025-09-11T02:22:47.802856",
+    "stars_today": "137 stars this week"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "65,399",
+    "fork": "5,213",
+    "timestamp": "2025-09-11T02:22:47.803129",
+    "stars_today": "518 stars this week"
+  }
+]
