@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "29,557",
+    "fork": "2,756",
+    "timestamp": "2025-09-12T02:18:29.299982",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "25,855",
+    "fork": "1,808",
+    "timestamp": "2025-09-12T02:18:29.300330",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "30,361",
+    "fork": "2,070",
+    "timestamp": "2025-09-12T02:18:29.300613",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "about": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+    "star": "16,860",
+    "fork": "1,502",
+    "timestamp": "2025-09-12T02:18:29.300891",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "wezterm/wezterm",
+    "href": "https://github.com/wezterm/wezterm",
+    "about": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "star": "21,801",
+    "fork": "993",
+    "timestamp": "2025-09-12T02:18:29.301171",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "stalwartlabs/stalwart",
+    "href": "https://github.com/stalwartlabs/stalwart",
+    "about": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "star": "9,564",
+    "fork": "487",
+    "timestamp": "2025-09-12T02:18:29.301496",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "1,259",
+    "fork": "45",
+    "timestamp": "2025-09-12T02:18:29.301802",
+    "stars_today": "84 stars today"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "5,343",
+    "fork": "459",
+    "timestamp": "2025-09-12T02:18:29.302076",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "28,649",
+    "fork": "2,086",
+    "timestamp": "2025-09-12T02:18:29.302369",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "href": "https://github.com/vectordotdev/vector",
+    "about": "A high-performance observability data pipeline.",
+    "star": "20,282",
+    "fork": "1,852",
+    "timestamp": "2025-09-12T02:18:29.302646",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀 High-performance distributed object storage for MinIO alternative.",
+    "star": "8,314",
+    "fork": "418",
+    "timestamp": "2025-09-12T02:18:29.302918",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "bluealloy/revm",
+    "href": "https://github.com/bluealloy/revm",
+    "about": "Rust implementation of the Ethereum Virtual Machine.",
+    "star": "1,980",
+    "fork": "792",
+    "timestamp": "2025-09-12T02:18:29.303192",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "96,462",
+    "fork": "3,062",
+    "timestamp": "2025-09-12T02:18:29.303505",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "9,421",
+    "fork": "2,128",
+    "timestamp": "2025-09-12T02:18:29.303777",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "neondatabase/neon",
+    "href": "https://github.com/neondatabase/neon",
+    "about": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+    "star": "19,689",
+    "fork": "771",
+    "timestamp": "2025-09-12T02:18:29.304050",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "rust-lang/cargo",
+    "href": "https://github.com/rust-lang/cargo",
+    "about": "The Rust package manager",
+    "star": "14,001",
+    "fork": "2,645",
+    "timestamp": "2025-09-12T02:18:29.304340",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "2,815",
+    "fork": "207",
+    "timestamp": "2025-09-12T02:18:29.304610",
+    "stars_today": "66 stars today"
+  },
+  {
+    "repo": "ithacaxyz/relay",
+    "href": "https://github.com/ithacaxyz/relay",
+    "about": "Transparent cross-chain transaction routing for EIP-7702 accounts",
+    "star": "74",
+    "fork": "11",
+    "timestamp": "2025-09-12T02:18:29.304883",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "FoxIO-LLC/ja4",
+    "href": "https://github.com/FoxIO-LLC/ja4",
+    "about": "JA4+ is a suite of network fingerprinting standards",
+    "star": "1,493",
+    "fork": "138",
+    "timestamp": "2025-09-12T02:18:29.305154",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pythops/impala",
+    "href": "https://github.com/pythops/impala",
+    "about": "🛜 TUI for managing wifi on Linux",
+    "star": "1,314",
+    "fork": "25",
+    "timestamp": "2025-09-12T02:18:29.305472",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "web-infra-dev/rspack",
+    "href": "https://github.com/web-infra-dev/rspack",
+    "about": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+    "star": "11,986",
+    "fork": "778",
+    "timestamp": "2025-09-12T02:18:29.305745",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ast-grep/ast-grep",
+    "href": "https://github.com/ast-grep/ast-grep",
+    "about": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+    "star": "10,278",
+    "fork": "267",
+    "timestamp": "2025-09-12T02:18:29.306016",
+    "stars_today": "56 stars today"
+  }
+]

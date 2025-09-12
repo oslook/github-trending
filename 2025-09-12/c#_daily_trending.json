@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "nanomsg/nng",
+    "href": "https://github.com/nanomsg/nng",
+    "about": "nanomsg-next-generation -- light-weight brokerless messaging",
+    "star": "4,257",
+    "fork": "513",
+    "timestamp": "2025-09-12T02:18:04.118723",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "mackron/miniaudio",
+    "href": "https://github.com/mackron/miniaudio",
+    "about": "Audio playback and capture library written in C, in a single source file.",
+    "star": "5,085",
+    "fork": "450",
+    "timestamp": "2025-09-12T02:18:04.119073",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "38,772",
+    "fork": "6,852",
+    "timestamp": "2025-09-12T02:18:04.119414",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,101",
+    "fork": "2,756",
+    "timestamp": "2025-09-12T02:18:04.119710",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "11,931",
+    "fork": "985",
+    "timestamp": "2025-09-12T02:18:04.119999",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "13,076",
+    "fork": "7,899",
+    "timestamp": "2025-09-12T02:18:04.120304",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "BitMaker-hub/NerdMiner_v2",
+    "href": "https://github.com/BitMaker-hub/NerdMiner_v2",
+    "about": "Improved version of first ESP32 NerdMiner",
+    "star": "2,158",
+    "fork": "452",
+    "timestamp": "2025-09-12T02:18:04.120596",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "href": "https://github.com/Klipper3d/klipper",
+    "about": "Klipper is a 3d-printer firmware",
+    "star": "10,800",
+    "fork": "5,657",
+    "timestamp": "2025-09-12T02:18:04.120885",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "11,956",
+    "fork": "3,353",
+    "timestamp": "2025-09-12T02:18:04.121171",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "karpathy/llama2.c",
+    "href": "https://github.com/karpathy/llama2.c",
+    "about": "Inference Llama 2 in one file of pure C",
+    "star": "18,734",
+    "fork": "2,356",
+    "timestamp": "2025-09-12T02:18:04.121471",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,885",
+    "fork": "946",
+    "timestamp": "2025-09-12T02:18:04.121768",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mpaland/printf",
+    "href": "https://github.com/mpaland/printf",
+    "about": "Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.",
+    "star": "2,838",
+    "fork": "534",
+    "timestamp": "2025-09-12T02:18:04.122060",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,414",
+    "fork": "1,840",
+    "timestamp": "2025-09-12T02:18:04.122357",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "remzi-arpacidusseau/ostep-code",
+    "href": "https://github.com/remzi-arpacidusseau/ostep-code",
+    "about": "Code from various chapters in OSTEP (http://www.ostep.org)",
+    "star": "3,874",
+    "fork": "1,451",
+    "timestamp": "2025-09-12T02:18:04.122652",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "21,334",
+    "fork": "3,818",
+    "timestamp": "2025-09-12T02:18:04.122964",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "Adaptix-Framework/AdaptixC2",
+    "href": "https://github.com/Adaptix-Framework/AdaptixC2",
+    "about": "",
+    "star": "1,837",
+    "fork": "344",
+    "timestamp": "2025-09-12T02:18:04.123276",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-zephyr",
+    "href": "https://github.com/nrfconnect/sdk-zephyr",
+    "about": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+    "star": "337",
+    "fork": "701",
+    "timestamp": "2025-09-12T02:18:04.123569",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "redis/hiredis",
+    "href": "https://github.com/redis/hiredis",
+    "about": "Minimalistic C client for Redis >= 1.2",
+    "star": "6,498",
+    "fork": "1,845",
+    "timestamp": "2025-09-12T02:18:04.123853",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "4,748",
+    "fork": "1,058",
+    "timestamp": "2025-09-12T02:18:04.124166",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,147",
+    "fork": "1,377",
+    "timestamp": "2025-09-12T02:18:04.124459",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "28,524",
+    "fork": "10,817",
+    "timestamp": "2025-09-12T02:18:04.124769",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hpjansson/chafa",
+    "href": "https://github.com/hpjansson/chafa",
+    "about": "📺🗿 Terminal graphics for the 21st century.",
+    "star": "3,709",
+    "fork": "77",
+    "timestamp": "2025-09-12T02:18:04.125058",
+    "stars_today": "34 stars today"
+  }
+]
