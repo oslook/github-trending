@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "40,434",
+    "fork": "4,706",
+    "timestamp": "2025-09-13T02:12:54.175577",
+    "stars_today": "5,975 stars this month"
+  },
+  {
+    "repo": "Eventual-Inc/Daft",
+    "href": "https://github.com/Eventual-Inc/Daft",
+    "about": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+    "star": "4,357",
+    "fork": "297",
+    "timestamp": "2025-09-13T02:12:54.175883",
+    "stars_today": "1,112 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "65,477",
+    "fork": "5,237",
+    "timestamp": "2025-09-13T02:12:54.176176",
+    "stars_today": "2,024 stars this month"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "33,793",
+    "fork": "4,185",
+    "timestamp": "2025-09-13T02:12:54.176479",
+    "stars_today": "10,052 stars this month"
+  },
+  {
+    "repo": "google/comprehensive-rust",
+    "href": "https://github.com/google/comprehensive-rust",
+    "about": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "star": "31,958",
+    "fork": "1,897",
+    "timestamp": "2025-09-13T02:12:54.176766",
+    "stars_today": "1,484 stars this month"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "href": "https://github.com/chroma-core/chroma",
+    "about": "Open-source search and retrieval database for AI applications.",
+    "star": "23,264",
+    "fork": "1,823",
+    "timestamp": "2025-09-13T02:12:54.177054",
+    "stars_today": "1,708 stars this month"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "30,373",
+    "fork": "2,075",
+    "timestamp": "2025-09-13T02:12:54.177354",
+    "stars_today": "1,417 stars this month"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "20,208",
+    "fork": "712",
+    "timestamp": "2025-09-13T02:12:54.177640",
+    "stars_today": "1,570 stars this month"
+  },
+  {
+    "repo": "tw93/Pake",
+    "href": "https://github.com/tw93/Pake",
+    "about": "🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。",
+    "star": "42,141",
+    "fork": "7,873",
+    "timestamp": "2025-09-13T02:12:54.177953",
+    "stars_today": "1,244 stars this month"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "21,449",
+    "fork": "1,549",
+    "timestamp": "2025-09-13T02:12:54.178275",
+    "stars_today": "504 stars this month"
+  },
+  {
+    "repo": "eythaann/Seelen-UI",
+    "href": "https://github.com/eythaann/Seelen-UI",
+    "about": "The Fully Customizable Desktop Environment for Windows 10/11.",
+    "star": "12,109",
+    "fork": "369",
+    "timestamp": "2025-09-13T02:12:54.178589",
+    "stars_today": "2,028 stars this month"
+  },
+  {
+    "repo": "0xPlaygrounds/rig",
+    "href": "https://github.com/0xPlaygrounds/rig",
+    "about": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+    "star": "4,412",
+    "fork": "478",
+    "timestamp": "2025-09-13T02:12:54.178870",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "qarmin/czkawka",
+    "href": "https://github.com/qarmin/czkawka",
+    "about": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "star": "26,138",
+    "fork": "825",
+    "timestamp": "2025-09-13T02:12:54.179182",
+    "stars_today": "1,370 stars this month"
+  },
+  {
+    "repo": "ast-grep/ast-grep",
+    "href": "https://github.com/ast-grep/ast-grep",
+    "about": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+    "star": "10,304",
+    "fork": "267",
+    "timestamp": "2025-09-13T02:12:54.179476",
+    "stars_today": "839 stars this month"
+  },
+  {
+    "repo": "librespot-org/librespot",
+    "href": "https://github.com/librespot-org/librespot",
+    "about": "Open Source Spotify client library",
+    "star": "5,658",
+    "fork": "736",
+    "timestamp": "2025-09-13T02:12:54.179757",
+    "stars_today": "260 stars this month"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "16,336",
+    "fork": "675",
+    "timestamp": "2025-09-13T02:12:54.180038",
+    "stars_today": "528 stars this month"
+  },
+  {
+    "repo": "idootop/open-xiaoai",
+    "href": "https://github.com/idootop/open-xiaoai",
+    "about": "让小爱音箱「听见你的声音」，解锁无限可能。",
+    "star": "1,219",
+    "fork": "116",
+    "timestamp": "2025-09-13T02:12:54.180330",
+    "stars_today": "486 stars this month"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "href": "https://github.com/sharkdp/fd",
+    "about": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "39,618",
+    "fork": "922",
+    "timestamp": "2025-09-13T02:12:54.180646",
+    "stars_today": "642 stars this month"
+  },
+  {
+    "repo": "ai-dynamo/dynamo",
+    "href": "https://github.com/ai-dynamo/dynamo",
+    "about": "A Datacenter Scale Distributed Inference Serving Framework",
+    "star": "4,967",
+    "fork": "589",
+    "timestamp": "2025-09-13T02:12:54.180927",
+    "stars_today": "278 stars this month"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "41,899",
+    "fork": "4,109",
+    "timestamp": "2025-09-13T02:12:54.181208",
+    "stars_today": "987 stars this month"
+  },
+  {
+    "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "href": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "about": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "star": "4,568",
+    "fork": "173",
+    "timestamp": "2025-09-13T02:12:54.181509",
+    "stars_today": "306 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "55,315",
+    "fork": "2,244",
+    "timestamp": "2025-09-13T02:12:54.181824",
+    "stars_today": "1,028 stars this month"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "9,426",
+    "fork": "2,130",
+    "timestamp": "2025-09-13T02:12:54.182103",
+    "stars_today": "175 stars this month"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "54,408",
+    "fork": "1,346",
+    "timestamp": "2025-09-13T02:12:54.182426",
+    "stars_today": "603 stars this month"
+  }
+]

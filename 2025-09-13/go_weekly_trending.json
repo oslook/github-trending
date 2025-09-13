@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "3,928",
+    "fork": "301",
+    "timestamp": "2025-09-13T02:12:38.460055",
+    "stars_today": "1,700 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "21,472",
+    "fork": "2,019",
+    "timestamp": "2025-09-13T02:12:38.460367",
+    "stars_today": "789 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,881",
+    "fork": "2,743",
+    "timestamp": "2025-09-13T02:12:38.460655",
+    "stars_today": "421 stars this week"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "10,428",
+    "fork": "918",
+    "timestamp": "2025-09-13T02:12:38.460940",
+    "stars_today": "832 stars this week"
+  },
+  {
+    "repo": "aldinokemal/go-whatsapp-web-multidevice",
+    "href": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+    "about": "GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.",
+    "star": "2,423",
+    "fork": "606",
+    "timestamp": "2025-09-13T02:12:38.461260",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,215",
+    "fork": "5,704",
+    "timestamp": "2025-09-13T02:12:38.461547",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "15,051",
+    "fork": "460",
+    "timestamp": "2025-09-13T02:12:38.461827",
+    "stars_today": "632 stars this week"
+  },
+  {
+    "repo": "rivo/tview",
+    "href": "https://github.com/rivo/tview",
+    "about": "Terminal UI library with rich, interactive widgets — written in Golang",
+    "star": "12,774",
+    "fork": "637",
+    "timestamp": "2025-09-13T02:12:38.462134",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "11,912",
+    "fork": "1,592",
+    "timestamp": "2025-09-13T02:12:38.462425",
+    "stars_today": "535 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "33,115",
+    "fork": "4,436",
+    "timestamp": "2025-09-13T02:12:38.462701",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "31,179",
+    "fork": "4,561",
+    "timestamp": "2025-09-13T02:12:38.462981",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "46,893",
+    "fork": "5,047",
+    "timestamp": "2025-09-13T02:12:38.463272",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "14,173",
+    "fork": "787",
+    "timestamp": "2025-09-13T02:12:38.463550",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "50,884",
+    "fork": "2,635",
+    "timestamp": "2025-09-13T02:12:38.463826",
+    "stars_today": "346 stars this week"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "23,558",
+    "fork": "6,843",
+    "timestamp": "2025-09-13T02:12:38.464103",
+    "stars_today": "99 stars this week"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,437",
+    "fork": "941",
+    "timestamp": "2025-09-13T02:12:38.464389",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "restic/restic",
+    "href": "https://github.com/restic/restic",
+    "about": "Fast, secure, efficient backup program",
+    "star": "29,990",
+    "fork": "1,636",
+    "timestamp": "2025-09-13T02:12:38.464664",
+    "stars_today": "99 stars this week"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "30,772",
+    "fork": "2,511",
+    "timestamp": "2025-09-13T02:12:38.464936",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+    "star": "10,425",
+    "fork": "1,560",
+    "timestamp": "2025-09-13T02:12:38.465247",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "83,974",
+    "fork": "8,316",
+    "timestamp": "2025-09-13T02:12:38.465535",
+    "stars_today": "122 stars this week"
+  }
+]
