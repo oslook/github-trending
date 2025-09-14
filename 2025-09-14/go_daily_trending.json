@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,276",
+    "fork": "4,568",
+    "timestamp": "2025-09-14T02:25:13.108980",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "6,873",
+    "fork": "1,107",
+    "timestamp": "2025-09-14T02:25:13.109297",
+    "stars_today": "112 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "37,289",
+    "fork": "3,401",
+    "timestamp": "2025-09-14T02:25:13.109587",
+    "stars_today": "138 stars today"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "12,014",
+    "fork": "1,599",
+    "timestamp": "2025-09-14T02:25:13.109866",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "go-kratos/kratos",
+    "href": "https://github.com/go-kratos/kratos",
+    "about": "Your ultimate Go microservices framework for the cloud-native era.",
+    "star": "24,855",
+    "fork": "4,109",
+    "timestamp": "2025-09-14T02:25:13.110171",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "50,920",
+    "fork": "2,637",
+    "timestamp": "2025-09-14T02:25:13.110504",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,878",
+    "fork": "3,001",
+    "timestamp": "2025-09-14T02:25:13.110900",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "25,155",
+    "fork": "1,675",
+    "timestamp": "2025-09-14T02:25:13.111218",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "14,737",
+    "fork": "1,380",
+    "timestamp": "2025-09-14T02:25:13.111544",
+    "stars_today": "125 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "152,246",
+    "fork": "13,135",
+    "timestamp": "2025-09-14T02:25:13.111886",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "14,997",
+    "fork": "1,459",
+    "timestamp": "2025-09-14T02:25:13.112176",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "22,108",
+    "fork": "698",
+    "timestamp": "2025-09-14T02:25:13.112472",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "29,253",
+    "fork": "2,069",
+    "timestamp": "2025-09-14T02:25:13.112778",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "4,020",
+    "fork": "303",
+    "timestamp": "2025-09-14T02:25:13.113057",
+    "stars_today": "141 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "10,357",
+    "fork": "817",
+    "timestamp": "2025-09-14T02:25:13.113354",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "flipped-aurora/gin-vue-admin",
+    "href": "https://github.com/flipped-aurora/gin-vue-admin",
+    "about": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+    "star": "23,563",
+    "fork": "6,842",
+    "timestamp": "2025-09-14T02:25:13.113633",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,237",
+    "fork": "1,328",
+    "timestamp": "2025-09-14T02:25:13.113914",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "10,472",
+    "fork": "923",
+    "timestamp": "2025-09-14T02:25:13.114201",
+    "stars_today": "66 stars today"
+  },
+  {
+    "repo": "pion/webrtc",
+    "href": "https://github.com/pion/webrtc",
+    "about": "Pure Go implementation of the WebRTC API",
+    "star": "15,317",
+    "fork": "1,768",
+    "timestamp": "2025-09-14T02:25:13.114493",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "18,998",
+    "fork": "1,379",
+    "timestamp": "2025-09-14T02:25:13.114778",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "10,093",
+    "fork": "1,196",
+    "timestamp": "2025-09-14T02:25:13.115063",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "17,369",
+    "fork": "1,510",
+    "timestamp": "2025-09-14T02:25:13.115357",
+    "stars_today": "5 stars today"
+  }
+]
