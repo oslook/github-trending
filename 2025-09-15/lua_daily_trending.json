@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,205",
+    "fork": "39,471",
+    "timestamp": "2025-09-15T02:28:04.556411",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,374",
+    "fork": "520",
+    "timestamp": "2025-09-15T02:28:04.556721",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "5,247",
+    "fork": "300",
+    "timestamp": "2025-09-15T02:28:04.557080",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,158",
+    "fork": "1,521",
+    "timestamp": "2025-09-15T02:28:04.557377",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,509",
+    "fork": "537",
+    "timestamp": "2025-09-15T02:28:04.557662",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "3,503",
+    "fork": "53",
+    "timestamp": "2025-09-15T02:28:04.557948",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "folke/trouble.nvim",
+    "href": "https://github.com/folke/trouble.nvim",
+    "about": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+    "star": "6,424",
+    "fork": "205",
+    "timestamp": "2025-09-15T02:28:04.558255",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/harpoon",
+    "href": "https://github.com/ThePrimeagen/harpoon",
+    "about": "",
+    "star": "8,497",
+    "fork": "455",
+    "timestamp": "2025-09-15T02:28:04.558594",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,600",
+    "fork": "217",
+    "timestamp": "2025-09-15T02:28:04.558882",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,644",
+    "fork": "2,323",
+    "timestamp": "2025-09-15T02:28:04.559213",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "igorlfs/nvim-dap-view",
+    "href": "https://github.com/igorlfs/nvim-dap-view",
+    "about": "Visualize debugging sessions in neovim",
+    "star": "470",
+    "fork": "18",
+    "timestamp": "2025-09-15T02:28:04.559530",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hrsh7th/cmp-buffer",
+    "href": "https://github.com/hrsh7th/cmp-buffer",
+    "about": "nvim-cmp source for buffer words",
+    "star": "662",
+    "fork": "45",
+    "timestamp": "2025-09-15T02:28:04.559845",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Arrow-kb/FS25_RealisticLivestock",
+    "href": "https://github.com/Arrow-kb/FS25_RealisticLivestock",
+    "about": "",
+    "star": "211",
+    "fork": "23",
+    "timestamp": "2025-09-15T02:28:04.560162",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,306",
+    "fork": "150",
+    "timestamp": "2025-09-15T02:28:04.560449",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,695",
+    "fork": "170",
+    "timestamp": "2025-09-15T02:28:04.560736",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "5,950",
+    "fork": "316",
+    "timestamp": "2025-09-15T02:28:04.561037",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/vim-be-good",
+    "href": "https://github.com/ThePrimeagen/vim-be-good",
+    "about": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+    "star": "4,045",
+    "fork": "164",
+    "timestamp": "2025-09-15T02:28:04.561356",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,151",
+    "fork": "237",
+    "timestamp": "2025-09-15T02:28:04.561667",
+    "stars_today": "3 stars today"
+  }
+]
