@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "apple/container",
+    "href": "https://github.com/apple/container",
+    "about": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "star": "19,711",
+    "fork": "430",
+    "timestamp": "2025-09-16T02:19:42.536621",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "href": "https://github.com/pointfreeco/swift-composable-architecture",
+    "about": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "star": "13,900",
+    "fork": "1,577",
+    "timestamp": "2025-09-16T02:19:42.536943",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "pointfreeco/swift-dependencies",
+    "href": "https://github.com/pointfreeco/swift-dependencies",
+    "about": "A dependency management library inspired by SwiftUI's \"environment.\"",
+    "star": "1,962",
+    "fork": "155",
+    "timestamp": "2025-09-16T02:19:42.537235",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "jordanbaird/Ice",
+    "href": "https://github.com/jordanbaird/Ice",
+    "about": "Powerful menu bar manager for macOS",
+    "star": "21,985",
+    "fork": "427",
+    "timestamp": "2025-09-16T02:19:42.537549",
+    "stars_today": "207 stars this week"
+  },
+  {
+    "repo": "vapor/vapor",
+    "href": "https://github.com/vapor/vapor",
+    "about": "💧 A server-side Swift HTTP web framework.",
+    "star": "25,529",
+    "fork": "1,501",
+    "timestamp": "2025-09-16T02:19:42.537876",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "Alamofire/Alamofire",
+    "href": "https://github.com/Alamofire/Alamofire",
+    "about": "Elegant HTTP Networking in Swift",
+    "star": "42,109",
+    "fork": "7,638",
+    "timestamp": "2025-09-16T02:19:42.538190",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "apple/swift-nio",
+    "href": "https://github.com/apple/swift-nio",
+    "about": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+    "star": "8,245",
+    "fork": "698",
+    "timestamp": "2025-09-16T02:19:42.538475",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "signalapp/Signal-iOS",
+    "href": "https://github.com/signalapp/Signal-iOS",
+    "about": "A private messenger for iOS.",
+    "star": "11,547",
+    "fork": "3,268",
+    "timestamp": "2025-09-16T02:19:42.538757",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "lihaoyun6/AirBattery",
+    "href": "https://github.com/lihaoyun6/AirBattery",
+    "about": "Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!",
+    "star": "2,007",
+    "fork": "71",
+    "timestamp": "2025-09-16T02:19:42.539060",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "getsentry/sentry-cocoa",
+    "href": "https://github.com/getsentry/sentry-cocoa",
+    "about": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+    "star": "957",
+    "fork": "363",
+    "timestamp": "2025-09-16T02:19:42.539332",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "siteline/swiftui-introspect",
+    "href": "https://github.com/siteline/swiftui-introspect",
+    "about": "Introspect underlying UIKit/AppKit components from SwiftUI",
+    "star": "6,256",
+    "fork": "391",
+    "timestamp": "2025-09-16T02:19:42.539622",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "overtake/TelegramSwift",
+    "href": "https://github.com/overtake/TelegramSwift",
+    "about": "Source code of Telegram for macos on Swift 5.0",
+    "star": "5,346",
+    "fork": "931",
+    "timestamp": "2025-09-16T02:19:42.539949",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "facebook/facebook-ios-sdk",
+    "href": "https://github.com/facebook/facebook-ios-sdk",
+    "about": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "star": "7,941",
+    "fork": "3,644",
+    "timestamp": "2025-09-16T02:19:42.540236",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "seemoo-lab/openhaystack",
+    "href": "https://github.com/seemoo-lab/openhaystack",
+    "about": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+    "star": "12,047",
+    "fork": "578",
+    "timestamp": "2025-09-16T02:19:42.540520",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "onevcat/Kingfisher",
+    "href": "https://github.com/onevcat/Kingfisher",
+    "about": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "star": "24,030",
+    "fork": "2,722",
+    "timestamp": "2025-09-16T02:19:42.540842",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "nicklockwood/SwiftFormat",
+    "href": "https://github.com/nicklockwood/SwiftFormat",
+    "about": "A command-line tool and Xcode Extension for formatting Swift code",
+    "star": "8,517",
+    "fork": "659",
+    "timestamp": "2025-09-16T02:19:42.541128",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "TheBoredTeam/boring.notch",
+    "href": "https://github.com/TheBoredTeam/boring.notch",
+    "about": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+    "star": "4,607",
+    "fork": "314",
+    "timestamp": "2025-09-16T02:19:42.541435",
+    "stars_today": "97 stars this week"
+  },
+  {
+    "repo": "pointfreeco/swift-snapshot-testing",
+    "href": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "about": "📸 Delightful Swift snapshot testing.",
+    "star": "4,025",
+    "fork": "629",
+    "timestamp": "2025-09-16T02:19:42.541752",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "ninxsoft/Mist",
+    "href": "https://github.com/ninxsoft/Mist",
+    "about": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
+    "star": "3,837",
+    "fork": "167",
+    "timestamp": "2025-09-16T02:19:42.542045",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "ml-explore/mlx-swift-examples",
+    "href": "https://github.com/ml-explore/mlx-swift-examples",
+    "about": "Examples using MLX Swift",
+    "star": "2,049",
+    "fork": "298",
+    "timestamp": "2025-09-16T02:19:42.542310",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "mas-cli/mas",
+    "href": "https://github.com/mas-cli/mas",
+    "about": "📦 Mac App Store command line interface",
+    "star": "11,622",
+    "fork": "287",
+    "timestamp": "2025-09-16T02:19:42.542617",
+    "stars_today": "23 stars this week"
+  }
+]
