@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "zama-ai/fhevm",
+    "href": "https://github.com/zama-ai/fhevm",
+    "about": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "star": "19,185",
+    "fork": "803",
+    "timestamp": "2025-09-17T02:19:52.877186",
+    "stars_today": "1,240 stars this week"
+  },
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "41,572",
+    "fork": "4,847",
+    "timestamp": "2025-09-17T02:19:52.877478",
+    "stars_today": "1,742 stars this week"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "2,882",
+    "fork": "211",
+    "timestamp": "2025-09-17T02:19:52.877774",
+    "stars_today": "327 stars this week"
+  },
+  {
+    "repo": "carthage-software/mago",
+    "href": "https://github.com/carthage-software/mago",
+    "about": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+    "star": "1,647",
+    "fork": "60",
+    "timestamp": "2025-09-17T02:19:52.878052",
+    "stars_today": "431 stars this week"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "16,497",
+    "fork": "684",
+    "timestamp": "2025-09-17T02:19:52.878327",
+    "stars_today": "214 stars this week"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "16,381",
+    "fork": "655",
+    "timestamp": "2025-09-17T02:19:52.878599",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "ast-grep/ast-grep",
+    "href": "https://github.com/ast-grep/ast-grep",
+    "about": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+    "star": "10,452",
+    "fork": "267",
+    "timestamp": "2025-09-17T02:19:52.878932",
+    "stars_today": "322 stars this week"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "21,501",
+    "fork": "1,557",
+    "timestamp": "2025-09-17T02:19:52.879241",
+    "stars_today": "145 stars this week"
+  },
+  {
+    "repo": "ankitects/anki",
+    "href": "https://github.com/ankitects/anki",
+    "about": "Anki is a smart spaced repetition flashcard program",
+    "star": "23,726",
+    "fork": "2,495",
+    "timestamp": "2025-09-17T02:19:52.879514",
+    "stars_today": "146 stars this week"
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "href": "https://github.com/diesel-rs/diesel",
+    "about": "A safe, extensible ORM and Query Builder for Rust",
+    "star": "13,645",
+    "fork": "1,155",
+    "timestamp": "2025-09-17T02:19:52.879804",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "erebe/wstunnel",
+    "href": "https://github.com/erebe/wstunnel",
+    "about": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available",
+    "star": "5,493",
+    "fork": "452",
+    "timestamp": "2025-09-17T02:19:52.880086",
+    "stars_today": "233 stars this week"
+  },
+  {
+    "repo": "GyulyVGC/sniffnet",
+    "href": "https://github.com/GyulyVGC/sniffnet",
+    "about": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "star": "30,501",
+    "fork": "1,061",
+    "timestamp": "2025-09-17T02:19:52.880384",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "1,419",
+    "fork": "50",
+    "timestamp": "2025-09-17T02:19:52.880695",
+    "stars_today": "425 stars this week"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "26,010",
+    "fork": "1,814",
+    "timestamp": "2025-09-17T02:19:52.881001",
+    "stars_today": "229 stars this week"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "29,600",
+    "fork": "2,760",
+    "timestamp": "2025-09-17T02:19:52.881300",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "34,023",
+    "fork": "4,190",
+    "timestamp": "2025-09-17T02:19:52.881570",
+    "stars_today": "1,945 stars this week"
+  },
+  {
+    "repo": "Eventual-Inc/Daft",
+    "href": "https://github.com/Eventual-Inc/Daft",
+    "about": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+    "star": "4,439",
+    "fork": "299",
+    "timestamp": "2025-09-17T02:19:52.881855",
+    "stars_today": "324 stars this week"
+  },
+  {
+    "repo": "nexus-xyz/nexus-cli",
+    "href": "https://github.com/nexus-xyz/nexus-cli",
+    "about": "Command line interface for supplying proofs to the Nexus network.",
+    "star": "990",
+    "fork": "537",
+    "timestamp": "2025-09-17T02:19:52.882124",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "30,061",
+    "fork": "1,049",
+    "timestamp": "2025-09-17T02:19:52.882392",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "category-labs/monad-bft",
+    "href": "https://github.com/category-labs/monad-bft",
+    "about": "",
+    "star": "292",
+    "fork": "95",
+    "timestamp": "2025-09-17T02:19:52.882697",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "11,316",
+    "fork": "422",
+    "timestamp": "2025-09-17T02:19:52.883003",
+    "stars_today": "261 stars this week"
+  },
+  {
+    "repo": "starship/starship",
+    "href": "https://github.com/starship/starship",
+    "about": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "star": "51,197",
+    "fork": "2,231",
+    "timestamp": "2025-09-17T02:19:52.883301",
+    "stars_today": "245 stars this week"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "about": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+    "star": "16,883",
+    "fork": "1,504",
+    "timestamp": "2025-09-17T02:19:52.883573",
+    "stars_today": "40 stars this week"
+  }
+]
