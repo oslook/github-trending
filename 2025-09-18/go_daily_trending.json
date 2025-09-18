@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "24,839",
+    "fork": "1,993",
+    "timestamp": "2025-09-18T02:19:48.916682",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "2,454",
+    "fork": "414",
+    "timestamp": "2025-09-18T02:19:48.917015",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "55,247",
+    "fork": "6,170",
+    "timestamp": "2025-09-18T02:19:48.917308",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,717",
+    "fork": "18,811",
+    "timestamp": "2025-09-18T02:19:48.917592",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,931",
+    "fork": "1,088",
+    "timestamp": "2025-09-18T02:19:48.917923",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,399",
+    "fork": "565",
+    "timestamp": "2025-09-18T02:19:48.918235",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,574",
+    "fork": "10,023",
+    "timestamp": "2025-09-18T02:19:48.918515",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "23,260",
+    "fork": "1,778",
+    "timestamp": "2025-09-18T02:19:48.918806",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "7,313",
+    "fork": "575",
+    "timestamp": "2025-09-18T02:19:48.919105",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "star": "10,893",
+    "fork": "1,596",
+    "timestamp": "2025-09-18T02:19:48.919419",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,614",
+    "fork": "729",
+    "timestamp": "2025-09-18T02:19:48.919702",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "donetick/donetick",
+    "href": "https://github.com/donetick/donetick",
+    "about": "Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized",
+    "star": "1,195",
+    "fork": "58",
+    "timestamp": "2025-09-18T02:19:48.920006",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "22,022",
+    "fork": "2,053",
+    "timestamp": "2025-09-18T02:19:48.920293",
+    "stars_today": "146 stars today"
+  },
+  {
+    "repo": "expr-lang/expr",
+    "href": "https://github.com/expr-lang/expr",
+    "about": "Expression language and expression evaluation for Go",
+    "star": "7,261",
+    "fork": "459",
+    "timestamp": "2025-09-18T02:19:48.920578",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "7,422",
+    "fork": "677",
+    "timestamp": "2025-09-18T02:19:48.920865",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,703",
+    "fork": "2,335",
+    "timestamp": "2025-09-18T02:19:48.921184",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "href": "https://github.com/vmware-tanzu/velero",
+    "about": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "star": "9,468",
+    "fork": "1,472",
+    "timestamp": "2025-09-18T02:19:48.921489",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,477",
+    "fork": "944",
+    "timestamp": "2025-09-18T02:19:48.921783",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "38,866",
+    "fork": "4,102",
+    "timestamp": "2025-09-18T02:19:48.922115",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,472",
+    "fork": "7,327",
+    "timestamp": "2025-09-18T02:19:48.922403",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "6,206",
+    "fork": "3,709",
+    "timestamp": "2025-09-18T02:19:48.922692",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "prometheus/blackbox_exporter",
+    "href": "https://github.com/prometheus/blackbox_exporter",
+    "about": "Blackbox prober exporter",
+    "star": "5,262",
+    "fork": "1,142",
+    "timestamp": "2025-09-18T02:19:48.923006",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,942",
+    "fork": "2,751",
+    "timestamp": "2025-09-18T02:19:48.923292",
+    "stars_today": "11 stars today"
+  }
+]
