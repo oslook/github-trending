@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "9,764",
+    "fork": "863",
+    "timestamp": "2025-09-20T02:17:14.285142",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
+    "href": "https://github.com/argoproj/argo-rollouts",
+    "about": "Progressive Delivery for Kubernetes",
+    "star": "3,242",
+    "fork": "1,032",
+    "timestamp": "2025-09-20T02:17:14.285461",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,697",
+    "fork": "6,378",
+    "timestamp": "2025-09-20T02:17:14.285773",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,488",
+    "fork": "7,330",
+    "timestamp": "2025-09-20T02:17:14.286065",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "uber-go/mock",
+    "href": "https://github.com/uber-go/mock",
+    "about": "GoMock is a mocking framework for the Go programming language.",
+    "star": "3,037",
+    "fork": "152",
+    "timestamp": "2025-09-20T02:17:14.286358",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "13,154",
+    "fork": "2,245",
+    "timestamp": "2025-09-20T02:17:14.286658",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "GoogleCloudPlatform/kubectl-ai",
+    "href": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+    "about": "AI powered Kubernetes Assistant",
+    "star": "6,818",
+    "fork": "607",
+    "timestamp": "2025-09-20T02:17:14.286967",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,795",
+    "fork": "1,730",
+    "timestamp": "2025-09-20T02:17:14.287264",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,732",
+    "fork": "18,817",
+    "timestamp": "2025-09-20T02:17:14.287556",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "6,086",
+    "fork": "1,220",
+    "timestamp": "2025-09-20T02:17:14.287867",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "shirou/gopsutil",
+    "href": "https://github.com/shirou/gopsutil",
+    "about": "psutil for golang",
+    "star": "11,453",
+    "fork": "1,636",
+    "timestamp": "2025-09-20T02:17:14.288191",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kubesphere/kubesphere",
+    "href": "https://github.com/kubesphere/kubesphere",
+    "about": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "star": "16,603",
+    "fork": "2,681",
+    "timestamp": "2025-09-20T02:17:14.288483",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,259",
+    "fork": "5,715",
+    "timestamp": "2025-09-20T02:17:14.288788",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "star": "84,072",
+    "fork": "8,318",
+    "timestamp": "2025-09-20T02:17:14.289078",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "sundowndev/phoneinfoga",
+    "href": "https://github.com/sundowndev/phoneinfoga",
+    "about": "Information gathering framework for phone numbers",
+    "star": "15,117",
+    "fork": "4,397",
+    "timestamp": "2025-09-20T02:17:14.289400",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "28,982",
+    "fork": "2,753",
+    "timestamp": "2025-09-20T02:17:14.289711",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-mcp-server",
+    "href": "https://github.com/hashicorp/terraform-mcp-server",
+    "about": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+    "star": "946",
+    "fork": "85",
+    "timestamp": "2025-09-20T02:17:14.290013",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,896",
+    "fork": "748",
+    "timestamp": "2025-09-20T02:17:14.290310",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "16,029",
+    "fork": "3,378",
+    "timestamp": "2025-09-20T02:17:14.290600",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "infracost/infracost",
+    "href": "https://github.com/infracost/infracost",
+    "about": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+    "star": "11,788",
+    "fork": "630",
+    "timestamp": "2025-09-20T02:17:14.290904",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "17,394",
+    "fork": "1,513",
+    "timestamp": "2025-09-20T02:17:14.291204",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,544",
+    "fork": "670",
+    "timestamp": "2025-09-20T02:17:14.291492",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "krillinai/KrillinAI",
+    "href": "https://github.com/krillinai/KrillinAI",
+    "about": "A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "star": "8,513",
+    "fork": "688",
+    "timestamp": "2025-09-20T02:17:14.291797",
+    "stars_today": "10 stars today"
+  }
+]
