@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "4,970",
+    "fork": "366",
+    "timestamp": "2025-09-23T02:19:38.937725",
+    "stars_today": "2,852 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "22,314",
+    "fork": "2,059",
+    "timestamp": "2025-09-23T02:19:38.938022",
+    "stars_today": "2,078 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,949",
+    "fork": "3,003",
+    "timestamp": "2025-09-23T02:19:38.938331",
+    "stars_today": "491 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,007",
+    "fork": "2,755",
+    "timestamp": "2025-09-23T02:19:38.938612",
+    "stars_today": "1,039 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,257",
+    "fork": "1,648",
+    "timestamp": "2025-09-23T02:19:38.938900",
+    "stars_today": "463 stars this month"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,907",
+    "fork": "748",
+    "timestamp": "2025-09-23T02:19:38.939176",
+    "stars_today": "62 stars this month"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,752",
+    "fork": "135",
+    "timestamp": "2025-09-23T02:19:38.939470",
+    "stars_today": "1,428 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,722",
+    "fork": "6,383",
+    "timestamp": "2025-09-23T02:19:38.939755",
+    "stars_today": "327 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "15,328",
+    "fork": "470",
+    "timestamp": "2025-09-23T02:19:38.940032",
+    "stars_today": "1,534 stars this month"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+    "star": "1,572",
+    "fork": "64",
+    "timestamp": "2025-09-23T02:19:38.940335",
+    "stars_today": "872 stars this month"
+  },
+  {
+    "repo": "docker/mcp-gateway",
+    "href": "https://github.com/docker/mcp-gateway",
+    "about": "docker mcp CLI plugin / MCP Gateway",
+    "star": "654",
+    "fork": "81",
+    "timestamp": "2025-09-23T02:19:38.940611",
+    "stars_today": "390 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "56,795",
+    "fork": "5,493",
+    "timestamp": "2025-09-23T02:19:38.940935",
+    "stars_today": "683 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,376",
+    "fork": "4,574",
+    "timestamp": "2025-09-23T02:19:38.941210",
+    "stars_today": "291 stars this month"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "14,897",
+    "fork": "1,408",
+    "timestamp": "2025-09-23T02:19:38.941487",
+    "stars_today": "1,039 stars this month"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "2,624",
+    "fork": "436",
+    "timestamp": "2025-09-23T02:19:38.941777",
+    "stars_today": "363 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "83,689",
+    "fork": "8,020",
+    "timestamp": "2025-09-23T02:19:38.942051",
+    "stars_today": "779 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,622",
+    "fork": "41,409",
+    "timestamp": "2025-09-23T02:19:38.942323",
+    "stars_today": "724 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "37,581",
+    "fork": "3,437",
+    "timestamp": "2025-09-23T02:19:38.942596",
+    "stars_today": "939 stars this month"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "26,778",
+    "fork": "3,123",
+    "timestamp": "2025-09-23T02:19:38.942883",
+    "stars_today": "862 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "15,207",
+    "fork": "385",
+    "timestamp": "2025-09-23T02:19:38.943159",
+    "stars_today": "627 stars this month"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "12,400",
+    "fork": "1,621",
+    "timestamp": "2025-09-23T02:19:38.943432",
+    "stars_today": "1,098 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,538",
+    "fork": "570",
+    "timestamp": "2025-09-23T02:19:38.943746",
+    "stars_today": "565 stars this month"
+  },
+  {
+    "repo": "everywall/ladder",
+    "href": "https://github.com/everywall/ladder",
+    "about": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "star": "5,776",
+    "fork": "260",
+    "timestamp": "2025-09-23T02:19:38.944021",
+    "stars_today": "614 stars this month"
+  }
+]

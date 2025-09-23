@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "22,910",
+    "fork": "1,621",
+    "timestamp": "2025-09-23T02:19:45.319016",
+    "stars_today": "123 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "12,952",
+    "fork": "835",
+    "timestamp": "2025-09-23T02:19:45.319313",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,306",
+    "fork": "39,726",
+    "timestamp": "2025-09-23T02:19:45.319591",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "typecraft-dev/dotfiles",
+    "href": "https://github.com/typecraft-dev/dotfiles",
+    "about": "",
+    "star": "1,104",
+    "fork": "218",
+    "timestamp": "2025-09-23T02:19:45.319901",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,688",
+    "fork": "2,333",
+    "timestamp": "2025-09-23T02:19:45.320201",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,259",
+    "fork": "1,527",
+    "timestamp": "2025-09-23T02:19:45.320474",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,444",
+    "fork": "490",
+    "timestamp": "2025-09-23T02:19:45.320763",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,653",
+    "fork": "245",
+    "timestamp": "2025-09-23T02:19:45.321065",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "rafamadriz/friendly-snippets",
+    "href": "https://github.com/rafamadriz/friendly-snippets",
+    "about": "Set of preconfigured snippets for different languages.",
+    "star": "2,521",
+    "fork": "540",
+    "timestamp": "2025-09-23T02:19:45.321341",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kawre/leetcode.nvim",
+    "href": "https://github.com/kawre/leetcode.nvim",
+    "about": "A Neovim plugin enabling you to solve LeetCode problems.",
+    "star": "1,806",
+    "fork": "84",
+    "timestamp": "2025-09-23T02:19:45.321617",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall2",
+    "href": "https://github.com/xiaorouji/openwrt-passwall2",
+    "about": "",
+    "star": "2,059",
+    "fork": "539",
+    "timestamp": "2025-09-23T02:19:45.321925",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "pwntester/octo.nvim",
+    "href": "https://github.com/pwntester/octo.nvim",
+    "about": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
+    "star": "2,928",
+    "fork": "190",
+    "timestamp": "2025-09-23T02:19:45.322199",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,290",
+    "fork": "911",
+    "timestamp": "2025-09-23T02:19:45.322476",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "4,083",
+    "fork": "258",
+    "timestamp": "2025-09-23T02:19:45.322792",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,611",
+    "fork": "2,822",
+    "timestamp": "2025-09-23T02:19:45.323087",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,610",
+    "fork": "216",
+    "timestamp": "2025-09-23T02:19:45.323360",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,552",
+    "fork": "107",
+    "timestamp": "2025-09-23T02:19:45.323663",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,898",
+    "fork": "268",
+    "timestamp": "2025-09-23T02:19:45.323953",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nvim-flutter/flutter-tools.nvim",
+    "href": "https://github.com/nvim-flutter/flutter-tools.nvim",
+    "about": "Tools to help create flutter apps in neovim using the native lsp",
+    "star": "1,273",
+    "fork": "102",
+    "timestamp": "2025-09-23T02:19:45.324228",
+    "stars_today": "1 star today"
+  }
+]

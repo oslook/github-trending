@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "43,736",
+    "fork": "5,115",
+    "timestamp": "2025-09-23T02:19:55.228527",
+    "stars_today": "2,782 stars this week"
+  },
+  {
+    "repo": "linera-io/linera-protocol",
+    "href": "https://github.com/linera-io/linera-protocol",
+    "about": "Main repository for the Linera protocol",
+    "star": "30,398",
+    "fork": "2,046",
+    "timestamp": "2025-09-23T02:19:55.228835",
+    "stars_today": "2,054 stars this week"
+  },
+  {
+    "repo": "category-labs/monad-bft",
+    "href": "https://github.com/category-labs/monad-bft",
+    "about": "",
+    "star": "376",
+    "fork": "116",
+    "timestamp": "2025-09-23T02:19:55.229134",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "erebe/wstunnel",
+    "href": "https://github.com/erebe/wstunnel",
+    "about": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available",
+    "star": "5,581",
+    "fork": "457",
+    "timestamp": "2025-09-23T02:19:55.229414",
+    "stars_today": "191 stars this week"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "href": "https://github.com/tree-sitter/tree-sitter",
+    "about": "An incremental parsing system for programming tools",
+    "star": "22,107",
+    "fork": "2,079",
+    "timestamp": "2025-09-23T02:19:55.229731",
+    "stars_today": "96 stars this week"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "106,643",
+    "fork": "13,765",
+    "timestamp": "2025-09-23T02:19:55.230009",
+    "stars_today": "202 stars this week"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "66,167",
+    "fork": "5,356",
+    "timestamp": "2025-09-23T02:19:55.230286",
+    "stars_today": "569 stars this week"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "21,630",
+    "fork": "1,571",
+    "timestamp": "2025-09-23T02:19:55.230589",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "eythaann/Seelen-UI",
+    "href": "https://github.com/eythaann/Seelen-UI",
+    "about": "The Fully Customizable Desktop Environment for Windows 10/11.",
+    "star": "12,950",
+    "fork": "395",
+    "timestamp": "2025-09-23T02:19:55.230907",
+    "stars_today": "786 stars this week"
+  },
+  {
+    "repo": "ArthurBrussee/brush",
+    "href": "https://github.com/ArthurBrussee/brush",
+    "about": "3D Reconstruction for all",
+    "star": "2,770",
+    "fork": "119",
+    "timestamp": "2025-09-23T02:19:55.231183",
+    "stars_today": "551 stars this week"
+  },
+  {
+    "repo": "bahdotsh/wrkflw",
+    "href": "https://github.com/bahdotsh/wrkflw",
+    "about": "Validate and Run GitHub Actions locally.",
+    "star": "2,417",
+    "fork": "35",
+    "timestamp": "2025-09-23T02:19:55.231485",
+    "stars_today": "273 stars this week"
+  },
+  {
+    "repo": "libnyanpasu/clash-nyanpasu",
+    "href": "https://github.com/libnyanpasu/clash-nyanpasu",
+    "about": "Clash Nyanpasu～(∠・ω< )⌒☆​",
+    "star": "12,001",
+    "fork": "748",
+    "timestamp": "2025-09-23T02:19:55.231773",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "ankitects/anki",
+    "href": "https://github.com/ankitects/anki",
+    "about": "Anki is a smart spaced repetition flashcard program",
+    "star": "23,818",
+    "fork": "2,501",
+    "timestamp": "2025-09-23T02:19:55.232049",
+    "stars_today": "129 stars this week"
+  },
+  {
+    "repo": "cloud-hypervisor/cloud-hypervisor",
+    "href": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+    "about": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+    "star": "4,821",
+    "fork": "522",
+    "timestamp": "2025-09-23T02:19:55.232325",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "6,761",
+    "fork": "1,174",
+    "timestamp": "2025-09-23T02:19:55.232605",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "apache/datafusion",
+    "href": "https://github.com/apache/datafusion",
+    "about": "Apache DataFusion SQL Query Engine",
+    "star": "7,773",
+    "fork": "1,651",
+    "timestamp": "2025-09-23T02:19:55.232893",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "glzr-io/glazewm",
+    "href": "https://github.com/glzr-io/glazewm",
+    "about": "GlazeWM is a tiling window manager for Windows inspired by i3wm.",
+    "star": "9,866",
+    "fork": "284",
+    "timestamp": "2025-09-23T02:19:55.233167",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "GyulyVGC/sniffnet",
+    "href": "https://github.com/GyulyVGC/sniffnet",
+    "about": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "star": "30,574",
+    "fork": "1,066",
+    "timestamp": "2025-09-23T02:19:55.233467",
+    "stars_today": "122 stars this week"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "star": "45,690",
+    "fork": "1,225",
+    "timestamp": "2025-09-23T02:19:55.233783",
+    "stars_today": "193 stars this week"
+  },
+  {
+    "repo": "tursodatabase/turso",
+    "href": "https://github.com/tursodatabase/turso",
+    "about": "Turso Database is a project to build the next evolution of SQLite.",
+    "star": "13,623",
+    "fork": "548",
+    "timestamp": "2025-09-23T02:19:55.234056",
+    "stars_today": "298 stars this week"
+  },
+  {
+    "repo": "cachix/devenv",
+    "href": "https://github.com/cachix/devenv",
+    "about": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
+    "star": "5,722",
+    "fork": "424",
+    "timestamp": "2025-09-23T02:19:55.234329",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "feschber/lan-mouse",
+    "href": "https://github.com/feschber/lan-mouse",
+    "about": "mouse & keyboard sharing via LAN",
+    "star": "3,844",
+    "fork": "141",
+    "timestamp": "2025-09-23T02:19:55.234629",
+    "stars_today": "123 stars this week"
+  }
+]
