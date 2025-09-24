@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "84,277",
+    "fork": "8,337",
+    "timestamp": "2025-09-24T02:20:57.571771",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,798",
+    "fork": "1,871",
+    "timestamp": "2025-09-24T02:20:57.572095",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,531",
+    "fork": "7,333",
+    "timestamp": "2025-09-24T02:20:57.572384",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,582",
+    "fork": "1,842",
+    "timestamp": "2025-09-24T02:20:57.572660",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "46,641",
+    "fork": "10,032",
+    "timestamp": "2025-09-24T02:20:57.572948",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "16,461",
+    "fork": "1,964",
+    "timestamp": "2025-09-24T02:20:57.573221",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,513",
+    "fork": "9,722",
+    "timestamp": "2025-09-24T02:20:57.573493",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,314",
+    "fork": "8,074",
+    "timestamp": "2025-09-24T02:20:57.573777",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "4,363",
+    "fork": "688",
+    "timestamp": "2025-09-24T02:20:57.574079",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,249",
+    "fork": "1,334",
+    "timestamp": "2025-09-24T02:20:57.574352",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "2,380",
+    "fork": "3,745",
+    "timestamp": "2025-09-24T02:20:57.574652",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,810",
+    "fork": "1,733",
+    "timestamp": "2025-09-24T02:20:57.574939",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "17,693",
+    "fork": "1,499",
+    "timestamp": "2025-09-24T02:20:57.575248",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "restic/restic",
+    "href": "https://github.com/restic/restic",
+    "about": "Fast, secure, efficient backup program",
+    "star": "30,115",
+    "fork": "1,647",
+    "timestamp": "2025-09-24T02:20:57.575524",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "28,936",
+    "fork": "2,803",
+    "timestamp": "2025-09-24T02:20:57.575808",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "10,680",
+    "fork": "1,464",
+    "timestamp": "2025-09-24T02:20:57.576082",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,841",
+    "fork": "21,277",
+    "timestamp": "2025-09-24T02:20:57.576353",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "15,229",
+    "fork": "888",
+    "timestamp": "2025-09-24T02:20:57.576621",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,267",
+    "fork": "1,649",
+    "timestamp": "2025-09-24T02:20:57.576913",
+    "stars_today": "11 stars today"
+  }
+]
