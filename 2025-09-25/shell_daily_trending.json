@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "87,140",
+    "fork": "9,331",
+    "timestamp": "2025-09-25T02:23:12.572456",
+    "stars_today": "75 stars today"
+  },
+  {
+    "repo": "winapps-org/winapps",
+    "href": "https://github.com/winapps-org/winapps",
+    "about": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+    "star": "10,005",
+    "fork": "304",
+    "timestamp": "2025-09-25T02:23:12.572757",
+    "stars_today": "127 stars today"
+  },
+  {
+    "repo": "taigaio/taiga-docker",
+    "href": "https://github.com/taigaio/taiga-docker",
+    "about": "",
+    "star": "1,783",
+    "fork": "450",
+    "timestamp": "2025-09-25T02:23:12.573064",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "n8n-io/n8n-hosting",
+    "href": "https://github.com/n8n-io/n8n-hosting",
+    "about": "Example of self-hosting n8n in various environments like docker, kubernetes, etc.",
+    "star": "1,049",
+    "fork": "576",
+    "timestamp": "2025-09-25T02:23:12.573361",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "testssl/testssl.sh",
+    "href": "https://github.com/testssl/testssl.sh",
+    "about": "Testing TLS/SSL encryption anywhere on any port",
+    "star": "8,594",
+    "fork": "1,085",
+    "timestamp": "2025-09-25T02:23:12.573631",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "orbstack/orbstack",
+    "href": "https://github.com/orbstack/orbstack",
+    "about": "Fast, light, simple Docker containers & Linux machines",
+    "star": "7,402",
+    "fork": "69",
+    "timestamp": "2025-09-25T02:23:12.573904",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "pystardust/ani-cli",
+    "href": "https://github.com/pystardust/ani-cli",
+    "about": "A cli tool to browse and play anime",
+    "star": "9,859",
+    "fork": "639",
+    "timestamp": "2025-09-25T02:23:12.574170",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "ChrisTitusTech/linutil",
+    "href": "https://github.com/ChrisTitusTech/linutil",
+    "about": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+    "star": "4,330",
+    "fork": "335",
+    "timestamp": "2025-09-25T02:23:12.574491",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "itdoginfo/podkop",
+    "href": "https://github.com/itdoginfo/podkop",
+    "about": "Dev podkop",
+    "star": "888",
+    "fork": "72",
+    "timestamp": "2025-09-25T02:23:12.574775",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tfutils/tfenv",
+    "href": "https://github.com/tfutils/tfenv",
+    "about": "Terraform version manager",
+    "star": "4,801",
+    "fork": "469",
+    "timestamp": "2025-09-25T02:23:12.575053",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "sickcodes/Docker-OSX",
+    "href": "https://github.com/sickcodes/Docker-OSX",
+    "about": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+    "star": "51,450",
+    "fork": "2,862",
+    "timestamp": "2025-09-25T02:23:12.575375",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "sakai135/wsl-vpnkit",
+    "href": "https://github.com/sakai135/wsl-vpnkit",
+    "about": "Provides network connectivity to WSL 2 when blocked by VPN",
+    "star": "2,657",
+    "fork": "197",
+    "timestamp": "2025-09-25T02:23:12.575682",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "armbian/build",
+    "href": "https://github.com/armbian/build",
+    "about": "Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",
+    "star": "4,851",
+    "fork": "2,700",
+    "timestamp": "2025-09-25T02:23:12.575989",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rupa/z",
+    "href": "https://github.com/rupa/z",
+    "about": "z - jump around",
+    "star": "16,792",
+    "fork": "1,177",
+    "timestamp": "2025-09-25T02:23:12.576302",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kodekloudhub/certified-kubernetes-administrator-course",
+    "href": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "about": "Certified Kubernetes Administrator - CKA Course",
+    "star": "9,540",
+    "fork": "8,900",
+    "timestamp": "2025-09-25T02:23:12.576625",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ohmyzsh/ohmyzsh",
+    "href": "https://github.com/ohmyzsh/ohmyzsh",
+    "about": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "star": "181,609",
+    "fork": "26,229",
+    "timestamp": "2025-09-25T02:23:12.576945",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "community-scripts/ProxmoxVE",
+    "href": "https://github.com/community-scripts/ProxmoxVE",
+    "about": "Proxmox VE Helper-Scripts (Community Edition)",
+    "star": "20,980",
+    "fork": "1,847",
+    "timestamp": "2025-09-25T02:23:12.577237",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "grafana/docker-otel-lgtm",
+    "href": "https://github.com/grafana/docker-otel-lgtm",
+    "about": "OpenTelemetry backend in a Docker image",
+    "star": "1,388",
+    "fork": "146",
+    "timestamp": "2025-09-25T02:23:12.577516",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "RROrg/rr",
+    "href": "https://github.com/RROrg/rr",
+    "about": "Redpill Recovery (arpl-i18n)",
+    "star": "7,298",
+    "fork": "1,160",
+    "timestamp": "2025-09-25T02:23:12.577791",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "antonbabenko/pre-commit-terraform",
+    "href": "https://github.com/antonbabenko/pre-commit-terraform",
+    "about": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+    "star": "3,545",
+    "fork": "567",
+    "timestamp": "2025-09-25T02:23:12.578100",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mack-a/v2ray-agent",
+    "href": "https://github.com/mack-a/v2ray-agent",
+    "about": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "star": "17,308",
+    "fork": "5,129",
+    "timestamp": "2025-09-25T02:23:12.578391",
+    "stars_today": "8 stars today"
+  }
+]

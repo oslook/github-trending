@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,365",
+    "fork": "8,078",
+    "timestamp": "2025-09-25T02:22:53.147149",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "84,978",
+    "fork": "8,374",
+    "timestamp": "2025-09-25T02:22:53.147472",
+    "stars_today": "550 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,738",
+    "fork": "6,390",
+    "timestamp": "2025-09-25T02:22:53.147764",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "14,932",
+    "fork": "1,411",
+    "timestamp": "2025-09-25T02:22:53.148052",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,476",
+    "fork": "2,779",
+    "timestamp": "2025-09-25T02:22:53.148355",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "40,789",
+    "fork": "7,121",
+    "timestamp": "2025-09-25T02:22:53.148642",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,384",
+    "fork": "4,577",
+    "timestamp": "2025-09-25T02:22:53.148929",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "urfave/cli",
+    "href": "https://github.com/urfave/cli",
+    "about": "A declarative, simple, fast, and fun package for building command line tools in Go",
+    "star": "23,532",
+    "fork": "1,755",
+    "timestamp": "2025-09-25T02:22:53.149223",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,980",
+    "fork": "3,004",
+    "timestamp": "2025-09-25T02:22:53.149535",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,854",
+    "fork": "828",
+    "timestamp": "2025-09-25T02:22:53.149816",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "50,846",
+    "fork": "6,047",
+    "timestamp": "2025-09-25T02:22:53.150129",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,550",
+    "fork": "2,499",
+    "timestamp": "2025-09-25T02:22:53.150422",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,310",
+    "fork": "1,026",
+    "timestamp": "2025-09-25T02:22:53.150731",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,595",
+    "fork": "7,333",
+    "timestamp": "2025-09-25T02:22:53.151014",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,573",
+    "fork": "2,347",
+    "timestamp": "2025-09-25T02:22:53.151331",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,851",
+    "fork": "21,280",
+    "timestamp": "2025-09-25T02:22:53.151615",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,813",
+    "fork": "1,734",
+    "timestamp": "2025-09-25T02:22:53.151897",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "href": "https://github.com/IceWhaleTech/CasaOS",
+    "about": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "star": "31,765",
+    "fork": "1,747",
+    "timestamp": "2025-09-25T02:22:53.152178",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "goravel/goravel",
+    "href": "https://github.com/goravel/goravel",
+    "about": "A full-featured Golang Development Framework.",
+    "star": "4,121",
+    "fork": "241",
+    "timestamp": "2025-09-25T02:22:53.152470",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "152,985",
+    "fork": "13,231",
+    "timestamp": "2025-09-25T02:22:53.152754",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "33,183",
+    "fork": "4,443",
+    "timestamp": "2025-09-25T02:22:53.153033",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "55,374",
+    "fork": "6,179",
+    "timestamp": "2025-09-25T02:22:53.153330",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "google/gvisor",
+    "href": "https://github.com/google/gvisor",
+    "about": "Application Kernel for Containers",
+    "star": "16,991",
+    "fork": "1,437",
+    "timestamp": "2025-09-25T02:22:53.153610",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,015",
+    "fork": "3,026",
+    "timestamp": "2025-09-25T02:22:53.153886",
+    "stars_today": "6 stars today"
+  }
+]

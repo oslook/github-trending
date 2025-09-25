@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,098",
+    "fork": "12,567",
+    "timestamp": "2025-09-25T02:23:11.652931",
+    "stars_today": "3,699 stars this month"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "41,970",
+    "fork": "28,845",
+    "timestamp": "2025-09-25T02:23:11.653284",
+    "stars_today": "258 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,109",
+    "fork": "1,116",
+    "timestamp": "2025-09-25T02:23:11.653570",
+    "stars_today": "28 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,126",
+    "fork": "2,476",
+    "timestamp": "2025-09-25T02:23:11.653856",
+    "stars_today": "151 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,292",
+    "fork": "1,921",
+    "timestamp": "2025-09-25T02:23:11.654136",
+    "stars_today": "71 stars this month"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,977",
+    "fork": "762",
+    "timestamp": "2025-09-25T02:23:11.654426",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,646",
+    "fork": "821",
+    "timestamp": "2025-09-25T02:23:11.654706",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,407",
+    "fork": "639",
+    "timestamp": "2025-09-25T02:23:11.654984",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "scalapb/ScalaPB",
+    "href": "https://github.com/scalapb/ScalaPB",
+    "about": "Protocol buffer compiler for Scala.",
+    "star": "1,325",
+    "fork": "291",
+    "timestamp": "2025-09-25T02:23:11.655275",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "872",
+    "fork": "203",
+    "timestamp": "2025-09-25T02:23:11.655556",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "346",
+    "fork": "96",
+    "timestamp": "2025-09-25T02:23:11.655851",
+    "stars_today": "9 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,444",
+    "fork": "578",
+    "timestamp": "2025-09-25T02:23:11.656129",
+    "stars_today": "27 stars this month"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,410",
+    "fork": "3,106",
+    "timestamp": "2025-09-25T02:23:11.656420",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,588",
+    "fork": "4,078",
+    "timestamp": "2025-09-25T02:23:11.656724",
+    "stars_today": "15 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,646",
+    "fork": "360",
+    "timestamp": "2025-09-25T02:23:11.657003",
+    "stars_today": "72 stars this month"
+  },
+  {
+    "repo": "rcardin/yaes",
+    "href": "https://github.com/rcardin/yaes",
+    "about": "An experimental effect system in Scala that tracks effects through context functions",
+    "star": "101",
+    "fork": "6",
+    "timestamp": "2025-09-25T02:23:11.657292",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,781",
+    "fork": "1,215",
+    "timestamp": "2025-09-25T02:23:11.657574",
+    "stars_today": "38 stars this month"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,867",
+    "fork": "950",
+    "timestamp": "2025-09-25T02:23:11.657846",
+    "stars_today": "13 stars this month"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,557",
+    "fork": "1,185",
+    "timestamp": "2025-09-25T02:23:11.658120",
+    "stars_today": "36 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "197",
+    "fork": "51",
+    "timestamp": "2025-09-25T02:23:11.658406",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,759",
+    "fork": "569",
+    "timestamp": "2025-09-25T02:23:11.658709",
+    "stars_today": "56 stars this month"
+  }
+]

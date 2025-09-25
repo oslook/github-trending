@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "5,096",
+    "fork": "372",
+    "timestamp": "2025-09-25T02:22:52.939864",
+    "stars_today": "3,011 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "22,362",
+    "fork": "2,062",
+    "timestamp": "2025-09-25T02:22:52.940164",
+    "stars_today": "2,107 stars this month"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,980",
+    "fork": "3,004",
+    "timestamp": "2025-09-25T02:22:52.940496",
+    "stars_today": "502 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,276",
+    "fork": "1,650",
+    "timestamp": "2025-09-25T02:22:52.940779",
+    "stars_today": "457 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,039",
+    "fork": "2,754",
+    "timestamp": "2025-09-25T02:22:52.941056",
+    "stars_today": "1,055 stars this month"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,912",
+    "fork": "748",
+    "timestamp": "2025-09-25T02:22:52.941349",
+    "stars_today": "64 stars this month"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,762",
+    "fork": "137",
+    "timestamp": "2025-09-25T02:22:52.941643",
+    "stars_today": "1,227 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "56,824",
+    "fork": "5,496",
+    "timestamp": "2025-09-25T02:22:52.941946",
+    "stars_today": "703 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "15,378",
+    "fork": "470",
+    "timestamp": "2025-09-25T02:22:52.942244",
+    "stars_today": "1,436 stars this month"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+    "star": "1,591",
+    "fork": "64",
+    "timestamp": "2025-09-25T02:22:52.942553",
+    "stars_today": "635 stars this month"
+  },
+  {
+    "repo": "docker/mcp-gateway",
+    "href": "https://github.com/docker/mcp-gateway",
+    "about": "docker mcp CLI plugin / MCP Gateway",
+    "star": "670",
+    "fork": "87",
+    "timestamp": "2025-09-25T02:22:52.942830",
+    "stars_today": "400 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "37,627",
+    "fork": "3,439",
+    "timestamp": "2025-09-25T02:22:52.943106",
+    "stars_today": "952 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,384",
+    "fork": "4,577",
+    "timestamp": "2025-09-25T02:22:52.943392",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "14,932",
+    "fork": "1,411",
+    "timestamp": "2025-09-25T02:22:52.943669",
+    "stars_today": "1,047 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,671",
+    "fork": "41,421",
+    "timestamp": "2025-09-25T02:22:52.943946",
+    "stars_today": "747 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "83,751",
+    "fork": "8,026",
+    "timestamp": "2025-09-25T02:22:52.944233",
+    "stars_today": "812 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "84,978",
+    "fork": "8,374",
+    "timestamp": "2025-09-25T02:22:52.944519",
+    "stars_today": "1,362 stars this month"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,768",
+    "fork": "736",
+    "timestamp": "2025-09-25T02:22:52.944796",
+    "stars_today": "399 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,738",
+    "fork": "6,390",
+    "timestamp": "2025-09-25T02:22:52.945117",
+    "stars_today": "330 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "15,235",
+    "fork": "387",
+    "timestamp": "2025-09-25T02:22:52.945412",
+    "stars_today": "602 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,577",
+    "fork": "573",
+    "timestamp": "2025-09-25T02:22:52.945713",
+    "stars_today": "582 stars this month"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "26,828",
+    "fork": "3,134",
+    "timestamp": "2025-09-25T02:22:52.946021",
+    "stars_today": "869 stars this month"
+  }
+]
