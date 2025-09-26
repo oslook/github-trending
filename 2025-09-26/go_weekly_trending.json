@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "85,505",
+    "fork": "8,403",
+    "timestamp": "2025-09-26T02:21:50.667021",
+    "stars_today": "1,188 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,602",
+    "fork": "7,335",
+    "timestamp": "2025-09-26T02:21:50.667321",
+    "stars_today": "130 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,952",
+    "fork": "1,875",
+    "timestamp": "2025-09-26T02:21:50.667647",
+    "stars_today": "275 stars this week"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,438",
+    "fork": "8,080",
+    "timestamp": "2025-09-26T02:21:50.667931",
+    "stars_today": "192 stars this week"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,584",
+    "fork": "574",
+    "timestamp": "2025-09-26T02:21:50.668243",
+    "stars_today": "168 stars this week"
+  },
+  {
+    "repo": "kagent-dev/kagent",
+    "href": "https://github.com/kagent-dev/kagent",
+    "about": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+    "star": "1,564",
+    "fork": "272",
+    "timestamp": "2025-09-26T02:21:50.668537",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "everywall/ladder",
+    "href": "https://github.com/everywall/ladder",
+    "about": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "star": "5,831",
+    "fork": "260",
+    "timestamp": "2025-09-26T02:21:50.668816",
+    "stars_today": "577 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,683",
+    "fork": "41,427",
+    "timestamp": "2025-09-26T02:21:50.669093",
+    "stars_today": "174 stars this week"
+  },
+  {
+    "repo": "ava-labs/avalanchego",
+    "href": "https://github.com/ava-labs/avalanchego",
+    "about": "Go implementation of an Avalanche node.",
+    "star": "2,290",
+    "fork": "798",
+    "timestamp": "2025-09-26T02:21:50.669370",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,780",
+    "fork": "736",
+    "timestamp": "2025-09-26T02:21:50.669660",
+    "stars_today": "161 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,862",
+    "fork": "21,287",
+    "timestamp": "2025-09-26T02:21:50.669941",
+    "stars_today": "92 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,727",
+    "fork": "1,855",
+    "timestamp": "2025-09-26T02:21:50.670219",
+    "stars_today": "172 stars this week"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "9,797",
+    "fork": "863",
+    "timestamp": "2025-09-26T02:21:50.670505",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "uber-go/mock",
+    "href": "https://github.com/uber-go/mock",
+    "about": "GoMock is a mocking framework for the Go programming language.",
+    "star": "3,057",
+    "fork": "152",
+    "timestamp": "2025-09-26T02:21:50.670786",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "153,047",
+    "fork": "13,249",
+    "timestamp": "2025-09-26T02:21:50.671063",
+    "stars_today": "553 stars this week"
+  },
+  {
+    "repo": "krillinai/KrillinAI",
+    "href": "https://github.com/krillinai/KrillinAI",
+    "about": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok. AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+    "star": "8,565",
+    "fork": "697",
+    "timestamp": "2025-09-26T02:21:50.671341",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "3,522",
+    "fork": "137",
+    "timestamp": "2025-09-26T02:21:50.671632",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "muesli/duf",
+    "href": "https://github.com/muesli/duf",
+    "about": "Disk Usage/Free Utility - a better 'df' alternative",
+    "star": "14,184",
+    "fork": "433",
+    "timestamp": "2025-09-26T02:21:50.671937",
+    "stars_today": "197 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,799",
+    "fork": "18,820",
+    "timestamp": "2025-09-26T02:21:50.672213",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "shadow1ng/fscan",
+    "href": "https://github.com/shadow1ng/fscan",
+    "about": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "star": "12,713",
+    "fork": "1,803",
+    "timestamp": "2025-09-26T02:21:50.672501",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming soon.",
+    "star": "4,951",
+    "fork": "666",
+    "timestamp": "2025-09-26T02:21:50.672779",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "href": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "about": "The most customisable and low-latency cross platform/shell prompt renderer",
+    "star": "20,187",
+    "fork": "2,601",
+    "timestamp": "2025-09-26T02:21:50.673085",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,514",
+    "fork": "9,725",
+    "timestamp": "2025-09-26T02:21:50.673362",
+    "stars_today": "10 stars this week"
+  }
+]

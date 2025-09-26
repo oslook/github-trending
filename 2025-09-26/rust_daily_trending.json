@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "5,005",
+    "fork": "1,884",
+    "timestamp": "2025-09-26T02:22:06.741369",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "rathole-org/rathole",
+    "href": "https://github.com/rathole-org/rathole",
+    "about": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+    "star": "11,869",
+    "fork": "628",
+    "timestamp": "2025-09-26T02:22:06.741680",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "visioncortex/vtracer",
+    "href": "https://github.com/visioncortex/vtracer",
+    "about": "Raster to Vector Graphics Converter",
+    "star": "4,817",
+    "fork": "326",
+    "timestamp": "2025-09-26T02:22:06.742013",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "96,852",
+    "fork": "3,075",
+    "timestamp": "2025-09-26T02:22:06.742330",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "9,580",
+    "fork": "2,163",
+    "timestamp": "2025-09-26T02:22:06.742622",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "FuelLabs/sway",
+    "href": "https://github.com/FuelLabs/sway",
+    "about": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+    "star": "62,132",
+    "fork": "5,408",
+    "timestamp": "2025-09-26T02:22:06.742898",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "stalwartlabs/stalwart",
+    "href": "https://github.com/stalwartlabs/stalwart",
+    "about": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "star": "9,671",
+    "fork": "496",
+    "timestamp": "2025-09-26T02:22:06.743203",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "BoundaryML/baml",
+    "href": "https://github.com/BoundaryML/baml",
+    "about": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+    "star": "6,013",
+    "fork": "279",
+    "timestamp": "2025-09-26T02:22:06.743478",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "ai-dynamo/dynamo",
+    "href": "https://github.com/ai-dynamo/dynamo",
+    "about": "A Datacenter Scale Distributed Inference Serving Framework",
+    "star": "5,060",
+    "fork": "613",
+    "timestamp": "2025-09-26T02:22:06.743766",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "denoland/deno",
+    "href": "https://github.com/denoland/deno",
+    "about": "A modern runtime for JavaScript and TypeScript.",
+    "star": "104,415",
+    "fork": "5,717",
+    "timestamp": "2025-09-26T02:22:06.744043",
+    "stars_today": "56 stars today"
+  },
+  {
+    "repo": "davidlattimore/wild",
+    "href": "https://github.com/davidlattimore/wild",
+    "about": "A very fast linker for Linux",
+    "star": "2,567",
+    "fork": "65",
+    "timestamp": "2025-09-26T02:22:06.744348",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "28,736",
+    "fork": "2,093",
+    "timestamp": "2025-09-26T02:22:06.744637",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "7,476",
+    "fork": "1,181",
+    "timestamp": "2025-09-26T02:22:06.744914",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "98,860",
+    "fork": "14,537",
+    "timestamp": "2025-09-26T02:22:06.745220",
+    "stars_today": "82 stars today"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "href": "https://github.com/qdrant/qdrant",
+    "about": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "star": "26,181",
+    "fork": "1,825",
+    "timestamp": "2025-09-26T02:22:06.745537",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "href": "https://github.com/bytecodealliance/wasmtime",
+    "about": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+    "star": "16,936",
+    "fork": "1,512",
+    "timestamp": "2025-09-26T02:22:06.745813",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "17,489",
+    "fork": "601",
+    "timestamp": "2025-09-26T02:22:06.746089",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "Wilfred/difftastic",
+    "href": "https://github.com/Wilfred/difftastic",
+    "about": "a structural diff that understands syntax 🟥🟩",
+    "star": "23,039",
+    "fork": "400",
+    "timestamp": "2025-09-26T02:22:06.746367",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-rust",
+    "href": "https://github.com/open-telemetry/opentelemetry-rust",
+    "about": "The Rust OpenTelemetry implementation",
+    "star": "2,304",
+    "fork": "577",
+    "timestamp": "2025-09-26T02:22:06.746655",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "106,700",
+    "fork": "13,771",
+    "timestamp": "2025-09-26T02:22:06.746931",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "solana-foundation/anchor",
+    "href": "https://github.com/solana-foundation/anchor",
+    "about": "⚓ Solana Program Framework",
+    "star": "4,638",
+    "fork": "1,699",
+    "timestamp": "2025-09-26T02:22:06.747203",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lapce/lapce",
+    "href": "https://github.com/lapce/lapce",
+    "about": "Lightning-fast and Powerful Code Editor written in Rust",
+    "star": "37,382",
+    "fork": "1,186",
+    "timestamp": "2025-09-26T02:22:06.747476",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "huggingface/xet-core",
+    "href": "https://github.com/huggingface/xet-core",
+    "about": "xet client tech, used in huggingface_hub",
+    "star": "256",
+    "fork": "28",
+    "timestamp": "2025-09-26T02:22:06.747763",
+    "stars_today": "6 stars today"
+  }
+]

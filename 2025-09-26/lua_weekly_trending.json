@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "23,035",
+    "fork": "1,628",
+    "timestamp": "2025-09-26T02:21:58.185401",
+    "stars_today": "530 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,705",
+    "fork": "2,337",
+    "timestamp": "2025-09-26T02:21:58.185739",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "13,043",
+    "fork": "837",
+    "timestamp": "2025-09-26T02:21:58.186023",
+    "stars_today": "186 stars this week"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,538",
+    "fork": "318",
+    "timestamp": "2025-09-26T02:21:58.186306",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、候选手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572",
+    "star": "1,323",
+    "fork": "63",
+    "timestamp": "2025-09-26T02:21:58.186598",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,614",
+    "fork": "216",
+    "timestamp": "2025-09-26T02:21:58.186876",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,453",
+    "fork": "490",
+    "timestamp": "2025-09-26T02:21:58.187153",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "5,331",
+    "fork": "301",
+    "timestamp": "2025-09-26T02:21:58.187429",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,009",
+    "fork": "320",
+    "timestamp": "2025-09-26T02:21:58.187717",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,741",
+    "fork": "146",
+    "timestamp": "2025-09-26T02:21:58.187991",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,529",
+    "fork": "1,238",
+    "timestamp": "2025-09-26T02:21:58.188268",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "3,903",
+    "fork": "384",
+    "timestamp": "2025-09-26T02:21:58.188557",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "typecraft-dev/dotfiles",
+    "href": "https://github.com/typecraft-dev/dotfiles",
+    "about": "",
+    "star": "1,109",
+    "fork": "218",
+    "timestamp": "2025-09-26T02:21:58.188853",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "pwntester/octo.nvim",
+    "href": "https://github.com/pwntester/octo.nvim",
+    "about": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
+    "star": "2,932",
+    "fork": "191",
+    "timestamp": "2025-09-26T02:21:58.189128",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,542",
+    "fork": "228",
+    "timestamp": "2025-09-26T02:21:58.189409",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 14.x for OpenTibia community.",
+    "star": "486",
+    "fork": "749",
+    "timestamp": "2025-09-26T02:21:58.189729",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,805",
+    "fork": "306",
+    "timestamp": "2025-09-26T02:21:58.190035",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,341",
+    "fork": "39,821",
+    "timestamp": "2025-09-26T02:21:58.190310",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,655",
+    "fork": "244",
+    "timestamp": "2025-09-26T02:21:58.190629",
+    "stars_today": "17 stars this week"
+  }
+]

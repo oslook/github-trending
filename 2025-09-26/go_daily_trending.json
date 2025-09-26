@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "85,505",
+    "fork": "8,403",
+    "timestamp": "2025-09-26T02:21:51.933001",
+    "stars_today": "458 stars today"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,727",
+    "fork": "1,855",
+    "timestamp": "2025-09-26T02:21:51.933307",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "7,684",
+    "fork": "708",
+    "timestamp": "2025-09-26T02:21:51.933604",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,662",
+    "fork": "1,314",
+    "timestamp": "2025-09-26T02:21:51.933884",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,562",
+    "fork": "1,041",
+    "timestamp": "2025-09-26T02:21:51.934165",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,952",
+    "fork": "1,875",
+    "timestamp": "2025-09-26T02:21:51.934474",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "8,789",
+    "fork": "716",
+    "timestamp": "2025-09-26T02:21:51.934795",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,021",
+    "fork": "3,029",
+    "timestamp": "2025-09-26T02:21:51.935077",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "24,739",
+    "fork": "487",
+    "timestamp": "2025-09-26T02:21:51.935386",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "publicsuffix/list",
+    "href": "https://github.com/publicsuffix/list",
+    "about": "The Public Suffix List",
+    "star": "2,524",
+    "fork": "1,400",
+    "timestamp": "2025-09-26T02:21:51.935681",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,255",
+    "fork": "1,335",
+    "timestamp": "2025-09-26T02:21:51.935962",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,438",
+    "fork": "8,080",
+    "timestamp": "2025-09-26T02:21:51.936246",
+    "stars_today": "117 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,231",
+    "fork": "2,667",
+    "timestamp": "2025-09-26T02:21:51.936542",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,799",
+    "fork": "18,820",
+    "timestamp": "2025-09-26T02:21:51.936828",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "22,972",
+    "fork": "2,599",
+    "timestamp": "2025-09-26T02:21:51.937109",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "iam-veeramalla/observability-zero-to-hero",
+    "href": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+    "about": "Repo for learning observability",
+    "star": "2,399",
+    "fork": "3,756",
+    "timestamp": "2025-09-26T02:21:51.937418",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "41,996",
+    "fork": "3,004",
+    "timestamp": "2025-09-26T02:21:51.937737",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,069",
+    "fork": "1,809",
+    "timestamp": "2025-09-26T02:21:51.938017",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,719",
+    "fork": "270",
+    "timestamp": "2025-09-26T02:21:51.938298",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "9,600",
+    "fork": "691",
+    "timestamp": "2025-09-26T02:21:51.938592",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,711",
+    "fork": "3,100",
+    "timestamp": "2025-09-26T02:21:51.938872",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,490",
+    "fork": "1,229",
+    "timestamp": "2025-09-26T02:21:51.939152",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "39,076",
+    "fork": "6,018",
+    "timestamp": "2025-09-26T02:21:51.939430",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "8,961",
+    "fork": "1,092",
+    "timestamp": "2025-09-26T02:21:51.939749",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "15,239",
+    "fork": "889",
+    "timestamp": "2025-09-26T02:21:51.940026",
+    "stars_today": "3 stars today"
+  }
+]
