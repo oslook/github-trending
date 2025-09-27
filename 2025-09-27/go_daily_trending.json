@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "85,883",
+    "fork": "8,418",
+    "timestamp": "2025-09-27T02:16:32.872005",
+    "stars_today": "750 stars today"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "1,979",
+    "fork": "201",
+    "timestamp": "2025-09-27T02:16:32.872312",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,266",
+    "fork": "2,675",
+    "timestamp": "2025-09-27T02:16:32.872603",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,256",
+    "fork": "1,335",
+    "timestamp": "2025-09-27T02:16:32.872907",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "24,764",
+    "fork": "488",
+    "timestamp": "2025-09-27T02:16:32.873223",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "65,228",
+    "fork": "2,251",
+    "timestamp": "2025-09-27T02:16:32.873536",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "153,261",
+    "fork": "12,588",
+    "timestamp": "2025-09-27T02:16:32.873863",
+    "stars_today": "84 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,083",
+    "fork": "1,814",
+    "timestamp": "2025-09-27T02:16:32.874149",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "33,199",
+    "fork": "4,443",
+    "timestamp": "2025-09-27T02:16:32.874435",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "24,937",
+    "fork": "2,890",
+    "timestamp": "2025-09-27T02:16:32.874734",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,331",
+    "fork": "3,664",
+    "timestamp": "2025-09-27T02:16:32.875020",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "vitessio/vitess",
+    "href": "https://github.com/vitessio/vitess",
+    "about": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+    "star": "20,205",
+    "fork": "2,254",
+    "timestamp": "2025-09-27T02:16:32.875304",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,301",
+    "fork": "1,652",
+    "timestamp": "2025-09-27T02:16:32.875588",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "mark3labs/mcp-go",
+    "href": "https://github.com/mark3labs/mcp-go",
+    "about": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+    "star": "7,273",
+    "fork": "740",
+    "timestamp": "2025-09-27T02:16:32.875886",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "19,070",
+    "fork": "1,382",
+    "timestamp": "2025-09-27T02:16:32.876171",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "publicsuffix/list",
+    "href": "https://github.com/publicsuffix/list",
+    "about": "The Public Suffix List",
+    "star": "2,530",
+    "fork": "1,401",
+    "timestamp": "2025-09-27T02:16:32.876452",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,582",
+    "fork": "2,349",
+    "timestamp": "2025-09-27T02:16:32.876745",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "10,890",
+    "fork": "1,085",
+    "timestamp": "2025-09-27T02:16:32.877026",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "julienschmidt/httprouter",
+    "href": "https://github.com/julienschmidt/httprouter",
+    "about": "A high performance HTTP request router that scales well",
+    "star": "17,009",
+    "fork": "1,472",
+    "timestamp": "2025-09-27T02:16:32.877306",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "kgateway-dev/kgateway",
+    "href": "https://github.com/kgateway-dev/kgateway",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "4,888",
+    "fork": "580",
+    "timestamp": "2025-09-27T02:16:32.877586",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,862",
+    "fork": "830",
+    "timestamp": "2025-09-27T02:16:32.877876",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "30,222",
+    "fork": "1,474",
+    "timestamp": "2025-09-27T02:16:32.878155",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "11,059",
+    "fork": "1,012",
+    "timestamp": "2025-09-27T02:16:32.878431",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "11,836",
+    "fork": "604",
+    "timestamp": "2025-09-27T02:16:32.878727",
+    "stars_today": "8 stars today"
+  }
+]

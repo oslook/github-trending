@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "85,883",
+    "fork": "8,418",
+    "timestamp": "2025-09-27T02:16:33.288924",
+    "stars_today": "1,832 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,757",
+    "fork": "1,856",
+    "timestamp": "2025-09-27T02:16:33.289231",
+    "stars_today": "228 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,961",
+    "fork": "1,875",
+    "timestamp": "2025-09-27T02:16:33.289545",
+    "stars_today": "285 stars this week"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,448",
+    "fork": "8,080",
+    "timestamp": "2025-09-27T02:16:33.289838",
+    "stars_today": "194 stars this week"
+  },
+  {
+    "repo": "everywall/ladder",
+    "href": "https://github.com/everywall/ladder",
+    "about": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "star": "5,845",
+    "fork": "260",
+    "timestamp": "2025-09-27T02:16:33.290116",
+    "stars_today": "412 stars this week"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,601",
+    "fork": "577",
+    "timestamp": "2025-09-27T02:16:33.290427",
+    "stars_today": "125 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,869",
+    "fork": "21,289",
+    "timestamp": "2025-09-27T02:16:33.290723",
+    "stars_today": "101 stars this week"
+  },
+  {
+    "repo": "ava-labs/avalanchego",
+    "href": "https://github.com/ava-labs/avalanchego",
+    "about": "Go implementation of an Avalanche node.",
+    "star": "2,289",
+    "fork": "800",
+    "timestamp": "2025-09-27T02:16:33.291005",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,702",
+    "fork": "41,432",
+    "timestamp": "2025-09-27T02:16:33.291286",
+    "stars_today": "167 stars this week"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "26,598",
+    "fork": "3,796",
+    "timestamp": "2025-09-27T02:16:33.291568",
+    "stars_today": "144 stars this week"
+  },
+  {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "href": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "about": "The most customisable and low-latency cross platform/shell prompt renderer",
+    "star": "20,194",
+    "fork": "2,601",
+    "timestamp": "2025-09-27T02:16:33.291900",
+    "stars_today": "105 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,606",
+    "fork": "7,337",
+    "timestamp": "2025-09-27T02:16:33.292184",
+    "stars_today": "130 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,325",
+    "fork": "1,029",
+    "timestamp": "2025-09-27T02:16:33.292494",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "153,121",
+    "fork": "13,254",
+    "timestamp": "2025-09-27T02:16:33.292798",
+    "stars_today": "566 stars this week"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,862",
+    "fork": "830",
+    "timestamp": "2025-09-27T02:16:33.293086",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,783",
+    "fork": "737",
+    "timestamp": "2025-09-27T02:16:33.293371",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "3,532",
+    "fork": "136",
+    "timestamp": "2025-09-27T02:16:33.293670",
+    "stars_today": "114 stars this week"
+  },
+  {
+    "repo": "muesli/duf",
+    "href": "https://github.com/muesli/duf",
+    "about": "Disk Usage/Free Utility - a better 'df' alternative",
+    "star": "14,199",
+    "fork": "433",
+    "timestamp": "2025-09-27T02:16:33.293984",
+    "stars_today": "205 stars this week"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "31,323",
+    "fork": "3,510",
+    "timestamp": "2025-09-27T02:16:33.294264",
+    "stars_today": "102 stars this week"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,341",
+    "fork": "4,523",
+    "timestamp": "2025-09-27T02:16:33.294542",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "kagent-dev/kagent",
+    "href": "https://github.com/kagent-dev/kagent",
+    "about": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+    "star": "1,575",
+    "fork": "274",
+    "timestamp": "2025-09-27T02:16:33.294844",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+    "star": "4,969",
+    "fork": "669",
+    "timestamp": "2025-09-27T02:16:33.295130",
+    "stars_today": "127 stars this week"
+  }
+]

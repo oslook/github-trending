@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "5,188",
+    "fork": "380",
+    "timestamp": "2025-09-27T02:16:33.494726",
+    "stars_today": "3,110 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "85,883",
+    "fork": "8,418",
+    "timestamp": "2025-09-27T02:16:33.495023",
+    "stars_today": "2,273 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "22,436",
+    "fork": "2,069",
+    "timestamp": "2025-09-27T02:16:33.495352",
+    "stars_today": "2,154 stars this month"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,919",
+    "fork": "748",
+    "timestamp": "2025-09-27T02:16:33.495643",
+    "stars_today": "70 stars this month"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,771",
+    "fork": "137",
+    "timestamp": "2025-09-27T02:16:33.495941",
+    "stars_today": "1,097 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "37,665",
+    "fork": "3,442",
+    "timestamp": "2025-09-27T02:16:33.496215",
+    "stars_today": "944 stars this month"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,301",
+    "fork": "1,652",
+    "timestamp": "2025-09-27T02:16:33.496490",
+    "stars_today": "454 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,063",
+    "fork": "2,754",
+    "timestamp": "2025-09-27T02:16:33.496778",
+    "stars_today": "1,058 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "15,415",
+    "fork": "472",
+    "timestamp": "2025-09-27T02:16:33.497059",
+    "stars_today": "1,355 stars this month"
+  },
+  {
+    "repo": "docker/mcp-gateway",
+    "href": "https://github.com/docker/mcp-gateway",
+    "about": "docker mcp CLI plugin / MCP Gateway",
+    "star": "683",
+    "fork": "90",
+    "timestamp": "2025-09-27T02:16:33.497338",
+    "stars_today": "407 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,702",
+    "fork": "41,432",
+    "timestamp": "2025-09-27T02:16:33.497610",
+    "stars_today": "745 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,391",
+    "fork": "4,579",
+    "timestamp": "2025-09-27T02:16:33.497901",
+    "stars_today": "290 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,961",
+    "fork": "1,875",
+    "timestamp": "2025-09-27T02:16:33.498209",
+    "stars_today": "542 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "83,806",
+    "fork": "8,029",
+    "timestamp": "2025-09-27T02:16:33.498485",
+    "stars_today": "838 stars this month"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,783",
+    "fork": "737",
+    "timestamp": "2025-09-27T02:16:33.498778",
+    "stars_today": "407 stars this month"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+    "star": "1,611",
+    "fork": "64",
+    "timestamp": "2025-09-27T02:16:33.499085",
+    "stars_today": "562 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "15,248",
+    "fork": "389",
+    "timestamp": "2025-09-27T02:16:33.499364",
+    "stars_today": "575 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,601",
+    "fork": "577",
+    "timestamp": "2025-09-27T02:16:33.499679",
+    "stars_today": "598 stars this month"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "star": "11,065",
+    "fork": "1,646",
+    "timestamp": "2025-09-27T02:16:33.499995",
+    "stars_today": "805 stars this month"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "11,176",
+    "fork": "1,013",
+    "timestamp": "2025-09-27T02:16:33.500278",
+    "stars_today": "1,689 stars this month"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,757",
+    "fork": "6,401",
+    "timestamp": "2025-09-27T02:16:33.500556",
+    "stars_today": "321 stars this month"
+  },
+  {
+    "repo": "rivo/tview",
+    "href": "https://github.com/rivo/tview",
+    "about": "Terminal UI library with rich, interactive widgets — written in Golang",
+    "star": "12,875",
+    "fork": "642",
+    "timestamp": "2025-09-27T02:16:33.500874",
+    "stars_today": "305 stars this month"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,341",
+    "fork": "4,523",
+    "timestamp": "2025-09-27T02:16:33.501154",
+    "stars_today": "112 stars this month"
+  }
+]
