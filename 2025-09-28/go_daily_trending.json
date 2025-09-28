@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "85,970",
+    "fork": "8,424",
+    "timestamp": "2025-09-28T02:38:47.586107",
+    "stars_today": "124 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,248",
+    "fork": "1,822",
+    "timestamp": "2025-09-28T02:38:47.586422",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,285",
+    "fork": "5,718",
+    "timestamp": "2025-09-28T02:38:47.586707",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,820",
+    "fork": "1,736",
+    "timestamp": "2025-09-28T02:38:47.586993",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "18,017",
+    "fork": "1,116",
+    "timestamp": "2025-09-28T02:38:47.587272",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "7,705",
+    "fork": "710",
+    "timestamp": "2025-09-28T02:38:47.587561",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,764",
+    "fork": "6,402",
+    "timestamp": "2025-09-28T02:38:47.587838",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "9,633",
+    "fork": "695",
+    "timestamp": "2025-09-28T02:38:47.588112",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "containers/kubernetes-mcp-server",
+    "href": "https://github.com/containers/kubernetes-mcp-server",
+    "about": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "star": "628",
+    "fork": "130",
+    "timestamp": "2025-09-28T02:38:47.588400",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "13,237",
+    "fork": "675",
+    "timestamp": "2025-09-28T02:38:47.588678",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "11,830",
+    "fork": "822",
+    "timestamp": "2025-09-28T02:38:47.588981",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "Masterminds/squirrel",
+    "href": "https://github.com/Masterminds/squirrel",
+    "about": "Fluent SQL generation for golang",
+    "star": "7,626",
+    "fork": "490",
+    "timestamp": "2025-09-28T02:38:47.589257",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,527",
+    "fork": "944",
+    "timestamp": "2025-09-28T02:38:47.589546",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,767",
+    "fork": "1,857",
+    "timestamp": "2025-09-28T02:38:47.589818",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,723",
+    "fork": "3,102",
+    "timestamp": "2025-09-28T02:38:47.590091",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "11,842",
+    "fork": "604",
+    "timestamp": "2025-09-28T02:38:47.590379",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "26,511",
+    "fork": "4,970",
+    "timestamp": "2025-09-28T02:38:47.590656",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "23,835",
+    "fork": "1,238",
+    "timestamp": "2025-09-28T02:38:47.590931",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "17,711",
+    "fork": "1,502",
+    "timestamp": "2025-09-28T02:38:47.591233",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,286",
+    "fork": "2,679",
+    "timestamp": "2025-09-28T02:38:47.591520",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "50,435",
+    "fork": "10,183",
+    "timestamp": "2025-09-28T02:38:47.591798",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,031",
+    "fork": "3,028",
+    "timestamp": "2025-09-28T02:38:47.592072",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "56,861",
+    "fork": "5,501",
+    "timestamp": "2025-09-28T02:38:47.592390",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "19,071",
+    "fork": "1,382",
+    "timestamp": "2025-09-28T02:38:47.592676",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,258",
+    "fork": "1,335",
+    "timestamp": "2025-09-28T02:38:47.592954",
+    "stars_today": "2 stars today"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "ghostty-org/ghostty",
+    "href": "https://github.com/ghostty-org/ghostty",
+    "about": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "star": "36,233",
+    "fork": "1,117",
+    "timestamp": "2025-09-28T02:39:11.023318",
+    "stars_today": "1,555 stars this month"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "href": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "star": "80,599",
+    "fork": "3,344",
+    "timestamp": "2025-09-28T02:39:11.023637",
+    "stars_today": "659 stars this month"
+  },
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "star": "41,360",
+    "fork": "3,025",
+    "timestamp": "2025-09-28T02:39:11.023967",
+    "stars_today": "718 stars this month"
+  },
+  {
+    "repo": "lightpanda-io/browser",
+    "href": "https://github.com/lightpanda-io/browser",
+    "about": "Lightpanda: the headless browser designed for AI and automation",
+    "star": "9,810",
+    "fork": "264",
+    "timestamp": "2025-09-28T02:39:11.024262",
+    "stars_today": "239 stars this month"
+  },
+  {
+    "repo": "zml/zml",
+    "href": "https://github.com/zml/zml",
+    "about": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+    "star": "2,739",
+    "fork": "108",
+    "timestamp": "2025-09-28T02:39:11.024589",
+    "stars_today": "232 stars this month"
+  },
+  {
+    "repo": "pedropark99/zig-book",
+    "href": "https://github.com/pedropark99/zig-book",
+    "about": "An open, technical and introductory book for the Zig programming language 📚📖",
+    "star": "1,827",
+    "fork": "107",
+    "timestamp": "2025-09-28T02:39:11.024886",
+    "stars_today": "119 stars this month"
+  },
+  {
+    "repo": "tigerbeetle/tigerbeetle",
+    "href": "https://github.com/tigerbeetle/tigerbeetle",
+    "about": "The financial transactions database designed for mission critical safety and performance.",
+    "star": "13,529",
+    "fork": "665",
+    "timestamp": "2025-09-28T02:39:11.025185",
+    "stars_today": "267 stars this month"
+  },
+  {
+    "repo": "electric-capital/crypto-ecosystems",
+    "href": "https://github.com/electric-capital/crypto-ecosystems",
+    "about": "A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems",
+    "star": "1,845",
+    "fork": "1,721",
+    "timestamp": "2025-09-28T02:39:11.025493",
+    "stars_today": "35 stars this month"
+  },
+  {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "href": "https://github.com/ZigEmbeddedGroup/microzig",
+    "about": "MicroZig is a toolbox for building embedded applications in Zig.",
+    "star": "1,821",
+    "fork": "143",
+    "timestamp": "2025-09-28T02:39:11.025790",
+    "stars_today": "57 stars this month"
+  },
+  {
+    "repo": "neurocyte/flow",
+    "href": "https://github.com/neurocyte/flow",
+    "about": "Flow Control: a programmer's text editor",
+    "star": "1,189",
+    "fork": "61",
+    "timestamp": "2025-09-28T02:39:11.026082",
+    "stars_today": "105 stars this month"
+  },
+  {
+    "repo": "david-vanderson/dvui",
+    "href": "https://github.com/david-vanderson/dvui",
+    "about": "",
+    "star": "908",
+    "fork": "64",
+    "timestamp": "2025-09-28T02:39:11.026405",
+    "stars_today": "48 stars this month"
+  },
+  {
+    "repo": "kristoff-it/superhtml",
+    "href": "https://github.com/kristoff-it/superhtml",
+    "about": "HTML Language Server & Templating Language Library",
+    "star": "1,061",
+    "fork": "49",
+    "timestamp": "2025-09-28T02:39:11.026739",
+    "stars_today": "40 stars this month"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A dynamic tiling Wayland compositor",
+    "star": "3,715",
+    "fork": "154",
+    "timestamp": "2025-09-28T02:39:11.027026",
+    "stars_today": "54 stars this month"
+  },
+  {
+    "repo": "jackielii/skhd.zig",
+    "href": "https://github.com/jackielii/skhd.zig",
+    "about": "Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya",
+    "star": "170",
+    "fork": "3",
+    "timestamp": "2025-09-28T02:39:11.027324",
+    "stars_today": "59 stars this month"
+  },
+  {
+    "repo": "Vexu/arocc",
+    "href": "https://github.com/Vexu/arocc",
+    "about": "A modern fully featured C compiler.",
+    "star": "1,486",
+    "fork": "66",
+    "timestamp": "2025-09-28T02:39:11.027607",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "3,004",
+    "fork": "131",
+    "timestamp": "2025-09-28T02:39:11.027900",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "karlseguin/http.zig",
+    "href": "https://github.com/karlseguin/http.zig",
+    "about": "An HTTP/1.1 server for zig",
+    "star": "1,170",
+    "fork": "82",
+    "timestamp": "2025-09-28T02:39:11.028201",
+    "stars_today": "49 stars this month"
+  },
+  {
+    "repo": "hexops/mach",
+    "href": "https://github.com/hexops/mach",
+    "about": "zig game engine & graphics toolkit",
+    "star": "4,217",
+    "fork": "184",
+    "timestamp": "2025-09-28T02:39:11.028515",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "ghuntley/cursed",
+    "href": "https://github.com/ghuntley/cursed",
+    "about": "the 💀 cursed programming language: programming, but make it gen z",
+    "star": "282",
+    "fork": "12",
+    "timestamp": "2025-09-28T02:39:11.028846",
+    "stars_today": "241 stars this month"
+  }
+]
