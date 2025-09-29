@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,034",
+    "fork": "8,425",
+    "timestamp": "2025-09-29T02:25:07.203700",
+    "stars_today": "2,005 stars this week"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,378",
+    "fork": "1,828",
+    "timestamp": "2025-09-29T02:25:07.203998",
+    "stars_today": "312 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "7,773",
+    "fork": "1,859",
+    "timestamp": "2025-09-29T02:25:07.204303",
+    "stars_today": "236 stars this week"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,455",
+    "fork": "8,082",
+    "timestamp": "2025-09-29T02:25:07.204587",
+    "stars_today": "195 stars this week"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,976",
+    "fork": "1,874",
+    "timestamp": "2025-09-29T02:25:07.204893",
+    "stars_today": "276 stars this week"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,896",
+    "fork": "21,298",
+    "timestamp": "2025-09-29T02:25:07.205173",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+    "star": "5,000",
+    "fork": "674",
+    "timestamp": "2025-09-29T02:25:07.205470",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "hteen/apple-store-helper",
+    "href": "https://github.com/hteen/apple-store-helper",
+    "about": "Apple Store iPhone预约助手",
+    "star": "1,339",
+    "fork": "234",
+    "timestamp": "2025-09-29T02:25:07.205748",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,336",
+    "fork": "1,031",
+    "timestamp": "2025-09-29T02:25:07.206052",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,613",
+    "fork": "7,335",
+    "timestamp": "2025-09-29T02:25:07.206349",
+    "stars_today": "125 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,740",
+    "fork": "41,445",
+    "timestamp": "2025-09-29T02:25:07.206631",
+    "stars_today": "176 stars this week"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,259",
+    "fork": "1,335",
+    "timestamp": "2025-09-29T02:25:07.206911",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "6,870",
+    "fork": "831",
+    "timestamp": "2025-09-29T02:25:07.207192",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "18,075",
+    "fork": "1,122",
+    "timestamp": "2025-09-29T02:25:07.207485",
+    "stars_today": "349 stars this week"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,669",
+    "fork": "1,314",
+    "timestamp": "2025-09-29T02:25:07.207762",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "24,782",
+    "fork": "489",
+    "timestamp": "2025-09-29T02:25:07.208071",
+    "stars_today": "138 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,560",
+    "fork": "2,501",
+    "timestamp": "2025-09-29T02:25:07.208362",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "153,426",
+    "fork": "12,592",
+    "timestamp": "2025-09-29T02:25:07.208666",
+    "stars_today": "587 stars this week"
+  },
+  {
+    "repo": "everywall/ladder",
+    "href": "https://github.com/everywall/ladder",
+    "about": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+    "star": "5,866",
+    "fork": "260",
+    "timestamp": "2025-09-29T02:25:07.208946",
+    "stars_today": "179 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "65,288",
+    "fork": "2,256",
+    "timestamp": "2025-09-29T02:25:07.209251",
+    "stars_today": "303 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "3,578",
+    "fork": "137",
+    "timestamp": "2025-09-29T02:25:07.209539",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "26,609",
+    "fork": "3,796",
+    "timestamp": "2025-09-29T02:25:07.209814",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "ava-labs/avalanchego",
+    "href": "https://github.com/ava-labs/avalanchego",
+    "about": "Go implementation of an Avalanche node.",
+    "star": "2,291",
+    "fork": "801",
+    "timestamp": "2025-09-29T02:25:07.210091",
+    "stars_today": "15 stars this week"
+  }
+]

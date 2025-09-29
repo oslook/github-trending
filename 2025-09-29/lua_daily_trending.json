@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,386",
+    "fork": "39,949",
+    "timestamp": "2025-09-29T02:25:13.846638",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,034",
+    "fork": "322",
+    "timestamp": "2025-09-29T02:25:13.846936",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "11,376",
+    "fork": "869",
+    "timestamp": "2025-09-29T02:25:13.847224",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,801",
+    "fork": "131",
+    "timestamp": "2025-09-29T02:25:13.847554",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "18,955",
+    "fork": "493",
+    "timestamp": "2025-09-29T02:25:13.847830",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,509",
+    "fork": "247",
+    "timestamp": "2025-09-29T02:25:13.848110",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,403",
+    "fork": "524",
+    "timestamp": "2025-09-29T02:25:13.848402",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,551",
+    "fork": "318",
+    "timestamp": "2025-09-29T02:25:13.848679",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mrjones2014/smart-splits.nvim",
+    "href": "https://github.com/mrjones2014/smart-splits.nvim",
+    "about": "🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of \"up/down/left/right\".",
+    "star": "1,375",
+    "fork": "58",
+    "timestamp": "2025-09-29T02:25:13.848987",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/harpoon",
+    "href": "https://github.com/ThePrimeagen/harpoon",
+    "about": "",
+    "star": "8,542",
+    "fork": "459",
+    "timestamp": "2025-09-29T02:25:13.849324",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "hrsh7th/nvim-cmp",
+    "href": "https://github.com/hrsh7th/nvim-cmp",
+    "about": "A completion plugin for neovim coded in Lua.",
+    "star": "9,111",
+    "fork": "428",
+    "timestamp": "2025-09-29T02:25:13.849631",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,723",
+    "fork": "2,339",
+    "timestamp": "2025-09-29T02:25:13.849934",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,538",
+    "fork": "1,248",
+    "timestamp": "2025-09-29T02:25:13.850215",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,818",
+    "fork": "309",
+    "timestamp": "2025-09-29T02:25:13.850537",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,909",
+    "fork": "268",
+    "timestamp": "2025-09-29T02:25:13.850815",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,187",
+    "fork": "239",
+    "timestamp": "2025-09-29T02:25:13.851119",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "LandSandBoat/server",
+    "href": "https://github.com/LandSandBoat/server",
+    "about": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
+    "star": "396",
+    "fork": "761",
+    "timestamp": "2025-09-29T02:25:13.851412",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,456",
+    "fork": "490",
+    "timestamp": "2025-09-29T02:25:13.851693",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,309",
+    "fork": "912",
+    "timestamp": "2025-09-29T02:25:13.851977",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "Saghen/blink.cmp",
+    "href": "https://github.com/Saghen/blink.cmp",
+    "about": "Performant, batteries-included completion plugin for Neovim",
+    "star": "5,354",
+    "fork": "302",
+    "timestamp": "2025-09-29T02:25:13.852255",
+    "stars_today": "12 stars today"
+  }
+]
