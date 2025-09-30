@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,040",
+    "fork": "324",
+    "timestamp": "2025-09-30T02:20:17.747866",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,908",
+    "fork": "268",
+    "timestamp": "2025-09-30T02:20:17.748197",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,568",
+    "fork": "107",
+    "timestamp": "2025-09-30T02:20:17.748550",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,512",
+    "fork": "247",
+    "timestamp": "2025-09-30T02:20:17.748852",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,405",
+    "fork": "39,969",
+    "timestamp": "2025-09-30T02:20:17.749146",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "18,959",
+    "fork": "496",
+    "timestamp": "2025-09-30T02:20:17.749459",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "23,179",
+    "fork": "1,630",
+    "timestamp": "2025-09-30T02:20:17.749763",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,621",
+    "fork": "216",
+    "timestamp": "2025-09-30T02:20:17.750059",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,539",
+    "fork": "1,249",
+    "timestamp": "2025-09-30T02:20:17.750355",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "BeamMP/BeamMP",
+    "href": "https://github.com/BeamMP/BeamMP",
+    "about": "Bringing multiplayer to BeamNG.drive",
+    "star": "418",
+    "fork": "101",
+    "timestamp": "2025-09-30T02:20:17.750668",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "4,970",
+    "fork": "146",
+    "timestamp": "2025-09-30T02:20:17.750997",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,749",
+    "fork": "146",
+    "timestamp": "2025-09-30T02:20:17.751292",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "lukas-reineke/indent-blankline.nvim",
+    "href": "https://github.com/lukas-reineke/indent-blankline.nvim",
+    "about": "Indent guides for Neovim",
+    "star": "4,744",
+    "fork": "112",
+    "timestamp": "2025-09-30T02:20:17.751629",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "lite-xl/lite-xl",
+    "href": "https://github.com/lite-xl/lite-xl",
+    "about": "A lightweight text editor written in Lua",
+    "star": "5,719",
+    "fork": "276",
+    "timestamp": "2025-09-30T02:20:17.751921",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "16,012",
+    "fork": "724",
+    "timestamp": "2025-09-30T02:20:17.752215",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,189",
+    "fork": "239",
+    "timestamp": "2025-09-30T02:20:17.752548",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nvimtools/none-ls.nvim",
+    "href": "https://github.com/nvimtools/none-ls.nvim",
+    "about": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "star": "3,123",
+    "fork": "110",
+    "timestamp": "2025-09-30T02:20:17.752841",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,553",
+    "fork": "318",
+    "timestamp": "2025-09-30T02:20:17.753127",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,374",
+    "fork": "1,530",
+    "timestamp": "2025-09-30T02:20:17.753413",
+    "stars_today": "18 stars today"
+  }
+]
