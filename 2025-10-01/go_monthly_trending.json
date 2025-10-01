@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "5,318",
+    "fork": "404",
+    "timestamp": "2025-10-01T02:41:23.284937",
+    "stars_today": "3,220 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,124",
+    "fork": "8,427",
+    "timestamp": "2025-10-01T02:41:23.285261",
+    "stars_today": "2,481 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "22,543",
+    "fork": "2,075",
+    "timestamp": "2025-10-01T02:41:23.285552",
+    "stars_today": "2,199 stars this month"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "12,453",
+    "fork": "1,624",
+    "timestamp": "2025-10-01T02:41:23.285844",
+    "stars_today": "1,137 stars this month"
+  },
+  {
+    "repo": "google/mangle",
+    "href": "https://github.com/google/mangle",
+    "about": "",
+    "star": "2,789",
+    "fork": "140",
+    "timestamp": "2025-10-01T02:41:23.286145",
+    "stars_today": "1,003 stars this month"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,933",
+    "fork": "754",
+    "timestamp": "2025-10-01T02:41:23.286439",
+    "stars_today": "79 stars this month"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "15,279",
+    "fork": "391",
+    "timestamp": "2025-10-01T02:41:23.286722",
+    "stars_today": "556 stars this month"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "11,376",
+    "fork": "1,033",
+    "timestamp": "2025-10-01T02:41:23.287010",
+    "stars_today": "1,854 stars this month"
+  },
+  {
+    "repo": "docker/mcp-gateway",
+    "href": "https://github.com/docker/mcp-gateway",
+    "about": "docker mcp CLI plugin / MCP Gateway",
+    "star": "713",
+    "fork": "97",
+    "timestamp": "2025-10-01T02:41:23.287309",
+    "stars_today": "419 stars this month"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,814",
+    "fork": "739",
+    "timestamp": "2025-10-01T02:41:23.287595",
+    "stars_today": "410 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,124",
+    "fork": "2,759",
+    "timestamp": "2025-10-01T02:41:23.287881",
+    "stars_today": "1,073 stars this month"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,075",
+    "fork": "211",
+    "timestamp": "2025-10-01T02:41:23.288174",
+    "stars_today": "801 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,409",
+    "fork": "4,583",
+    "timestamp": "2025-10-01T02:41:23.288461",
+    "stars_today": "291 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "15,501",
+    "fork": "478",
+    "timestamp": "2025-10-01T02:41:23.288744",
+    "stars_today": "1,339 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "37,725",
+    "fork": "3,449",
+    "timestamp": "2025-10-01T02:41:23.289030",
+    "stars_today": "916 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,775",
+    "fork": "41,464",
+    "timestamp": "2025-10-01T02:41:23.289324",
+    "stars_today": "712 stars this month"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,657",
+    "fork": "1,840",
+    "timestamp": "2025-10-01T02:41:23.289616",
+    "stars_today": "780 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,345",
+    "fork": "2,687",
+    "timestamp": "2025-10-01T02:41:23.289900",
+    "stars_today": "1,226 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,639",
+    "fork": "580",
+    "timestamp": "2025-10-01T02:41:23.290227",
+    "stars_today": "583 stars this month"
+  },
+  {
+    "repo": "crowdsecurity/crowdsec",
+    "href": "https://github.com/crowdsecurity/crowdsec",
+    "about": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+    "star": "11,272",
+    "fork": "538",
+    "timestamp": "2025-10-01T02:41:23.290513",
+    "stars_today": "314 stars this month"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,357",
+    "fork": "4,522",
+    "timestamp": "2025-10-01T02:41:23.290799",
+    "stars_today": "114 stars this month"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "49,941",
+    "fork": "21,335",
+    "timestamp": "2025-10-01T02:41:23.291082",
+    "stars_today": "340 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "37,997",
+    "fork": "1,878",
+    "timestamp": "2025-10-01T02:41:23.291404",
+    "stars_today": "537 stars this month"
+  }
+]
