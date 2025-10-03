@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,881",
+    "fork": "3,029",
+    "timestamp": "2025-10-03T02:18:55.029427",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,304",
+    "fork": "2,380",
+    "timestamp": "2025-10-03T02:18:55.029752",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "694",
+    "fork": "219",
+    "timestamp": "2025-10-03T02:18:55.030034",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,767",
+    "fork": "518",
+    "timestamp": "2025-10-03T02:18:55.030312",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "101",
+    "fork": "33",
+    "timestamp": "2025-10-03T02:18:55.030604",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,429",
+    "fork": "1,181",
+    "timestamp": "2025-10-03T02:18:55.030883",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aws-beam/aws_credentials",
+    "href": "https://github.com/aws-beam/aws_credentials",
+    "about": "An Erlang library to provide AWS credentials",
+    "star": "29",
+    "fork": "28",
+    "timestamp": "2025-10-03T02:18:55.031159",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "432",
+    "fork": "64",
+    "timestamp": "2025-10-03T02:18:55.031432",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "253",
+    "fork": "83",
+    "timestamp": "2025-10-03T02:18:55.031718",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,088",
+    "fork": "236",
+    "timestamp": "2025-10-03T02:18:55.032024",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "824",
+    "fork": "230",
+    "timestamp": "2025-10-03T02:18:55.032329",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "seth/ej",
+    "href": "https://github.com/seth/ej",
+    "about": "Helper module for working with Erlang terms representing JSON",
+    "star": "176",
+    "fork": "46",
+    "timestamp": "2025-10-03T02:18:55.032621",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,686",
+    "fork": "1,054",
+    "timestamp": "2025-10-03T02:18:55.032898",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "aws-beam/aws-erlang",
+    "href": "https://github.com/aws-beam/aws-erlang",
+    "about": "Create, configure, and manage AWS services from Erlang code.",
+    "star": "84",
+    "fork": "33",
+    "timestamp": "2025-10-03T02:18:55.033178",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "67",
+    "fork": "38",
+    "timestamp": "2025-10-03T02:18:55.033453",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "330",
+    "fork": "111",
+    "timestamp": "2025-10-03T02:18:55.033741",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "902",
+    "fork": "167",
+    "timestamp": "2025-10-03T02:18:55.034014",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nomasystems/erf",
+    "href": "https://github.com/nomasystems/erf",
+    "about": "📝 A design-first Erlang REST Framework.",
+    "star": "38",
+    "fork": "4",
+    "timestamp": "2025-10-03T02:18:55.034289",
+    "stars_today": "0 stars today"
+  }
+]

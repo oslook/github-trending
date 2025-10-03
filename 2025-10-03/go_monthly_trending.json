@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "5,395",
+    "fork": "405",
+    "timestamp": "2025-10-03T02:18:57.531957",
+    "stars_today": "3,278 stars this month"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,184",
+    "fork": "8,433",
+    "timestamp": "2025-10-03T02:18:57.532251",
+    "stars_today": "2,513 stars this month"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "22,624",
+    "fork": "2,079",
+    "timestamp": "2025-10-03T02:18:57.532533",
+    "stars_today": "2,262 stars this month"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "star": "12,462",
+    "fork": "1,625",
+    "timestamp": "2025-10-03T02:18:57.532839",
+    "stars_today": "1,133 stars this month"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,939",
+    "fork": "754",
+    "timestamp": "2025-10-03T02:18:57.533112",
+    "stars_today": "82 stars this month"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "11,410",
+    "fork": "1,033",
+    "timestamp": "2025-10-03T02:18:57.533387",
+    "stars_today": "1,882 stars this month"
+  },
+  {
+    "repo": "docker/mcp-gateway",
+    "href": "https://github.com/docker/mcp-gateway",
+    "about": "docker mcp CLI plugin / MCP Gateway",
+    "star": "724",
+    "fork": "99",
+    "timestamp": "2025-10-03T02:18:57.533671",
+    "stars_today": "429 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,416",
+    "fork": "4,585",
+    "timestamp": "2025-10-03T02:18:57.533989",
+    "stars_today": "294 stars this month"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,731",
+    "fork": "1,845",
+    "timestamp": "2025-10-03T02:18:57.534261",
+    "stars_today": "831 stars this month"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,830",
+    "fork": "740",
+    "timestamp": "2025-10-03T02:18:57.534533",
+    "stars_today": "411 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "15,527",
+    "fork": "480",
+    "timestamp": "2025-10-03T02:18:57.534816",
+    "stars_today": "1,332 stars this month"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,250",
+    "fork": "2,762",
+    "timestamp": "2025-10-03T02:18:57.535084",
+    "stars_today": "1,194 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,656",
+    "fork": "580",
+    "timestamp": "2025-10-03T02:18:57.535379",
+    "stars_today": "587 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,802",
+    "fork": "41,462",
+    "timestamp": "2025-10-03T02:18:57.535660",
+    "stars_today": "696 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,379",
+    "fork": "2,689",
+    "timestamp": "2025-10-03T02:18:57.535937",
+    "stars_today": "1,233 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "38,016",
+    "fork": "1,879",
+    "timestamp": "2025-10-03T02:18:57.536236",
+    "stars_today": "543 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "37,750",
+    "fork": "3,450",
+    "timestamp": "2025-10-03T02:18:57.536506",
+    "stars_today": "897 stars this month"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,100",
+    "fork": "213",
+    "timestamp": "2025-10-03T02:18:57.536794",
+    "stars_today": "628 stars this month"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,475",
+    "fork": "8,085",
+    "timestamp": "2025-10-03T02:18:57.537066",
+    "stars_today": "299 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,116",
+    "fork": "2,016",
+    "timestamp": "2025-10-03T02:18:57.537336",
+    "stars_today": "623 stars this month"
+  },
+  {
+    "repo": "Done-0/fuck-u-code",
+    "href": "https://github.com/Done-0/fuck-u-code",
+    "about": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+    "star": "4,788",
+    "fork": "236",
+    "timestamp": "2025-10-03T02:18:57.537621",
+    "stars_today": "1,646 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "83,945",
+    "fork": "8,041",
+    "timestamp": "2025-10-03T02:18:57.537894",
+    "stars_today": "829 stars this month"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,250",
+    "fork": "2,762",
+    "timestamp": "2025-10-03T02:18:57.261231",
+    "stars_today": "105 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,416",
+    "fork": "4,585",
+    "timestamp": "2025-10-03T02:18:57.261533",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "envoyproxy/gateway",
+    "href": "https://github.com/envoyproxy/gateway",
+    "about": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+    "star": "2,123",
+    "fork": "556",
+    "timestamp": "2025-10-03T02:18:57.261831",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,838",
+    "fork": "1,736",
+    "timestamp": "2025-10-03T02:18:57.262116",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ThreeDotsLabs/watermill",
+    "href": "https://github.com/ThreeDotsLabs/watermill",
+    "about": "Building event-driven applications the easy way in Go.",
+    "star": "9,043",
+    "fork": "462",
+    "timestamp": "2025-10-03T02:18:57.262403",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "derailed/k9s",
+    "href": "https://github.com/derailed/k9s",
+    "about": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "star": "31,347",
+    "fork": "1,972",
+    "timestamp": "2025-10-03T02:18:57.262728",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,527",
+    "fork": "9,734",
+    "timestamp": "2025-10-03T02:18:57.263011",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "22,320",
+    "fork": "708",
+    "timestamp": "2025-10-03T02:18:57.263290",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,811",
+    "fork": "6,410",
+    "timestamp": "2025-10-03T02:18:57.263579",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,668",
+    "fork": "3,801",
+    "timestamp": "2025-10-03T02:18:57.263863",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "uber-go/mock",
+    "href": "https://github.com/uber-go/mock",
+    "about": "GoMock is a mocking framework for the Go programming language.",
+    "star": "3,076",
+    "fork": "153",
+    "timestamp": "2025-10-03T02:18:57.264142",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "href": "https://github.com/fluxcd/flux2",
+    "about": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "star": "7,456",
+    "fork": "679",
+    "timestamp": "2025-10-03T02:18:57.264419",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Done-0/fuck-u-code",
+    "href": "https://github.com/Done-0/fuck-u-code",
+    "about": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+    "star": "4,788",
+    "fork": "236",
+    "timestamp": "2025-10-03T02:18:57.264709",
+    "stars_today": "168 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "29,048",
+    "fork": "2,812",
+    "timestamp": "2025-10-03T02:18:57.264986",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "star": "11,149",
+    "fork": "1,655",
+    "timestamp": "2025-10-03T02:18:57.265289",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "23,231",
+    "fork": "2,665",
+    "timestamp": "2025-10-03T02:18:57.265576",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers dynamically from Kubernetes resources",
+    "star": "8,508",
+    "fork": "2,756",
+    "timestamp": "2025-10-03T02:18:57.265854",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,916",
+    "fork": "2,659",
+    "timestamp": "2025-10-03T02:18:57.266128",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "getsops/sops",
+    "href": "https://github.com/getsops/sops",
+    "about": "Simple and flexible tool for managing secrets",
+    "star": "19,594",
+    "fork": "968",
+    "timestamp": "2025-10-03T02:18:57.266403",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "4,605",
+    "fork": "260",
+    "timestamp": "2025-10-03T02:18:57.266689",
+    "stars_today": "10 stars today"
+  }
+]
