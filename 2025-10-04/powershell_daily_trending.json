@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "12,002",
+    "fork": "3,521",
+    "timestamp": "2025-10-04T02:14:52.782638",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "microsoft/Agents",
+    "href": "https://github.com/microsoft/Agents",
+    "about": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+    "star": "474",
+    "fork": "179",
+    "timestamp": "2025-10-04T02:14:52.783004",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "6,953",
+    "fork": "963",
+    "timestamp": "2025-10-04T02:14:52.783297",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mandiant/flare-vm",
+    "href": "https://github.com/mandiant/flare-vm",
+    "about": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+    "star": "7,821",
+    "fork": "1,034",
+    "timestamp": "2025-10-04T02:14:52.783589",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "samratashok/nishang",
+    "href": "https://github.com/samratashok/nishang",
+    "about": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security.",
+    "star": "9,506",
+    "fork": "2,528",
+    "timestamp": "2025-10-04T02:14:52.783887",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ntdevlabs/tiny11builder",
+    "href": "https://github.com/ntdevlabs/tiny11builder",
+    "about": "Scripts to build a trimmed-down Windows 11 image.",
+    "star": "14,399",
+    "fork": "1,155",
+    "timestamp": "2025-10-04T02:14:52.784210",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "SkipToTheEndpoint/OpenIntuneBaseline",
+    "href": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+    "about": "Community-driven baseline to accelerate Intune adoption and learning.",
+    "star": "990",
+    "fork": "201",
+    "timestamp": "2025-10-04T02:14:52.784495",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "PowerShellMafia/PowerSploit",
+    "href": "https://github.com/PowerShellMafia/PowerSploit",
+    "about": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "star": "12,630",
+    "fork": "4,707",
+    "timestamp": "2025-10-04T02:14:52.784782",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "dartraiden/NVIDIA-patcher",
+    "href": "https://github.com/dartraiden/NVIDIA-patcher",
+    "about": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.",
+    "star": "966",
+    "fork": "83",
+    "timestamp": "2025-10-04T02:14:52.785079",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SpecterOps/BloodHound-Legacy",
+    "href": "https://github.com/SpecterOps/BloodHound-Legacy",
+    "about": "Six Degrees of Domain Admin",
+    "star": "10,346",
+    "fork": "1,783",
+    "timestamp": "2025-10-04T02:14:52.785356",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "40,773",
+    "fork": "2,176",
+    "timestamp": "2025-10-04T02:14:52.785669",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Scoop",
+    "href": "https://github.com/ScoopInstaller/Scoop",
+    "about": "A command-line installer for Windows.",
+    "star": "22,955",
+    "fork": "1,477",
+    "timestamp": "2025-10-04T02:14:52.786003",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "2,021",
+    "fork": "603",
+    "timestamp": "2025-10-04T02:14:52.786290",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,666",
+    "fork": "308",
+    "timestamp": "2025-10-04T02:14:52.786577",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "star": "27,141",
+    "fork": "1,138",
+    "timestamp": "2025-10-04T02:14:52.786905",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst",
+    "href": "https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst",
+    "about": "",
+    "star": "682",
+    "fork": "496",
+    "timestamp": "2025-10-04T02:14:52.787217",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ionuttbara/windows-defender-remover",
+    "href": "https://github.com/ionuttbara/windows-defender-remover",
+    "about": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
+    "star": "6,357",
+    "fork": "415",
+    "timestamp": "2025-10-04T02:14:52.787511",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "microsoft/AL-Go",
+    "href": "https://github.com/microsoft/AL-Go",
+    "about": "The plug-and-play DevOps solution for Business Central app development on GitHub",
+    "star": "395",
+    "fork": "165",
+    "timestamp": "2025-10-04T02:14:52.787802",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Versions",
+    "href": "https://github.com/ScoopInstaller/Versions",
+    "about": "📦 A Scoop bucket for alternative versions of apps.",
+    "star": "243",
+    "fork": "236",
+    "timestamp": "2025-10-04T02:14:52.788140",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dahlbyk/posh-git",
+    "href": "https://github.com/dahlbyk/posh-git",
+    "about": "A PowerShell environment for Git",
+    "star": "8,053",
+    "fork": "822",
+    "timestamp": "2025-10-04T02:14:52.788461",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "SpotX-Official/SpotX",
+    "href": "https://github.com/SpotX-Official/SpotX",
+    "about": "SpotX patcher used for patching the desktop version of Spotify",
+    "star": "18,309",
+    "fork": "945",
+    "timestamp": "2025-10-04T02:14:52.788748",
+    "stars_today": "10 stars today"
+  }
+]
