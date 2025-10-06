@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,023",
+    "fork": "28,866",
+    "timestamp": "2025-10-06T02:23:00.022498",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,453",
+    "fork": "12,592",
+    "timestamp": "2025-10-06T02:23:00.022797",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,251",
+    "fork": "962",
+    "timestamp": "2025-10-06T02:23:00.023074",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/carbondata",
+    "href": "https://github.com/apache/carbondata",
+    "about": "High performance data store solution",
+    "star": "1,439",
+    "fork": "703",
+    "timestamp": "2025-10-06T02:23:00.023375",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/texera",
+    "href": "https://github.com/apache/texera",
+    "about": "Collaborative Machine-Learning-Centric Data Analytics Using Workflows",
+    "star": "204",
+    "fork": "103",
+    "timestamp": "2025-10-06T02:23:00.023659",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,309",
+    "fork": "1,932",
+    "timestamp": "2025-10-06T02:23:00.023943",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,566",
+    "fork": "1,189",
+    "timestamp": "2025-10-06T02:23:00.024235",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,671",
+    "fork": "823",
+    "timestamp": "2025-10-06T02:23:00.024516",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,423",
+    "fork": "639",
+    "timestamp": "2025-10-06T02:23:00.024801",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,451",
+    "fork": "583",
+    "timestamp": "2025-10-06T02:23:00.025077",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala-native/scala-native",
+    "href": "https://github.com/scala-native/scala-native",
+    "about": "Your favorite language gets closer to bare metal.",
+    "star": "4,612",
+    "fork": "379",
+    "timestamp": "2025-10-06T02:23:00.025368",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,118",
+    "fork": "1,116",
+    "timestamp": "2025-10-06T02:23:00.025649",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "232",
+    "fork": "76",
+    "timestamp": "2025-10-06T02:23:00.025926",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "347",
+    "fork": "96",
+    "timestamp": "2025-10-06T02:23:00.026237",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "1,986",
+    "fork": "767",
+    "timestamp": "2025-10-06T02:23:00.026515",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "198",
+    "fork": "51",
+    "timestamp": "2025-10-06T02:23:00.026790",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,166",
+    "fork": "2,475",
+    "timestamp": "2025-10-06T02:23:00.027063",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,456",
+    "fork": "181",
+    "timestamp": "2025-10-06T02:23:00.027353",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/testchipip",
+    "href": "https://github.com/ucb-bar/testchipip",
+    "about": "",
+    "star": "85",
+    "fork": "67",
+    "timestamp": "2025-10-06T02:23:00.027650",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,221",
+    "fork": "3,582",
+    "timestamp": "2025-10-06T02:23:00.027927",
+    "stars_today": "1 star today"
+  }
+]
