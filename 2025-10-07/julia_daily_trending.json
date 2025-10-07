@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "665",
+    "fork": "511",
+    "timestamp": "2025-10-07T02:20:08.725458",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/DiffEqFlux.jl",
+    "href": "https://github.com/SciML/DiffEqFlux.jl",
+    "about": "Pre-built implicit layer architectures with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods",
+    "star": "896",
+    "fork": "163",
+    "timestamp": "2025-10-07T02:20:08.725793",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jump-dev/JuMP.jl",
+    "href": "https://github.com/jump-dev/JuMP.jl",
+    "about": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+    "star": "2,349",
+    "fork": "410",
+    "timestamp": "2025-10-07T02:20:08.726095",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/ClimaOcean.jl",
+    "href": "https://github.com/CliMA/ClimaOcean.jl",
+    "about": "🌎 Regional-to-global coupled ocean and sea ice simulations based on Oceananigans",
+    "star": "52",
+    "fork": "20",
+    "timestamp": "2025-10-07T02:20:08.726386",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "47,756",
+    "fork": "5,649",
+    "timestamp": "2025-10-07T02:20:08.726700",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gridap/Gridap.jl",
+    "href": "https://github.com/gridap/Gridap.jl",
+    "about": "Grid-based approximation of partial differential equations in Julia",
+    "star": "814",
+    "fork": "103",
+    "timestamp": "2025-10-07T02:20:08.726995",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Enzyme.jl",
+    "href": "https://github.com/EnzymeAD/Enzyme.jl",
+    "about": "Julia bindings for the Enzyme automatic differentiator",
+    "star": "516",
+    "fork": "76",
+    "timestamp": "2025-10-07T02:20:08.727281",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCore.jl",
+    "href": "https://github.com/CliMA/ClimaCore.jl",
+    "about": "CliMA model dycore",
+    "star": "105",
+    "fork": "16",
+    "timestamp": "2025-10-07T02:20:08.727654",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaMath/SpecialFunctions.jl",
+    "href": "https://github.com/JuliaMath/SpecialFunctions.jl",
+    "about": "Special mathematical functions in Julia",
+    "star": "374",
+    "fork": "104",
+    "timestamp": "2025-10-07T02:20:08.727958",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "trixi-framework/Trixi.jl",
+    "href": "https://github.com/trixi-framework/Trixi.jl",
+    "about": "Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia",
+    "star": "623",
+    "fork": "128",
+    "timestamp": "2025-10-07T02:20:08.728239",
+    "stars_today": "1 star today"
+  }
+]
