@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,057",
+    "fork": "3,051",
+    "timestamp": "2025-10-09T02:21:32.193026",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,402",
+    "fork": "4,527",
+    "timestamp": "2025-10-09T02:21:32.193345",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,534",
+    "fork": "9,748",
+    "timestamp": "2025-10-09T02:21:32.193636",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "22,579",
+    "fork": "3,426",
+    "timestamp": "2025-10-09T02:21:32.193920",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "130,200",
+    "fork": "18,431",
+    "timestamp": "2025-10-09T02:21:32.194202",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "31,560",
+    "fork": "1,692",
+    "timestamp": "2025-10-09T02:21:32.194499",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "sjzar/chatlog",
+    "href": "https://github.com/sjzar/chatlog",
+    "about": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
+    "star": "8,698",
+    "fork": "1,243",
+    "timestamp": "2025-10-09T02:21:32.194786",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,681",
+    "fork": "3,803",
+    "timestamp": "2025-10-09T02:21:32.195060",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "7,865",
+    "fork": "459",
+    "timestamp": "2025-10-09T02:21:32.195360",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,792",
+    "fork": "277",
+    "timestamp": "2025-10-09T02:21:32.195646",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,862",
+    "fork": "6,438",
+    "timestamp": "2025-10-09T02:21:32.195927",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "40,968",
+    "fork": "7,211",
+    "timestamp": "2025-10-09T02:21:32.196207",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,625",
+    "fork": "1,043",
+    "timestamp": "2025-10-09T02:21:32.196506",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,316",
+    "fork": "235",
+    "timestamp": "2025-10-09T02:21:32.196789",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,526",
+    "fork": "690",
+    "timestamp": "2025-10-09T02:21:32.197066",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sqlc-dev/sqlc",
+    "href": "https://github.com/sqlc-dev/sqlc",
+    "about": "Generate type-safe code from SQL",
+    "star": "16,090",
+    "fork": "949",
+    "timestamp": "2025-10-09T02:21:32.197358",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "3,897",
+    "fork": "179",
+    "timestamp": "2025-10-09T02:21:32.197641",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,002",
+    "fork": "8,451",
+    "timestamp": "2025-10-09T02:21:32.197919",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "55,611",
+    "fork": "6,203",
+    "timestamp": "2025-10-09T02:21:32.198194",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "25,012",
+    "fork": "2,907",
+    "timestamp": "2025-10-09T02:21:32.198490",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,607",
+    "fork": "2,351",
+    "timestamp": "2025-10-09T02:21:32.198775",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "84,042",
+    "fork": "8,049",
+    "timestamp": "2025-10-09T02:21:32.199056",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,789",
+    "fork": "4,063",
+    "timestamp": "2025-10-09T02:21:32.199344",
+    "stars_today": "1 star today"
+  }
+]

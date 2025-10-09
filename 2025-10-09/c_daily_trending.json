@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "12,025",
+    "fork": "998",
+    "timestamp": "2025-10-09T02:21:22.175593",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "28,739",
+    "fork": "10,859",
+    "timestamp": "2025-10-09T02:21:22.175936",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "madler/zlib",
+    "href": "https://github.com/madler/zlib",
+    "about": "A massively spiffy yet delicately unobtrusive compression library.",
+    "star": "6,410",
+    "fork": "2,626",
+    "timestamp": "2025-10-09T02:21:22.176234",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+    "star": "71,131",
+    "fork": "24,273",
+    "timestamp": "2025-10-09T02:21:22.176546",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "jqlang/jq",
+    "href": "https://github.com/jqlang/jq",
+    "about": "Command-line JSON processor",
+    "star": "32,727",
+    "fork": "1,672",
+    "timestamp": "2025-10-09T02:21:22.176835",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+    "star": "23,133",
+    "fork": "995",
+    "timestamp": "2025-10-09T02:21:22.177121",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "mit-pdos/xv6-riscv",
+    "href": "https://github.com/mit-pdos/xv6-riscv",
+    "about": "Xv6 for RISC-V",
+    "star": "8,690",
+    "fork": "3,373",
+    "timestamp": "2025-10-09T02:21:22.177448",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "39,507",
+    "fork": "6,894",
+    "timestamp": "2025-10-09T02:21:22.177776",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "OpenMathLib/OpenBLAS",
+    "href": "https://github.com/OpenMathLib/OpenBLAS",
+    "about": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "star": "7,023",
+    "fork": "1,598",
+    "timestamp": "2025-10-09T02:21:22.178070",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "25,891",
+    "fork": "3,759",
+    "timestamp": "2025-10-09T02:21:22.178377",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "EpicGamesExt/raddebugger",
+    "href": "https://github.com/EpicGamesExt/raddebugger",
+    "about": "A native, user-mode, multi-process, graphical debugger.",
+    "star": "6,032",
+    "fork": "256",
+    "timestamp": "2025-10-09T02:21:22.178665",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "DarkFlippers/unleashed-firmware",
+    "href": "https://github.com/DarkFlippers/unleashed-firmware",
+    "about": "Flipper Zero Unleashed Firmware",
+    "star": "20,191",
+    "fork": "1,691",
+    "timestamp": "2025-10-09T02:21:22.178962",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mcu-tools/mcuboot",
+    "href": "https://github.com/mcu-tools/mcuboot",
+    "about": "Secure boot for 32-bit Microcontrollers!",
+    "star": "1,667",
+    "fork": "824",
+    "timestamp": "2025-10-09T02:21:22.179253",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "24,118",
+    "fork": "11,613",
+    "timestamp": "2025-10-09T02:21:22.179552",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-zephyr",
+    "href": "https://github.com/nrfconnect/sdk-zephyr",
+    "about": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+    "star": "343",
+    "fork": "713",
+    "timestamp": "2025-10-09T02:21:22.179839",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "pgbouncer/pgbouncer",
+    "href": "https://github.com/pgbouncer/pgbouncer",
+    "about": "lightweight connection pooler for PostgreSQL",
+    "star": "3,549",
+    "fork": "518",
+    "timestamp": "2025-10-09T02:21:22.180123",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,950",
+    "fork": "961",
+    "timestamp": "2025-10-09T02:21:22.180432",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "facebook/zstd",
+    "href": "https://github.com/facebook/zstd",
+    "about": "Zstandard - Fast real-time compression algorithm",
+    "star": "25,791",
+    "fork": "2,320",
+    "timestamp": "2025-10-09T02:21:22.180732",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "coturn/coturn",
+    "href": "https://github.com/coturn/coturn",
+    "about": "coturn TURN server project",
+    "star": "13,026",
+    "fork": "2,169",
+    "timestamp": "2025-10-09T02:21:22.181021",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "BasedHardware/omi",
+    "href": "https://github.com/BasedHardware/omi",
+    "about": "AI wearables. Put it on, speak, transcribe, automatically",
+    "star": "7,048",
+    "fork": "1,172",
+    "timestamp": "2025-10-09T02:21:22.181350",
+    "stars_today": "9 stars today"
+  }
+]

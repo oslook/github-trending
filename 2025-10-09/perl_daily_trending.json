@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "brendangregg/FlameGraph",
+    "href": "https://github.com/brendangregg/FlameGraph",
+    "about": "Stack trace visualizer",
+    "star": "18,804",
+    "fork": "2,056",
+    "timestamp": "2025-10-09T02:21:43.582397",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "glpi-project/glpi-agent",
+    "href": "https://github.com/glpi-project/glpi-agent",
+    "about": "GLPI Agent",
+    "star": "343",
+    "fork": "92",
+    "timestamp": "2025-10-09T02:21:43.582960",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "major/MySQLTuner-perl",
+    "href": "https://github.com/major/MySQLTuner-perl",
+    "about": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+    "star": "9,335",
+    "fork": "1,296",
+    "timestamp": "2025-10-09T02:21:43.583461",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ocpi/ocpi",
+    "href": "https://github.com/ocpi/ocpi",
+    "about": "The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",
+    "star": "521",
+    "fork": "220",
+    "timestamp": "2025-10-09T02:21:43.583757",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "darold/ora2pg",
+    "href": "https://github.com/darold/ora2pg",
+    "about": "Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",
+    "star": "1,147",
+    "fork": "369",
+    "timestamp": "2025-10-09T02:21:43.584037",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Perl/perl5",
+    "href": "https://github.com/Perl/perl5",
+    "about": "🐪 The Perl programming language",
+    "star": "2,177",
+    "fork": "597",
+    "timestamp": "2025-10-09T02:21:43.584337",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "darold/pgbadger",
+    "href": "https://github.com/darold/pgbadger",
+    "about": "A fast PostgreSQL Log Analyzer",
+    "star": "3,834",
+    "fork": "359",
+    "timestamp": "2025-10-09T02:21:43.584624",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "inverse-inc/packetfence",
+    "href": "https://github.com/inverse-inc/packetfence",
+    "about": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+    "star": "1,545",
+    "fork": "306",
+    "timestamp": "2025-10-09T02:21:43.584901",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "centreon/centreon-plugins",
+    "href": "https://github.com/centreon/centreon-plugins",
+    "about": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
+    "star": "327",
+    "fork": "289",
+    "timestamp": "2025-10-09T02:21:43.585178",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tseemann/prokka",
+    "href": "https://github.com/tseemann/prokka",
+    "about": "⚡ ♒ Rapid prokaryotic genome annotation",
+    "star": "935",
+    "fork": "231",
+    "timestamp": "2025-10-09T02:21:43.585467",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "AlDanial/cloc",
+    "href": "https://github.com/AlDanial/cloc",
+    "about": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+    "star": "21,779",
+    "fork": "1,074",
+    "timestamp": "2025-10-09T02:21:43.585769",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Difegue/LANraragi",
+    "href": "https://github.com/Difegue/LANraragi",
+    "about": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+    "star": "2,693",
+    "fork": "193",
+    "timestamp": "2025-10-09T02:21:43.586070",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "jlord/git-it-electron",
+    "href": "https://github.com/jlord/git-it-electron",
+    "about": "💻 🎓 Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",
+    "star": "4,823",
+    "fork": "1,200",
+    "timestamp": "2025-10-09T02:21:43.586384",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "justingit/dada-mail",
+    "href": "https://github.com/justingit/dada-mail",
+    "about": "Self-Hosted, Full Featured, Email Mailing List Manager. Announcement + Discussion Lists, Web-based Installer, Installs with minimal dependencies, sendmail/SMTP/Amazon SES supported",
+    "star": "179",
+    "fork": "42",
+    "timestamp": "2025-10-09T02:21:43.586656",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SpiderLabs/owasp-modsecurity-crs",
+    "href": "https://github.com/SpiderLabs/owasp-modsecurity-crs",
+    "about": "OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)",
+    "star": "2,469",
+    "fork": "733",
+    "timestamp": "2025-10-09T02:21:43.586932",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "trinityrnaseq/trinityrnaseq",
+    "href": "https://github.com/trinityrnaseq/trinityrnaseq",
+    "about": "Trinity RNA-Seq de novo transcriptome assembly",
+    "star": "872",
+    "fork": "319",
+    "timestamp": "2025-10-09T02:21:43.587211",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "adrienverge/openfortivpn",
+    "href": "https://github.com/adrienverge/openfortivpn",
+    "about": "Client for PPP+TLS VPN tunnel services",
+    "star": "3,059",
+    "fork": "348",
+    "timestamp": "2025-10-09T02:21:43.587590",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "fusioninventory/fusioninventory-agent",
+    "href": "https://github.com/fusioninventory/fusioninventory-agent",
+    "about": "FusionInventory Agent",
+    "star": "264",
+    "fork": "128",
+    "timestamp": "2025-10-09T02:21:43.587869",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "netdisco/netdisco",
+    "href": "https://github.com/netdisco/netdisco",
+    "about": "A web-based network management tool.",
+    "star": "761",
+    "fork": "89",
+    "timestamp": "2025-10-09T02:21:43.588173",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "FelixKrueger/TrimGalore",
+    "href": "https://github.com/FelixKrueger/TrimGalore",
+    "about": "A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",
+    "star": "524",
+    "fork": "156",
+    "timestamp": "2025-10-09T02:21:43.588463",
+    "stars_today": "0 stars today"
+  }
+]
