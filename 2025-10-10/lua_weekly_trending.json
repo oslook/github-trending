@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,096",
+    "fork": "333",
+    "timestamp": "2025-10-10T02:22:08.759877",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "19,062",
+    "fork": "496",
+    "timestamp": "2025-10-10T02:22:08.760169",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,770",
+    "fork": "147",
+    "timestamp": "2025-10-10T02:22:08.760456",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,548",
+    "fork": "40,351",
+    "timestamp": "2025-10-10T02:22:08.760754",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,366",
+    "fork": "916",
+    "timestamp": "2025-10-10T02:22:08.761037",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,692",
+    "fork": "245",
+    "timestamp": "2025-10-10T02:22:08.761359",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,539",
+    "fork": "248",
+    "timestamp": "2025-10-10T02:22:08.761670",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,108",
+    "fork": "633",
+    "timestamp": "2025-10-10T02:22:08.761952",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,511",
+    "fork": "1,534",
+    "timestamp": "2025-10-10T02:22:08.762231",
+    "stars_today": "95 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "1,083",
+    "fork": "76",
+    "timestamp": "2025-10-10T02:22:08.762509",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "16,084",
+    "fork": "733",
+    "timestamp": "2025-10-10T02:22:08.762803",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,638",
+    "fork": "216",
+    "timestamp": "2025-10-10T02:22:08.763080",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,559",
+    "fork": "300",
+    "timestamp": "2025-10-10T02:22:08.763390",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,846",
+    "fork": "311",
+    "timestamp": "2025-10-10T02:22:08.763713",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "5,352",
+    "fork": "151",
+    "timestamp": "2025-10-10T02:22:08.763996",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,919",
+    "fork": "271",
+    "timestamp": "2025-10-10T02:22:08.764275",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "5,522",
+    "fork": "206",
+    "timestamp": "2025-10-10T02:22:08.764551",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "ThePrimeagen/vim-be-good",
+    "href": "https://github.com/ThePrimeagen/vim-be-good",
+    "about": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+    "star": "4,091",
+    "fork": "166",
+    "timestamp": "2025-10-10T02:22:08.764870",
+    "stars_today": "18 stars this week"
+  }
+]

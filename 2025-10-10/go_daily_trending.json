@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "timelinize/timelinize",
+    "href": "https://github.com/timelinize/timelinize",
+    "about": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+    "star": "2,210",
+    "fork": "64",
+    "timestamp": "2025-10-10T02:22:00.394067",
+    "stars_today": "225 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,432",
+    "fork": "4,589",
+    "timestamp": "2025-10-10T02:22:00.394366",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,798",
+    "fork": "278",
+    "timestamp": "2025-10-10T02:22:00.394663",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "11,553",
+    "fork": "1,051",
+    "timestamp": "2025-10-10T02:22:00.394948",
+    "stars_today": "54 stars today"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "13,099",
+    "fork": "2,783",
+    "timestamp": "2025-10-10T02:22:00.395226",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "31,897",
+    "fork": "4,213",
+    "timestamp": "2025-10-10T02:22:00.395536",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "anchore/grype",
+    "href": "https://github.com/anchore/grype",
+    "about": "A vulnerability scanner for container images and filesystems",
+    "star": "10,800",
+    "fork": "690",
+    "timestamp": "2025-10-10T02:22:00.395828",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers dynamically from Kubernetes resources",
+    "star": "8,512",
+    "fork": "2,765",
+    "timestamp": "2025-10-10T02:22:00.396107",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,338",
+    "fork": "900",
+    "timestamp": "2025-10-10T02:22:00.396414",
+    "stars_today": "64 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,366",
+    "fork": "2,773",
+    "timestamp": "2025-10-10T02:22:00.396707",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "22,594",
+    "fork": "3,426",
+    "timestamp": "2025-10-10T02:22:00.396985",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "envoyproxy/gateway",
+    "href": "https://github.com/envoyproxy/gateway",
+    "about": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+    "star": "2,147",
+    "fork": "562",
+    "timestamp": "2025-10-10T02:22:00.397259",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "29,154",
+    "fork": "2,814",
+    "timestamp": "2025-10-10T02:22:00.397531",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "nezhahq/nezha",
+    "href": "https://github.com/nezhahq/nezha",
+    "about": "Self-hosted, lightweight server and website monitoring and O&M tool",
+    "star": "9,293",
+    "fork": "1,529",
+    "timestamp": "2025-10-10T02:22:00.397822",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,410",
+    "fork": "4,529",
+    "timestamp": "2025-10-10T02:22:00.398100",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,611",
+    "fork": "2,351",
+    "timestamp": "2025-10-10T02:22:00.398374",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "16,583",
+    "fork": "1,985",
+    "timestamp": "2025-10-10T02:22:00.398660",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "5,852",
+    "fork": "1,739",
+    "timestamp": "2025-10-10T02:22:00.398936",
+    "stars_today": "4 stars today"
+  }
+]
