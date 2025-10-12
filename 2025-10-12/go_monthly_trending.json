@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,416",
+    "fork": "8,448",
+    "timestamp": "2025-10-12T02:24:29.344261",
+    "stars_today": "2,635 stars this month"
+  },
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "5,612",
+    "fork": "423",
+    "timestamp": "2025-10-12T02:24:29.344594",
+    "stars_today": "2,099 stars this month"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "⛑ Automated developer-oriented status page",
+    "star": "8,741",
+    "fork": "586",
+    "timestamp": "2025-10-12T02:24:29.344916",
+    "stars_today": "600 stars this month"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "13,915",
+    "fork": "744",
+    "timestamp": "2025-10-12T02:24:29.345204",
+    "stars_today": "440 stars this month"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "12,936",
+    "fork": "1,871",
+    "timestamp": "2025-10-12T02:24:29.345493",
+    "stars_today": "977 stars this month"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "38,115",
+    "fork": "1,884",
+    "timestamp": "2025-10-12T02:24:29.345826",
+    "stars_today": "541 stars this month"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,433",
+    "fork": "4,591",
+    "timestamp": "2025-10-12T02:24:29.346119",
+    "stars_today": "289 stars this month"
+  },
+  {
+    "repo": "docker/mcp-gateway",
+    "href": "https://github.com/docker/mcp-gateway",
+    "about": "docker mcp CLI plugin / MCP Gateway",
+    "star": "787",
+    "fork": "110",
+    "timestamp": "2025-10-12T02:24:29.346411",
+    "stars_today": "477 stars this month"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "star": "11,636",
+    "fork": "1,703",
+    "timestamp": "2025-10-12T02:24:29.346744",
+    "stars_today": "1,292 stars this month"
+  },
+  {
+    "repo": "Done-0/fuck-u-code",
+    "href": "https://github.com/Done-0/fuck-u-code",
+    "about": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+    "star": "5,382",
+    "fork": "256",
+    "timestamp": "2025-10-12T02:24:29.347034",
+    "stars_today": "2,049 stars this month"
+  },
+  {
+    "repo": "ccxt/ccxt",
+    "href": "https://github.com/ccxt/ccxt",
+    "about": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+    "star": "39,131",
+    "fork": "8,265",
+    "timestamp": "2025-10-12T02:24:29.347326",
+    "stars_today": "1,234 stars this month"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,390",
+    "fork": "242",
+    "timestamp": "2025-10-12T02:24:29.347631",
+    "stars_today": "693 stars this month"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,509",
+    "fork": "8,093",
+    "timestamp": "2025-10-12T02:24:29.347925",
+    "stars_today": "322 stars this month"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "117,928",
+    "fork": "41,503",
+    "timestamp": "2025-10-12T02:24:29.348218",
+    "stars_today": "650 stars this month"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "18,239",
+    "fork": "1,136",
+    "timestamp": "2025-10-12T02:24:29.348507",
+    "stars_today": "596 stars this month"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "3,954",
+    "fork": "761",
+    "timestamp": "2025-10-12T02:24:29.348811",
+    "stars_today": "82 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,552",
+    "fork": "1,057",
+    "timestamp": "2025-10-12T02:24:29.349134",
+    "stars_today": "328 stars this month"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "154,478",
+    "fork": "12,644",
+    "timestamp": "2025-10-12T02:24:29.349454",
+    "stars_today": "2,654 stars this month"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "23,970",
+    "fork": "1,246",
+    "timestamp": "2025-10-12T02:24:29.349758",
+    "stars_today": "258 stars this month"
+  },
+  {
+    "repo": "ava-labs/avalanchego",
+    "href": "https://github.com/ava-labs/avalanchego",
+    "about": "Go implementation of an Avalanche node.",
+    "star": "2,297",
+    "fork": "809",
+    "timestamp": "2025-10-12T02:24:29.350043",
+    "stars_today": "49 stars this month"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "40,996",
+    "fork": "7,227",
+    "timestamp": "2025-10-12T02:24:29.350331",
+    "stars_today": "448 stars this month"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "3,720",
+    "fork": "147",
+    "timestamp": "2025-10-12T02:24:29.350641",
+    "stars_today": "396 stars this month"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,656",
+    "fork": "7,351",
+    "timestamp": "2025-10-12T02:24:29.350925",
+    "stars_today": "236 stars this month"
+  }
+]
