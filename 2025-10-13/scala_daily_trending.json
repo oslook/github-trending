@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,072",
+    "fork": "28,882",
+    "timestamp": "2025-10-13T02:29:28.367693",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,682",
+    "fork": "823",
+    "timestamp": "2025-10-13T02:29:28.368010",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "935",
+    "fork": "259",
+    "timestamp": "2025-10-13T02:29:28.368303",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "928",
+    "fork": "615",
+    "timestamp": "2025-10-13T02:29:28.368612",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "broadinstitute/cromwell",
+    "href": "https://github.com/broadinstitute/cromwell",
+    "about": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+    "star": "1,039",
+    "fork": "374",
+    "timestamp": "2025-10-13T02:29:28.368904",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "47",
+    "fork": "39",
+    "timestamp": "2025-10-13T02:29:28.369200",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,453",
+    "fork": "585",
+    "timestamp": "2025-10-13T02:29:28.369507",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,191",
+    "fork": "2,480",
+    "timestamp": "2025-10-13T02:29:28.369805",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "typelevel/cats",
+    "href": "https://github.com/typelevel/cats",
+    "about": "Lightweight, modular, and extensible library for functional programming.",
+    "star": "5,367",
+    "fork": "1,232",
+    "timestamp": "2025-10-13T02:29:28.370099",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,569",
+    "fork": "12,599",
+    "timestamp": "2025-10-13T02:29:28.370385",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "JetBrains/intellij-scala",
+    "href": "https://github.com/JetBrains/intellij-scala",
+    "about": "Scala plugin for IntelliJ IDEA",
+    "star": "1,221",
+    "fork": "419",
+    "timestamp": "2025-10-13T02:29:28.370685",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,041",
+    "fork": "2,870",
+    "timestamp": "2025-10-13T02:29:28.370980",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,660",
+    "fork": "361",
+    "timestamp": "2025-10-13T02:29:28.371275",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,252",
+    "fork": "963",
+    "timestamp": "2025-10-13T02:29:28.371590",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "snowflakedb/spark-snowflake",
+    "href": "https://github.com/snowflakedb/spark-snowflake",
+    "about": "Snowflake Data Source for Apache Spark.",
+    "star": "230",
+    "fork": "106",
+    "timestamp": "2025-10-13T02:29:28.371879",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,459",
+    "fork": "180",
+    "timestamp": "2025-10-13T02:29:28.372167",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,857",
+    "fork": "363",
+    "timestamp": "2025-10-13T02:29:28.372472",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "1,979",
+    "fork": "463",
+    "timestamp": "2025-10-13T02:29:28.372761",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,123",
+    "fork": "1,115",
+    "timestamp": "2025-10-13T02:29:28.373051",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,247",
+    "fork": "394",
+    "timestamp": "2025-10-13T02:29:28.373346",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,431",
+    "fork": "642",
+    "timestamp": "2025-10-13T02:29:28.373656",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "akka/akka",
+    "href": "https://github.com/akka/akka",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,224",
+    "fork": "3,580",
+    "timestamp": "2025-10-13T02:29:28.373941",
+    "stars_today": "0 stars today"
+  }
+]
