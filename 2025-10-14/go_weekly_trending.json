@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "154,665",
+    "fork": "12,657",
+    "timestamp": "2025-10-14T02:22:18.982258",
+    "stars_today": "684 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,405",
+    "fork": "2,781",
+    "timestamp": "2025-10-14T02:22:18.982562",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "35,758",
+    "fork": "1,006",
+    "timestamp": "2025-10-14T02:22:18.982846",
+    "stars_today": "237 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "74,379",
+    "fork": "2,597",
+    "timestamp": "2025-10-14T02:22:18.983171",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "pdfcpu/pdfcpu",
+    "href": "https://github.com/pdfcpu/pdfcpu",
+    "about": "A PDF processor written in Go.",
+    "star": "8,086",
+    "fork": "567",
+    "timestamp": "2025-10-14T02:22:18.983465",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "yonahd/kor",
+    "href": "https://github.com/yonahd/kor",
+    "about": "A Golang Tool to discover unused Kubernetes Resources",
+    "star": "1,477",
+    "fork": "127",
+    "timestamp": "2025-10-14T02:22:18.983744",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "envoyproxy/ai-gateway",
+    "href": "https://github.com/envoyproxy/ai-gateway",
+    "about": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+    "star": "1,118",
+    "fork": "109",
+    "timestamp": "2025-10-14T02:22:18.984020",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "31,684",
+    "fork": "1,697",
+    "timestamp": "2025-10-14T02:22:18.984348",
+    "stars_today": "180 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "46,766",
+    "fork": "1,467",
+    "timestamp": "2025-10-14T02:22:18.984658",
+    "stars_today": "242 stars this week"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "1,849",
+    "fork": "71",
+    "timestamp": "2025-10-14T02:22:18.984966",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "11,285",
+    "fork": "546",
+    "timestamp": "2025-10-14T02:22:18.985272",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,018",
+    "fork": "902",
+    "timestamp": "2025-10-14T02:22:18.985879",
+    "stars_today": "269 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,386",
+    "fork": "903",
+    "timestamp": "2025-10-14T02:22:18.986508",
+    "stars_today": "142 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,564",
+    "fork": "1,058",
+    "timestamp": "2025-10-14T02:22:18.986954",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,442",
+    "fork": "243",
+    "timestamp": "2025-10-14T02:22:18.987427",
+    "stars_today": "219 stars this week"
+  },
+  {
+    "repo": "nezhahq/nezha",
+    "href": "https://github.com/nezhahq/nezha",
+    "about": "Self-hosted, lightweight server and website monitoring and O&M tool",
+    "star": "9,327",
+    "fork": "1,534",
+    "timestamp": "2025-10-14T02:22:18.987908",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,420",
+    "fork": "4,534",
+    "timestamp": "2025-10-14T02:22:18.988268",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "8,870",
+    "fork": "729",
+    "timestamp": "2025-10-14T02:22:18.988671",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "href": "https://github.com/cockroachdb/cockroach",
+    "about": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "star": "31,378",
+    "fork": "3,986",
+    "timestamp": "2025-10-14T02:22:18.989137",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "bootdotdev/bootdev",
+    "href": "https://github.com/bootdotdev/bootdev",
+    "about": "A CLI used to complete coding challenges and lessons on Boot.dev",
+    "star": "1,707",
+    "fork": "67",
+    "timestamp": "2025-10-14T02:22:18.989471",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,686",
+    "fork": "3,806",
+    "timestamp": "2025-10-14T02:22:18.989742",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,811",
+    "fork": "279",
+    "timestamp": "2025-10-14T02:22:18.990009",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "3,737",
+    "fork": "149",
+    "timestamp": "2025-10-14T02:22:18.990312",
+    "stars_today": "86 stars this week"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "23,977",
+    "fork": "1,248",
+    "timestamp": "2025-10-14T02:22:18.990581",
+    "stars_today": "72 stars this week"
+  }
+]
