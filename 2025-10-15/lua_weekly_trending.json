@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,627",
+    "fork": "230",
+    "timestamp": "2025-10-15T02:25:14.943997",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "19,122",
+    "fork": "496",
+    "timestamp": "2025-10-15T02:25:14.944297",
+    "stars_today": "90 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,932",
+    "fork": "270",
+    "timestamp": "2025-10-15T02:25:14.944594",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,674",
+    "fork": "40,539",
+    "timestamp": "2025-10-15T02:25:14.944875",
+    "stars_today": "177 stars this week"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,126",
+    "fork": "340",
+    "timestamp": "2025-10-15T02:25:14.945161",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,120",
+    "fork": "632",
+    "timestamp": "2025-10-15T02:25:14.945455",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "1,102",
+    "fork": "77",
+    "timestamp": "2025-10-15T02:25:14.945736",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,600",
+    "fork": "107",
+    "timestamp": "2025-10-15T02:25:14.946043",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,500",
+    "fork": "278",
+    "timestamp": "2025-10-15T02:25:14.946359",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,783",
+    "fork": "147",
+    "timestamp": "2025-10-15T02:25:14.946642",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "5,538",
+    "fork": "204",
+    "timestamp": "2025-10-15T02:25:14.946919",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,799",
+    "fork": "223",
+    "timestamp": "2025-10-15T02:25:14.947199",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,800",
+    "fork": "2,344",
+    "timestamp": "2025-10-15T02:25:14.947518",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "folke/todo-comments.nvim",
+    "href": "https://github.com/folke/todo-comments.nvim",
+    "about": "✅ Highlight, list and search todo comments in your projects",
+    "star": "3,865",
+    "fork": "117",
+    "timestamp": "2025-10-15T02:25:14.947796",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "5,003",
+    "fork": "147",
+    "timestamp": "2025-10-15T02:25:14.948236",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "mikavilpas/yazi.nvim",
+    "href": "https://github.com/mikavilpas/yazi.nvim",
+    "about": "A Neovim Plugin for the yazi terminal file manager",
+    "star": "1,312",
+    "fork": "46",
+    "timestamp": "2025-10-15T02:25:14.948619",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,700",
+    "fork": "245",
+    "timestamp": "2025-10-15T02:25:14.948971",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-jdtls",
+    "href": "https://github.com/mfussenegger/nvim-jdtls",
+    "about": "MIRROR of: https://codeberg.org/mfussenegger/nvim-jdtls",
+    "star": "1,387",
+    "fork": "84",
+    "timestamp": "2025-10-15T02:25:14.949422",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,821",
+    "fork": "132",
+    "timestamp": "2025-10-15T02:25:14.949787",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,398",
+    "fork": "916",
+    "timestamp": "2025-10-15T02:25:14.950062",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "16,117",
+    "fork": "733",
+    "timestamp": "2025-10-15T02:25:14.950338",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,361",
+    "fork": "151",
+    "timestamp": "2025-10-15T02:25:14.950648",
+    "stars_today": "13 stars this week"
+  }
+]

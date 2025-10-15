@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "74,413",
+    "fork": "2,598",
+    "timestamp": "2025-10-15T02:25:06.660949",
+    "stars_today": "199 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,038",
+    "fork": "905",
+    "timestamp": "2025-10-15T02:25:06.661298",
+    "stars_today": "272 stars this week"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "46,810",
+    "fork": "1,471",
+    "timestamp": "2025-10-15T02:25:06.661645",
+    "stars_today": "274 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,420",
+    "fork": "2,781",
+    "timestamp": "2025-10-15T02:25:06.661942",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "154,767",
+    "fork": "12,659",
+    "timestamp": "2025-10-15T02:25:06.662267",
+    "stars_today": "692 stars this week"
+  },
+  {
+    "repo": "pdfcpu/pdfcpu",
+    "href": "https://github.com/pdfcpu/pdfcpu",
+    "about": "A PDF processor written in Go.",
+    "star": "8,102",
+    "fork": "567",
+    "timestamp": "2025-10-15T02:25:06.662581",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "sjzar/chatlog",
+    "href": "https://github.com/sjzar/chatlog",
+    "about": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
+    "star": "8,883",
+    "fork": "1,267",
+    "timestamp": "2025-10-15T02:25:06.662871",
+    "stars_today": "212 stars this week"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "23,987",
+    "fork": "1,248",
+    "timestamp": "2025-10-15T02:25:06.663156",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "1,857",
+    "fork": "71",
+    "timestamp": "2025-10-15T02:25:06.663493",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "31,709",
+    "fork": "1,697",
+    "timestamp": "2025-10-15T02:25:06.663787",
+    "stars_today": "172 stars this week"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,813",
+    "fork": "279",
+    "timestamp": "2025-10-15T02:25:06.664079",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "aws/aws-sdk-go-v2",
+    "href": "https://github.com/aws/aws-sdk-go-v2",
+    "about": "AWS SDK for the Go programming language.",
+    "star": "3,297",
+    "fork": "722",
+    "timestamp": "2025-10-15T02:25:06.664382",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,428",
+    "fork": "4,534",
+    "timestamp": "2025-10-15T02:25:06.664702",
+    "stars_today": "68 stars this week"
+  },
+  {
+    "repo": "kopia/kopia",
+    "href": "https://github.com/kopia/kopia",
+    "about": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+    "star": "11,292",
+    "fork": "546",
+    "timestamp": "2025-10-15T02:25:06.664992",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "envoyproxy/ai-gateway",
+    "href": "https://github.com/envoyproxy/ai-gateway",
+    "about": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+    "star": "1,119",
+    "fork": "111",
+    "timestamp": "2025-10-15T02:25:06.665276",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,402",
+    "fork": "903",
+    "timestamp": "2025-10-15T02:25:06.665609",
+    "stars_today": "151 stars this week"
+  },
+  {
+    "repo": "nezhahq/nezha",
+    "href": "https://github.com/nezhahq/nezha",
+    "about": "Self-hosted, lightweight server and website monitoring and O&M tool",
+    "star": "9,333",
+    "fork": "1,536",
+    "timestamp": "2025-10-15T02:25:06.665897",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "8,879",
+    "fork": "730",
+    "timestamp": "2025-10-15T02:25:06.666210",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "35,800",
+    "fork": "1,007",
+    "timestamp": "2025-10-15T02:25:06.666507",
+    "stars_today": "249 stars this week"
+  },
+  {
+    "repo": "trustwallet/assets",
+    "href": "https://github.com/trustwallet/assets",
+    "about": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "star": "5,074",
+    "fork": "25,648",
+    "timestamp": "2025-10-15T02:25:06.666792",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,464",
+    "fork": "243",
+    "timestamp": "2025-10-15T02:25:06.667073",
+    "stars_today": "198 stars this week"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,594",
+    "fork": "2,844",
+    "timestamp": "2025-10-15T02:25:06.667367",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "envoyproxy/gateway",
+    "href": "https://github.com/envoyproxy/gateway",
+    "about": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+    "star": "2,155",
+    "fork": "569",
+    "timestamp": "2025-10-15T02:25:06.667653",
+    "stars_today": "16 stars this week"
+  }
+]
