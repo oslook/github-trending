@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "envoyproxy/envoy",
+    "href": "https://github.com/envoyproxy/envoy",
+    "about": "Cloud-native high-performance edge/middle/service proxy",
+    "star": "26,744",
+    "fork": "5,106",
+    "timestamp": "2025-10-16T02:23:59.814586",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "about": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "star": "27,479",
+    "fork": "8,811",
+    "timestamp": "2025-10-16T02:23:59.814882",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "37,310",
+    "fork": "10,562",
+    "timestamp": "2025-10-16T02:23:59.815214",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "href": "https://github.com/NVIDIA/TensorRT-LLM",
+    "about": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+    "star": "11,863",
+    "fork": "1,801",
+    "timestamp": "2025-10-16T02:23:59.815506",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "47,497",
+    "fork": "7,173",
+    "timestamp": "2025-10-16T02:23:59.815809",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "ApolloAuto/apollo",
+    "href": "https://github.com/ApolloAuto/apollo",
+    "about": "An open autonomous driving platform",
+    "star": "26,111",
+    "fork": "9,875",
+    "timestamp": "2025-10-16T02:23:59.816084",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "yhirose/cpp-httplib",
+    "href": "https://github.com/yhirose/cpp-httplib",
+    "about": "A C++ header-only HTTP/HTTPS server and client library",
+    "star": "15,063",
+    "fork": "2,516",
+    "timestamp": "2025-10-16T02:23:59.816376",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "100,501",
+    "fork": "8,842",
+    "timestamp": "2025-10-16T02:23:59.816649",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "ROCm/rocm-systems",
+    "href": "https://github.com/ROCm/rocm-systems",
+    "about": "super repo for rocm systems projects",
+    "star": "117",
+    "fork": "50",
+    "timestamp": "2025-10-16T02:23:59.816921",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Byrom90/XeUnshackle",
+    "href": "https://github.com/Byrom90/XeUnshackle",
+    "about": "Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).",
+    "star": "465",
+    "fork": "39",
+    "timestamp": "2025-10-16T02:23:59.817196",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "UZ-SLAMLab/ORB_SLAM3",
+    "href": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+    "about": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+    "star": "7,804",
+    "fork": "2,859",
+    "timestamp": "2025-10-16T02:23:59.817478",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "href": "https://github.com/microsoft/onnxruntime",
+    "about": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "star": "18,104",
+    "fork": "3,499",
+    "timestamp": "2025-10-16T02:23:59.817749",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "facebookresearch/habitat-sim",
+    "href": "https://github.com/facebookresearch/habitat-sim",
+    "about": "A flexible, high-performance 3D simulator for Embodied AI research.",
+    "star": "3,225",
+    "fork": "486",
+    "timestamp": "2025-10-16T02:23:59.818023",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pybind/pybind11",
+    "href": "https://github.com/pybind/pybind11",
+    "about": "Seamless operability between C++11 and Python",
+    "star": "17,355",
+    "fork": "2,224",
+    "timestamp": "2025-10-16T02:23:59.818298",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "href": "https://github.com/ggml-org/llama.cpp",
+    "about": "LLM inference in C/C++",
+    "star": "87,863",
+    "fork": "13,339",
+    "timestamp": "2025-10-16T02:23:59.818585",
+    "stars_today": "55 stars today"
+  },
+  {
+    "repo": "google/benchmark",
+    "href": "https://github.com/google/benchmark",
+    "about": "A microbenchmark support library",
+    "star": "9,773",
+    "fork": "1,708",
+    "timestamp": "2025-10-16T02:23:59.818856",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "google/sentencepiece",
+    "href": "https://github.com/google/sentencepiece",
+    "about": "Unsupervised text tokenizer for Neural Network-based text generation.",
+    "star": "11,355",
+    "fork": "1,294",
+    "timestamp": "2025-10-16T02:23:59.819129",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "esphome/esphome",
+    "href": "https://github.com/esphome/esphome",
+    "about": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "star": "9,958",
+    "fork": "4,663",
+    "timestamp": "2025-10-16T02:23:59.819412",
+    "stars_today": "10 stars today"
+  }
+]

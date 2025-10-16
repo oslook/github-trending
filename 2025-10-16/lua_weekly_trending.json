@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,629",
+    "fork": "230",
+    "timestamp": "2025-10-16T02:24:19.042492",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,694",
+    "fork": "40,580",
+    "timestamp": "2025-10-16T02:24:19.042797",
+    "stars_today": "183 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "4,933",
+    "fork": "270",
+    "timestamp": "2025-10-16T02:24:19.043092",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,132",
+    "fork": "341",
+    "timestamp": "2025-10-16T02:24:19.043394",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "19,125",
+    "fork": "497",
+    "timestamp": "2025-10-16T02:24:19.043681",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,122",
+    "fork": "632",
+    "timestamp": "2025-10-16T02:24:19.043964",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "5,540",
+    "fork": "204",
+    "timestamp": "2025-10-16T02:24:19.044247",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "1,105",
+    "fork": "77",
+    "timestamp": "2025-10-16T02:24:19.044552",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "folke/todo-comments.nvim",
+    "href": "https://github.com/folke/todo-comments.nvim",
+    "about": "✅ Highlight, list and search todo comments in your projects",
+    "star": "3,867",
+    "fork": "117",
+    "timestamp": "2025-10-16T02:24:19.044838",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native Gateway for APIs & AI",
+    "star": "41,959",
+    "fork": "5,003",
+    "timestamp": "2025-10-16T02:24:19.045121",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,799",
+    "fork": "2,342",
+    "timestamp": "2025-10-16T02:24:19.045445",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "6,872",
+    "fork": "311",
+    "timestamp": "2025-10-16T02:24:19.045767",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,787",
+    "fork": "147",
+    "timestamp": "2025-10-16T02:24:19.046049",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "5,003",
+    "fork": "147",
+    "timestamp": "2025-10-16T02:24:19.046368",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,603",
+    "fork": "107",
+    "timestamp": "2025-10-16T02:24:19.046679",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,401",
+    "fork": "916",
+    "timestamp": "2025-10-16T02:24:19.047013",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,822",
+    "fork": "132",
+    "timestamp": "2025-10-16T02:24:19.047334",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,802",
+    "fork": "224",
+    "timestamp": "2025-10-16T02:24:19.047638",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,500",
+    "fork": "278",
+    "timestamp": "2025-10-16T02:24:19.047987",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,598",
+    "fork": "1,539",
+    "timestamp": "2025-10-16T02:24:19.048268",
+    "stars_today": "107 stars this week"
+  }
+]
