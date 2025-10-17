@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "757",
+    "fork": "161",
+    "timestamp": "2025-10-17T02:23:14.743675",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,880",
+    "fork": "472",
+    "timestamp": "2025-10-17T02:23:14.743981",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,436",
+    "fork": "1,181",
+    "timestamp": "2025-10-17T02:23:14.744291",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "903",
+    "fork": "167",
+    "timestamp": "2025-10-17T02:23:14.744580",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,355",
+    "fork": "2,382",
+    "timestamp": "2025-10-17T02:23:14.744865",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,244",
+    "fork": "157",
+    "timestamp": "2025-10-17T02:23:14.745148",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "431",
+    "fork": "64",
+    "timestamp": "2025-10-17T02:23:14.745445",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "921",
+    "fork": "235",
+    "timestamp": "2025-10-17T02:23:14.745732",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,770",
+    "fork": "522",
+    "timestamp": "2025-10-17T02:23:14.746022",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,896",
+    "fork": "3,030",
+    "timestamp": "2025-10-17T02:23:14.746317",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "emqx/emqtt",
+    "href": "https://github.com/emqx/emqtt",
+    "about": "Erlang MQTT 5.0 Client",
+    "star": "425",
+    "fork": "175",
+    "timestamp": "2025-10-17T02:23:14.746602",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "285",
+    "fork": "177",
+    "timestamp": "2025-10-17T02:23:14.746886",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "658",
+    "fork": "141",
+    "timestamp": "2025-10-17T02:23:14.747193",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "95",
+    "fork": "49",
+    "timestamp": "2025-10-17T02:23:14.747497",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "825",
+    "fork": "231",
+    "timestamp": "2025-10-17T02:23:14.747807",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "570",
+    "fork": "155",
+    "timestamp": "2025-10-17T02:23:14.748093",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,693",
+    "fork": "1,055",
+    "timestamp": "2025-10-17T02:23:14.748388",
+    "stars_today": "2 stars today"
+  }
+]

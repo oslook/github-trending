@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "oven-sh/bun",
+    "href": "https://github.com/oven-sh/bun",
+    "about": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "star": "81,524",
+    "fork": "3,416",
+    "timestamp": "2025-10-17T02:23:40.187270",
+    "stars_today": "744 stars this week"
+  },
+  {
+    "repo": "PixelGuys/Cubyz",
+    "href": "https://github.com/PixelGuys/Cubyz",
+    "about": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+    "star": "2,555",
+    "fork": "151",
+    "timestamp": "2025-10-17T02:23:40.187579",
+    "stars_today": "1,568 stars this week"
+  },
+  {
+    "repo": "ghostty-org/ghostty",
+    "href": "https://github.com/ghostty-org/ghostty",
+    "about": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "star": "37,076",
+    "fork": "1,157",
+    "timestamp": "2025-10-17T02:23:40.187866",
+    "stars_today": "363 stars this week"
+  },
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "star": "41,667",
+    "fork": "3,057",
+    "timestamp": "2025-10-17T02:23:40.188178",
+    "stars_today": "145 stars this week"
+  },
+  {
+    "repo": "pedropark99/zig-book",
+    "href": "https://github.com/pedropark99/zig-book",
+    "about": "An open, technical and introductory book for the Zig programming language 📚📖",
+    "star": "1,908",
+    "fork": "113",
+    "timestamp": "2025-10-17T02:23:40.188477",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "ZantFoundation/Z-Ant",
+    "href": "https://github.com/ZantFoundation/Z-Ant",
+    "about": "Zant simplifies the deployment and optimization of neural networks on microprocessors",
+    "star": "338",
+    "fork": "46",
+    "timestamp": "2025-10-17T02:23:40.188760",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "dmtrKovalenko/odiff",
+    "href": "https://github.com/dmtrKovalenko/odiff",
+    "about": "A very fast SIMD-first image comparison library (with nodejs API)",
+    "star": "2,598",
+    "fork": "95",
+    "timestamp": "2025-10-17T02:23:40.189071",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "andrewrk/poop",
+    "href": "https://github.com/andrewrk/poop",
+    "about": "Performance Optimizer Observation Platform",
+    "star": "1,698",
+    "fork": "77",
+    "timestamp": "2025-10-17T02:23:40.189395",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "foxnne/pixi",
+    "href": "https://github.com/foxnne/pixi",
+    "about": "Pixel art editor made with Zig.",
+    "star": "1,100",
+    "fork": "30",
+    "timestamp": "2025-10-17T02:23:40.189707",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "rockorager/libvaxis",
+    "href": "https://github.com/rockorager/libvaxis",
+    "about": "a modern tui library written in zig",
+    "star": "1,253",
+    "fork": "77",
+    "timestamp": "2025-10-17T02:23:40.189989",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "3,074",
+    "fork": "135",
+    "timestamp": "2025-10-17T02:23:40.190287",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "capy-ui/capy",
+    "href": "https://github.com/capy-ui/capy",
+    "about": "💻Build one codebase and get native UI on Windows, Linux and Web",
+    "star": "2,345",
+    "fork": "87",
+    "timestamp": "2025-10-17T02:23:40.190577",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "zigtools/zls",
+    "href": "https://github.com/zigtools/zls",
+    "about": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+    "star": "4,245",
+    "fork": "385",
+    "timestamp": "2025-10-17T02:23:40.190889",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "karlseguin/http.zig",
+    "href": "https://github.com/karlseguin/http.zig",
+    "about": "An HTTP/1.1 server for zig",
+    "star": "1,206",
+    "fork": "84",
+    "timestamp": "2025-10-17T02:23:40.191171",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "lightpanda-io/browser",
+    "href": "https://github.com/lightpanda-io/browser",
+    "about": "Lightpanda: the headless browser designed for AI and automation",
+    "star": "10,025",
+    "fork": "269",
+    "timestamp": "2025-10-17T02:23:40.191469",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A dynamic tiling Wayland compositor",
+    "star": "3,735",
+    "fork": "154",
+    "timestamp": "2025-10-17T02:23:40.191754",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "href": "https://github.com/ZigEmbeddedGroup/microzig",
+    "about": "MicroZig is a toolbox for building embedded applications in Zig.",
+    "star": "1,844",
+    "fork": "146",
+    "timestamp": "2025-10-17T02:23:40.192038",
+    "stars_today": "11 stars this week"
+  }
+]
