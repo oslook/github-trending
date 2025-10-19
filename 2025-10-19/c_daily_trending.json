@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,176",
+    "fork": "2,773",
+    "timestamp": "2025-10-19T02:44:49.727215",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "micropython/micropython",
+    "href": "https://github.com/micropython/micropython",
+    "about": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+    "star": "20,960",
+    "fork": "8,493",
+    "timestamp": "2025-10-19T02:44:49.727557",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "6,182",
+    "fork": "925",
+    "timestamp": "2025-10-19T02:44:49.727888",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "tianocore/edk2",
+    "href": "https://github.com/tianocore/edk2",
+    "about": "EDK II",
+    "star": "5,500",
+    "fork": "2,904",
+    "timestamp": "2025-10-19T02:44:49.728195",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "pr3y/Bruce",
+    "href": "https://github.com/pr3y/Bruce",
+    "about": "Predatory ESP32 Firmware",
+    "star": "3,832",
+    "fork": "1,019",
+    "timestamp": "2025-10-19T02:44:49.728489",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "DreamMaoMao/mangowc",
+    "href": "https://github.com/DreamMaoMao/mangowc",
+    "about": "wayland compositor base wlroots and scenefx(dwl but no suckless)",
+    "star": "787",
+    "fork": "33",
+    "timestamp": "2025-10-19T02:44:49.728779",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "coolsnowwolf/lede",
+    "href": "https://github.com/coolsnowwolf/lede",
+    "about": "Lean's LEDE source",
+    "star": "31,018",
+    "fork": "19,550",
+    "timestamp": "2025-10-19T02:44:49.729084",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,970",
+    "fork": "964",
+    "timestamp": "2025-10-19T02:44:49.729380",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "6,029",
+    "fork": "1,171",
+    "timestamp": "2025-10-19T02:44:49.729699",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "openzfs/zfs",
+    "href": "https://github.com/openzfs/zfs",
+    "about": "OpenZFS on Linux and FreeBSD",
+    "star": "11,621",
+    "fork": "1,883",
+    "timestamp": "2025-10-19T02:44:49.730000",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "libsdl-org/SDL",
+    "href": "https://github.com/libsdl-org/SDL",
+    "about": "Simple DirectMedia Layer",
+    "star": "13,837",
+    "fork": "2,407",
+    "timestamp": "2025-10-19T02:44:49.730293",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "OpenMathLib/OpenBLAS",
+    "href": "https://github.com/OpenMathLib/OpenBLAS",
+    "about": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "star": "7,048",
+    "fork": "1,602",
+    "timestamp": "2025-10-19T02:44:49.730585",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "DPDK/dpdk",
+    "href": "https://github.com/DPDK/dpdk",
+    "about": "Data Plane Development Kit",
+    "star": "3,955",
+    "fork": "1,372",
+    "timestamp": "2025-10-19T02:44:49.730878",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,552",
+    "fork": "1,866",
+    "timestamp": "2025-10-19T02:44:49.731210",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Genymobile/scrcpy",
+    "href": "https://github.com/Genymobile/scrcpy",
+    "about": "Display and control your Android device",
+    "star": "129,879",
+    "fork": "12,161",
+    "timestamp": "2025-10-19T02:44:49.731500",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "MrGlockenspiel/activate-linux",
+    "href": "https://github.com/MrGlockenspiel/activate-linux",
+    "about": "The \"Activate Windows\" watermark ported to Linux",
+    "star": "5,371",
+    "fork": "112",
+    "timestamp": "2025-10-19T02:44:49.731786",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "raspberrypi/pico-sdk",
+    "href": "https://github.com/raspberrypi/pico-sdk",
+    "about": "",
+    "star": "4,468",
+    "fork": "1,140",
+    "timestamp": "2025-10-19T02:44:49.732114",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "u-boot/u-boot",
+    "href": "https://github.com/u-boot/u-boot",
+    "about": "\"Das U-Boot\" Source Tree",
+    "star": "4,710",
+    "fork": "4,124",
+    "timestamp": "2025-10-19T02:44:49.732399",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "13,317",
+    "fork": "8,072",
+    "timestamp": "2025-10-19T02:44:49.732684",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "yarrick/iodine",
+    "href": "https://github.com/yarrick/iodine",
+    "about": "Official git repo for iodine dns tunnel",
+    "star": "7,254",
+    "fork": "556",
+    "timestamp": "2025-10-19T02:44:49.732982",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "remzi-arpacidusseau/ostep-code",
+    "href": "https://github.com/remzi-arpacidusseau/ostep-code",
+    "about": "Code from various chapters in OSTEP (http://www.ostep.org)",
+    "star": "3,931",
+    "fork": "1,468",
+    "timestamp": "2025-10-19T02:44:49.733272",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "reactos/reactos",
+    "href": "https://github.com/reactos/reactos",
+    "about": "A free Windows-compatible Operating System",
+    "star": "16,437",
+    "fork": "1,966",
+    "timestamp": "2025-10-19T02:44:49.733552",
+    "stars_today": "5 stars today"
+  }
+]
