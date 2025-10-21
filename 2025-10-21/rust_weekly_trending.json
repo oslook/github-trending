@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "microsoft/edit",
+    "href": "https://github.com/microsoft/edit",
+    "about": "We all edit.",
+    "star": "12,538",
+    "fork": "561",
+    "timestamp": "2025-10-21T02:26:58.521380",
+    "stars_today": "100 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "101,093",
+    "fork": "14,778",
+    "timestamp": "2025-10-21T02:26:58.521724",
+    "stars_today": "1,295 stars this week"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "40,542",
+    "fork": "3,099",
+    "timestamp": "2025-10-21T02:26:58.522035",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "PyO3/pyo3",
+    "href": "https://github.com/PyO3/pyo3",
+    "about": "Rust bindings for the Python interpreter",
+    "star": "14,635",
+    "fork": "887",
+    "timestamp": "2025-10-21T02:26:58.522330",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀 High-performance distributed object storage for MinIO alternative.",
+    "star": "9,107",
+    "fork": "456",
+    "timestamp": "2025-10-21T02:26:58.522622",
+    "stars_today": "165 stars this week"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "67,989",
+    "fork": "5,618",
+    "timestamp": "2025-10-21T02:26:58.522927",
+    "stars_today": "861 stars this week"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "3,179",
+    "fork": "235",
+    "timestamp": "2025-10-21T02:26:58.523223",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "longbridge/gpui-component",
+    "href": "https://github.com/longbridge/gpui-component",
+    "about": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+    "star": "4,148",
+    "fork": "199",
+    "timestamp": "2025-10-21T02:26:58.523520",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.",
+    "star": "4,154",
+    "fork": "232",
+    "timestamp": "2025-10-21T02:26:58.523823",
+    "stars_today": "185 stars this week"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "56,493",
+    "fork": "2,270",
+    "timestamp": "2025-10-21T02:26:58.524147",
+    "stars_today": "418 stars this week"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "17,948",
+    "fork": "626",
+    "timestamp": "2025-10-21T02:26:58.524437",
+    "stars_today": "243 stars this week"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "36,892",
+    "fork": "1,955",
+    "timestamp": "2025-10-21T02:26:58.524728",
+    "stars_today": "164 stars this week"
+  },
+  {
+    "repo": "facebook/pyrefly",
+    "href": "https://github.com/facebook/pyrefly",
+    "about": "A fast type checker and language server for Python",
+    "star": "4,061",
+    "fork": "161",
+    "timestamp": "2025-10-21T02:26:58.525030",
+    "stars_today": "214 stars this week"
+  },
+  {
+    "repo": "lancedb/lance",
+    "href": "https://github.com/lancedb/lance",
+    "about": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "5,552",
+    "fork": "454",
+    "timestamp": "2025-10-21T02:26:58.525319",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "16,970",
+    "fork": "688",
+    "timestamp": "2025-10-21T02:26:58.525611",
+    "stars_today": "292 stars this week"
+  },
+  {
+    "repo": "LGUG2Z/komorebi",
+    "href": "https://github.com/LGUG2Z/komorebi",
+    "about": "A tiling window manager for Windows 🍉",
+    "star": "13,033",
+    "fork": "281",
+    "timestamp": "2025-10-21T02:26:58.525944",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "70,457",
+    "fork": "2,134",
+    "timestamp": "2025-10-21T02:26:58.526242",
+    "stars_today": "642 stars this week"
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "href": "https://github.com/openobserve/openobserve",
+    "about": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+    "star": "16,929",
+    "fork": "677",
+    "timestamp": "2025-10-21T02:26:58.526532",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "vortex-data/vortex",
+    "href": "https://github.com/vortex-data/vortex",
+    "about": "An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",
+    "star": "1,875",
+    "fork": "77",
+    "timestamp": "2025-10-21T02:26:58.526834",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "2,117",
+    "fork": "65",
+    "timestamp": "2025-10-21T02:26:58.527155",
+    "stars_today": "327 stars this week"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "28,003",
+    "fork": "1,395",
+    "timestamp": "2025-10-21T02:26:58.527444",
+    "stars_today": "149 stars this week"
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "href": "https://github.com/lancedb/lancedb",
+    "about": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+    "star": "7,787",
+    "fork": "624",
+    "timestamp": "2025-10-21T02:26:58.527731",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "21,728",
+    "fork": "724",
+    "timestamp": "2025-10-21T02:26:58.528093",
+    "stars_today": "130 stars this week"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "97,631",
+    "fork": "3,106",
+    "timestamp": "2025-10-21T02:26:58.528408",
+    "stars_today": "308 stars this week"
+  }
+]
