@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,592",
+    "fork": "2,507",
+    "timestamp": "2025-10-22T02:39:41.453122",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,856",
+    "fork": "2,740",
+    "timestamp": "2025-10-22T02:39:41.453416",
+    "stars_today": "142 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "27,486",
+    "fork": "3,199",
+    "timestamp": "2025-10-22T02:39:41.453680",
+    "stars_today": "162 stars today"
+  },
+  {
+    "repo": "tbphp/gpt-load",
+    "href": "https://github.com/tbphp/gpt-load",
+    "about": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
+    "star": "5,374",
+    "fork": "482",
+    "timestamp": "2025-10-22T02:39:41.454009",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "13,124",
+    "fork": "2,784",
+    "timestamp": "2025-10-22T02:39:41.454367",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,323",
+    "fork": "493",
+    "timestamp": "2025-10-22T02:39:41.454639",
+    "stars_today": "171 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,137",
+    "fork": "2,488",
+    "timestamp": "2025-10-22T02:39:41.454906",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,488",
+    "fork": "2,048",
+    "timestamp": "2025-10-22T02:39:41.455171",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "hyperledger/fabric",
+    "href": "https://github.com/hyperledger/fabric",
+    "about": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "star": "16,337",
+    "fork": "9,076",
+    "timestamp": "2025-10-22T02:39:41.455440",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,673",
+    "fork": "952",
+    "timestamp": "2025-10-22T02:39:41.455730",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "4,802",
+    "fork": "625",
+    "timestamp": "2025-10-22T02:39:41.455989",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.",
+    "star": "45,147",
+    "fork": "3,241",
+    "timestamp": "2025-10-22T02:39:41.456282",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "7,813",
+    "fork": "721",
+    "timestamp": "2025-10-22T02:39:41.456543",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "50,605",
+    "fork": "10,194",
+    "timestamp": "2025-10-22T02:39:41.456808",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "20,989",
+    "fork": "6,472",
+    "timestamp": "2025-10-22T02:39:41.457070",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,698",
+    "fork": "1,054",
+    "timestamp": "2025-10-22T02:39:41.457340",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-azurerm",
+    "href": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "about": "Terraform provider for Azure Resource Manager",
+    "star": "4,836",
+    "fork": "4,883",
+    "timestamp": "2025-10-22T02:39:41.457605",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,089",
+    "fork": "3,074",
+    "timestamp": "2025-10-22T02:39:41.457868",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,930",
+    "fork": "18,819",
+    "timestamp": "2025-10-22T02:39:41.458132",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openimsdk/open-im-server",
+    "href": "https://github.com/openimsdk/open-im-server",
+    "about": "IM Chat ChatGPT",
+    "star": "15,322",
+    "fork": "2,713",
+    "timestamp": "2025-10-22T02:39:41.458402",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "erigontech/erigon",
+    "href": "https://github.com/erigontech/erigon",
+    "about": "Ethereum implementation on the efficiency frontier",
+    "star": "3,454",
+    "fork": "1,401",
+    "timestamp": "2025-10-22T02:39:41.458667",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "9,030",
+    "fork": "1,103",
+    "timestamp": "2025-10-22T02:39:41.458959",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "10,377",
+    "fork": "765",
+    "timestamp": "2025-10-22T02:39:41.459222",
+    "stars_today": "81 stars today"
+  }
+]

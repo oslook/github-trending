@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "ntdevlabs/tiny11builder",
+    "href": "https://github.com/ntdevlabs/tiny11builder",
+    "about": "Scripts to build a trimmed-down Windows 11 image.",
+    "star": "15,554",
+    "fork": "1,207",
+    "timestamp": "2025-10-22T02:39:55.267896",
+    "stars_today": "1,512 stars this month"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "star": "30,019",
+    "fork": "1,195",
+    "timestamp": "2025-10-22T02:39:55.268214",
+    "stars_today": "3,460 stars this month"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "41,617",
+    "fork": "2,229",
+    "timestamp": "2025-10-22T02:39:55.268515",
+    "stars_today": "1,435 stars this month"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "12,071",
+    "fork": "3,549",
+    "timestamp": "2025-10-22T02:39:55.268777",
+    "stars_today": "213 stars this month"
+  },
+  {
+    "repo": "mandiant/flare-vm",
+    "href": "https://github.com/mandiant/flare-vm",
+    "about": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+    "star": "7,909",
+    "fork": "1,043",
+    "timestamp": "2025-10-22T02:39:55.269033",
+    "stars_today": "186 stars this month"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,807",
+    "fork": "5,523",
+    "timestamp": "2025-10-22T02:39:55.269300",
+    "stars_today": "105 stars this month"
+  },
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "7,024",
+    "fork": "977",
+    "timestamp": "2025-10-22T02:39:55.269564",
+    "stars_today": "156 stars this month"
+  },
+  {
+    "repo": "ScoopInstaller/Scoop",
+    "href": "https://github.com/ScoopInstaller/Scoop",
+    "about": "A command-line installer for Windows.",
+    "star": "23,041",
+    "fork": "1,479",
+    "timestamp": "2025-10-22T02:39:55.269982",
+    "stars_today": "180 stars this month"
+  },
+  {
+    "repo": "SkipToTheEndpoint/OpenIntuneBaseline",
+    "href": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+    "about": "Community-driven baseline to accelerate Intune adoption and learning.",
+    "star": "1,031",
+    "fork": "204",
+    "timestamp": "2025-10-22T02:39:55.270287",
+    "stars_today": "56 stars this month"
+  },
+  {
+    "repo": "I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "href": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "about": "Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.",
+    "star": "6,302",
+    "fork": "800",
+    "timestamp": "2025-10-22T02:39:55.270594",
+    "stars_today": "90 stars this month"
+  },
+  {
+    "repo": "ionuttbara/windows-defender-remover",
+    "href": "https://github.com/ionuttbara/windows-defender-remover",
+    "about": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
+    "star": "6,426",
+    "fork": "424",
+    "timestamp": "2025-10-22T02:39:55.270877",
+    "stars_today": "189 stars this month"
+  },
+  {
+    "repo": "Micke-K/IntuneManagement",
+    "href": "https://github.com/Micke-K/IntuneManagement",
+    "about": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+    "star": "1,694",
+    "fork": "314",
+    "timestamp": "2025-10-22T02:39:55.271153",
+    "stars_today": "59 stars this month"
+  },
+  {
+    "repo": "microsoft/Agents",
+    "href": "https://github.com/microsoft/Agents",
+    "about": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+    "star": "507",
+    "fork": "194",
+    "timestamp": "2025-10-22T02:39:55.271438",
+    "stars_today": "64 stars this month"
+  },
+  {
+    "repo": "dartraiden/NVIDIA-patcher",
+    "href": "https://github.com/dartraiden/NVIDIA-patcher",
+    "about": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.",
+    "star": "1,010",
+    "fork": "86",
+    "timestamp": "2025-10-22T02:39:55.271748",
+    "stars_today": "71 stars this month"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "2,034",
+    "fork": "606",
+    "timestamp": "2025-10-22T02:39:55.272085",
+    "stars_today": "43 stars this month"
+  }
+]
