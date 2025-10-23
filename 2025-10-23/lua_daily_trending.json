@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "13,477",
+    "fork": "857",
+    "timestamp": "2025-10-23T02:25:19.934492",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "stevearc/overseer.nvim",
+    "href": "https://github.com/stevearc/overseer.nvim",
+    "about": "A task runner and job management plugin for Neovim",
+    "star": "1,717",
+    "fork": "84",
+    "timestamp": "2025-10-23T02:25:19.934795",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "3,601",
+    "fork": "57",
+    "timestamp": "2025-10-23T02:25:19.935089",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "12,848",
+    "fork": "2,347",
+    "timestamp": "2025-10-23T02:25:19.935397",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "27,826",
+    "fork": "40,838",
+    "timestamp": "2025-10-23T02:25:19.935676",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "4,907",
+    "fork": "297",
+    "timestamp": "2025-10-23T02:25:19.936013",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "supermaven-inc/supermaven-nvim",
+    "href": "https://github.com/supermaven-inc/supermaven-nvim",
+    "about": "The official Neovim plugin for Supermaven",
+    "star": "1,278",
+    "fork": "61",
+    "timestamp": "2025-10-23T02:25:19.936293",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kylechui/nvim-surround",
+    "href": "https://github.com/kylechui/nvim-surround",
+    "about": "Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.",
+    "star": "3,967",
+    "fork": "70",
+    "timestamp": "2025-10-23T02:25:19.936598",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "jitsi/docker-jitsi-meet",
+    "href": "https://github.com/jitsi/docker-jitsi-meet",
+    "about": "Jitsi Meet on Docker",
+    "star": "3,391",
+    "fork": "1,493",
+    "timestamp": "2025-10-23T02:25:19.936889",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NickvanDyke/opencode.nvim",
+    "href": "https://github.com/NickvanDyke/opencode.nvim",
+    "about": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
+    "star": "802",
+    "fork": "24",
+    "timestamp": "2025-10-23T02:25:19.937196",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,585",
+    "fork": "249",
+    "timestamp": "2025-10-23T02:25:19.937474",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572",
+    "star": "1,480",
+    "fork": "69",
+    "timestamp": "2025-10-23T02:25:19.937751",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "nvim-neorg/neorg",
+    "href": "https://github.com/nvim-neorg/neorg",
+    "about": "Modernity meets insane extensibility. The future of organizing your life in Neovim.",
+    "star": "7,079",
+    "fork": "233",
+    "timestamp": "2025-10-23T02:25:19.938040",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "5,509",
+    "fork": "322",
+    "timestamp": "2025-10-23T02:25:19.938342",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "5,384",
+    "fork": "152",
+    "timestamp": "2025-10-23T02:25:19.938632",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gaboolic/rime-frost",
+    "href": "https://github.com/gaboolic/rime-frost",
+    "about": "白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。",
+    "star": "2,680",
+    "fork": "124",
+    "timestamp": "2025-10-23T02:25:19.938924",
+    "stars_today": "11 stars today"
+  }
+]
