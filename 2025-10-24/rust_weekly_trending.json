@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "33,010",
+    "fork": "3,308",
+    "timestamp": "2025-10-24T02:22:19.173629",
+    "stars_today": "1,242 stars this week"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,330",
+    "fork": "639",
+    "timestamp": "2025-10-24T02:22:19.173945",
+    "stars_today": "635 stars this week"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "56,705",
+    "fork": "2,282",
+    "timestamp": "2025-10-24T02:22:19.174279",
+    "stars_today": "559 stars this week"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "55,466",
+    "fork": "1,385",
+    "timestamp": "2025-10-24T02:22:19.174593",
+    "stars_today": "428 stars this week"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "68,223",
+    "fork": "5,650",
+    "timestamp": "2025-10-24T02:22:19.174879",
+    "stars_today": "829 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "101,309",
+    "fork": "14,809",
+    "timestamp": "2025-10-24T02:22:19.175210",
+    "stars_today": "581 stars this week"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "30,021",
+    "fork": "2,808",
+    "timestamp": "2025-10-24T02:22:19.175532",
+    "stars_today": "229 stars this week"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀 High-performance distributed object storage for MinIO alternative.",
+    "star": "9,855",
+    "fork": "475",
+    "timestamp": "2025-10-24T02:22:19.175875",
+    "stars_today": "740 stars this week"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "98,092",
+    "fork": "3,133",
+    "timestamp": "2025-10-24T02:22:19.176203",
+    "stars_today": "617 stars this week"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "36,950",
+    "fork": "1,956",
+    "timestamp": "2025-10-24T02:22:19.176490",
+    "stars_today": "138 stars this week"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "3,204",
+    "fork": "236",
+    "timestamp": "2025-10-24T02:22:19.176772",
+    "stars_today": "89 stars this week"
+  },
+  {
+    "repo": "PyO3/pyo3",
+    "href": "https://github.com/PyO3/pyo3",
+    "about": "Rust bindings for the Python interpreter",
+    "star": "14,661",
+    "fork": "888",
+    "timestamp": "2025-10-24T02:22:19.177069",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "30,237",
+    "fork": "1,060",
+    "timestamp": "2025-10-24T02:22:19.177358",
+    "stars_today": "60 stars this week"
+  },
+  {
+    "repo": "GyulyVGC/sniffnet",
+    "href": "https://github.com/GyulyVGC/sniffnet",
+    "about": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "star": "31,448",
+    "fork": "1,115",
+    "timestamp": "2025-10-24T02:22:19.177669",
+    "stars_today": "225 stars this week"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "54,039",
+    "fork": "2,229",
+    "timestamp": "2025-10-24T02:22:19.177950",
+    "stars_today": "328 stars this week"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "70,794",
+    "fork": "2,145",
+    "timestamp": "2025-10-24T02:22:19.178245",
+    "stars_today": "676 stars this week"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "28,034",
+    "fork": "1,396",
+    "timestamp": "2025-10-24T02:22:19.178577",
+    "stars_today": "104 stars this week"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "about": "A cross-platform, OpenGL terminal emulator.",
+    "star": "60,751",
+    "fork": "3,215",
+    "timestamp": "2025-10-24T02:22:19.178864",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "a2x/cs2-dumper",
+    "href": "https://github.com/a2x/cs2-dumper",
+    "about": "Counter-Strike: 2 Offset Dumper",
+    "star": "1,561",
+    "fork": "229",
+    "timestamp": "2025-10-24T02:22:19.179162",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "17,097",
+    "fork": "698",
+    "timestamp": "2025-10-24T02:22:19.179445",
+    "stars_today": "348 stars this week"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "21,442",
+    "fork": "752",
+    "timestamp": "2025-10-24T02:22:19.179725",
+    "stars_today": "327 stars this week"
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "href": "https://github.com/huggingface/tokenizers",
+    "about": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "star": "10,178",
+    "fork": "980",
+    "timestamp": "2025-10-24T02:22:19.180002",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "abenz1267/walker",
+    "href": "https://github.com/abenz1267/walker",
+    "about": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.",
+    "star": "1,904",
+    "fork": "70",
+    "timestamp": "2025-10-24T02:22:19.180326",
+    "stars_today": "136 stars this week"
+  }
+]

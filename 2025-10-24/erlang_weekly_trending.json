@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,905",
+    "fork": "3,033",
+    "timestamp": "2025-10-24T02:22:00.007657",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,388",
+    "fork": "2,385",
+    "timestamp": "2025-10-24T02:22:00.007953",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "431",
+    "fork": "65",
+    "timestamp": "2025-10-24T02:22:00.008254",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "101",
+    "fork": "34",
+    "timestamp": "2025-10-24T02:22:00.008540",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "903",
+    "fork": "167",
+    "timestamp": "2025-10-24T02:22:00.008818",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,442",
+    "fork": "1,181",
+    "timestamp": "2025-10-24T02:22:00.009124",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,127",
+    "fork": "453",
+    "timestamp": "2025-10-24T02:22:00.009412",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "922",
+    "fork": "235",
+    "timestamp": "2025-10-24T02:22:00.009694",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "826",
+    "fork": "231",
+    "timestamp": "2025-10-24T02:22:00.010003",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "757",
+    "fork": "161",
+    "timestamp": "2025-10-24T02:22:00.010333",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "253",
+    "fork": "83",
+    "timestamp": "2025-10-24T02:22:00.010614",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,880",
+    "fork": "472",
+    "timestamp": "2025-10-24T02:22:00.010891",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "694",
+    "fork": "218",
+    "timestamp": "2025-10-24T02:22:00.011185",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "95",
+    "fork": "49",
+    "timestamp": "2025-10-24T02:22:00.011468",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,704",
+    "fork": "1,055",
+    "timestamp": "2025-10-24T02:22:00.011746",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,460",
+    "fork": "1,536",
+    "timestamp": "2025-10-24T02:22:00.012022",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,252",
+    "fork": "157",
+    "timestamp": "2025-10-24T02:22:00.012313",
+    "stars_today": "7 stars this week"
+  }
+]

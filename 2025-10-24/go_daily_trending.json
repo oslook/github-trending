@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "56,639",
+    "fork": "6,309",
+    "timestamp": "2025-10-24T02:22:01.382938",
+    "stars_today": "146 stars today"
+  },
+  {
+    "repo": "litmuschaos/litmus",
+    "href": "https://github.com/litmuschaos/litmus",
+    "about": "Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+    "star": "4,914",
+    "fork": "762",
+    "timestamp": "2025-10-24T02:22:01.383256",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "dstotijn/hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "about": "An HTTP toolkit for security research.",
+    "star": "8,781",
+    "fork": "478",
+    "timestamp": "2025-10-24T02:22:01.383569",
+    "stars_today": "88 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,644",
+    "fork": "4,231",
+    "timestamp": "2025-10-24T02:22:01.383848",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "21,013",
+    "fork": "6,483",
+    "timestamp": "2025-10-24T02:22:01.384140",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "href": "https://github.com/tmc/langchaingo",
+    "about": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "star": "7,849",
+    "fork": "957",
+    "timestamp": "2025-10-24T02:22:01.384423",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "dagger/dagger",
+    "href": "https://github.com/dagger/dagger",
+    "about": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+    "star": "14,872",
+    "fork": "810",
+    "timestamp": "2025-10-24T02:22:01.384707",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "23,792",
+    "fork": "1,491",
+    "timestamp": "2025-10-24T02:22:01.384987",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,271",
+    "fork": "2,276",
+    "timestamp": "2025-10-24T02:22:01.385281",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gogs/gogs",
+    "href": "https://github.com/gogs/gogs",
+    "about": "Gogs is a painless self-hosted Git service",
+    "star": "47,107",
+    "fork": "5,059",
+    "timestamp": "2025-10-24T02:22:01.385561",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,632",
+    "fork": "2,894",
+    "timestamp": "2025-10-24T02:22:01.385839",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "51,986",
+    "fork": "2,761",
+    "timestamp": "2025-10-24T02:22:01.386135",
+    "stars_today": "80 stars today"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "6,268",
+    "fork": "3,774",
+    "timestamp": "2025-10-24T02:22:01.386417",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "smallstep/certificates",
+    "href": "https://github.com/smallstep/certificates",
+    "about": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
+    "star": "7,759",
+    "fork": "504",
+    "timestamp": "2025-10-24T02:22:01.386696",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,845",
+    "fork": "1,494",
+    "timestamp": "2025-10-24T02:22:01.386972",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "19,282",
+    "fork": "1,940",
+    "timestamp": "2025-10-24T02:22:01.387262",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "7,831",
+    "fork": "723",
+    "timestamp": "2025-10-24T02:22:01.387541",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,258",
+    "fork": "2,493",
+    "timestamp": "2025-10-24T02:22:01.387818",
+    "stars_today": "83 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-azurerm",
+    "href": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "about": "Terraform provider for Azure Resource Manager",
+    "star": "4,838",
+    "fork": "4,885",
+    "timestamp": "2025-10-24T02:22:01.388113",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "24,164",
+    "fork": "3,571",
+    "timestamp": "2025-10-24T02:22:01.388395",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "2,543",
+    "fork": "440",
+    "timestamp": "2025-10-24T02:22:01.388674",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "kagent-dev/kagent",
+    "href": "https://github.com/kagent-dev/kagent",
+    "about": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+    "star": "1,687",
+    "fork": "298",
+    "timestamp": "2025-10-24T02:22:01.388956",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "4,703",
+    "fork": "271",
+    "timestamp": "2025-10-24T02:22:01.389251",
+    "stars_today": "6 stars today"
+  }
+]
