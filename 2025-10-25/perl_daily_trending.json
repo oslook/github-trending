@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "major/MySQLTuner-perl",
+    "href": "https://github.com/major/MySQLTuner-perl",
+    "about": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+    "star": "9,381",
+    "fork": "1,297",
+    "timestamp": "2025-10-25T02:23:25.675670",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenKore/openkore",
+    "href": "https://github.com/OpenKore/openkore",
+    "about": "A free/open source client and automation tool for Ragnarok Online",
+    "star": "1,419",
+    "fork": "1,172",
+    "timestamp": "2025-10-25T02:23:25.675988",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ocpi/ocpi",
+    "href": "https://github.com/ocpi/ocpi",
+    "about": "The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",
+    "star": "525",
+    "fork": "222",
+    "timestamp": "2025-10-25T02:23:25.676279",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SpiderLabs/owasp-modsecurity-crs",
+    "href": "https://github.com/SpiderLabs/owasp-modsecurity-crs",
+    "about": "OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)",
+    "star": "2,471",
+    "fork": "732",
+    "timestamp": "2025-10-25T02:23:25.676566",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tseemann/prokka",
+    "href": "https://github.com/tseemann/prokka",
+    "about": "⚡ ♒ Rapid prokaryotic genome annotation",
+    "star": "938",
+    "fork": "231",
+    "timestamp": "2025-10-25T02:23:25.676849",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "brendangregg/FlameGraph",
+    "href": "https://github.com/brendangregg/FlameGraph",
+    "about": "Stack trace visualizer",
+    "star": "18,850",
+    "fork": "2,056",
+    "timestamp": "2025-10-25T02:23:25.677150",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "AlDanial/cloc",
+    "href": "https://github.com/AlDanial/cloc",
+    "about": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+    "star": "21,895",
+    "fork": "1,076",
+    "timestamp": "2025-10-25T02:23:25.677461",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ddclient/ddclient",
+    "href": "https://github.com/ddclient/ddclient",
+    "about": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+    "star": "3,149",
+    "fork": "367",
+    "timestamp": "2025-10-25T02:23:25.677741",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "trinityrnaseq/trinityrnaseq",
+    "href": "https://github.com/trinityrnaseq/trinityrnaseq",
+    "about": "Trinity RNA-Seq de novo transcriptome assembly",
+    "star": "875",
+    "fork": "320",
+    "timestamp": "2025-10-25T02:23:25.678032",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "FelixKrueger/TrimGalore",
+    "href": "https://github.com/FelixKrueger/TrimGalore",
+    "about": "A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",
+    "star": "527",
+    "fork": "156",
+    "timestamp": "2025-10-25T02:23:25.678314",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "linux-test-project/lcov",
+    "href": "https://github.com/linux-test-project/lcov",
+    "about": "LCOV",
+    "star": "1,038",
+    "fork": "256",
+    "timestamp": "2025-10-25T02:23:25.678592",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "inverse-inc/packetfence",
+    "href": "https://github.com/inverse-inc/packetfence",
+    "about": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+    "star": "1,550",
+    "fork": "310",
+    "timestamp": "2025-10-25T02:23:25.678885",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "tseemann/abricate",
+    "href": "https://github.com/tseemann/abricate",
+    "about": "🔎 💊 Mass screening of contigs for antimicrobial and virulence genes",
+    "star": "440",
+    "fork": "98",
+    "timestamp": "2025-10-25T02:23:25.679163",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "netdisco/netdisco",
+    "href": "https://github.com/netdisco/netdisco",
+    "about": "A web-based network management tool.",
+    "star": "767",
+    "fork": "91",
+    "timestamp": "2025-10-25T02:23:25.679456",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "darold/ora2pg",
+    "href": "https://github.com/darold/ora2pg",
+    "about": "Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",
+    "star": "1,150",
+    "fork": "372",
+    "timestamp": "2025-10-25T02:23:25.679732",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "keydet89/RegRipper3.0",
+    "href": "https://github.com/keydet89/RegRipper3.0",
+    "about": "RegRipper3.0",
+    "star": "652",
+    "fork": "142",
+    "timestamp": "2025-10-25T02:23:25.680017",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "glpi-project/glpi-agent",
+    "href": "https://github.com/glpi-project/glpi-agent",
+    "about": "GLPI Agent",
+    "star": "351",
+    "fork": "92",
+    "timestamp": "2025-10-25T02:23:25.680291",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lm-sensors/lm-sensors",
+    "href": "https://github.com/lm-sensors/lm-sensors",
+    "about": "lm-sensors repository",
+    "star": "1,025",
+    "fork": "287",
+    "timestamp": "2025-10-25T02:23:25.680565",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "adrienverge/openfortivpn",
+    "href": "https://github.com/adrienverge/openfortivpn",
+    "about": "Client for PPP+TLS VPN tunnel services",
+    "star": "3,080",
+    "fork": "352",
+    "timestamp": "2025-10-25T02:23:25.680879",
+    "stars_today": "0 stars today"
+  }
+]

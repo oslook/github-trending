@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "mountain-loop/yaak",
+    "href": "https://github.com/mountain-loop/yaak",
+    "about": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "star": "13,611",
+    "fork": "474",
+    "timestamp": "2025-10-25T02:22:59.623222",
+    "stars_today": "5,540 stars this week"
+  },
+  {
+    "repo": "anthropics/claude-cookbooks",
+    "href": "https://github.com/anthropics/claude-cookbooks",
+    "about": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "star": "25,229",
+    "fork": "2,541",
+    "timestamp": "2025-10-25T02:22:59.623543",
+    "stars_today": "4,155 stars this week"
+  },
+  {
+    "repo": "DrewThomasson/ebook2audiobook",
+    "href": "https://github.com/DrewThomasson/ebook2audiobook",
+    "about": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+    "star": "13,622",
+    "fork": "1,025",
+    "timestamp": "2025-10-25T02:22:59.623839",
+    "stars_today": "1,950 stars this week"
+  },
+  {
+    "repo": "lfnovo/open-notebook",
+    "href": "https://github.com/lfnovo/open-notebook",
+    "about": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "star": "7,941",
+    "fork": "789",
+    "timestamp": "2025-10-25T02:22:59.624156",
+    "stars_today": "2,834 stars this week"
+  },
+  {
+    "repo": "jingyaogong/minimind",
+    "href": "https://github.com/jingyaogong/minimind",
+    "about": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "star": "31,511",
+    "fork": "3,620",
+    "timestamp": "2025-10-25T02:22:59.624450",
+    "stars_today": "3,011 stars this week"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,144",
+    "fork": "6,352",
+    "timestamp": "2025-10-25T02:22:59.624733",
+    "stars_today": "1,426 stars this week"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "href": "https://github.com/karpathy/nanoGPT",
+    "about": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "star": "47,816",
+    "fork": "8,018",
+    "timestamp": "2025-10-25T02:22:59.625041",
+    "stars_today": "1,377 stars this week"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "href": "https://github.com/PaddlePaddle/PaddleOCR",
+    "about": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "star": "61,036",
+    "fork": "9,116",
+    "timestamp": "2025-10-25T02:22:59.625346",
+    "stars_today": "3,277 stars this week"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,371",
+    "fork": "640",
+    "timestamp": "2025-10-25T02:22:59.625647",
+    "stars_today": "680 stars this week"
+  },
+  {
+    "repo": "karpathy/micrograd",
+    "href": "https://github.com/karpathy/micrograd",
+    "about": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+    "star": "13,402",
+    "fork": "1,972",
+    "timestamp": "2025-10-25T02:22:59.625949",
+    "stars_today": "458 stars this week"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "href": "https://github.com/microsoft/PowerToys",
+    "about": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+    "star": "125,145",
+    "fork": "7,444",
+    "timestamp": "2025-10-25T02:22:59.626223",
+    "stars_today": "710 stars this week"
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "href": "https://github.com/Anuken/Mindustry",
+    "about": "The automation tower defense RTS",
+    "star": "25,480",
+    "fork": "3,255",
+    "timestamp": "2025-10-25T02:22:59.626507",
+    "stars_today": "465 stars this week"
+  },
+  {
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "href": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "about": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "star": "65,325",
+    "fork": "6,788",
+    "timestamp": "2025-10-25T02:22:59.626820",
+    "stars_today": "1,050 stars this week"
+  },
+  {
+    "repo": "drawdb-io/drawdb",
+    "href": "https://github.com/drawdb-io/drawdb",
+    "about": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "star": "34,128",
+    "fork": "2,553",
+    "timestamp": "2025-10-25T02:22:59.627118",
+    "stars_today": "834 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,415",
+    "fork": "2,498",
+    "timestamp": "2025-10-25T02:22:59.627399",
+    "stars_today": "253 stars this week"
+  },
+  {
+    "repo": "amnezia-vpn/amnezia-client",
+    "href": "https://github.com/amnezia-vpn/amnezia-client",
+    "about": "Amnezia VPN Client (Desktop+Mobile)",
+    "star": "8,679",
+    "fork": "597",
+    "timestamp": "2025-10-25T02:22:59.627724",
+    "stars_today": "287 stars this week"
+  }
+]

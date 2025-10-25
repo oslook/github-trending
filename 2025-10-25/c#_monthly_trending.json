@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "13,409",
+    "fork": "8,107",
+    "timestamp": "2025-10-25T02:23:06.591277",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "886",
+    "fork": "1,653",
+    "timestamp": "2025-10-25T02:23:06.591575",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "bol-van/zapret",
+    "href": "https://github.com/bol-van/zapret",
+    "about": "DPI bypass multi platform",
+    "star": "12,845",
+    "fork": "907",
+    "timestamp": "2025-10-25T02:23:06.591868",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+    "star": "23,367",
+    "fork": "928",
+    "timestamp": "2025-10-25T02:23:06.592157",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "UberGuidoZ/Flipper",
+    "href": "https://github.com/UberGuidoZ/Flipper",
+    "about": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "star": "16,048",
+    "fork": "3,619",
+    "timestamp": "2025-10-25T02:23:06.592436",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "11,396",
+    "fork": "1,471",
+    "timestamp": "2025-10-25T02:23:06.592712",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "RfidResearchGroup/proxmark3",
+    "href": "https://github.com/RfidResearchGroup/proxmark3",
+    "about": "Iceman Fork - Proxmark3",
+    "star": "4,917",
+    "fork": "1,228",
+    "timestamp": "2025-10-25T02:23:06.593030",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "28,871",
+    "fork": "10,891",
+    "timestamp": "2025-10-25T02:23:06.593334",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,198",
+    "fork": "2,783",
+    "timestamp": "2025-10-25T02:23:06.593616",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "4,979",
+    "fork": "966",
+    "timestamp": "2025-10-25T02:23:06.593915",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "12,099",
+    "fork": "3,375",
+    "timestamp": "2025-10-25T02:23:06.594201",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "yugabyte/yugabyte-db",
+    "href": "https://github.com/yugabyte/yugabyte-db",
+    "about": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+    "star": "9,855",
+    "fork": "1,184",
+    "timestamp": "2025-10-25T02:23:06.594477",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "tsl0922/ttyd",
+    "href": "https://github.com/tsl0922/ttyd",
+    "about": "Share your terminal over the web",
+    "star": "10,123",
+    "fork": "1,018",
+    "timestamp": "2025-10-25T02:23:06.594781",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "10,242",
+    "fork": "2,534",
+    "timestamp": "2025-10-25T02:23:06.595072",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "SoftEtherVPN/SoftEtherVPN",
+    "href": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+    "about": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+    "star": "12,663",
+    "fork": "2,714",
+    "timestamp": "2025-10-25T02:23:06.595351",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "11,123",
+    "fork": "2,986",
+    "timestamp": "2025-10-25T02:23:06.595624",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "facebook/zstd",
+    "href": "https://github.com/facebook/zstd",
+    "about": "Zstandard - Fast real-time compression algorithm",
+    "star": "25,907",
+    "fork": "2,329",
+    "timestamp": "2025-10-25T02:23:06.595911",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "FreeRDP/FreeRDP",
+    "href": "https://github.com/FreeRDP/FreeRDP",
+    "about": "FreeRDP is a free remote desktop protocol library and clients",
+    "star": "12,430",
+    "fork": "15,164",
+    "timestamp": "2025-10-25T02:23:06.596186",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "pgbackrest/pgbackrest",
+    "href": "https://github.com/pgbackrest/pgbackrest",
+    "about": "Reliable PostgreSQL Backup & Restore",
+    "star": "3,340",
+    "fork": "241",
+    "timestamp": "2025-10-25T02:23:06.596465",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "spdk/spdk",
+    "href": "https://github.com/spdk/spdk",
+    "about": "Storage Performance Development Kit",
+    "star": "3,380",
+    "fork": "1,281",
+    "timestamp": "2025-10-25T02:23:06.596741",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hathach/tinyusb",
+    "href": "https://github.com/hathach/tinyusb",
+    "about": "An open source cross-platform USB stack for embedded system",
+    "star": "6,172",
+    "fork": "1,292",
+    "timestamp": "2025-10-25T02:23:06.597026",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "href": "https://github.com/obsproject/obs-studio",
+    "about": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "star": "67,650",
+    "fork": "8,745",
+    "timestamp": "2025-10-25T02:23:06.597299",
+    "stars_today": "27 stars today"
+  }
+]

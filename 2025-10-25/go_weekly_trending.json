@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,144",
+    "fork": "6,352",
+    "timestamp": "2025-10-25T02:23:14.965998",
+    "stars_today": "1,426 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,415",
+    "fork": "2,498",
+    "timestamp": "2025-10-25T02:23:14.966302",
+    "stars_today": "253 stars this week"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "30,597",
+    "fork": "1,492",
+    "timestamp": "2025-10-25T02:23:14.966587",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,422",
+    "fork": "500",
+    "timestamp": "2025-10-25T02:23:14.966880",
+    "stars_today": "843 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "52,024",
+    "fork": "2,764",
+    "timestamp": "2025-10-25T02:23:14.967159",
+    "stars_today": "427 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,565",
+    "fork": "2,052",
+    "timestamp": "2025-10-25T02:23:14.967433",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "27,561",
+    "fork": "3,208",
+    "timestamp": "2025-10-25T02:23:14.967708",
+    "stars_today": "373 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "21,026",
+    "fork": "6,492",
+    "timestamp": "2025-10-25T02:23:14.968011",
+    "stars_today": "80 stars this week"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "6,616",
+    "fork": "1,113",
+    "timestamp": "2025-10-25T02:23:14.968297",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,154",
+    "fork": "531",
+    "timestamp": "2025-10-25T02:23:14.968578",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,101",
+    "fork": "510",
+    "timestamp": "2025-10-25T02:23:14.968871",
+    "stars_today": "290 stars this week"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,797",
+    "fork": "3,109",
+    "timestamp": "2025-10-25T02:23:14.969151",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,271",
+    "fork": "2,275",
+    "timestamp": "2025-10-25T02:23:14.969430",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "60,928",
+    "fork": "9,877",
+    "timestamp": "2025-10-25T02:23:14.969705",
+    "stars_today": "134 stars this week"
+  },
+  {
+    "repo": "ZenPrivacy/zen-desktop",
+    "href": "https://github.com/ZenPrivacy/zen-desktop",
+    "about": "Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux",
+    "star": "3,557",
+    "fork": "108",
+    "timestamp": "2025-10-25T02:23:14.969991",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "ory/kratos",
+    "href": "https://github.com/ory/kratos",
+    "about": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+    "star": "12,440",
+    "fork": "1,049",
+    "timestamp": "2025-10-25T02:23:14.970267",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "155,627",
+    "fork": "12,691",
+    "timestamp": "2025-10-25T02:23:14.970569",
+    "stars_today": "669 stars this week"
+  },
+  {
+    "repo": "publicsuffix/list",
+    "href": "https://github.com/publicsuffix/list",
+    "about": "The Public Suffix List",
+    "star": "2,578",
+    "fork": "1,428",
+    "timestamp": "2025-10-25T02:23:14.970846",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "26,861",
+    "fork": "1,106",
+    "timestamp": "2025-10-25T02:23:14.971135",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "84,344",
+    "fork": "8,077",
+    "timestamp": "2025-10-25T02:23:14.971412",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,190",
+    "fork": "168",
+    "timestamp": "2025-10-25T02:23:14.971691",
+    "stars_today": "369 stars this week"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "13,249",
+    "fork": "2,256",
+    "timestamp": "2025-10-25T02:23:14.971982",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "terrastruct/d2",
+    "href": "https://github.com/terrastruct/d2",
+    "about": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "star": "22,185",
+    "fork": "584",
+    "timestamp": "2025-10-25T02:23:14.972257",
+    "stars_today": "144 stars this week"
+  }
+]

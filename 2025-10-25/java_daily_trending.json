@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "elastic/elasticsearch",
+    "href": "https://github.com/elastic/elasticsearch",
+    "about": "Free and Open Source, Distributed, RESTful Search Engine",
+    "star": "75,214",
+    "fork": "25,576",
+    "timestamp": "2025-10-25T02:23:17.124571",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "alibaba/nacos",
+    "href": "https://github.com/alibaba/nacos",
+    "about": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+    "star": "32,189",
+    "fork": "13,160",
+    "timestamp": "2025-10-25T02:23:17.124886",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "LianjiaTech/bella-openapi",
+    "href": "https://github.com/LianjiaTech/bella-openapi",
+    "about": "Bella OpenAPI是一个提供了丰富的AI调用能力的API网关，可类比openrouter，与之不同的是除了提供聊天补全(chat-completion)能力外，还提供了文本向量化(text-embedding)、语音识别(ASR)、语音合成(TTS)、文生图、图生图等多种AI能力，同时集成了计费、限流和资源管理功能。且集成的所有能力都经过了大规模生产环境的验证。",
+    "star": "149",
+    "fork": "33",
+    "timestamp": "2025-10-25T02:23:17.125202",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "aeron-io/aeron",
+    "href": "https://github.com/aeron-io/aeron",
+    "about": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+    "star": "8,195",
+    "fork": "970",
+    "timestamp": "2025-10-25T02:23:17.125589",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gyoogle/tech-interview-for-developer",
+    "href": "https://github.com/gyoogle/tech-interview-for-developer",
+    "about": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+    "star": "16,692",
+    "fork": "3,692",
+    "timestamp": "2025-10-25T02:23:17.125943",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "href": "https://github.com/bazelbuild/bazel",
+    "about": "a fast, scalable, multi-language and extensible build system",
+    "star": "24,661",
+    "fork": "4,319",
+    "timestamp": "2025-10-25T02:23:17.126232",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "firebase/firebase-android-sdk",
+    "href": "https://github.com/firebase/firebase-android-sdk",
+    "about": "Firebase Android SDK",
+    "star": "2,439",
+    "fork": "646",
+    "timestamp": "2025-10-25T02:23:17.126635",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "AutoMQ/automq",
+    "href": "https://github.com/AutoMQ/automq",
+    "about": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+    "star": "7,308",
+    "fork": "503",
+    "timestamp": "2025-10-25T02:23:17.126935",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "href": "https://github.com/SeleniumHQ/selenium",
+    "about": "A browser automation framework and ecosystem.",
+    "star": "33,517",
+    "fork": "8,608",
+    "timestamp": "2025-10-25T02:23:17.127267",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "apache/rocketmq",
+    "href": "https://github.com/apache/rocketmq",
+    "about": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+    "star": "22,172",
+    "fork": "11,965",
+    "timestamp": "2025-10-25T02:23:17.127584",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc/grpc-java",
+    "href": "https://github.com/grpc/grpc-java",
+    "about": "The Java gRPC implementation. HTTP/2 based RPC",
+    "star": "11,880",
+    "fork": "3,937",
+    "timestamp": "2025-10-25T02:23:17.127889",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "dbeaver/dbeaver",
+    "href": "https://github.com/dbeaver/dbeaver",
+    "about": "Free universal database tool and SQL client",
+    "star": "45,918",
+    "fork": "3,880",
+    "timestamp": "2025-10-25T02:23:17.128204",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "strimzi/strimzi-kafka-operator",
+    "href": "https://github.com/strimzi/strimzi-kafka-operator",
+    "about": "Apache Kafka® running on Kubernetes",
+    "star": "5,453",
+    "fork": "1,420",
+    "timestamp": "2025-10-25T02:23:17.128483",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "trinodb/trino",
+    "href": "https://github.com/trinodb/trino",
+    "about": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "star": "12,060",
+    "fork": "3,368",
+    "timestamp": "2025-10-25T02:23:17.128761",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "apache/avro",
+    "href": "https://github.com/apache/avro",
+    "about": "Apache Avro is a data serialization system.",
+    "star": "3,166",
+    "fork": "1,705",
+    "timestamp": "2025-10-25T02:23:17.129052",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "flyway/flyway",
+    "href": "https://github.com/flyway/flyway",
+    "about": "Flyway by Redgate • Database Migrations Made Easy.",
+    "star": "9,211",
+    "fork": "1,577",
+    "timestamp": "2025-10-25T02:23:17.129326",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "href": "https://github.com/spring-projects/spring-boot",
+    "about": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+    "star": "78,784",
+    "fork": "41,592",
+    "timestamp": "2025-10-25T02:23:17.129600",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "href": "https://github.com/quarkusio/quarkus",
+    "about": "Quarkus: Supersonic Subatomic Java.",
+    "star": "15,126",
+    "fork": "2,988",
+    "timestamp": "2025-10-25T02:23:17.129885",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "allure-framework/allure2",
+    "href": "https://github.com/allure-framework/allure2",
+    "about": "Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process",
+    "star": "4,951",
+    "fork": "754",
+    "timestamp": "2025-10-25T02:23:17.130160",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ashishps1/awesome-system-design-resources",
+    "href": "https://github.com/ashishps1/awesome-system-design-resources",
+    "about": "Learn System Design concepts and prepare for interviews using free resources.",
+    "star": "26,907",
+    "fork": "6,327",
+    "timestamp": "2025-10-25T02:23:17.130434",
+    "stars_today": "55 stars today"
+  }
+]
