@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,316",
+    "fork": "6,370",
+    "timestamp": "2025-10-26T02:40:29.441995",
+    "stars_today": "167 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,528",
+    "fork": "2,501",
+    "timestamp": "2025-10-26T02:40:29.442312",
+    "stars_today": "175 stars today"
+  },
+  {
+    "repo": "kagent-dev/kagent",
+    "href": "https://github.com/kagent-dev/kagent",
+    "about": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+    "star": "1,703",
+    "fork": "303",
+    "timestamp": "2025-10-26T02:40:29.442601",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "42,244",
+    "fork": "3,018",
+    "timestamp": "2025-10-26T02:40:29.442910",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,606",
+    "fork": "2,513",
+    "timestamp": "2025-10-26T02:40:29.443199",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "18,536",
+    "fork": "1,161",
+    "timestamp": "2025-10-26T02:40:29.443480",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "litmuschaos/litmus",
+    "href": "https://github.com/litmuschaos/litmus",
+    "about": "Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+    "star": "4,927",
+    "fork": "769",
+    "timestamp": "2025-10-26T02:40:29.443755",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "2,206",
+    "fork": "79",
+    "timestamp": "2025-10-26T02:40:29.444058",
+    "stars_today": "97 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,063",
+    "fork": "8,454",
+    "timestamp": "2025-10-26T02:40:29.444350",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "9,038",
+    "fork": "1,103",
+    "timestamp": "2025-10-26T02:40:29.444659",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "stretchr/testify",
+    "href": "https://github.com/stretchr/testify",
+    "about": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "star": "25,328",
+    "fork": "1,678",
+    "timestamp": "2025-10-26T02:40:29.444936",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "811",
+    "fork": "81",
+    "timestamp": "2025-10-26T02:40:29.445225",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "cli/cli",
+    "href": "https://github.com/cli/cli",
+    "about": "GitHub’s official command line tool",
+    "star": "41,147",
+    "fork": "7,304",
+    "timestamp": "2025-10-26T02:40:29.445507",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "href": "https://github.com/syncthing/syncthing",
+    "about": "Open Source Continuous File Synchronization",
+    "star": "77,083",
+    "fork": "4,815",
+    "timestamp": "2025-10-26T02:40:29.445809",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "2,587",
+    "fork": "236",
+    "timestamp": "2025-10-26T02:40:29.446088",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "smallstep/certificates",
+    "href": "https://github.com/smallstep/certificates",
+    "about": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
+    "star": "7,787",
+    "fork": "504",
+    "timestamp": "2025-10-26T02:40:29.446384",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "7,026",
+    "fork": "1,133",
+    "timestamp": "2025-10-26T02:40:29.446663",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "pressly/goose",
+    "href": "https://github.com/pressly/goose",
+    "about": "A database migration tool. Supports SQL migrations and Go functions.",
+    "star": "9,350",
+    "fork": "604",
+    "timestamp": "2025-10-26T02:40:29.446938",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "href": "https://github.com/kubernetes-sigs/external-dns",
+    "about": "Configure external DNS servers dynamically from Kubernetes resources",
+    "star": "8,551",
+    "fork": "2,766",
+    "timestamp": "2025-10-26T02:40:29.447225",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,698",
+    "fork": "2,555",
+    "timestamp": "2025-10-26T02:40:29.447502",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "href": "https://github.com/hibiken/asynq",
+    "about": "Simple, reliable, and efficient distributed task queue in Go",
+    "star": "12,189",
+    "fork": "864",
+    "timestamp": "2025-10-26T02:40:29.447805",
+    "stars_today": "13 stars today"
+  }
+]

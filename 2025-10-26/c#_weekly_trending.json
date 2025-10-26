@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "13,484",
+    "fork": "8,116",
+    "timestamp": "2025-10-26T02:40:22.040084",
+    "stars_today": "80 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "13,753",
+    "fork": "2,014",
+    "timestamp": "2025-10-26T02:40:22.040391",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "39,652",
+    "fork": "6,918",
+    "timestamp": "2025-10-26T02:40:22.040703",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "mattn/go-sqlite3",
+    "href": "https://github.com/mattn/go-sqlite3",
+    "about": "sqlite3 driver for go using database/sql",
+    "star": "8,761",
+    "fork": "1,154",
+    "timestamp": "2025-10-26T02:40:22.041011",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "56,964",
+    "fork": "26,858",
+    "timestamp": "2025-10-26T02:40:22.041307",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "lz4/lz4",
+    "href": "https://github.com/lz4/lz4",
+    "about": "Extremely Fast Compression algorithm",
+    "star": "11,399",
+    "fork": "1,472",
+    "timestamp": "2025-10-26T02:40:22.041585",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "OpenVPN/openvpn",
+    "href": "https://github.com/OpenVPN/openvpn",
+    "about": "OpenVPN is an open source VPN daemon",
+    "star": "12,651",
+    "fork": "3,193",
+    "timestamp": "2025-10-26T02:40:22.041863",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "tsl0922/ttyd",
+    "href": "https://github.com/tsl0922/ttyd",
+    "about": "Share your terminal over the web",
+    "star": "10,158",
+    "fork": "1,018",
+    "timestamp": "2025-10-26T02:40:22.042165",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "mackron/miniaudio",
+    "href": "https://github.com/mackron/miniaudio",
+    "about": "Audio playback and capture library written in C, in a single source file.",
+    "star": "5,446",
+    "fork": "473",
+    "timestamp": "2025-10-26T02:40:22.042482",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "kokke/tiny-AES-c",
+    "href": "https://github.com/kokke/tiny-AES-c",
+    "about": "Small portable AES128/192/256 in C",
+    "star": "4,727",
+    "fork": "1,364",
+    "timestamp": "2025-10-26T02:40:22.042757",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "EpicGamesExt/raddebugger",
+    "href": "https://github.com/EpicGamesExt/raddebugger",
+    "about": "A native, user-mode, multi-process, graphical debugger.",
+    "star": "6,129",
+    "fork": "261",
+    "timestamp": "2025-10-26T02:40:22.043031",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "olikraus/u8g2",
+    "href": "https://github.com/olikraus/u8g2",
+    "about": "U8glib library for monochrome displays, version 2",
+    "star": "6,027",
+    "fork": "1,156",
+    "timestamp": "2025-10-26T02:40:22.043319",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "12,103",
+    "fork": "3,374",
+    "timestamp": "2025-10-26T02:40:22.043591",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "6,195",
+    "fork": "930",
+    "timestamp": "2025-10-26T02:40:22.043891",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "libfuse/libfuse",
+    "href": "https://github.com/libfuse/libfuse",
+    "about": "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface",
+    "star": "5,793",
+    "fork": "1,222",
+    "timestamp": "2025-10-26T02:40:22.044165",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,597",
+    "fork": "1,364",
+    "timestamp": "2025-10-26T02:40:22.044452",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "libevent/libevent",
+    "href": "https://github.com/libevent/libevent",
+    "about": "Event notification library",
+    "star": "11,702",
+    "fork": "3,452",
+    "timestamp": "2025-10-26T02:40:22.044725",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "signalwire/freeswitch",
+    "href": "https://github.com/signalwire/freeswitch",
+    "about": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+    "star": "4,406",
+    "fork": "1,645",
+    "timestamp": "2025-10-26T02:40:22.044996",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "TheAlgorithms/C",
+    "href": "https://github.com/TheAlgorithms/C",
+    "about": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "star": "21,182",
+    "fork": "4,653",
+    "timestamp": "2025-10-26T02:40:22.045279",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "RT-Thread/rt-thread",
+    "href": "https://github.com/RT-Thread/rt-thread",
+    "about": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+    "star": "11,477",
+    "fork": "5,297",
+    "timestamp": "2025-10-26T02:40:22.045555",
+    "stars_today": "3 stars today"
+  }
+]

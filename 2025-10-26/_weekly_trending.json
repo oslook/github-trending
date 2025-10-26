@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "mountain-loop/yaak",
+    "href": "https://github.com/mountain-loop/yaak",
+    "about": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "star": "13,767",
+    "fork": "481",
+    "timestamp": "2025-10-26T02:40:15.237366",
+    "stars_today": "5,695 stars this week"
+  },
+  {
+    "repo": "DrewThomasson/ebook2audiobook",
+    "href": "https://github.com/DrewThomasson/ebook2audiobook",
+    "about": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+    "star": "13,716",
+    "fork": "1,034",
+    "timestamp": "2025-10-26T02:40:15.237669",
+    "stars_today": "1,961 stars this week"
+  },
+  {
+    "repo": "lfnovo/open-notebook",
+    "href": "https://github.com/lfnovo/open-notebook",
+    "about": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "star": "8,099",
+    "fork": "803",
+    "timestamp": "2025-10-26T02:40:15.237962",
+    "stars_today": "2,726 stars this week"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,316",
+    "fork": "6,370",
+    "timestamp": "2025-10-26T02:40:15.238265",
+    "stars_today": "1,563 stars this week"
+  },
+  {
+    "repo": "anthropics/claude-cookbooks",
+    "href": "https://github.com/anthropics/claude-cookbooks",
+    "about": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "star": "25,329",
+    "fork": "2,558",
+    "timestamp": "2025-10-26T02:40:15.238551",
+    "stars_today": "4,141 stars this week"
+  },
+  {
+    "repo": "jingyaogong/minimind",
+    "href": "https://github.com/jingyaogong/minimind",
+    "about": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "star": "31,594",
+    "fork": "3,631",
+    "timestamp": "2025-10-26T02:40:15.238830",
+    "stars_today": "1,783 stars this week"
+  },
+  {
+    "repo": "huggingface/chat-ui",
+    "href": "https://github.com/huggingface/chat-ui",
+    "about": "Open source codebase powering the HuggingChat app",
+    "star": "10,101",
+    "fork": "1,496",
+    "timestamp": "2025-10-26T02:40:15.239106",
+    "stars_today": "844 stars this week"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "href": "https://github.com/PaddlePaddle/PaddleOCR",
+    "about": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "star": "61,187",
+    "fork": "9,123",
+    "timestamp": "2025-10-26T02:40:15.239402",
+    "stars_today": "2,903 stars this week"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "href": "https://github.com/karpathy/nanoGPT",
+    "about": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "star": "47,911",
+    "fork": "8,037",
+    "timestamp": "2025-10-26T02:40:15.239685",
+    "stars_today": "1,270 stars this week"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,407",
+    "fork": "640",
+    "timestamp": "2025-10-26T02:40:15.239965",
+    "stars_today": "719 stars this week"
+  },
+  {
+    "repo": "karpathy/micrograd",
+    "href": "https://github.com/karpathy/micrograd",
+    "about": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+    "star": "13,427",
+    "fork": "1,976",
+    "timestamp": "2025-10-26T02:40:15.240256",
+    "stars_today": "457 stars this week"
+  },
+  {
+    "repo": "fishaudio/fish-speech",
+    "href": "https://github.com/fishaudio/fish-speech",
+    "about": "SOTA Open Source TTS",
+    "star": "23,757",
+    "fork": "1,945",
+    "timestamp": "2025-10-26T02:40:15.240526",
+    "stars_today": "615 stars this week"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "56,789",
+    "fork": "2,283",
+    "timestamp": "2025-10-26T02:40:15.240834",
+    "stars_today": "590 stars this week"
+  },
+  {
+    "repo": "ThinkInAIXYZ/deepchat",
+    "href": "https://github.com/ThinkInAIXYZ/deepchat",
+    "about": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+    "star": "4,786",
+    "fork": "567",
+    "timestamp": "2025-10-26T02:40:15.241114",
+    "stars_today": "528 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,528",
+    "fork": "2,501",
+    "timestamp": "2025-10-26T02:40:15.241413",
+    "stars_today": "432 stars this week"
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "href": "https://github.com/Anuken/Mindustry",
+    "about": "The automation tower defense RTS",
+    "star": "25,509",
+    "fork": "3,256",
+    "timestamp": "2025-10-26T02:40:15.241696",
+    "stars_today": "481 stars this week"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "href": "https://github.com/EbookFoundation/free-programming-books",
+    "about": "📚 Freely available programming books",
+    "star": "374,982",
+    "fork": "65,116",
+    "timestamp": "2025-10-26T02:40:15.242003",
+    "stars_today": "2,291 stars this week"
+  },
+  {
+    "repo": "drawdb-io/drawdb",
+    "href": "https://github.com/drawdb-io/drawdb",
+    "about": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "star": "34,315",
+    "fork": "2,558",
+    "timestamp": "2025-10-26T02:40:15.242299",
+    "stars_today": "1,104 stars this week"
+  }
+]
