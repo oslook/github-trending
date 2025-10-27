@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "51,534",
+    "fork": "6,176",
+    "timestamp": "2025-10-27T02:47:56.729841",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "17,091",
+    "fork": "1,213",
+    "timestamp": "2025-10-27T02:47:56.730150",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "32,055",
+    "fork": "4,646",
+    "timestamp": "2025-10-27T02:47:56.730430",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "Notifuse/notifuse",
+    "href": "https://github.com/Notifuse/notifuse",
+    "about": "Notifuse is an open-source & modern emailing platform",
+    "star": "1,039",
+    "fork": "83",
+    "timestamp": "2025-10-27T02:47:56.730710",
+    "stars_today": "132 stars today"
+  },
+  {
+    "repo": "fish2018/pansou",
+    "href": "https://github.com/fish2018/pansou",
+    "about": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/",
+    "star": "7,989",
+    "fork": "1,822",
+    "timestamp": "2025-10-27T02:47:56.730993",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "2,259",
+    "fork": "80",
+    "timestamp": "2025-10-27T02:47:56.731285",
+    "stars_today": "64 stars today"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "href": "https://github.com/cockroachdb/cockroach",
+    "about": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "star": "31,422",
+    "fork": "3,998",
+    "timestamp": "2025-10-27T02:47:56.731568",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "100,009",
+    "fork": "14,563",
+    "timestamp": "2025-10-27T02:47:56.731913",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "84,376",
+    "fork": "8,081",
+    "timestamp": "2025-10-27T02:47:56.732205",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "5,629",
+    "fork": "923",
+    "timestamp": "2025-10-27T02:47:56.732508",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "13,144",
+    "fork": "2,784",
+    "timestamp": "2025-10-27T02:47:56.732782",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "831",
+    "fork": "83",
+    "timestamp": "2025-10-27T02:47:56.733126",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,563",
+    "fork": "8,105",
+    "timestamp": "2025-10-27T02:47:56.733415",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,567",
+    "fork": "2,502",
+    "timestamp": "2025-10-27T02:47:56.733699",
+    "stars_today": "58 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,737",
+    "fork": "656",
+    "timestamp": "2025-10-27T02:47:56.733991",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "href": "https://github.com/v2fly/v2ray-core",
+    "about": "A platform for building proxies to bypass network restrictions.",
+    "star": "32,329",
+    "fork": "4,903",
+    "timestamp": "2025-10-27T02:47:56.734265",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,711",
+    "fork": "7,364",
+    "timestamp": "2025-10-27T02:47:56.734535",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "31,708",
+    "fork": "3,545",
+    "timestamp": "2025-10-27T02:47:56.734810",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "thomaspoignant/go-feature-flag",
+    "href": "https://github.com/thomaspoignant/go-feature-flag",
+    "about": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
+    "star": "1,810",
+    "fork": "178",
+    "timestamp": "2025-10-27T02:47:56.735125",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Loyalsoldier/geoip",
+    "href": "https://github.com/Loyalsoldier/geoip",
+    "about": "🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.",
+    "star": "5,163",
+    "fork": "785",
+    "timestamp": "2025-10-27T02:47:56.735404",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rivo/tview",
+    "href": "https://github.com/rivo/tview",
+    "about": "Terminal UI library with rich, interactive widgets — written in Golang",
+    "star": "13,067",
+    "fork": "646",
+    "timestamp": "2025-10-27T02:47:56.735702",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "4,037",
+    "fork": "185",
+    "timestamp": "2025-10-27T02:47:56.735983",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "5,528",
+    "fork": "715",
+    "timestamp": "2025-10-27T02:47:56.736255",
+    "stars_today": "23 stars today"
+  }
+]

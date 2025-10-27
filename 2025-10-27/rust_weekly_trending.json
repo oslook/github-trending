@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "33,168",
+    "fork": "3,313",
+    "timestamp": "2025-10-27T02:48:13.170524",
+    "stars_today": "1,411 stars this week"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,434",
+    "fork": "643",
+    "timestamp": "2025-10-27T02:48:13.170836",
+    "stars_today": "711 stars this week"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "55,525",
+    "fork": "1,388",
+    "timestamp": "2025-10-27T02:48:13.171196",
+    "stars_today": "460 stars this week"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "56,832",
+    "fork": "2,282",
+    "timestamp": "2025-10-27T02:48:13.171517",
+    "stars_today": "470 stars this week"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "98,188",
+    "fork": "3,133",
+    "timestamp": "2025-10-27T02:48:13.171835",
+    "stars_today": "630 stars this week"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "10,387",
+    "fork": "495",
+    "timestamp": "2025-10-27T02:48:13.172139",
+    "stars_today": "1,286 stars this week"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "21,591",
+    "fork": "758",
+    "timestamp": "2025-10-27T02:48:13.172433",
+    "stars_today": "391 stars this week"
+  },
+  {
+    "repo": "OpenDevicePartnership/patina",
+    "href": "https://github.com/OpenDevicePartnership/patina",
+    "about": "Patina Firmware",
+    "star": "426",
+    "fork": "24",
+    "timestamp": "2025-10-27T02:48:13.172724",
+    "stars_today": "235 stars this week"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "30,041",
+    "fork": "2,811",
+    "timestamp": "2025-10-27T02:48:13.173061",
+    "stars_today": "225 stars this week"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "68,460",
+    "fork": "5,703",
+    "timestamp": "2025-10-27T02:48:13.173353",
+    "stars_today": "626 stars this week"
+  },
+  {
+    "repo": "boa-dev/boa",
+    "href": "https://github.com/boa-dev/boa",
+    "about": "Boa is an embeddable Javascript engine written in Rust.",
+    "star": "6,091",
+    "fork": "465",
+    "timestamp": "2025-10-27T02:48:13.173644",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "slint-ui/slint",
+    "href": "https://github.com/slint-ui/slint",
+    "about": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+    "star": "20,751",
+    "fork": "762",
+    "timestamp": "2025-10-27T02:48:13.173934",
+    "stars_today": "109 stars this week"
+  },
+  {
+    "repo": "abenz1267/walker",
+    "href": "https://github.com/abenz1267/walker",
+    "about": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.",
+    "star": "1,948",
+    "fork": "72",
+    "timestamp": "2025-10-27T02:48:13.174263",
+    "stars_today": "167 stars this week"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "50,199",
+    "fork": "2,346",
+    "timestamp": "2025-10-27T02:48:13.174582",
+    "stars_today": "256 stars this week"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "71,022",
+    "fork": "2,159",
+    "timestamp": "2025-10-27T02:48:13.174870",
+    "stars_today": "708 stars this week"
+  },
+  {
+    "repo": "stalwartlabs/stalwart",
+    "href": "https://github.com/stalwartlabs/stalwart",
+    "about": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "star": "10,186",
+    "fork": "530",
+    "timestamp": "2025-10-27T02:48:13.175204",
+    "stars_today": "223 stars this week"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "30,864",
+    "fork": "2,124",
+    "timestamp": "2025-10-27T02:48:13.175493",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "17,136",
+    "fork": "701",
+    "timestamp": "2025-10-27T02:48:13.175782",
+    "stars_today": "322 stars this week"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "54,178",
+    "fork": "2,234",
+    "timestamp": "2025-10-27T02:48:13.176082",
+    "stars_today": "433 stars this week"
+  },
+  {
+    "repo": "casey/just",
+    "href": "https://github.com/casey/just",
+    "about": "🤖 Just a command runner",
+    "star": "28,317",
+    "fork": "596",
+    "timestamp": "2025-10-27T02:48:13.176398",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "atuinsh/atuin",
+    "href": "https://github.com/atuinsh/atuin",
+    "about": "✨ Magical shell history",
+    "star": "26,500",
+    "fork": "714",
+    "timestamp": "2025-10-27T02:48:13.176713",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "38,353",
+    "fork": "4,486",
+    "timestamp": "2025-10-27T02:48:13.177012",
+    "stars_today": "1,018 stars this week"
+  },
+  {
+    "repo": "zellij-org/zellij",
+    "href": "https://github.com/zellij-org/zellij",
+    "about": "A terminal workspace with batteries included",
+    "star": "26,894",
+    "fork": "844",
+    "timestamp": "2025-10-27T02:48:13.177297",
+    "stars_today": "114 stars this week"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "href": "https://github.com/rust-unofficial/awesome-rust",
+    "about": "A curated list of Rust code and resources.",
+    "star": "53,403",
+    "fork": "3,051",
+    "timestamp": "2025-10-27T02:48:13.177581",
+    "stars_today": "177 stars this week"
+  }
+]

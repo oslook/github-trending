@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,908",
+    "fork": "3,034",
+    "timestamp": "2025-10-27T02:47:55.132281",
+    "stars_today": "50 stars this month"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,403",
+    "fork": "2,386",
+    "timestamp": "2025-10-27T02:47:55.132581",
+    "stars_today": "149 stars this month"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "330",
+    "fork": "112",
+    "timestamp": "2025-10-27T02:47:55.132871",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,705",
+    "fork": "1,054",
+    "timestamp": "2025-10-27T02:47:55.133179",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "827",
+    "fork": "231",
+    "timestamp": "2025-10-27T02:47:55.133491",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "253",
+    "fork": "83",
+    "timestamp": "2025-10-27T02:47:55.133773",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "757",
+    "fork": "161",
+    "timestamp": "2025-10-27T02:47:55.134090",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,442",
+    "fork": "1,181",
+    "timestamp": "2025-10-27T02:47:55.134371",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "433",
+    "fork": "65",
+    "timestamp": "2025-10-27T02:47:55.134650",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "923",
+    "fork": "235",
+    "timestamp": "2025-10-27T02:47:55.134932",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,462",
+    "fork": "1,538",
+    "timestamp": "2025-10-27T02:47:55.135243",
+    "stars_today": "40 stars this month"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "102",
+    "fork": "34",
+    "timestamp": "2025-10-27T02:47:55.135520",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,127",
+    "fork": "453",
+    "timestamp": "2025-10-27T02:47:55.135800",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,882",
+    "fork": "472",
+    "timestamp": "2025-10-27T02:47:55.136091",
+    "stars_today": "5 stars this month"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "657",
+    "fork": "141",
+    "timestamp": "2025-10-27T02:47:55.136371",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "285",
+    "fork": "178",
+    "timestamp": "2025-10-27T02:47:55.136645",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "atomvm/AtomVM",
+    "href": "https://github.com/atomvm/AtomVM",
+    "about": "Tiny Erlang VM",
+    "star": "1,921",
+    "fork": "130",
+    "timestamp": "2025-10-27T02:47:55.136920",
+    "stars_today": "34 stars this month"
+  }
+]

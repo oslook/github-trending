@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,412",
+    "fork": "6,380",
+    "timestamp": "2025-10-27T02:47:56.528659",
+    "stars_today": "1,733 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,567",
+    "fork": "2,502",
+    "timestamp": "2025-10-27T02:47:56.528963",
+    "stars_today": "477 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,467",
+    "fork": "501",
+    "timestamp": "2025-10-27T02:47:56.529246",
+    "stars_today": "536 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "27,601",
+    "fork": "3,216",
+    "timestamp": "2025-10-27T02:47:56.529521",
+    "stars_today": "346 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "52,091",
+    "fork": "2,768",
+    "timestamp": "2025-10-27T02:47:56.529793",
+    "stars_today": "467 stars this week"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "2,259",
+    "fork": "80",
+    "timestamp": "2025-10-27T02:47:56.530104",
+    "stars_today": "250 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,606",
+    "fork": "2,054",
+    "timestamp": "2025-10-27T02:47:56.530374",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,168",
+    "fork": "515",
+    "timestamp": "2025-10-27T02:47:56.530648",
+    "stars_today": "325 stars this week"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "6,631",
+    "fork": "1,112",
+    "timestamp": "2025-10-27T02:47:56.530919",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "30,634",
+    "fork": "2,146",
+    "timestamp": "2025-10-27T02:47:56.531203",
+    "stars_today": "120 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,738",
+    "fork": "1,055",
+    "timestamp": "2025-10-27T02:47:56.531476",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,610",
+    "fork": "2,513",
+    "timestamp": "2025-10-27T02:47:56.531748",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "Notifuse/notifuse",
+    "href": "https://github.com/Notifuse/notifuse",
+    "about": "Notifuse is an open-source & modern emailing platform",
+    "star": "1,039",
+    "fork": "83",
+    "timestamp": "2025-10-27T02:47:56.532029",
+    "stars_today": "528 stars this week"
+  },
+  {
+    "repo": "publicsuffix/list",
+    "href": "https://github.com/publicsuffix/list",
+    "about": "The Public Suffix List",
+    "star": "2,584",
+    "fork": "1,430",
+    "timestamp": "2025-10-27T02:47:56.532293",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "13,144",
+    "fork": "2,784",
+    "timestamp": "2025-10-27T02:47:56.532566",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,699",
+    "fork": "2,555",
+    "timestamp": "2025-10-27T02:47:56.532836",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.",
+    "star": "45,274",
+    "fork": "3,247",
+    "timestamp": "2025-10-27T02:47:56.533147",
+    "stars_today": "218 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "19,680",
+    "fork": "473",
+    "timestamp": "2025-10-27T02:47:56.533420",
+    "stars_today": "148 stars this week"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "24,803",
+    "fork": "3,109",
+    "timestamp": "2025-10-27T02:47:56.533690",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "erigontech/erigon",
+    "href": "https://github.com/erigontech/erigon",
+    "about": "Ethereum implementation on the efficiency frontier",
+    "star": "3,460",
+    "fork": "1,405",
+    "timestamp": "2025-10-27T02:47:56.533969",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-azurerm",
+    "href": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "about": "Terraform provider for Azure Resource Manager",
+    "star": "4,840",
+    "fork": "4,888",
+    "timestamp": "2025-10-27T02:47:56.534240",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,165",
+    "fork": "533",
+    "timestamp": "2025-10-27T02:47:56.534508",
+    "stars_today": "57 stars this week"
+  }
+]
