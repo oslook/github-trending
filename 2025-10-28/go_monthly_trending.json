@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,462",
+    "fork": "6,389",
+    "timestamp": "2025-10-28T02:26:30.545524",
+    "stars_today": "2,265 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "47,167",
+    "fork": "1,481",
+    "timestamp": "2025-10-28T02:26:30.545852",
+    "stars_today": "807 stars this month"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,721",
+    "fork": "953",
+    "timestamp": "2025-10-28T02:26:30.546164",
+    "stars_today": "216 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,496",
+    "fork": "502",
+    "timestamp": "2025-10-28T02:26:30.546461",
+    "stars_today": "1,226 stars this month"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "5,557",
+    "fork": "717",
+    "timestamp": "2025-10-28T02:26:30.546742",
+    "stars_today": "579 stars this month"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "24,065",
+    "fork": "1,252",
+    "timestamp": "2025-10-28T02:26:30.547024",
+    "stars_today": "268 stars this month"
+  },
+  {
+    "repo": "Done-0/fuck-u-code",
+    "href": "https://github.com/Done-0/fuck-u-code",
+    "about": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+    "star": "5,894",
+    "fork": "280",
+    "timestamp": "2025-10-28T02:26:30.547319",
+    "stars_today": "2,222 stars this month"
+  },
+  {
+    "repo": "pdfcpu/pdfcpu",
+    "href": "https://github.com/pdfcpu/pdfcpu",
+    "about": "A PDF processor written in Go.",
+    "star": "8,189",
+    "fork": "571",
+    "timestamp": "2025-10-28T02:26:30.547605",
+    "stars_today": "203 stars this month"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "155,887",
+    "fork": "12,709",
+    "timestamp": "2025-10-28T02:26:30.547911",
+    "stars_today": "2,842 stars this month"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "13,061",
+    "fork": "1,904",
+    "timestamp": "2025-10-28T02:26:30.548184",
+    "stars_today": "928 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,626",
+    "fork": "2,056",
+    "timestamp": "2025-10-28T02:26:30.548473",
+    "stars_today": "638 stars this month"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,217",
+    "fork": "170",
+    "timestamp": "2025-10-28T02:26:30.548749",
+    "stars_today": "702 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,632",
+    "fork": "2,506",
+    "timestamp": "2025-10-28T02:26:30.549025",
+    "stars_today": "740 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,369",
+    "fork": "1,351",
+    "timestamp": "2025-10-28T02:26:30.549313",
+    "stars_today": "124 stars this month"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,517",
+    "fork": "909",
+    "timestamp": "2025-10-28T02:26:30.549619",
+    "stars_today": "310 stars this month"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "23,742",
+    "fork": "1,816",
+    "timestamp": "2025-10-28T02:26:30.549895",
+    "stars_today": "458 stars this month"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,677",
+    "fork": "266",
+    "timestamp": "2025-10-28T02:26:30.550172",
+    "stars_today": "683 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,636",
+    "fork": "1,076",
+    "timestamp": "2025-10-28T02:26:30.550490",
+    "stars_today": "316 stars this month"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "60,984",
+    "fork": "9,884",
+    "timestamp": "2025-10-28T02:26:30.550765",
+    "stars_today": "491 stars this month"
+  },
+  {
+    "repo": "bnb-chain/bsc",
+    "href": "https://github.com/bnb-chain/bsc",
+    "about": "A BNB Smart Chain client based on the go-ethereum fork",
+    "star": "3,154",
+    "fork": "1,783",
+    "timestamp": "2025-10-28T02:26:30.551046",
+    "stars_today": "76 stars this month"
+  },
+  {
+    "repo": "ethereum-optimism/optimism",
+    "href": "https://github.com/ethereum-optimism/optimism",
+    "about": "Optimism is Ethereum, scaled.",
+    "star": "6,273",
+    "fork": "3,791",
+    "timestamp": "2025-10-28T02:26:30.551335",
+    "stars_today": "67 stars this month"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "84,389",
+    "fork": "8,082",
+    "timestamp": "2025-10-28T02:26:30.551611",
+    "stars_today": "672 stars this month"
+  }
+]

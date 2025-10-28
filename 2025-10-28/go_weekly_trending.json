@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,462",
+    "fork": "6,389",
+    "timestamp": "2025-10-28T02:26:30.749966",
+    "stars_today": "1,789 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,632",
+    "fork": "2,506",
+    "timestamp": "2025-10-28T02:26:30.750283",
+    "stars_today": "503 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,496",
+    "fork": "502",
+    "timestamp": "2025-10-28T02:26:30.750574",
+    "stars_today": "336 stars this week"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "2,290",
+    "fork": "80",
+    "timestamp": "2025-10-28T02:26:30.750886",
+    "stars_today": "286 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,626",
+    "fork": "2,056",
+    "timestamp": "2025-10-28T02:26:30.751169",
+    "stars_today": "191 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "52,114",
+    "fork": "2,771",
+    "timestamp": "2025-10-28T02:26:30.751464",
+    "stars_today": "445 stars this week"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "27,626",
+    "fork": "3,215",
+    "timestamp": "2025-10-28T02:26:30.751745",
+    "stars_today": "312 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,616",
+    "fork": "2,513",
+    "timestamp": "2025-10-28T02:26:30.752029",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "6,642",
+    "fork": "1,114",
+    "timestamp": "2025-10-28T02:26:30.752324",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "rook/rook",
+    "href": "https://github.com/rook/rook",
+    "about": "Storage Orchestration for Kubernetes",
+    "star": "13,152",
+    "fork": "2,784",
+    "timestamp": "2025-10-28T02:26:30.752608",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "dstotijn/hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "about": "An HTTP toolkit for security research.",
+    "star": "8,897",
+    "fork": "484",
+    "timestamp": "2025-10-28T02:26:30.752919",
+    "stars_today": "560 stars this week"
+  },
+  {
+    "repo": "Notifuse/notifuse",
+    "href": "https://github.com/Notifuse/notifuse",
+    "about": "Notifuse is an open-source & modern emailing platform",
+    "star": "1,125",
+    "fork": "98",
+    "timestamp": "2025-10-28T02:26:30.753205",
+    "stars_today": "663 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "33,366",
+    "fork": "4,461",
+    "timestamp": "2025-10-28T02:26:30.753491",
+    "stars_today": "66 stars this week"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "84,389",
+    "fork": "8,082",
+    "timestamp": "2025-10-28T02:26:30.753773",
+    "stars_today": "150 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,192",
+    "fork": "517",
+    "timestamp": "2025-10-28T02:26:30.754052",
+    "stars_today": "321 stars this week"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,702",
+    "fork": "2,555",
+    "timestamp": "2025-10-28T02:26:30.754342",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,747",
+    "fork": "1,055",
+    "timestamp": "2025-10-28T02:26:30.754620",
+    "stars_today": "65 stars this week"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "30,652",
+    "fork": "2,148",
+    "timestamp": "2025-10-28T02:26:30.754897",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "45,302",
+    "fork": "3,250",
+    "timestamp": "2025-10-28T02:26:30.755203",
+    "stars_today": "213 stars this week"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "23,810",
+    "fork": "1,491",
+    "timestamp": "2025-10-28T02:26:30.755501",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,169",
+    "fork": "533",
+    "timestamp": "2025-10-28T02:26:30.755781",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "21,058",
+    "fork": "6,495",
+    "timestamp": "2025-10-28T02:26:30.756059",
+    "stars_today": "91 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "19,694",
+    "fork": "474",
+    "timestamp": "2025-10-28T02:26:30.756351",
+    "stars_today": "149 stars this week"
+  }
+]
