@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "33,257",
+    "fork": "3,314",
+    "timestamp": "2025-10-29T02:44:34.094834",
+    "stars_today": "1,681 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "14,198",
+    "fork": "499",
+    "timestamp": "2025-10-29T02:44:34.095186",
+    "stars_today": "2,482 stars this month"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "20,941",
+    "fork": "698",
+    "timestamp": "2025-10-29T02:44:34.095505",
+    "stars_today": "1,380 stars this month"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A markup-based typesetting system that is powerful and easy to learn.",
+    "star": "47,485",
+    "fork": "1,287",
+    "timestamp": "2025-10-29T02:44:34.095821",
+    "stars_today": "1,519 stars this month"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "href": "https://github.com/juspay/hyperswitch",
+    "about": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "star": "38,374",
+    "fork": "4,492",
+    "timestamp": "2025-10-29T02:44:34.096131",
+    "stars_today": "4,624 stars this month"
+  },
+  {
+    "repo": "microsoft/edit",
+    "href": "https://github.com/microsoft/edit",
+    "about": "We all edit.",
+    "star": "12,582",
+    "fork": "566",
+    "timestamp": "2025-10-29T02:44:34.096427",
+    "stars_today": "338 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "56,878",
+    "fork": "2,284",
+    "timestamp": "2025-10-29T02:44:34.096753",
+    "stars_today": "1,265 stars this month"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, and mobile.",
+    "star": "31,370",
+    "fork": "1,334",
+    "timestamp": "2025-10-29T02:44:34.097092",
+    "stars_today": "791 stars this month"
+  },
+  {
+    "repo": "longbridge/gpui-component",
+    "href": "https://github.com/longbridge/gpui-component",
+    "about": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+    "star": "6,072",
+    "fork": "244",
+    "timestamp": "2025-10-29T02:44:34.097383",
+    "stars_today": "2,153 stars this month"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "55,566",
+    "fork": "1,392",
+    "timestamp": "2025-10-29T02:44:34.097702",
+    "stars_today": "985 stars this month"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "37,045",
+    "fork": "1,957",
+    "timestamp": "2025-10-29T02:44:34.097988",
+    "stars_today": "568 stars this month"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,496",
+    "fork": "643",
+    "timestamp": "2025-10-29T02:44:34.098291",
+    "stars_today": "1,021 stars this month"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "30,058",
+    "fork": "2,814",
+    "timestamp": "2025-10-29T02:44:34.098603",
+    "stars_today": "432 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.",
+    "star": "4,235",
+    "fork": "235",
+    "timestamp": "2025-10-29T02:44:34.098887",
+    "stars_today": "528 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "21,899",
+    "fork": "732",
+    "timestamp": "2025-10-29T02:44:34.099217",
+    "stars_today": "711 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "68,635",
+    "fork": "5,731",
+    "timestamp": "2025-10-29T02:44:34.099504",
+    "stars_today": "2,444 stars this month"
+  },
+  {
+    "repo": "zama-ai/fhevm",
+    "href": "https://github.com/zama-ai/fhevm",
+    "about": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "star": "24,921",
+    "fork": "1,316",
+    "timestamp": "2025-10-29T02:44:34.099790",
+    "stars_today": "4,227 stars this month"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "17,176",
+    "fork": "705",
+    "timestamp": "2025-10-29T02:44:34.100088",
+    "stars_today": "734 stars this month"
+  },
+  {
+    "repo": "stalwartlabs/stalwart",
+    "href": "https://github.com/stalwartlabs/stalwart",
+    "about": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "star": "10,224",
+    "fork": "533",
+    "timestamp": "2025-10-29T02:44:34.100405",
+    "stars_today": "555 stars this month"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "98,289",
+    "fork": "3,139",
+    "timestamp": "2025-10-29T02:44:34.100718",
+    "stars_today": "1,505 stars this month"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "10,562",
+    "fork": "507",
+    "timestamp": "2025-10-29T02:44:34.101006",
+    "stars_today": "1,942 stars this month"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "28,083",
+    "fork": "1,397",
+    "timestamp": "2025-10-29T02:44:34.101305",
+    "stars_today": "404 stars this month"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "href": "https://github.com/meilisearch/meilisearch",
+    "about": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "star": "54,225",
+    "fork": "2,235",
+    "timestamp": "2025-10-29T02:44:34.101592",
+    "stars_today": "872 stars this month"
+  },
+  {
+    "repo": "slint-ui/slint",
+    "href": "https://github.com/slint-ui/slint",
+    "about": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+    "star": "20,786",
+    "fork": "763",
+    "timestamp": "2025-10-29T02:44:34.101878",
+    "stars_today": "367 stars this month"
+  }
+]
