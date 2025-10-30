@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,192",
+    "fork": "28,900",
+    "timestamp": "2025-10-30T02:41:14.449975",
+    "stars_today": "220 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,362",
+    "fork": "1,943",
+    "timestamp": "2025-10-30T02:41:14.450289",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,454",
+    "fork": "641",
+    "timestamp": "2025-10-30T02:41:14.450571",
+    "stars_today": "46 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,140",
+    "fork": "1,118",
+    "timestamp": "2025-10-30T02:41:14.450848",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,261",
+    "fork": "2,481",
+    "timestamp": "2025-10-30T02:41:14.451145",
+    "stars_today": "130 stars this month"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,262",
+    "fork": "969",
+    "timestamp": "2025-10-30T02:41:14.451426",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "scalapb/ScalaPB",
+    "href": "https://github.com/scalapb/ScalaPB",
+    "about": "Protocol buffer compiler for Scala.",
+    "star": "1,328",
+    "fork": "292",
+    "timestamp": "2025-10-30T02:41:14.451708",
+    "stars_today": "1 star this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,468",
+    "fork": "539",
+    "timestamp": "2025-10-30T02:41:14.451990",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "akka/akka-core",
+    "href": "https://github.com/akka/akka-core",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,226",
+    "fork": "3,582",
+    "timestamp": "2025-10-30T02:41:14.452283",
+    "stars_today": "13 stars this month"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,416",
+    "fork": "3,105",
+    "timestamp": "2025-10-30T02:41:14.452568",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,049",
+    "fork": "2,877",
+    "timestamp": "2025-10-30T02:41:14.452847",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "941",
+    "fork": "260",
+    "timestamp": "2025-10-30T02:41:14.453157",
+    "stars_today": "12 stars this month"
+  },
+  {
+    "repo": "zio/zio-http",
+    "href": "https://github.com/zio/zio-http",
+    "about": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+    "star": "846",
+    "fork": "466",
+    "timestamp": "2025-10-30T02:41:14.453438",
+    "stars_today": "11 stars this month"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,019",
+    "fork": "776",
+    "timestamp": "2025-10-30T02:41:14.453714",
+    "stars_today": "39 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,707",
+    "fork": "827",
+    "timestamp": "2025-10-30T02:41:14.453989",
+    "stars_today": "60 stars this month"
+  },
+  {
+    "repo": "scalameta/metals",
+    "href": "https://github.com/scalameta/metals",
+    "about": "Scala language server with rich IDE features 🚀",
+    "star": "2,248",
+    "fork": "395",
+    "timestamp": "2025-10-30T02:41:14.454281",
+    "stars_today": "8 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "200",
+    "fork": "51",
+    "timestamp": "2025-10-30T02:41:14.454560",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "4,064",
+    "fork": "732",
+    "timestamp": "2025-10-30T02:41:14.454836",
+    "stars_today": "19 stars this month"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,869",
+    "fork": "954",
+    "timestamp": "2025-10-30T02:41:14.455125",
+    "stars_today": "6 stars this month"
+  }
+]

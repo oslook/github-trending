@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,573",
+    "fork": "6,398",
+    "timestamp": "2025-10-30T02:40:54.996284",
+    "stars_today": "2,349 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,542",
+    "fork": "504",
+    "timestamp": "2025-10-30T02:40:54.996597",
+    "stars_today": "1,262 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "47,205",
+    "fork": "1,482",
+    "timestamp": "2025-10-30T02:40:54.996932",
+    "stars_today": "815 stars this month"
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "href": "https://github.com/pulumi/pulumi",
+    "about": "Pulumi - Infrastructure as Code in any programming language 🚀",
+    "star": "24,078",
+    "fork": "1,253",
+    "timestamp": "2025-10-30T02:40:54.997428",
+    "stars_today": "262 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "26,704",
+    "fork": "2,509",
+    "timestamp": "2025-10-30T02:40:54.997718",
+    "stars_today": "794 stars this month"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "href": "https://github.com/avelino/awesome-go",
+    "about": "A curated list of awesome Go frameworks, libraries and software",
+    "star": "156,074",
+    "fork": "12,725",
+    "timestamp": "2025-10-30T02:40:54.998056",
+    "stars_today": "2,843 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,371",
+    "fork": "1,351",
+    "timestamp": "2025-10-30T02:40:54.998367",
+    "stars_today": "124 stars this month"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "5,573",
+    "fork": "719",
+    "timestamp": "2025-10-30T02:40:54.998652",
+    "stars_today": "570 stars this month"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,239",
+    "fork": "171",
+    "timestamp": "2025-10-30T02:40:54.998935",
+    "stars_today": "682 stars this month"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,647",
+    "fork": "1,078",
+    "timestamp": "2025-10-30T02:40:54.999262",
+    "stars_today": "322 stars this month"
+  },
+  {
+    "repo": "pdfcpu/pdfcpu",
+    "href": "https://github.com/pdfcpu/pdfcpu",
+    "about": "A PDF processor written in Go.",
+    "star": "8,201",
+    "fork": "572",
+    "timestamp": "2025-10-30T02:40:54.999542",
+    "stars_today": "208 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,668",
+    "fork": "2,059",
+    "timestamp": "2025-10-30T02:40:54.999823",
+    "stars_today": "629 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,303",
+    "fork": "1,719",
+    "timestamp": "2025-10-30T02:40:55.000113",
+    "stars_today": "956 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,188",
+    "fork": "1,341",
+    "timestamp": "2025-10-30T02:40:55.000400",
+    "stars_today": "760 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,282",
+    "fork": "915",
+    "timestamp": "2025-10-30T02:40:55.000705",
+    "stars_today": "655 stars this month"
+  },
+  {
+    "repo": "dstotijn/hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "about": "An HTTP toolkit for security research.",
+    "star": "8,924",
+    "fork": "485",
+    "timestamp": "2025-10-30T02:40:55.001011",
+    "stars_today": "659 stars this month"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "4,623",
+    "fork": "727",
+    "timestamp": "2025-10-30T02:40:55.001333",
+    "stars_today": "243 stars this month"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "61,022",
+    "fork": "9,887",
+    "timestamp": "2025-10-30T02:40:55.001610",
+    "stars_today": "507 stars this month"
+  },
+  {
+    "repo": "jackc/pgx",
+    "href": "https://github.com/jackc/pgx",
+    "about": "PostgreSQL driver and toolkit for Go",
+    "star": "12,739",
+    "fork": "955",
+    "timestamp": "2025-10-30T02:40:55.001915",
+    "stars_today": "225 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "32,122",
+    "fork": "4,653",
+    "timestamp": "2025-10-30T02:40:55.002211",
+    "stars_today": "724 stars this month"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,706",
+    "fork": "268",
+    "timestamp": "2025-10-30T02:40:55.002490",
+    "stars_today": "661 stars this month"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "19,837",
+    "fork": "1,842",
+    "timestamp": "2025-10-30T02:40:55.002770",
+    "stars_today": "183 stars this month"
+  }
+]
