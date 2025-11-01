@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "844",
+    "fork": "231",
+    "timestamp": "2025-11-01T02:41:31.166462",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,679",
+    "fork": "12,610",
+    "timestamp": "2025-11-01T02:41:31.166792",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,269",
+    "fork": "2,484",
+    "timestamp": "2025-11-01T02:41:31.167087",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,369",
+    "fork": "1,943",
+    "timestamp": "2025-11-01T02:41:31.167382",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,195",
+    "fork": "28,903",
+    "timestamp": "2025-11-01T02:41:31.167688",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "52",
+    "fork": "44",
+    "timestamp": "2025-11-01T02:41:31.167987",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,141",
+    "fork": "1,118",
+    "timestamp": "2025-11-01T02:41:31.168285",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,469",
+    "fork": "539",
+    "timestamp": "2025-11-01T02:41:31.168632",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,692",
+    "fork": "365",
+    "timestamp": "2025-11-01T02:41:31.168940",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "885",
+    "fork": "209",
+    "timestamp": "2025-11-01T02:41:31.169237",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "931",
+    "fork": "615",
+    "timestamp": "2025-11-01T02:41:31.169538",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,021",
+    "fork": "777",
+    "timestamp": "2025-11-01T02:41:31.169854",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,598",
+    "fork": "4,075",
+    "timestamp": "2025-11-01T02:41:31.170180",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,307",
+    "fork": "1,261",
+    "timestamp": "2025-11-01T02:41:31.170476",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,805",
+    "fork": "571",
+    "timestamp": "2025-11-01T02:41:31.170814",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,455",
+    "fork": "641",
+    "timestamp": "2025-11-01T02:41:31.171113",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chiseltest",
+    "href": "https://github.com/ucb-bar/chiseltest",
+    "about": "The batteries-included testing and formal verification library for Chisel-based RTL designs.",
+    "star": "232",
+    "fork": "75",
+    "timestamp": "2025-11-01T02:41:31.171409",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/SynapseML",
+    "href": "https://github.com/microsoft/SynapseML",
+    "about": "Simple and Distributed Machine Learning",
+    "star": "5,174",
+    "fork": "852",
+    "timestamp": "2025-11-01T02:41:31.171742",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "940",
+    "fork": "260",
+    "timestamp": "2025-11-01T02:41:31.172047",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,810",
+    "fork": "1,217",
+    "timestamp": "2025-11-01T02:41:31.172348",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JohnSnowLabs/spark-nlp",
+    "href": "https://github.com/JohnSnowLabs/spark-nlp",
+    "about": "State of the Art Natural Language Processing",
+    "star": "4,064",
+    "fork": "734",
+    "timestamp": "2025-11-01T02:41:31.172645",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,712",
+    "fork": "828",
+    "timestamp": "2025-11-01T02:41:31.172961",
+    "stars_today": "4 stars today"
+  }
+]

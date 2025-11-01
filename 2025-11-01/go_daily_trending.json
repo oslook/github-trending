@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,162",
+    "fork": "1,768",
+    "timestamp": "2025-11-01T02:41:13.885002",
+    "stars_today": "85 stars today"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "8,028",
+    "fork": "1,897",
+    "timestamp": "2025-11-01T02:41:13.885314",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,853",
+    "fork": "7,379",
+    "timestamp": "2025-11-01T02:41:13.885608",
+    "stars_today": "97 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,633",
+    "fork": "2,802",
+    "timestamp": "2025-11-01T02:41:13.885925",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "7,074",
+    "fork": "805",
+    "timestamp": "2025-11-01T02:41:13.886220",
+    "stars_today": "248 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "38,216",
+    "fork": "3,490",
+    "timestamp": "2025-11-01T02:41:13.886520",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "kubernetes/dashboard",
+    "href": "https://github.com/kubernetes/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "15,299",
+    "fork": "4,273",
+    "timestamp": "2025-11-01T02:41:13.886830",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,422",
+    "fork": "5,735",
+    "timestamp": "2025-11-01T02:41:13.887122",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,271",
+    "fork": "176",
+    "timestamp": "2025-11-01T02:41:13.887413",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,486",
+    "fork": "4,603",
+    "timestamp": "2025-11-01T02:41:13.887722",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,775",
+    "fork": "8,467",
+    "timestamp": "2025-11-01T02:41:13.888023",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "50,186",
+    "fork": "21,489",
+    "timestamp": "2025-11-01T02:41:13.888315",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "href": "https://github.com/cosmos/cosmos-sdk",
+    "about": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "star": "6,827",
+    "fork": "4,081",
+    "timestamp": "2025-11-01T02:41:13.888611",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nektos/act",
+    "href": "https://github.com/nektos/act",
+    "about": "Run your GitHub Actions locally 🚀",
+    "star": "66,735",
+    "fork": "1,771",
+    "timestamp": "2025-11-01T02:41:13.888927",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "16,843",
+    "fork": "2,007",
+    "timestamp": "2025-11-01T02:41:13.889230",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "NVIDIA/k8s-device-plugin",
+    "href": "https://github.com/NVIDIA/k8s-device-plugin",
+    "about": "NVIDIA device plugin for Kubernetes",
+    "star": "3,510",
+    "fork": "752",
+    "timestamp": "2025-11-01T02:41:13.889523",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "36,177",
+    "fork": "2,875",
+    "timestamp": "2025-11-01T02:41:13.889864",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "25,278",
+    "fork": "2,932",
+    "timestamp": "2025-11-01T02:41:13.890167",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,002",
+    "fork": "10,095",
+    "timestamp": "2025-11-01T02:41:13.890466",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,028",
+    "fork": "2,524",
+    "timestamp": "2025-11-01T02:41:13.890781",
+    "stars_today": "262 stars today"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,643",
+    "fork": "2,939",
+    "timestamp": "2025-11-01T02:41:13.891086",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ava-labs/avalanchego",
+    "href": "https://github.com/ava-labs/avalanchego",
+    "about": "Go implementation of an Avalanche node.",
+    "star": "2,308",
+    "fork": "816",
+    "timestamp": "2025-11-01T02:41:13.891379",
+    "stars_today": "0 stars today"
+  }
+]

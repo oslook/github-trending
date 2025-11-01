@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,689",
+    "fork": "6,403",
+    "timestamp": "2025-11-01T02:41:14.239409",
+    "stars_today": "667 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,162",
+    "fork": "1,768",
+    "timestamp": "2025-11-01T02:41:14.239760",
+    "stars_today": "219 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,380",
+    "fork": "1,723",
+    "timestamp": "2025-11-01T02:41:14.240078",
+    "stars_today": "449 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,028",
+    "fork": "2,524",
+    "timestamp": "2025-11-01T02:41:14.240426",
+    "stars_today": "687 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,853",
+    "fork": "7,379",
+    "timestamp": "2025-11-01T02:41:14.240763",
+    "stars_today": "149 stars this week"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers",
+    "star": "2,369",
+    "fork": "83",
+    "timestamp": "2025-11-01T02:41:14.241140",
+    "stars_today": "290 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "51,738",
+    "fork": "6,181",
+    "timestamp": "2025-11-01T02:41:14.241494",
+    "stars_today": "440 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,703",
+    "fork": "2,064",
+    "timestamp": "2025-11-01T02:41:14.241794",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,260",
+    "fork": "1,351",
+    "timestamp": "2025-11-01T02:41:14.242077",
+    "stars_today": "323 stars this week"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "33,390",
+    "fork": "4,467",
+    "timestamp": "2025-11-01T02:41:14.242360",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,403",
+    "fork": "526",
+    "timestamp": "2025-11-01T02:41:14.242643",
+    "stars_today": "308 stars this week"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "12,348",
+    "fork": "1,095",
+    "timestamp": "2025-11-01T02:41:14.242942",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "57,442",
+    "fork": "5,542",
+    "timestamp": "2025-11-01T02:41:14.243254",
+    "stars_today": "158 stars this week"
+  },
+  {
+    "repo": "NVIDIA/k8s-device-plugin",
+    "href": "https://github.com/NVIDIA/k8s-device-plugin",
+    "about": "NVIDIA device plugin for Kubernetes",
+    "star": "3,510",
+    "fork": "752",
+    "timestamp": "2025-11-01T02:41:14.243536",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,626",
+    "fork": "2,518",
+    "timestamp": "2025-11-01T02:41:14.243830",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "9,057",
+    "fork": "1,107",
+    "timestamp": "2025-11-01T02:41:14.244141",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "2,984",
+    "fork": "492",
+    "timestamp": "2025-11-01T02:41:14.244422",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "aws/karpenter-provider-aws",
+    "href": "https://github.com/aws/karpenter-provider-aws",
+    "about": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "star": "7,481",
+    "fork": "1,184",
+    "timestamp": "2025-11-01T02:41:14.244732",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "8,028",
+    "fork": "1,897",
+    "timestamp": "2025-11-01T02:41:14.245016",
+    "stars_today": "189 stars this week"
+  },
+  {
+    "repo": "dstotijn/hetty",
+    "href": "https://github.com/dstotijn/hetty",
+    "about": "An HTTP toolkit for security research.",
+    "star": "8,948",
+    "fork": "488",
+    "timestamp": "2025-11-01T02:41:14.245326",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "Notifuse/notifuse",
+    "href": "https://github.com/Notifuse/notifuse",
+    "about": "Notifuse is an open-source & modern emailing platform",
+    "star": "1,229",
+    "fork": "116",
+    "timestamp": "2025-11-01T02:41:14.245608",
+    "stars_today": "601 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "18,947",
+    "fork": "1,175",
+    "timestamp": "2025-11-01T02:41:14.245894",
+    "stars_today": "450 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "45,569",
+    "fork": "3,261",
+    "timestamp": "2025-11-01T02:41:14.246199",
+    "stars_today": "358 stars this week"
+  }
+]
