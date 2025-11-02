@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "nvm-sh/nvm",
+    "href": "https://github.com/nvm-sh/nvm",
+    "about": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "star": "88,838",
+    "fork": "9,512",
+    "timestamp": "2025-11-02T02:45:01.039986",
+    "stars_today": "83 stars today"
+  },
+  {
+    "repo": "nelvko/clash-for-linux-install",
+    "href": "https://github.com/nelvko/clash-for-linux-install",
+    "about": "😼 优雅地使用基于 clash/mihomo 的代理环境",
+    "star": "5,395",
+    "fork": "689",
+    "timestamp": "2025-11-02T02:45:01.040286",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "MacRimi/ProxMenux",
+    "href": "https://github.com/MacRimi/ProxMenux",
+    "about": "ProxMenux An Interactive Menu for Proxmox VE Management",
+    "star": "1,085",
+    "fork": "70",
+    "timestamp": "2025-11-02T02:45:01.040562",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "InferenceMAX/InferenceMAX",
+    "href": "https://github.com/InferenceMAX/InferenceMAX",
+    "about": "",
+    "star": "308",
+    "fork": "33",
+    "timestamp": "2025-11-02T02:45:01.040856",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "awesome-jellyfin/awesome-jellyfin",
+    "href": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+    "about": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+    "star": "4,981",
+    "fork": "136",
+    "timestamp": "2025-11-02T02:45:01.041175",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "bioconda/bioconda-recipes",
+    "href": "https://github.com/bioconda/bioconda-recipes",
+    "about": "Conda recipes for the bioconda channel.",
+    "star": "1,761",
+    "fork": "3,632",
+    "timestamp": "2025-11-02T02:45:01.041459",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ublue-os/bluefin",
+    "href": "https://github.com/ublue-os/bluefin",
+    "about": "The next generation Linux workstation, designed for reliability, performance, and sustainability.",
+    "star": "2,065",
+    "fork": "242",
+    "timestamp": "2025-11-02T02:45:01.041739",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "juewuy/ShellCrash",
+    "href": "https://github.com/juewuy/ShellCrash",
+    "about": "Run sing-box/mihomo as client in shell",
+    "star": "11,265",
+    "fork": "1,739",
+    "timestamp": "2025-11-02T02:45:01.042034",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "yuaotian/go-cursor-help",
+    "href": "https://github.com/yuaotian/go-cursor-help",
+    "about": "解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.",
+    "star": "24,959",
+    "fork": "3,035",
+    "timestamp": "2025-11-02T02:45:01.042317",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "DaoCloud/public-image-mirror",
+    "href": "https://github.com/DaoCloud/public-image-mirror",
+    "about": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
+    "star": "12,028",
+    "fork": "1,357",
+    "timestamp": "2025-11-02T02:45:01.042597",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "devcontainers/images",
+    "href": "https://github.com/devcontainers/images",
+    "about": "Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers",
+    "star": "1,810",
+    "fork": "795",
+    "timestamp": "2025-11-02T02:45:01.042876",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "masonr/yet-another-bench-script",
+    "href": "https://github.com/masonr/yet-another-bench-script",
+    "about": "YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",
+    "star": "5,802",
+    "fork": "530",
+    "timestamp": "2025-11-02T02:45:01.043164",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mack-a/v2ray-agent",
+    "href": "https://github.com/mack-a/v2ray-agent",
+    "about": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "star": "17,513",
+    "fork": "5,146",
+    "timestamp": "2025-11-02T02:45:01.043442",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "six2dez/reconftw",
+    "href": "https://github.com/six2dez/reconftw",
+    "about": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+    "star": "6,857",
+    "fork": "1,081",
+    "timestamp": "2025-11-02T02:45:01.043748",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ohmyzsh/ohmyzsh",
+    "href": "https://github.com/ohmyzsh/ohmyzsh",
+    "about": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "star": "182,422",
+    "fork": "26,269",
+    "timestamp": "2025-11-02T02:45:01.044072",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "appleboy/ssh-action",
+    "href": "https://github.com/appleboy/ssh-action",
+    "about": "GitHub Actions for executing remote ssh commands.",
+    "star": "5,791",
+    "fork": "649",
+    "timestamp": "2025-11-02T02:45:01.044357",
+    "stars_today": "1 star today"
+  }
+]

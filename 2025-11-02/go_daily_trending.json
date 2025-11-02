@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "7,203",
+    "fork": "812",
+    "timestamp": "2025-11-02T02:44:42.652020",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "15,279",
+    "fork": "1,484",
+    "timestamp": "2025-11-02T02:44:42.652325",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,581",
+    "fork": "9,802",
+    "timestamp": "2025-11-02T02:44:42.652615",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,194",
+    "fork": "1,769",
+    "timestamp": "2025-11-02T02:44:42.652909",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,060",
+    "fork": "2,522",
+    "timestamp": "2025-11-02T02:44:42.653209",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,787",
+    "fork": "8,469",
+    "timestamp": "2025-11-02T02:44:42.653497",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "70,994",
+    "fork": "18,827",
+    "timestamp": "2025-11-02T02:44:42.653785",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "awslabs/diagram-as-code",
+    "href": "https://github.com/awslabs/diagram-as-code",
+    "about": "Diagram-as-code for AWS architecture.",
+    "star": "1,310",
+    "fork": "91",
+    "timestamp": "2025-11-02T02:44:42.654084",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "100,198",
+    "fork": "14,579",
+    "timestamp": "2025-11-02T02:44:42.654396",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "29,648",
+    "fork": "2,802",
+    "timestamp": "2025-11-02T02:44:42.654678",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "14,901",
+    "fork": "1,120",
+    "timestamp": "2025-11-02T02:44:42.654973",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,367",
+    "fork": "921",
+    "timestamp": "2025-11-02T02:44:42.655286",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,089",
+    "fork": "849",
+    "timestamp": "2025-11-02T02:44:42.655598",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,748",
+    "fork": "654",
+    "timestamp": "2025-11-02T02:44:42.655879",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "26,840",
+    "fork": "3,837",
+    "timestamp": "2025-11-02T02:44:42.656172",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-rod/rod",
+    "href": "https://github.com/go-rod/rod",
+    "about": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "star": "6,372",
+    "fork": "420",
+    "timestamp": "2025-11-02T02:44:42.656455",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "27,749",
+    "fork": "3,227",
+    "timestamp": "2025-11-02T02:44:42.656738",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,287",
+    "fork": "2,279",
+    "timestamp": "2025-11-02T02:44:42.657037",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "11,652",
+    "fork": "1,297",
+    "timestamp": "2025-11-02T02:44:42.657319",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "43,465",
+    "fork": "3,649",
+    "timestamp": "2025-11-02T02:44:42.657629",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "6,865",
+    "fork": "1,495",
+    "timestamp": "2025-11-02T02:44:42.657908",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,285",
+    "fork": "178",
+    "timestamp": "2025-11-02T02:44:42.658207",
+    "stars_today": "17 stars today"
+  }
+]
