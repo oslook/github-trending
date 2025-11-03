@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,337",
+    "fork": "354",
+    "timestamp": "2025-11-03T02:45:49.563766",
+    "stars_today": "300 stars this month"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "23,912",
+    "fork": "1,551",
+    "timestamp": "2025-11-03T02:45:49.564095",
+    "stars_today": "528 stars this month"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "16,340",
+    "fork": "744",
+    "timestamp": "2025-11-03T02:45:49.564396",
+    "stars_today": "364 stars this month"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "19,308",
+    "fork": "501",
+    "timestamp": "2025-11-03T02:45:49.564694",
+    "stars_today": "366 stars this month"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,686",
+    "fork": "233",
+    "timestamp": "2025-11-03T02:45:49.565004",
+    "stars_today": "128 stars this month"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "28,014",
+    "fork": "41,214",
+    "timestamp": "2025-11-03T02:45:49.565304",
+    "stars_today": "655 stars this month"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "13,608",
+    "fork": "870",
+    "timestamp": "2025-11-03T02:45:49.565599",
+    "stars_today": "442 stars this month"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,566",
+    "fork": "499",
+    "timestamp": "2025-11-03T02:45:49.565889",
+    "stars_today": "122 stars this month"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,494",
+    "fork": "527",
+    "timestamp": "2025-11-03T02:45:49.566194",
+    "stars_today": "102 stars this month"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572",
+    "star": "1,855",
+    "fork": "77",
+    "timestamp": "2025-11-03T02:45:49.566487",
+    "stars_today": "491 stars this month"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "15,793",
+    "fork": "2,694",
+    "timestamp": "2025-11-03T02:45:49.566781",
+    "stars_today": "117 stars this month"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "4,963",
+    "fork": "2,198",
+    "timestamp": "2025-11-03T02:45:49.567090",
+    "stars_today": "59 stars this month"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,642",
+    "fork": "111",
+    "timestamp": "2025-11-03T02:45:49.567408",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "folke/flash.nvim",
+    "href": "https://github.com/folke/flash.nvim",
+    "about": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
+    "star": "3,643",
+    "fork": "57",
+    "timestamp": "2025-11-03T02:45:49.567697",
+    "stars_today": "105 stars this month"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native Gateway for APIs & AI",
+    "star": "42,092",
+    "fork": "5,008",
+    "timestamp": "2025-11-03T02:45:49.567984",
+    "stars_today": "252 stars this month"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "5,413",
+    "fork": "151",
+    "timestamp": "2025-11-03T02:45:49.568289",
+    "stars_today": "87 stars this month"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim",
+    "star": "1,161",
+    "fork": "78",
+    "timestamp": "2025-11-03T02:45:49.568577",
+    "stars_today": "125 stars this month"
+  },
+  {
+    "repo": "folke/todo-comments.nvim",
+    "href": "https://github.com/folke/todo-comments.nvim",
+    "about": "✅ Highlight, list and search todo comments in your projects",
+    "star": "3,903",
+    "fork": "119",
+    "timestamp": "2025-11-03T02:45:49.568866",
+    "stars_today": "62 stars this month"
+  },
+  {
+    "repo": "rebelot/kanagawa.nvim",
+    "href": "https://github.com/rebelot/kanagawa.nvim",
+    "about": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+    "star": "5,589",
+    "fork": "205",
+    "timestamp": "2025-11-03T02:45:49.569179",
+    "stars_today": "96 stars this month"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "5,558",
+    "fork": "327",
+    "timestamp": "2025-11-03T02:45:49.569495",
+    "stars_today": "214 stars this month"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,301",
+    "fork": "244",
+    "timestamp": "2025-11-03T02:45:49.569808",
+    "stars_today": "110 stars this month"
+  }
+]
