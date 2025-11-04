@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,225",
+    "fork": "1,770",
+    "timestamp": "2025-11-04T02:40:15.772544",
+    "stars_today": "307 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,479",
+    "fork": "1,729",
+    "timestamp": "2025-11-04T02:40:15.772817",
+    "stars_today": "498 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,869",
+    "fork": "7,381",
+    "timestamp": "2025-11-04T02:40:15.773076",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,111",
+    "fork": "2,529",
+    "timestamp": "2025-11-04T02:40:15.773336",
+    "stars_today": "517 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "20,501",
+    "fork": "494",
+    "timestamp": "2025-11-04T02:40:15.773658",
+    "stars_today": "679 stars this week"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "7,349",
+    "fork": "831",
+    "timestamp": "2025-11-04T02:40:15.773919",
+    "stars_today": "730 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,496",
+    "fork": "526",
+    "timestamp": "2025-11-04T02:40:15.774179",
+    "stars_today": "315 stars this week"
+  },
+  {
+    "repo": "trpc-group/trpc-agent-go",
+    "href": "https://github.com/trpc-group/trpc-agent-go",
+    "about": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+    "star": "653",
+    "fork": "46",
+    "timestamp": "2025-11-04T02:40:15.774450",
+    "stars_today": "200 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,378",
+    "fork": "1,371",
+    "timestamp": "2025-11-04T02:40:15.774710",
+    "stars_today": "303 stars this week"
+  },
+  {
+    "repo": "bpg/terraform-provider-proxmox",
+    "href": "https://github.com/bpg/terraform-provider-proxmox",
+    "about": "Terraform / OpenTofu Provider for Proxmox VE",
+    "star": "1,598",
+    "fork": "223",
+    "timestamp": "2025-11-04T02:40:15.774994",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "19,007",
+    "fork": "1,178",
+    "timestamp": "2025-11-04T02:40:15.775252",
+    "stars_today": "414 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "155,315",
+    "fork": "13,531",
+    "timestamp": "2025-11-04T02:40:15.775512",
+    "stars_today": "542 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,107",
+    "fork": "851",
+    "timestamp": "2025-11-04T02:40:15.775799",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "52,383",
+    "fork": "2,795",
+    "timestamp": "2025-11-04T02:40:15.776056",
+    "stars_today": "284 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "36,628",
+    "fork": "2,896",
+    "timestamp": "2025-11-04T02:40:15.776343",
+    "stars_today": "446 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "8,057",
+    "fork": "1,898",
+    "timestamp": "2025-11-04T02:40:15.776606",
+    "stars_today": "247 stars this week"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "51,787",
+    "fork": "6,185",
+    "timestamp": "2025-11-04T02:40:15.776892",
+    "stars_today": "174 stars this week"
+  },
+  {
+    "repo": "NVIDIA/k8s-device-plugin",
+    "href": "https://github.com/NVIDIA/k8s-device-plugin",
+    "about": "NVIDIA device plugin for Kubernetes",
+    "star": "3,520",
+    "fork": "752",
+    "timestamp": "2025-11-04T02:40:15.777150",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "45,668",
+    "fork": "3,264",
+    "timestamp": "2025-11-04T02:40:15.777442",
+    "stars_today": "380 stars this week"
+  },
+  {
+    "repo": "dlvhdr/gh-dash",
+    "href": "https://github.com/dlvhdr/gh-dash",
+    "about": "A rich terminal UI for GitHub that doesn't break your flow.",
+    "star": "9,204",
+    "fork": "294",
+    "timestamp": "2025-11-04T02:40:15.777727",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "11,267",
+    "fork": "970",
+    "timestamp": "2025-11-04T02:40:15.777985",
+    "stars_today": "133 stars this week"
+  },
+  {
+    "repo": "go-gorm/gorm",
+    "href": "https://github.com/go-gorm/gorm",
+    "about": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "star": "39,062",
+    "fork": "4,118",
+    "timestamp": "2025-11-04T02:40:15.778241",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,635",
+    "fork": "2,520",
+    "timestamp": "2025-11-04T02:40:15.778505",
+    "stars_today": "26 stars this week"
+  }
+]

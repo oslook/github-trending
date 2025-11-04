@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "Raphire/Win11Debloat",
+    "href": "https://github.com/Raphire/Win11Debloat",
+    "about": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "star": "31,329",
+    "fork": "1,232",
+    "timestamp": "2025-11-04T02:40:28.602383",
+    "stars_today": "539 stars today"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "href": "https://github.com/microsoft/winget-pkgs",
+    "about": "The Microsoft community Windows Package Manager manifest repository",
+    "star": "9,854",
+    "fork": "5,579",
+    "timestamp": "2025-11-04T02:40:28.602665",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "Cloud-Architekt/AzureAD-Attack-Defense",
+    "href": "https://github.com/Cloud-Architekt/AzureAD-Attack-Defense",
+    "about": "This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.",
+    "star": "2,395",
+    "fork": "350",
+    "timestamp": "2025-11-04T02:40:28.602929",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "ChrisTitusTech/winutil",
+    "href": "https://github.com/ChrisTitusTech/winutil",
+    "about": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "star": "42,256",
+    "fork": "2,257",
+    "timestamp": "2025-11-04T02:40:28.603215",
+    "stars_today": "48 stars today"
+  },
+  {
+    "repo": "actions/runner-images",
+    "href": "https://github.com/actions/runner-images",
+    "about": "GitHub Actions runner images",
+    "star": "12,119",
+    "fork": "3,562",
+    "timestamp": "2025-11-04T02:40:28.603481",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "MicrosoftDocs/PowerShell-Docs",
+    "href": "https://github.com/MicrosoftDocs/PowerShell-Docs",
+    "about": "The official PowerShell documentation sources",
+    "star": "2,296",
+    "fork": "1,666",
+    "timestamp": "2025-11-04T02:40:28.603734",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dartraiden/NVIDIA-patcher",
+    "href": "https://github.com/dartraiden/NVIDIA-patcher",
+    "about": "Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.",
+    "star": "1,041",
+    "fork": "92",
+    "timestamp": "2025-11-04T02:40:28.603991",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "samratashok/nishang",
+    "href": "https://github.com/samratashok/nishang",
+    "about": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security.",
+    "star": "9,558",
+    "fork": "2,538",
+    "timestamp": "2025-11-04T02:40:28.604233",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Azure/PSRule.Rules.Azure",
+    "href": "https://github.com/Azure/PSRule.Rules.Azure",
+    "about": "Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.",
+    "star": "430",
+    "fork": "98",
+    "timestamp": "2025-11-04T02:40:28.604495",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "href": "https://github.com/Orange-Cyberdefense/GOAD",
+    "about": "game of active directory",
+    "star": "7,066",
+    "fork": "981",
+    "timestamp": "2025-11-04T02:40:28.604752",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Main",
+    "href": "https://github.com/ScoopInstaller/Main",
+    "about": "📦 The default bucket for Scoop.",
+    "star": "1,748",
+    "fork": "1,076",
+    "timestamp": "2025-11-04T02:40:28.605035",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Scoop",
+    "href": "https://github.com/ScoopInstaller/Scoop",
+    "about": "A command-line installer for Windows.",
+    "star": "23,093",
+    "fork": "1,482",
+    "timestamp": "2025-11-04T02:40:28.605317",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "ScoopInstaller/Extras",
+    "href": "https://github.com/ScoopInstaller/Extras",
+    "about": "📦 The Extras bucket for Scoop.",
+    "star": "1,975",
+    "fork": "1,533",
+    "timestamp": "2025-11-04T02:40:28.605606",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ntdevlabs/tiny11builder",
+    "href": "https://github.com/ntdevlabs/tiny11builder",
+    "about": "Scripts to build a trimmed-down Windows 11 image.",
+    "star": "16,185",
+    "fork": "1,256",
+    "timestamp": "2025-11-04T02:40:28.605888",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "memstechtips/UnattendedWinstall",
+    "href": "https://github.com/memstechtips/UnattendedWinstall",
+    "about": "Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.",
+    "star": "5,316",
+    "fork": "524",
+    "timestamp": "2025-11-04T02:40:28.606144",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "actions/python-versions",
+    "href": "https://github.com/actions/python-versions",
+    "about": "Python builds for Actions Runner Images",
+    "star": "220",
+    "fork": "126",
+    "timestamp": "2025-11-04T02:40:28.606403",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "microsoft/Microsoft365DSC",
+    "href": "https://github.com/microsoft/Microsoft365DSC",
+    "about": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+    "star": "2,055",
+    "fork": "606",
+    "timestamp": "2025-11-04T02:40:28.606659",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "dotnet/core",
+    "href": "https://github.com/dotnet/core",
+    "about": ".NET news, announcements, release notes, and more!",
+    "star": "21,683",
+    "fork": "4,936",
+    "timestamp": "2025-11-04T02:40:28.606914",
+    "stars_today": "1 star today"
+  }
+]

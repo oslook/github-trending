@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,210",
+    "fork": "28,910",
+    "timestamp": "2025-11-04T02:40:33.297325",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,025",
+    "fork": "778",
+    "timestamp": "2025-11-04T02:40:33.297610",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "A better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE",
+    "star": "2,621",
+    "fork": "422",
+    "timestamp": "2025-11-04T02:40:33.297870",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,480",
+    "fork": "186",
+    "timestamp": "2025-11-04T02:40:33.298129",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,276",
+    "fork": "2,485",
+    "timestamp": "2025-11-04T02:40:33.298389",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,812",
+    "fork": "1,217",
+    "timestamp": "2025-11-04T02:40:33.298653",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,061",
+    "fork": "247",
+    "timestamp": "2025-11-04T02:40:33.298912",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "885",
+    "fork": "210",
+    "timestamp": "2025-11-04T02:40:33.299167",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,699",
+    "fork": "366",
+    "timestamp": "2025-11-04T02:40:33.299433",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,267",
+    "fork": "970",
+    "timestamp": "2025-11-04T02:40:33.299691",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,141",
+    "fork": "1,119",
+    "timestamp": "2025-11-04T02:40:33.299950",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "931",
+    "fork": "615",
+    "timestamp": "2025-11-04T02:40:33.300204",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "353",
+    "fork": "96",
+    "timestamp": "2025-11-04T02:40:33.300487",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "201",
+    "fork": "51",
+    "timestamp": "2025-11-04T02:40:33.300750",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,416",
+    "fork": "3,105",
+    "timestamp": "2025-11-04T02:40:33.301015",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "52",
+    "fork": "44",
+    "timestamp": "2025-11-04T02:40:33.301274",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,469",
+    "fork": "539",
+    "timestamp": "2025-11-04T02:40:33.301542",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,594",
+    "fork": "1,197",
+    "timestamp": "2025-11-04T02:40:33.301802",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,715",
+    "fork": "830",
+    "timestamp": "2025-11-04T02:40:33.302064",
+    "stars_today": "2 stars today"
+  }
+]
