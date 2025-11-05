@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "36,943",
+    "fork": "2,920",
+    "timestamp": "2025-11-05T02:41:16.795169",
+    "stars_today": "333 stars today"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "20,762",
+    "fork": "499",
+    "timestamp": "2025-11-05T02:41:16.795477",
+    "stars_today": "320 stars today"
+  },
+  {
+    "repo": "mudler/edgevpn",
+    "href": "https://github.com/mudler/edgevpn",
+    "about": "⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens",
+    "star": "1,511",
+    "fork": "154",
+    "timestamp": "2025-11-05T02:41:16.795797",
+    "stars_today": "148 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,808",
+    "fork": "516",
+    "timestamp": "2025-11-05T02:41:16.796082",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,130",
+    "fork": "3,108",
+    "timestamp": "2025-11-05T02:41:16.796380",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "qax-os/excelize",
+    "href": "https://github.com/qax-os/excelize",
+    "about": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "star": "19,879",
+    "fork": "1,847",
+    "timestamp": "2025-11-05T02:41:16.796669",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "qualifire-dev/rogue",
+    "href": "https://github.com/qualifire-dev/rogue",
+    "about": "Agents testing framework made easy",
+    "star": "414",
+    "fork": "51",
+    "timestamp": "2025-11-05T02:41:16.796948",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "23,051",
+    "fork": "2,122",
+    "timestamp": "2025-11-05T02:41:16.797245",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "ekristen/aws-nuke",
+    "href": "https://github.com/ekristen/aws-nuke",
+    "about": "Remove all the resources from an AWS account",
+    "star": "1,034",
+    "fork": "97",
+    "timestamp": "2025-11-05T02:41:16.797555",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "gofr-dev/gofr",
+    "href": "https://github.com/gofr-dev/gofr",
+    "about": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+    "star": "14,186",
+    "fork": "1,716",
+    "timestamp": "2025-11-05T02:41:16.797842",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,738",
+    "fork": "2,559",
+    "timestamp": "2025-11-05T02:41:16.798127",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,789",
+    "fork": "280",
+    "timestamp": "2025-11-05T02:41:16.798432",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "OpenCSGs/csghub-server",
+    "href": "https://github.com/OpenCSGs/csghub-server",
+    "about": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+    "star": "1,170",
+    "fork": "244",
+    "timestamp": "2025-11-05T02:41:16.798714",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,663",
+    "fork": "4,240",
+    "timestamp": "2025-11-05T02:41:16.798997",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "86,817",
+    "fork": "8,475",
+    "timestamp": "2025-11-05T02:41:16.799294",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "aaPanel/BillionMail",
+    "href": "https://github.com/aaPanel/BillionMail",
+    "about": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+    "star": "12,033",
+    "fork": "1,118",
+    "timestamp": "2025-11-05T02:41:16.799582",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,757",
+    "fork": "661",
+    "timestamp": "2025-11-05T02:41:16.799865",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "href": "https://github.com/weaviate/weaviate",
+    "about": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "star": "14,938",
+    "fork": "1,124",
+    "timestamp": "2025-11-05T02:41:16.800164",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "docker/mcp-registry",
+    "href": "https://github.com/docker/mcp-registry",
+    "about": "Official Docker MCP registry",
+    "star": "311",
+    "fork": "389",
+    "timestamp": "2025-11-05T02:41:16.800449",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "1,791",
+    "fork": "179",
+    "timestamp": "2025-11-05T02:41:16.800731",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,517",
+    "fork": "3,677",
+    "timestamp": "2025-11-05T02:41:16.801014",
+    "stars_today": "7 stars today"
+  }
+]

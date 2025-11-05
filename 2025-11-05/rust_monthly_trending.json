@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "33,635",
+    "fork": "3,333",
+    "timestamp": "2025-11-05T02:41:35.527983",
+    "stars_today": "2,030 stars this month"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,574",
+    "fork": "645",
+    "timestamp": "2025-11-05T02:41:35.528300",
+    "stars_today": "997 stars this month"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "10,962",
+    "fork": "523",
+    "timestamp": "2025-11-05T02:41:35.528586",
+    "stars_today": "2,258 stars this month"
+  },
+  {
+    "repo": "microsoft/edit",
+    "href": "https://github.com/microsoft/edit",
+    "about": "We all edit.",
+    "star": "12,760",
+    "fork": "572",
+    "timestamp": "2025-11-05T02:41:35.528869",
+    "stars_today": "486 stars this month"
+  },
+  {
+    "repo": "jdx/mise",
+    "href": "https://github.com/jdx/mise",
+    "about": "dev tools, env vars, task runner",
+    "star": "21,137",
+    "fork": "714",
+    "timestamp": "2025-11-05T02:41:35.529191",
+    "stars_today": "1,460 stars this month"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "41,043",
+    "fork": "3,143",
+    "timestamp": "2025-11-05T02:41:35.529478",
+    "stars_today": "989 stars this month"
+  },
+  {
+    "repo": "YaLTeR/niri",
+    "href": "https://github.com/YaLTeR/niri",
+    "about": "A scrollable-tiling Wayland compositor.",
+    "star": "14,419",
+    "fork": "511",
+    "timestamp": "2025-11-05T02:41:35.529788",
+    "stars_today": "1,990 stars this month"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, and mobile.",
+    "star": "31,621",
+    "fork": "1,347",
+    "timestamp": "2025-11-05T02:41:35.530094",
+    "stars_today": "978 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "57,051",
+    "fork": "2,300",
+    "timestamp": "2025-11-05T02:41:35.530413",
+    "stars_today": "1,271 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "22,024",
+    "fork": "743",
+    "timestamp": "2025-11-05T02:41:35.530725",
+    "stars_today": "737 stars this month"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "55,678",
+    "fork": "1,397",
+    "timestamp": "2025-11-05T02:41:35.531034",
+    "stars_today": "1,003 stars this month"
+  },
+  {
+    "repo": "longbridge/gpui-component",
+    "href": "https://github.com/longbridge/gpui-component",
+    "about": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+    "star": "7,017",
+    "fork": "277",
+    "timestamp": "2025-11-05T02:41:35.531327",
+    "stars_today": "3,251 stars this month"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.",
+    "star": "4,279",
+    "fork": "237",
+    "timestamp": "2025-11-05T02:41:35.531613",
+    "stars_today": "543 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "69,137",
+    "fork": "5,829",
+    "timestamp": "2025-11-05T02:41:35.531893",
+    "stars_today": "2,731 stars this month"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "17,300",
+    "fork": "711",
+    "timestamp": "2025-11-05T02:41:35.532183",
+    "stars_today": "802 stars this month"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "21,813",
+    "fork": "1,960",
+    "timestamp": "2025-11-05T02:41:35.532469",
+    "stars_today": "1,796 stars this month"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "101,907",
+    "fork": "14,930",
+    "timestamp": "2025-11-05T02:41:35.532776",
+    "stars_today": "2,897 stars this month"
+  },
+  {
+    "repo": "slint-ui/slint",
+    "href": "https://github.com/slint-ui/slint",
+    "about": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+    "star": "20,854",
+    "fork": "768",
+    "timestamp": "2025-11-05T02:41:35.533054",
+    "stars_today": "395 stars this month"
+  },
+  {
+    "repo": "stalwartlabs/stalwart",
+    "href": "https://github.com/stalwartlabs/stalwart",
+    "about": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+    "star": "10,298",
+    "fork": "537",
+    "timestamp": "2025-11-05T02:41:35.533417",
+    "stars_today": "580 stars this month"
+  },
+  {
+    "repo": "abenz1267/walker",
+    "href": "https://github.com/abenz1267/walker",
+    "about": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.",
+    "star": "2,029",
+    "fork": "76",
+    "timestamp": "2025-11-05T02:41:35.533732",
+    "stars_today": "490 stars this month"
+  },
+  {
+    "repo": "nushell/nushell",
+    "href": "https://github.com/nushell/nushell",
+    "about": "A new type of shell",
+    "star": "37,157",
+    "fork": "1,958",
+    "timestamp": "2025-11-05T02:41:35.534019",
+    "stars_today": "611 stars this month"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "98,549",
+    "fork": "3,148",
+    "timestamp": "2025-11-05T02:41:35.534396",
+    "stars_today": "1,627 stars this month"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A markup-based typesetting system that is powerful and easy to learn.",
+    "star": "47,748",
+    "fork": "1,296",
+    "timestamp": "2025-11-05T02:41:35.534709",
+    "stars_today": "1,246 stars this month"
+  },
+  {
+    "repo": "rust-lang/rustfmt",
+    "href": "https://github.com/rust-lang/rustfmt",
+    "about": "Format Rust code",
+    "star": "6,641",
+    "fork": "965",
+    "timestamp": "2025-11-05T02:41:35.534991",
+    "stars_today": "198 stars this month"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "71,941",
+    "fork": "2,194",
+    "timestamp": "2025-11-05T02:41:35.535301",
+    "stars_today": "3,012 stars this month"
+  }
+]

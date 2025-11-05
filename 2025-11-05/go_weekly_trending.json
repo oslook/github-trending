@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,237",
+    "fork": "1,770",
+    "timestamp": "2025-11-05T02:41:17.146671",
+    "stars_today": "321 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,876",
+    "fork": "7,381",
+    "timestamp": "2025-11-05T02:41:17.146973",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,512",
+    "fork": "1,731",
+    "timestamp": "2025-11-05T02:41:17.147276",
+    "stars_today": "451 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "20,762",
+    "fork": "499",
+    "timestamp": "2025-11-05T02:41:17.147560",
+    "stars_today": "983 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,173",
+    "fork": "2,534",
+    "timestamp": "2025-11-05T02:41:17.147849",
+    "stars_today": "480 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "36,943",
+    "fork": "2,920",
+    "timestamp": "2025-11-05T02:41:17.148174",
+    "stars_today": "765 stars this week"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "7,376",
+    "fork": "835",
+    "timestamp": "2025-11-05T02:41:17.148464",
+    "stars_today": "710 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "25,341",
+    "fork": "2,936",
+    "timestamp": "2025-11-05T02:41:17.148754",
+    "stars_today": "126 stars this week"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,521",
+    "fork": "525",
+    "timestamp": "2025-11-05T02:41:17.149034",
+    "stars_today": "316 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "19,035",
+    "fork": "1,178",
+    "timestamp": "2025-11-05T02:41:17.149353",
+    "stars_today": "276 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,409",
+    "fork": "1,375",
+    "timestamp": "2025-11-05T02:41:17.149633",
+    "stars_today": "275 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "155,382",
+    "fork": "13,536",
+    "timestamp": "2025-11-05T02:41:17.149908",
+    "stars_today": "554 stars this week"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "38,275",
+    "fork": "3,493",
+    "timestamp": "2025-11-05T02:41:17.150204",
+    "stars_today": "135 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,113",
+    "fork": "852",
+    "timestamp": "2025-11-05T02:41:17.150518",
+    "stars_today": "78 stars this week"
+  },
+  {
+    "repo": "trpc-group/trpc-agent-go",
+    "href": "https://github.com/trpc-group/trpc-agent-go",
+    "about": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+    "star": "657",
+    "fork": "46",
+    "timestamp": "2025-11-05T02:41:17.150794",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "57,504",
+    "fork": "5,544",
+    "timestamp": "2025-11-05T02:41:17.151101",
+    "stars_today": "146 stars this week"
+  },
+  {
+    "repo": "dlvhdr/gh-dash",
+    "href": "https://github.com/dlvhdr/gh-dash",
+    "about": "A rich terminal UI for GitHub that doesn't break your flow.",
+    "star": "9,211",
+    "fork": "295",
+    "timestamp": "2025-11-05T02:41:17.151436",
+    "stars_today": "181 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "8,058",
+    "fork": "1,899",
+    "timestamp": "2025-11-05T02:41:17.151712",
+    "stars_today": "237 stars this week"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "15,301",
+    "fork": "1,489",
+    "timestamp": "2025-11-05T02:41:17.151987",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "100,311",
+    "fork": "14,581",
+    "timestamp": "2025-11-05T02:41:17.152308",
+    "stars_today": "273 stars this week"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "3,053",
+    "fork": "503",
+    "timestamp": "2025-11-05T02:41:17.152591",
+    "stars_today": "151 stars this week"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "8,008",
+    "fork": "591",
+    "timestamp": "2025-11-05T02:41:17.152869",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "52,412",
+    "fork": "2,797",
+    "timestamp": "2025-11-05T02:41:17.153181",
+    "stars_today": "291 stars this week"
+  }
+]
