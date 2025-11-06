@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "37,300",
+    "fork": "2,941",
+    "timestamp": "2025-11-06T02:42:35.148555",
+    "stars_today": "1,028 stars this week"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,889",
+    "fork": "7,383",
+    "timestamp": "2025-11-06T02:42:35.148863",
+    "stars_today": "160 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "20,850",
+    "fork": "500",
+    "timestamp": "2025-11-06T02:42:35.149156",
+    "stars_today": "1,152 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,241",
+    "fork": "1,771",
+    "timestamp": "2025-11-06T02:42:35.149463",
+    "stars_today": "306 stars this week"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,535",
+    "fork": "1,733",
+    "timestamp": "2025-11-06T02:42:35.149755",
+    "stars_today": "261 stars this week"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "7,400",
+    "fork": "840",
+    "timestamp": "2025-11-06T02:42:35.150045",
+    "stars_today": "673 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,224",
+    "fork": "2,537",
+    "timestamp": "2025-11-06T02:42:35.150346",
+    "stars_today": "543 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,500",
+    "fork": "4,606",
+    "timestamp": "2025-11-06T02:42:35.150637",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "25,349",
+    "fork": "2,936",
+    "timestamp": "2025-11-06T02:42:35.150927",
+    "stars_today": "123 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,439",
+    "fork": "1,378",
+    "timestamp": "2025-11-06T02:42:35.151216",
+    "stars_today": "256 stars this week"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "3,075",
+    "fork": "508",
+    "timestamp": "2025-11-06T02:42:35.151511",
+    "stars_today": "139 stars this week"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "href": "https://github.com/zeromicro/go-zero",
+    "about": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "star": "32,055",
+    "fork": "4,219",
+    "timestamp": "2025-11-06T02:42:35.151826",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "155,437",
+    "fork": "13,548",
+    "timestamp": "2025-11-06T02:42:35.152112",
+    "stars_today": "559 stars this week"
+  },
+  {
+    "repo": "dlvhdr/gh-dash",
+    "href": "https://github.com/dlvhdr/gh-dash",
+    "about": "A rich terminal UI for GitHub that doesn't break your flow.",
+    "star": "9,220",
+    "fork": "296",
+    "timestamp": "2025-11-06T02:42:35.152438",
+    "stars_today": "184 stars this week"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "15,307",
+    "fork": "1,489",
+    "timestamp": "2025-11-06T02:42:35.152722",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "href": "https://github.com/smartcontractkit/chainlink",
+    "about": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "star": "8,061",
+    "fork": "1,898",
+    "timestamp": "2025-11-06T02:42:35.153004",
+    "stars_today": "217 stars this week"
+  },
+  {
+    "repo": "grafana/mimir",
+    "href": "https://github.com/grafana/mimir",
+    "about": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "star": "4,761",
+    "fork": "664",
+    "timestamp": "2025-11-06T02:42:35.153309",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "52,434",
+    "fork": "2,800",
+    "timestamp": "2025-11-06T02:42:35.153593",
+    "stars_today": "295 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "23,075",
+    "fork": "2,125",
+    "timestamp": "2025-11-06T02:42:35.153874",
+    "stars_today": "110 stars this week"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "53,359",
+    "fork": "4,756",
+    "timestamp": "2025-11-06T02:42:35.154189",
+    "stars_today": "153 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,014",
+    "fork": "18,832",
+    "timestamp": "2025-11-06T02:42:35.154486",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "14,609",
+    "fork": "819",
+    "timestamp": "2025-11-06T02:42:35.154771",
+    "stars_today": "271 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,134",
+    "fork": "3,110",
+    "timestamp": "2025-11-06T02:42:35.155054",
+    "stars_today": "28 stars this week"
+  }
+]

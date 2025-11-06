@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,855",
+    "fork": "6,423",
+    "timestamp": "2025-11-06T02:42:35.542772",
+    "stars_today": "2,562 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,224",
+    "fork": "2,537",
+    "timestamp": "2025-11-06T02:42:35.543077",
+    "stars_today": "1,292 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,535",
+    "fork": "1,733",
+    "timestamp": "2025-11-06T02:42:35.543384",
+    "stars_today": "1,091 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "47,388",
+    "fork": "1,484",
+    "timestamp": "2025-11-06T02:42:35.543700",
+    "stars_today": "917 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,523",
+    "fork": "925",
+    "timestamp": "2025-11-06T02:42:35.544027",
+    "stars_today": "823 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "37,300",
+    "fork": "2,941",
+    "timestamp": "2025-11-06T02:42:35.544359",
+    "stars_today": "1,626 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,842",
+    "fork": "516",
+    "timestamp": "2025-11-06T02:42:35.544642",
+    "stars_today": "1,529 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,439",
+    "fork": "1,378",
+    "timestamp": "2025-11-06T02:42:35.544926",
+    "stars_today": "938 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,556",
+    "fork": "525",
+    "timestamp": "2025-11-06T02:42:35.545207",
+    "stars_today": "1,024 stars this month"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "51,830",
+    "fork": "6,189",
+    "timestamp": "2025-11-06T02:42:35.545538",
+    "stars_today": "929 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "32,278",
+    "fork": "4,670",
+    "timestamp": "2025-11-06T02:42:35.545820",
+    "stars_today": "815 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,241",
+    "fork": "1,771",
+    "timestamp": "2025-11-06T02:42:35.546108",
+    "stars_today": "408 stars this month"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,324",
+    "fork": "178",
+    "timestamp": "2025-11-06T02:42:35.546420",
+    "stars_today": "713 stars this month"
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "href": "https://github.com/quic-go/quic-go",
+    "about": "A production-ready QUIC implementation in pure Go",
+    "star": "11,141",
+    "fork": "1,464",
+    "timestamp": "2025-11-06T02:42:35.546708",
+    "stars_today": "107 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "53,359",
+    "fork": "4,756",
+    "timestamp": "2025-11-06T02:42:35.547023",
+    "stars_today": "596 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "25,790",
+    "fork": "2,075",
+    "timestamp": "2025-11-06T02:42:35.547322",
+    "stars_today": "657 stars this month"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "19,051",
+    "fork": "1,181",
+    "timestamp": "2025-11-06T02:42:35.547606",
+    "stars_today": "917 stars this month"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,622",
+    "fork": "2,949",
+    "timestamp": "2025-11-06T02:42:35.547884",
+    "stars_today": "186 stars this month"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "13,288",
+    "fork": "2,263",
+    "timestamp": "2025-11-06T02:42:35.548168",
+    "stars_today": "115 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,386",
+    "fork": "1,351",
+    "timestamp": "2025-11-06T02:42:35.548464",
+    "stars_today": "133 stars this month"
+  },
+  {
+    "repo": "pdfcpu/pdfcpu",
+    "href": "https://github.com/pdfcpu/pdfcpu",
+    "about": "A PDF processor written in Go.",
+    "star": "8,230",
+    "fork": "573",
+    "timestamp": "2025-11-06T02:42:35.548748",
+    "stars_today": "198 stars this month"
+  },
+  {
+    "repo": "terrastruct/d2",
+    "href": "https://github.com/terrastruct/d2",
+    "about": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "star": "22,454",
+    "fork": "592",
+    "timestamp": "2025-11-06T02:42:35.549033",
+    "stars_today": "502 stars this month"
+  }
+]
