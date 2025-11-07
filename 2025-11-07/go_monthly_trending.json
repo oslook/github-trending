@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,901",
+    "fork": "6,426",
+    "timestamp": "2025-11-07T02:40:30.746305",
+    "stars_today": "2,597 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "37,604",
+    "fork": "2,962",
+    "timestamp": "2025-11-07T02:40:30.746677",
+    "stars_today": "1,940 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,264",
+    "fork": "2,538",
+    "timestamp": "2025-11-07T02:40:30.746984",
+    "stars_today": "1,312 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,557",
+    "fork": "1,734",
+    "timestamp": "2025-11-07T02:40:30.747286",
+    "stars_today": "1,091 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "47,405",
+    "fork": "1,485",
+    "timestamp": "2025-11-07T02:40:30.747629",
+    "stars_today": "929 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,546",
+    "fork": "926",
+    "timestamp": "2025-11-07T02:40:30.747964",
+    "stars_today": "833 stars this month"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "51,857",
+    "fork": "6,198",
+    "timestamp": "2025-11-07T02:40:30.748291",
+    "stars_today": "943 stars this month"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,409",
+    "fork": "2,290",
+    "timestamp": "2025-11-07T02:40:30.748600",
+    "stars_today": "189 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,869",
+    "fork": "516",
+    "timestamp": "2025-11-07T02:40:30.748901",
+    "stars_today": "1,553 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,596",
+    "fork": "526",
+    "timestamp": "2025-11-07T02:40:30.749194",
+    "stars_today": "1,050 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,461",
+    "fork": "1,381",
+    "timestamp": "2025-11-07T02:40:30.749490",
+    "stars_today": "950 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "53,381",
+    "fork": "4,760",
+    "timestamp": "2025-11-07T02:40:30.749832",
+    "stars_today": "605 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,246",
+    "fork": "1,771",
+    "timestamp": "2025-11-07T02:40:30.750126",
+    "stars_today": "409 stars this month"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,630",
+    "fork": "2,952",
+    "timestamp": "2025-11-07T02:40:30.750419",
+    "stars_today": "185 stars this month"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,252",
+    "fork": "543",
+    "timestamp": "2025-11-07T02:40:30.750735",
+    "stars_today": "304 stars this month"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "19,071",
+    "fork": "1,183",
+    "timestamp": "2025-11-07T02:40:30.751256",
+    "stars_today": "934 stars this month"
+  },
+  {
+    "repo": "terrastruct/d2",
+    "href": "https://github.com/terrastruct/d2",
+    "about": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "star": "22,460",
+    "fork": "593",
+    "timestamp": "2025-11-07T02:40:30.751601",
+    "stars_today": "504 stars this month"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "61,142",
+    "fork": "9,908",
+    "timestamp": "2025-11-07T02:40:30.751907",
+    "stars_today": "540 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "32,302",
+    "fork": "4,671",
+    "timestamp": "2025-11-07T02:40:30.752210",
+    "stars_today": "835 stars this month"
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "href": "https://github.com/quic-go/quic-go",
+    "about": "A production-ready QUIC implementation in pure Go",
+    "star": "11,147",
+    "fork": "1,464",
+    "timestamp": "2025-11-07T02:40:30.752510",
+    "stars_today": "112 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,387",
+    "fork": "1,351",
+    "timestamp": "2025-11-07T02:40:30.752826",
+    "stars_today": "134 stars this month"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "13,292",
+    "fork": "2,263",
+    "timestamp": "2025-11-07T02:40:30.753122",
+    "stars_today": "115 stars this month"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,588",
+    "fork": "9,812",
+    "timestamp": "2025-11-07T02:40:30.753419",
+    "stars_today": "74 stars this month"
+  }
+]

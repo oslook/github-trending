@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,235",
+    "fork": "28,922",
+    "timestamp": "2025-11-07T02:40:46.978735",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,469",
+    "fork": "539",
+    "timestamp": "2025-11-07T02:40:46.979044",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "A better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE",
+    "star": "2,624",
+    "fork": "422",
+    "timestamp": "2025-11-07T02:40:46.979341",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,383",
+    "fork": "1,945",
+    "timestamp": "2025-11-07T02:40:46.979644",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,720",
+    "fork": "831",
+    "timestamp": "2025-11-07T02:40:46.979937",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,598",
+    "fork": "1,197",
+    "timestamp": "2025-11-07T02:40:46.980227",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,026",
+    "fork": "779",
+    "timestamp": "2025-11-07T02:40:46.980515",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "885",
+    "fork": "211",
+    "timestamp": "2025-11-07T02:40:46.980826",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,287",
+    "fork": "2,488",
+    "timestamp": "2025-11-07T02:40:46.981117",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,703",
+    "fork": "12,617",
+    "timestamp": "2025-11-07T02:40:46.981406",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+    "star": "3,848",
+    "fork": "677",
+    "timestamp": "2025-11-07T02:40:46.981703",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "databricks/Spark-The-Definitive-Guide",
+    "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+    "about": "Spark: The Definitive Guide's Code Repository",
+    "star": "3,050",
+    "fork": "2,877",
+    "timestamp": "2025-11-07T02:40:46.981994",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,536",
+    "fork": "573",
+    "timestamp": "2025-11-07T02:40:46.982290",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "846",
+    "fork": "231",
+    "timestamp": "2025-11-07T02:40:46.982604",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,815",
+    "fork": "571",
+    "timestamp": "2025-11-07T02:40:46.982928",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,141",
+    "fork": "1,120",
+    "timestamp": "2025-11-07T02:40:46.983219",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/incubator-livy",
+    "href": "https://github.com/apache/incubator-livy",
+    "about": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+    "star": "931",
+    "fork": "615",
+    "timestamp": "2025-11-07T02:40:46.983503",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,702",
+    "fork": "367",
+    "timestamp": "2025-11-07T02:40:46.983804",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,065",
+    "fork": "248",
+    "timestamp": "2025-11-07T02:40:46.984092",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "nixiesearch/nixiesearch",
+    "href": "https://github.com/nixiesearch/nixiesearch",
+    "about": "Hybrid search engine, combining best features of text and semantic search worlds",
+    "star": "541",
+    "fork": "15",
+    "timestamp": "2025-11-07T02:40:46.984379",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "53",
+    "fork": "45",
+    "timestamp": "2025-11-07T02:40:46.984682",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,299",
+    "fork": "1,370",
+    "timestamp": "2025-11-07T02:40:46.984976",
+    "stars_today": "0 stars today"
+  }
+]
