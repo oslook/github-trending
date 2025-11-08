@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,701",
+    "fork": "2,329",
+    "timestamp": "2025-11-08T02:22:54.024037",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "18,450",
+    "fork": "729",
+    "timestamp": "2025-11-08T02:22:54.024337",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,536",
+    "fork": "3,681",
+    "timestamp": "2025-11-08T02:22:54.024621",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "37,789",
+    "fork": "2,983",
+    "timestamp": "2025-11-08T02:22:54.024945",
+    "stars_today": "289 stars today"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "16,491",
+    "fork": "1,169",
+    "timestamp": "2025-11-08T02:22:54.025228",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "12,760",
+    "fork": "2,564",
+    "timestamp": "2025-11-08T02:22:54.025507",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "href": "https://github.com/kubernetes-sigs/metrics-server",
+    "about": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+    "star": "6,432",
+    "fork": "1,980",
+    "timestamp": "2025-11-08T02:22:54.025798",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "distribution/distribution",
+    "href": "https://github.com/distribution/distribution",
+    "about": "The toolkit to pack, ship, store, and deliver container content",
+    "star": "9,988",
+    "fork": "2,666",
+    "timestamp": "2025-11-08T02:22:54.026081",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "20,819",
+    "fork": "1,053",
+    "timestamp": "2025-11-08T02:22:54.026360",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "kubernetes/autoscaler",
+    "href": "https://github.com/kubernetes/autoscaler",
+    "about": "Autoscaling components for Kubernetes",
+    "star": "8,666",
+    "fork": "4,248",
+    "timestamp": "2025-11-08T02:22:54.026637",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "29,361",
+    "fork": "1,096",
+    "timestamp": "2025-11-08T02:22:54.026956",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "1,828",
+    "fork": "184",
+    "timestamp": "2025-11-08T02:22:54.027236",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,017",
+    "fork": "18,833",
+    "timestamp": "2025-11-08T02:22:54.027510",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "12,742",
+    "fork": "2,240",
+    "timestamp": "2025-11-08T02:22:54.027796",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "onsi/ginkgo",
+    "href": "https://github.com/onsi/ginkgo",
+    "about": "A Modern Testing Framework for Go",
+    "star": "8,871",
+    "fork": "683",
+    "timestamp": "2025-11-08T02:22:54.028102",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "26,980",
+    "fork": "1,113",
+    "timestamp": "2025-11-08T02:22:54.028379",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "gorilla/mux",
+    "href": "https://github.com/gorilla/mux",
+    "about": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
+    "star": "21,681",
+    "fork": "1,877",
+    "timestamp": "2025-11-08T02:22:54.028656",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "11,360",
+    "fork": "985",
+    "timestamp": "2025-11-08T02:22:54.028943",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "containers/skopeo",
+    "href": "https://github.com/containers/skopeo",
+    "about": "Work with remote images registries - retrieving information, images, signing content",
+    "star": "9,984",
+    "fork": "877",
+    "timestamp": "2025-11-08T02:22:54.029216",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "9,078",
+    "fork": "1,111",
+    "timestamp": "2025-11-08T02:22:54.029518",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ava-labs/avalanchego",
+    "href": "https://github.com/ava-labs/avalanchego",
+    "about": "Go implementation of an Avalanche node.",
+    "star": "2,311",
+    "fork": "818",
+    "timestamp": "2025-11-08T02:22:54.029802",
+    "stars_today": "2 stars today"
+  }
+]

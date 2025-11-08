@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "57,939",
+    "fork": "6,429",
+    "timestamp": "2025-11-08T02:22:54.374780",
+    "stars_today": "2,612 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "37,789",
+    "fork": "2,983",
+    "timestamp": "2025-11-08T02:22:54.375115",
+    "stars_today": "2,192 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,308",
+    "fork": "2,539",
+    "timestamp": "2025-11-08T02:22:54.375401",
+    "stars_today": "1,355 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,576",
+    "fork": "1,734",
+    "timestamp": "2025-11-08T02:22:54.375680",
+    "stars_today": "1,085 stars this month"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,629",
+    "fork": "2,953",
+    "timestamp": "2025-11-08T02:22:54.375973",
+    "stars_today": "182 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "47,424",
+    "fork": "1,485",
+    "timestamp": "2025-11-08T02:22:54.376279",
+    "stars_today": "927 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,560",
+    "fork": "928",
+    "timestamp": "2025-11-08T02:22:54.376593",
+    "stars_today": "829 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "12,892",
+    "fork": "520",
+    "timestamp": "2025-11-08T02:22:54.376880",
+    "stars_today": "1,572 stars this month"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "20,947",
+    "fork": "504",
+    "timestamp": "2025-11-08T02:22:54.377155",
+    "stars_today": "1,547 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "11,495",
+    "fork": "1,389",
+    "timestamp": "2025-11-08T02:22:54.377428",
+    "stars_today": "967 stars this month"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "51,872",
+    "fork": "6,199",
+    "timestamp": "2025-11-08T02:22:54.377726",
+    "stars_today": "947 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "53,393",
+    "fork": "4,763",
+    "timestamp": "2025-11-08T02:22:54.378045",
+    "stars_today": "603 stars this month"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "19,350",
+    "fork": "1,947",
+    "timestamp": "2025-11-08T02:22:54.378322",
+    "stars_today": "165 stars this month"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,267",
+    "fork": "543",
+    "timestamp": "2025-11-08T02:22:54.378599",
+    "stars_today": "311 stars this month"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "16,624",
+    "fork": "528",
+    "timestamp": "2025-11-08T02:22:54.378888",
+    "stars_today": "1,072 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,249",
+    "fork": "1,773",
+    "timestamp": "2025-11-08T02:22:54.379167",
+    "stars_today": "412 stars this month"
+  },
+  {
+    "repo": "timelinize/timelinize",
+    "href": "https://github.com/timelinize/timelinize",
+    "about": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+    "star": "2,942",
+    "fork": "93",
+    "timestamp": "2025-11-08T02:22:54.379446",
+    "stars_today": "1,577 stars this month"
+  },
+  {
+    "repo": "terrastruct/d2",
+    "href": "https://github.com/terrastruct/d2",
+    "about": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "star": "22,469",
+    "fork": "593",
+    "timestamp": "2025-11-08T02:22:54.379725",
+    "stars_today": "503 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "32,318",
+    "fork": "4,675",
+    "timestamp": "2025-11-08T02:22:54.380017",
+    "stars_today": "832 stars this month"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "href": "https://github.com/DataDog/datadog-agent",
+    "about": "Main repository for Datadog Agent",
+    "star": "3,387",
+    "fork": "1,351",
+    "timestamp": "2025-11-08T02:22:54.380299",
+    "stars_today": "133 stars this month"
+  },
+  {
+    "repo": "trpc-group/trpc-agent-go",
+    "href": "https://github.com/trpc-group/trpc-agent-go",
+    "about": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+    "star": "673",
+    "fork": "48",
+    "timestamp": "2025-11-08T02:22:54.380577",
+    "stars_today": "550 stars this month"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "19,085",
+    "fork": "1,186",
+    "timestamp": "2025-11-08T02:22:54.380865",
+    "stars_today": "940 stars this month"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,701",
+    "fork": "2,329",
+    "timestamp": "2025-11-08T02:22:54.381137",
+    "stars_today": "299 stars this month"
+  }
+]
