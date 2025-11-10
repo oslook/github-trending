@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "google/adk-go",
+    "href": "https://github.com/google/adk-go",
+    "about": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "670",
+    "fork": "37",
+    "timestamp": "2025-11-10T02:47:04.779152",
+    "stars_today": "182 stars today"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "7,990",
+    "fork": "2,348",
+    "timestamp": "2025-11-10T02:47:04.779457",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "18,773",
+    "fork": "746",
+    "timestamp": "2025-11-10T02:47:04.779743",
+    "stars_today": "163 stars today"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "5,686",
+    "fork": "747",
+    "timestamp": "2025-11-10T02:47:04.780043",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "hyperledger/fabric",
+    "href": "https://github.com/hyperledger/fabric",
+    "about": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "star": "16,377",
+    "fork": "9,081",
+    "timestamp": "2025-11-10T02:47:04.780328",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "22,741",
+    "fork": "734",
+    "timestamp": "2025-11-10T02:47:04.780613",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript",
+    "star": "29,153",
+    "fork": "1,447",
+    "timestamp": "2025-11-10T02:47:04.780919",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "30,838",
+    "fork": "1,506",
+    "timestamp": "2025-11-10T02:47:04.781206",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "32,353",
+    "fork": "4,681",
+    "timestamp": "2025-11-10T02:47:04.781492",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "118,491",
+    "fork": "41,680",
+    "timestamp": "2025-11-10T02:47:04.781790",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "go-task/task",
+    "href": "https://github.com/go-task/task",
+    "about": "A task runner / simpler Make alternative written in Go",
+    "star": "14,150",
+    "fork": "755",
+    "timestamp": "2025-11-10T02:47:04.782075",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "28,930",
+    "fork": "7,393",
+    "timestamp": "2025-11-10T02:47:04.782358",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "9,128",
+    "fork": "740",
+    "timestamp": "2025-11-10T02:47:04.782667",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "Jguer/yay",
+    "href": "https://github.com/Jguer/yay",
+    "about": "Yet another Yogurt - An AUR Helper written in Go",
+    "star": "12,637",
+    "fork": "387",
+    "timestamp": "2025-11-10T02:47:04.782989",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "lxc/incus",
+    "href": "https://github.com/lxc/incus",
+    "about": "Powerful system container and virtual machine manager",
+    "star": "4,314",
+    "fork": "367",
+    "timestamp": "2025-11-10T02:47:04.783270",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "restic/restic",
+    "href": "https://github.com/restic/restic",
+    "about": "Fast, secure, efficient backup program",
+    "star": "30,724",
+    "fork": "1,670",
+    "timestamp": "2025-11-10T02:47:04.783553",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "130,766",
+    "fork": "18,450",
+    "timestamp": "2025-11-10T02:47:04.783846",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,061",
+    "fork": "10,110",
+    "timestamp": "2025-11-10T02:47:04.784132",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "19,363",
+    "fork": "1,947",
+    "timestamp": "2025-11-10T02:47:04.784417",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,695",
+    "fork": "1,097",
+    "timestamp": "2025-11-10T02:47:04.784730",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "5,807",
+    "fork": "957",
+    "timestamp": "2025-11-10T02:47:04.785057",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "kimdre/doco-cd",
+    "href": "https://github.com/kimdre/doco-cd",
+    "about": "Docker Compose Continuous Deployment",
+    "star": "707",
+    "fork": "12",
+    "timestamp": "2025-11-10T02:47:04.785370",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "36,454",
+    "fork": "5,555",
+    "timestamp": "2025-11-10T02:47:04.785655",
+    "stars_today": "5 stars today"
+  }
+]
