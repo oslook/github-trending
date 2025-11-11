@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "38,103",
+    "fork": "3,022",
+    "timestamp": "2025-11-11T02:42:39.607636",
+    "stars_today": "1,643 stars this week"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "18,897",
+    "fork": "749",
+    "timestamp": "2025-11-11T02:42:39.607941",
+    "stars_today": "547 stars this week"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "8,017",
+    "fork": "2,350",
+    "timestamp": "2025-11-11T02:42:39.608227",
+    "stars_today": "745 stars this week"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "21,123",
+    "fork": "507",
+    "timestamp": "2025-11-11T02:42:39.608509",
+    "stars_today": "773 stars this week"
+  },
+  {
+    "repo": "opencloud-eu/opencloud",
+    "href": "https://github.com/opencloud-eu/opencloud",
+    "about": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
+    "star": "3,472",
+    "fork": "113",
+    "timestamp": "2025-11-11T02:42:39.608804",
+    "stars_today": "851 stars this week"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "2,902",
+    "fork": "259",
+    "timestamp": "2025-11-11T02:42:39.609084",
+    "stars_today": "237 stars this week"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,555",
+    "fork": "3,684",
+    "timestamp": "2025-11-11T02:42:39.609362",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,070",
+    "fork": "10,107",
+    "timestamp": "2025-11-11T02:42:39.609654",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "star": "12,402",
+    "fork": "1,766",
+    "timestamp": "2025-11-11T02:42:39.609964",
+    "stars_today": "374 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "29,519",
+    "fork": "1,100",
+    "timestamp": "2025-11-11T02:42:39.610270",
+    "stars_today": "406 stars this week"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "5,714",
+    "fork": "749",
+    "timestamp": "2025-11-11T02:42:39.610552",
+    "stars_today": "120 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "6,068",
+    "fork": "1,123",
+    "timestamp": "2025-11-11T02:42:39.610869",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "45,877",
+    "fork": "3,277",
+    "timestamp": "2025-11-11T02:42:39.611178",
+    "stars_today": "241 stars this week"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "11,027",
+    "fork": "1,099",
+    "timestamp": "2025-11-11T02:42:39.611461",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "12,772",
+    "fork": "2,240",
+    "timestamp": "2025-11-11T02:42:39.611750",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,039",
+    "fork": "18,847",
+    "timestamp": "2025-11-11T02:42:39.612028",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,141",
+    "fork": "3,120",
+    "timestamp": "2025-11-11T02:42:39.612303",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "8,108",
+    "fork": "603",
+    "timestamp": "2025-11-11T02:42:39.612590",
+    "stars_today": "155 stars this week"
+  },
+  {
+    "repo": "OpenCSGs/csghub-server",
+    "href": "https://github.com/OpenCSGs/csghub-server",
+    "about": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+    "star": "1,354",
+    "fork": "343",
+    "timestamp": "2025-11-11T02:42:39.612872",
+    "stars_today": "218 stars this week"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "14,756",
+    "fork": "832",
+    "timestamp": "2025-11-11T02:42:39.613157",
+    "stars_today": "271 stars this week"
+  },
+  {
+    "repo": "mudler/edgevpn",
+    "href": "https://github.com/mudler/edgevpn",
+    "about": "⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens",
+    "star": "1,699",
+    "fork": "167",
+    "timestamp": "2025-11-11T02:42:39.613462",
+    "stars_today": "458 stars this week"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "23,138",
+    "fork": "2,132",
+    "timestamp": "2025-11-11T02:42:39.613748",
+    "stars_today": "121 stars this week"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "17,344",
+    "fork": "1,238",
+    "timestamp": "2025-11-11T02:42:39.614023",
+    "stars_today": "135 stars this week"
+  }
+]
