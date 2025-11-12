@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "google/adk-go",
+    "href": "https://github.com/google/adk-go",
+    "about": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "2,478",
+    "fork": "136",
+    "timestamp": "2025-11-12T02:40:56.907059",
+    "stars_today": "1,299 stars today"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "12,570",
+    "fork": "1,470",
+    "timestamp": "2025-11-12T02:40:56.907414",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "coredns/coredns",
+    "href": "https://github.com/coredns/coredns",
+    "about": "CoreDNS is a DNS server that chains plugins",
+    "star": "13,514",
+    "fork": "2,346",
+    "timestamp": "2025-11-12T02:40:56.907719",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "2,939",
+    "fork": "290",
+    "timestamp": "2025-11-12T02:40:56.908011",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "tbphp/gpt-load",
+    "href": "https://github.com/tbphp/gpt-load",
+    "about": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
+    "star": "5,501",
+    "fork": "510",
+    "timestamp": "2025-11-12T02:40:56.908315",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "12,780",
+    "fork": "2,240",
+    "timestamp": "2025-11-12T02:40:56.908599",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,627",
+    "fork": "1,259",
+    "timestamp": "2025-11-12T02:40:56.908882",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Masterminds/squirrel",
+    "href": "https://github.com/Masterminds/squirrel",
+    "about": "Fluent SQL generation for golang",
+    "star": "7,709",
+    "fork": "496",
+    "timestamp": "2025-11-12T02:40:56.909177",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "opencloud-eu/opencloud",
+    "href": "https://github.com/opencloud-eu/opencloud",
+    "about": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
+    "star": "3,616",
+    "fork": "121",
+    "timestamp": "2025-11-12T02:40:56.909462",
+    "stars_today": "269 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,658",
+    "fork": "2,519",
+    "timestamp": "2025-11-12T02:40:56.909746",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "16,176",
+    "fork": "3,412",
+    "timestamp": "2025-11-12T02:40:56.910027",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "19,262",
+    "fork": "1,389",
+    "timestamp": "2025-11-12T02:40:56.910363",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "tulir/whatsmeow",
+    "href": "https://github.com/tulir/whatsmeow",
+    "about": "Go library for the WhatsApp web multidevice API",
+    "star": "4,679",
+    "fork": "742",
+    "timestamp": "2025-11-12T02:40:56.910678",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "href": "https://github.com/vmware-tanzu/velero",
+    "about": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "star": "9,589",
+    "fork": "1,489",
+    "timestamp": "2025-11-12T02:40:56.910970",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,667",
+    "fork": "2,353",
+    "timestamp": "2025-11-12T02:40:56.911275",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "NVIDIA/KAI-Scheduler",
+    "href": "https://github.com/NVIDIA/KAI-Scheduler",
+    "about": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "star": "921",
+    "fork": "104",
+    "timestamp": "2025-11-12T02:40:56.911561",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,564",
+    "fork": "3,683",
+    "timestamp": "2025-11-12T02:40:56.911851",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "25,404",
+    "fork": "497",
+    "timestamp": "2025-11-12T02:40:56.912175",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "lin-snow/Ech0",
+    "href": "https://github.com/lin-snow/Ech0",
+    "about": "Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台",
+    "star": "1,211",
+    "fork": "95",
+    "timestamp": "2025-11-12T02:40:56.912461",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "50,747",
+    "fork": "10,208",
+    "timestamp": "2025-11-12T02:40:56.912743",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "17,648",
+    "fork": "1,529",
+    "timestamp": "2025-11-12T02:40:56.913022",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "sqlc-dev/sqlc",
+    "href": "https://github.com/sqlc-dev/sqlc",
+    "about": "Generate type-safe code from SQL",
+    "star": "16,296",
+    "fork": "966",
+    "timestamp": "2025-11-12T02:40:56.913312",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "38,416",
+    "fork": "3,507",
+    "timestamp": "2025-11-12T02:40:56.913591",
+    "stars_today": "37 stars today"
+  }
+]
