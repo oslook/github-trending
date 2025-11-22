@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "mackron/miniaudio",
+    "href": "https://github.com/mackron/miniaudio",
+    "about": "Audio playback and capture library written in C, in a single source file.",
+    "star": "5,573",
+    "fork": "484",
+    "timestamp": "2025-11-22T02:24:29.339710",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "immortalwrt/immortalwrt",
+    "href": "https://github.com/immortalwrt/immortalwrt",
+    "about": "An opensource OpenWrt variant for mainland China users.",
+    "star": "9,329",
+    "fork": "2,911",
+    "timestamp": "2025-11-22T02:24:29.339989",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-zephyr",
+    "href": "https://github.com/nrfconnect/sdk-zephyr",
+    "about": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+    "star": "361",
+    "fork": "732",
+    "timestamp": "2025-11-22T02:24:29.340250",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "29,050",
+    "fork": "10,943",
+    "timestamp": "2025-11-22T02:24:29.340536",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "mattn/go-sqlite3",
+    "href": "https://github.com/mattn/go-sqlite3",
+    "about": "sqlite3 driver for go using database/sql",
+    "star": "8,814",
+    "fork": "1,154",
+    "timestamp": "2025-11-22T02:24:29.340829",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "kingToolbox/WindTerm",
+    "href": "https://github.com/kingToolbox/WindTerm",
+    "about": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+    "star": "28,788",
+    "fork": "2,225",
+    "timestamp": "2025-11-22T02:24:29.341136",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "SanderMertens/flecs",
+    "href": "https://github.com/SanderMertens/flecs",
+    "about": "A fast entity component system (ECS) for C & C++",
+    "star": "7,701",
+    "fork": "561",
+    "timestamp": "2025-11-22T02:24:29.341412",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "fastfetch-cli/fastfetch",
+    "href": "https://github.com/fastfetch-cli/fastfetch",
+    "about": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+    "star": "18,204",
+    "fork": "621",
+    "timestamp": "2025-11-22T02:24:29.341678",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "php/php-src",
+    "href": "https://github.com/php/php-src",
+    "about": "The PHP Interpreter",
+    "star": "39,643",
+    "fork": "7,965",
+    "timestamp": "2025-11-22T02:24:29.341942",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "betaflight/betaflight",
+    "href": "https://github.com/betaflight/betaflight",
+    "about": "Open Source Flight Controller Firmware",
+    "star": "10,249",
+    "fork": "3,478",
+    "timestamp": "2025-11-22T02:24:29.342206",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "39,945",
+    "fork": "6,951",
+    "timestamp": "2025-11-22T02:24:29.342494",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,275",
+    "fork": "2,795",
+    "timestamp": "2025-11-22T02:24:29.342759",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open62541/open62541",
+    "href": "https://github.com/open62541/open62541",
+    "about": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+    "star": "2,955",
+    "fork": "1,365",
+    "timestamp": "2025-11-22T02:24:29.343016",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "apache/httpd",
+    "href": "https://github.com/apache/httpd",
+    "about": "Mirror of Apache HTTP Server. Issues: http://issues.apache.org",
+    "star": "3,848",
+    "fork": "1,203",
+    "timestamp": "2025-11-22T02:24:29.343273",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,613",
+    "fork": "647",
+    "timestamp": "2025-11-22T02:24:29.343531",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "netdata/netdata",
+    "href": "https://github.com/netdata/netdata",
+    "about": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "star": "76,767",
+    "fork": "6,229",
+    "timestamp": "2025-11-22T02:24:29.343794",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,196",
+    "fork": "1,421",
+    "timestamp": "2025-11-22T02:24:29.344049",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "NMminer1024/NMMiner",
+    "href": "https://github.com/NMminer1024/NMMiner",
+    "about": "A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery",
+    "star": "314",
+    "fork": "52",
+    "timestamp": "2025-11-22T02:24:29.344305",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "erincatto/box2d",
+    "href": "https://github.com/erincatto/box2d",
+    "about": "Box2D is a 2D physics engine for games",
+    "star": "9,321",
+    "fork": "1,701",
+    "timestamp": "2025-11-22T02:24:29.344578",
+    "stars_today": "4 stars today"
+  }
+]
