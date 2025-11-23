@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "58,447",
+    "fork": "6,476",
+    "timestamp": "2025-11-23T02:55:58.526877",
+    "stars_today": "2,807 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "39,016",
+    "fork": "3,099",
+    "timestamp": "2025-11-23T02:55:58.527220",
+    "stars_today": "3,166 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "27,494",
+    "fork": "2,548",
+    "timestamp": "2025-11-23T02:55:58.527514",
+    "stars_today": "1,360 stars this month"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "8,140",
+    "fork": "2,361",
+    "timestamp": "2025-11-23T02:55:58.527817",
+    "stars_today": "900 stars this month"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "32,963",
+    "fork": "1,766",
+    "timestamp": "2025-11-23T02:55:58.528109",
+    "stars_today": "1,112 stars this month"
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "href": "https://github.com/go-gitea/gitea",
+    "about": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "star": "52,114",
+    "fork": "6,233",
+    "timestamp": "2025-11-23T02:55:58.528422",
+    "stars_today": "917 stars this month"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "19,259",
+    "fork": "768",
+    "timestamp": "2025-11-23T02:55:58.528720",
+    "stars_today": "1,057 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "12,092",
+    "fork": "1,475",
+    "timestamp": "2025-11-23T02:55:58.529009",
+    "stars_today": "1,215 stars this month"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "46,343",
+    "fork": "3,319",
+    "timestamp": "2025-11-23T02:55:58.529327",
+    "stars_today": "1,255 stars this month"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "53,652",
+    "fork": "4,772",
+    "timestamp": "2025-11-23T02:55:58.529646",
+    "stars_today": "606 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "13,233",
+    "fork": "533",
+    "timestamp": "2025-11-23T02:55:58.529950",
+    "stars_today": "931 stars this month"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "26,109",
+    "fork": "2,114",
+    "timestamp": "2025-11-23T02:55:58.530239",
+    "stars_today": "653 stars this month"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,405",
+    "fork": "556",
+    "timestamp": "2025-11-23T02:55:58.530531",
+    "stars_today": "285 stars this month"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "6,797",
+    "fork": "1,128",
+    "timestamp": "2025-11-23T02:55:58.530833",
+    "stars_today": "228 stars this month"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,617",
+    "fork": "2,994",
+    "timestamp": "2025-11-23T02:55:58.531126",
+    "stars_today": "130 stars this month"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "61,422",
+    "fork": "9,942",
+    "timestamp": "2025-11-23T02:55:58.531420",
+    "stars_today": "628 stars this month"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "31,062",
+    "fork": "1,520",
+    "timestamp": "2025-11-23T02:55:58.531726",
+    "stars_today": "551 stars this month"
+  },
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "29,075",
+    "fork": "7,413",
+    "timestamp": "2025-11-23T02:55:58.532018",
+    "stars_today": "442 stars this month"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "5,986",
+    "fork": "778",
+    "timestamp": "2025-11-23T02:55:58.532308",
+    "stars_today": "543 stars this month"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "4,705",
+    "fork": "201",
+    "timestamp": "2025-11-23T02:55:58.532602",
+    "stars_today": "566 stars this month"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "19,819",
+    "fork": "947",
+    "timestamp": "2025-11-23T02:55:58.532940",
+    "stars_today": "706 stars this month"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,323",
+    "fork": "1,793",
+    "timestamp": "2025-11-23T02:55:58.533229",
+    "stars_today": "445 stars this month"
+  }
+]
