@@ -1,0 +1,227 @@
+[
+  {
+    "repo": "longbridge/gpui-component",
+    "href": "https://github.com/longbridge/gpui-component",
+    "about": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+    "star": "8,520",
+    "fork": "327",
+    "timestamp": "2025-11-26T02:44:18.860598",
+    "stars_today": "4,310 stars this month"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "11,587",
+    "fork": "552",
+    "timestamp": "2025-11-26T02:44:18.860923",
+    "stars_today": "1,351 stars this month"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "href": "https://github.com/clockworklabs/SpacetimeDB",
+    "about": "Multiplayer at the speed of light",
+    "star": "18,661",
+    "fork": "646",
+    "timestamp": "2025-11-26T02:44:18.861218",
+    "stars_today": "306 stars this month"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "href": "https://github.com/BurntSushi/ripgrep",
+    "about": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "57,590",
+    "fork": "2,317",
+    "timestamp": "2025-11-26T02:44:18.861535",
+    "stars_today": "930 stars this month"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "22,404",
+    "fork": "2,038",
+    "timestamp": "2025-11-26T02:44:18.861836",
+    "stars_today": "2,001 stars this month"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "41,499",
+    "fork": "3,176",
+    "timestamp": "2025-11-26T02:44:18.862127",
+    "stars_today": "935 stars this month"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "href": "https://github.com/sharkdp/bat",
+    "about": "A cat(1) clone with wings.",
+    "star": "55,971",
+    "fork": "1,416",
+    "timestamp": "2025-11-26T02:44:18.862447",
+    "stars_today": "570 stars this month"
+  },
+  {
+    "repo": "librespot-org/librespot",
+    "href": "https://github.com/librespot-org/librespot",
+    "about": "Open Source Spotify client library",
+    "star": "6,322",
+    "fork": "780",
+    "timestamp": "2025-11-26T02:44:18.862749",
+    "stars_today": "530 stars this month"
+  },
+  {
+    "repo": "servo/servo",
+    "href": "https://github.com/servo/servo",
+    "about": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "star": "34,207",
+    "fork": "3,373",
+    "timestamp": "2025-11-26T02:44:18.863064",
+    "stars_today": "1,153 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "22,390",
+    "fork": "774",
+    "timestamp": "2025-11-26T02:44:18.863382",
+    "stars_today": "598 stars this month"
+  },
+  {
+    "repo": "oxc-project/oxc",
+    "href": "https://github.com/oxc-project/oxc",
+    "about": "⚓ A collection of JavaScript tools written in Rust.",
+    "star": "17,528",
+    "fork": "726",
+    "timestamp": "2025-11-26T02:44:18.863685",
+    "stars_today": "424 stars this month"
+  },
+  {
+    "repo": "rolldown/rolldown",
+    "href": "https://github.com/rolldown/rolldown",
+    "about": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+    "star": "12,400",
+    "fork": "671",
+    "timestamp": "2025-11-26T02:44:18.863998",
+    "stars_today": "204 stars this month"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "30,345",
+    "fork": "2,843",
+    "timestamp": "2025-11-26T02:44:18.864320",
+    "stars_today": "392 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "70,387",
+    "fork": "6,069",
+    "timestamp": "2025-11-26T02:44:18.864607",
+    "stars_today": "2,266 stars this month"
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "href": "https://github.com/alacritty/alacritty",
+    "about": "A cross-platform, OpenGL terminal emulator.",
+    "star": "61,164",
+    "fork": "3,236",
+    "timestamp": "2025-11-26T02:44:18.864907",
+    "stars_today": "482 stars this month"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, and mobile.",
+    "star": "32,100",
+    "fork": "1,384",
+    "timestamp": "2025-11-26T02:44:18.865222",
+    "stars_today": "830 stars this month"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "7,039",
+    "fork": "1,203",
+    "timestamp": "2025-11-26T02:44:18.865517",
+    "stars_today": "180 stars this month"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "51,242",
+    "fork": "2,390",
+    "timestamp": "2025-11-26T02:44:18.865842",
+    "stars_today": "1,173 stars this month"
+  },
+  {
+    "repo": "microsoft/edit",
+    "href": "https://github.com/microsoft/edit",
+    "about": "We all edit.",
+    "star": "12,887",
+    "fork": "584",
+    "timestamp": "2025-11-26T02:44:18.866126",
+    "stars_today": "370 stars this month"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "99,279",
+    "fork": "3,188",
+    "timestamp": "2025-11-26T02:44:18.866437",
+    "stars_today": "1,270 stars this month"
+  },
+  {
+    "repo": "apache/datafusion",
+    "href": "https://github.com/apache/datafusion",
+    "about": "Apache DataFusion SQL Query Engine",
+    "star": "8,061",
+    "fork": "1,777",
+    "timestamp": "2025-11-26T02:44:18.866734",
+    "stars_today": "147 stars this month"
+  },
+  {
+    "repo": "facebook/pyrefly",
+    "href": "https://github.com/facebook/pyrefly",
+    "about": "A fast type checker and language server for Python",
+    "star": "4,747",
+    "fork": "205",
+    "timestamp": "2025-11-26T02:44:18.867017",
+    "stars_today": "659 stars this month"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "about": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "star": "10,939",
+    "fork": "895",
+    "timestamp": "2025-11-26T02:44:18.867299",
+    "stars_today": "286 stars this month"
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "href": "https://github.com/ratatui/ratatui",
+    "about": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+    "star": "16,313",
+    "fork": "514",
+    "timestamp": "2025-11-26T02:44:18.867609",
+    "stars_today": "750 stars this month"
+  },
+  {
+    "repo": "slint-ui/slint",
+    "href": "https://github.com/slint-ui/slint",
+    "about": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+    "star": "21,087",
+    "fork": "784",
+    "timestamp": "2025-11-26T02:44:18.867903",
+    "stars_today": "386 stars this month"
+  }
+]
