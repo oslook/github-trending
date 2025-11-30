@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,592",
+    "fork": "2,410",
+    "timestamp": "2025-11-30T02:55:04.699642",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,946",
+    "fork": "3,039",
+    "timestamp": "2025-11-30T02:55:04.699910",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "tomas-abrahamsson/gpb",
+    "href": "https://github.com/tomas-abrahamsson/gpb",
+    "about": "A Google Protobuf implementation for Erlang",
+    "star": "574",
+    "fork": "155",
+    "timestamp": "2025-11-30T02:55:04.700174",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "902",
+    "fork": "166",
+    "timestamp": "2025-11-30T02:55:04.700432",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang-ls/erlang_ls",
+    "href": "https://github.com/erlang-ls/erlang_ls",
+    "about": "The Erlang Language Server",
+    "star": "662",
+    "fork": "142",
+    "timestamp": "2025-11-30T02:55:04.700686",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "253",
+    "fork": "83",
+    "timestamp": "2025-11-30T02:55:04.700943",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "benoitc/hackney",
+    "href": "https://github.com/benoitc/hackney",
+    "about": "simple HTTP client in Erlang",
+    "star": "1,363",
+    "fork": "438",
+    "timestamp": "2025-11-30T02:55:04.701204",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "286",
+    "fork": "177",
+    "timestamp": "2025-11-30T02:55:04.701457",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "437",
+    "fork": "64",
+    "timestamp": "2025-11-30T02:55:04.701712",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "694",
+    "fork": "217",
+    "timestamp": "2025-11-30T02:55:04.701967",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,127",
+    "fork": "453",
+    "timestamp": "2025-11-30T02:55:04.702231",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "829",
+    "fork": "230",
+    "timestamp": "2025-11-30T02:55:04.702513",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "928",
+    "fork": "237",
+    "timestamp": "2025-11-30T02:55:04.702769",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,883",
+    "fork": "470",
+    "timestamp": "2025-11-30T02:55:04.703022",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,776",
+    "fork": "524",
+    "timestamp": "2025-11-30T02:55:04.703286",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,400",
+    "fork": "281",
+    "timestamp": "2025-11-30T02:55:04.703543",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "kivra/oauth2_client",
+    "href": "https://github.com/kivra/oauth2_client",
+    "about": "Erlang OAuth2 Client",
+    "star": "75",
+    "fork": "39",
+    "timestamp": "2025-11-30T02:55:04.703796",
+    "stars_today": "1 star this week"
+  }
+]
