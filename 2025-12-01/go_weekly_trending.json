@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "opencloud-eu/opencloud",
+    "href": "https://github.com/opencloud-eu/opencloud",
+    "about": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
+    "star": "4,223",
+    "fork": "146",
+    "timestamp": "2025-12-01T03:06:35.334842",
+    "stars_today": "188 stars this week"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "19,498",
+    "fork": "777",
+    "timestamp": "2025-12-01T03:06:35.335151",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "39,488",
+    "fork": "3,133",
+    "timestamp": "2025-12-01T03:06:35.335492",
+    "stars_today": "438 stars this week"
+  },
+  {
+    "repo": "ayn2op/discordo",
+    "href": "https://github.com/ayn2op/discordo",
+    "about": "A lightweight, secure, and feature-rich Discord terminal (TUI) client.",
+    "star": "4,581",
+    "fork": "148",
+    "timestamp": "2025-12-01T03:06:35.335781",
+    "stars_today": "461 stars this week"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,881",
+    "fork": "3,708",
+    "timestamp": "2025-12-01T03:06:35.336063",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "prometheus/alertmanager",
+    "href": "https://github.com/prometheus/alertmanager",
+    "about": "Prometheus Alertmanager",
+    "star": "8,211",
+    "fork": "2,368",
+    "timestamp": "2025-12-01T03:06:35.336365",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "3,245",
+    "fork": "286",
+    "timestamp": "2025-12-01T03:06:35.336659",
+    "stars_today": "93 stars this week"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "29,983",
+    "fork": "1,115",
+    "timestamp": "2025-12-01T03:06:35.336980",
+    "stars_today": "143 stars this week"
+  },
+  {
+    "repo": "keploy/keploy",
+    "href": "https://github.com/keploy/keploy",
+    "about": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "star": "13,445",
+    "fork": "1,835",
+    "timestamp": "2025-12-01T03:06:35.337311",
+    "stars_today": "554 stars this week"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "11,144",
+    "fork": "1,110",
+    "timestamp": "2025-12-01T03:06:35.337601",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "12,870",
+    "fork": "2,239",
+    "timestamp": "2025-12-01T03:06:35.337898",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "docker/cli",
+    "href": "https://github.com/docker/cli",
+    "about": "The Docker CLI",
+    "star": "5,584",
+    "fork": "2,063",
+    "timestamp": "2025-12-01T03:06:35.338206",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "6,078",
+    "fork": "791",
+    "timestamp": "2025-12-01T03:06:35.338504",
+    "stars_today": "87 stars this week"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "17,730",
+    "fork": "1,263",
+    "timestamp": "2025-12-01T03:06:35.338795",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "mudler/edgevpn",
+    "href": "https://github.com/mudler/edgevpn",
+    "about": "⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens",
+    "star": "1,792",
+    "fork": "176",
+    "timestamp": "2025-12-01T03:06:35.339125",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,157",
+    "fork": "18,854",
+    "timestamp": "2025-12-01T03:06:35.339436",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "6,190",
+    "fork": "1,033",
+    "timestamp": "2025-12-01T03:06:35.339761",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "6,172",
+    "fork": "1,153",
+    "timestamp": "2025-12-01T03:06:35.340084",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,175",
+    "fork": "10,127",
+    "timestamp": "2025-12-01T03:06:35.340386",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "OpenCSGs/csghub-server",
+    "href": "https://github.com/OpenCSGs/csghub-server",
+    "about": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+    "star": "1,482",
+    "fork": "407",
+    "timestamp": "2025-12-01T03:06:35.340676",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "cilium/ebpf",
+    "href": "https://github.com/cilium/ebpf",
+    "about": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+    "star": "7,319",
+    "fork": "792",
+    "timestamp": "2025-12-01T03:06:35.340967",
+    "stars_today": "36 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "26,276",
+    "fork": "2,122",
+    "timestamp": "2025-12-01T03:06:35.341298",
+    "stars_today": "167 stars this week"
+  }
+]
