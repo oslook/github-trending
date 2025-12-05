@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "1Panel-dev/CordysCRM",
+    "href": "https://github.com/1Panel-dev/CordysCRM",
+    "about": "🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.",
+    "star": "1,285",
+    "fork": "242",
+    "timestamp": "2025-12-05T02:47:22.660837",
+    "stars_today": "883 stars this month"
+  },
+  {
+    "repo": "AutoMQ/automq",
+    "href": "https://github.com/AutoMQ/automq",
+    "about": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+    "star": "8,373",
+    "fork": "563",
+    "timestamp": "2025-12-05T02:47:22.661143",
+    "stars_today": "878 stars this month"
+  },
+  {
+    "repo": "yuliskov/SmartTube",
+    "href": "https://github.com/yuliskov/SmartTube",
+    "about": "Browse media content with your own rules on Android TV",
+    "star": "26,454",
+    "fork": "1,422",
+    "timestamp": "2025-12-05T02:47:22.661442",
+    "stars_today": "1,308 stars this month"
+  },
+  {
+    "repo": "dbeaver/dbeaver",
+    "href": "https://github.com/dbeaver/dbeaver",
+    "about": "Free universal database tool and SQL client",
+    "star": "47,610",
+    "fork": "3,960",
+    "timestamp": "2025-12-05T02:47:22.661729",
+    "stars_today": "1,633 stars this month"
+  },
+  {
+    "repo": "camunda/camunda",
+    "href": "https://github.com/camunda/camunda",
+    "about": "Process Orchestration Framework",
+    "star": "3,917",
+    "fork": "723",
+    "timestamp": "2025-12-05T02:47:22.662017",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "google/adk-java",
+    "href": "https://github.com/google/adk-java",
+    "about": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "1,055",
+    "fork": "220",
+    "timestamp": "2025-12-05T02:47:22.662300",
+    "stars_today": "257 stars this month"
+  },
+  {
+    "repo": "StarRocks/starrocks",
+    "href": "https://github.com/StarRocks/starrocks",
+    "about": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+    "star": "11,004",
+    "fork": "2,211",
+    "timestamp": "2025-12-05T02:47:22.662595",
+    "stars_today": "181 stars this month"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "href": "https://github.com/spring-projects/spring-boot",
+    "about": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+    "star": "79,256",
+    "fork": "41,698",
+    "timestamp": "2025-12-05T02:47:22.662876",
+    "stars_today": "461 stars this month"
+  },
+  {
+    "repo": "Jigsaw-Code/Intra",
+    "href": "https://github.com/Jigsaw-Code/Intra",
+    "about": "An experimental tool that allows you to test new DNS-over-HTTPS services on Android",
+    "star": "1,963",
+    "fork": "349",
+    "timestamp": "2025-12-05T02:47:22.663157",
+    "stars_today": "61 stars this month"
+  },
+  {
+    "repo": "apache/doris",
+    "href": "https://github.com/apache/doris",
+    "about": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "star": "14,685",
+    "fork": "3,625",
+    "timestamp": "2025-12-05T02:47:22.663448",
+    "stars_today": "156 stars this month"
+  },
+  {
+    "repo": "jeecgboot/JeecgBoot",
+    "href": "https://github.com/jeecgboot/JeecgBoot",
+    "about": "🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~",
+    "star": "44,577",
+    "fork": "15,696",
+    "timestamp": "2025-12-05T02:47:22.663731",
+    "stars_today": "398 stars this month"
+  },
+  {
+    "repo": "keycloak/keycloak",
+    "href": "https://github.com/keycloak/keycloak",
+    "about": "Open Source Identity and Access Management For Modern Applications and Services",
+    "star": "31,443",
+    "fork": "7,872",
+    "timestamp": "2025-12-05T02:47:22.664011",
+    "stars_today": "726 stars this month"
+  },
+  {
+    "repo": "apache/shardingsphere",
+    "href": "https://github.com/apache/shardingsphere",
+    "about": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+    "star": "20,556",
+    "fork": "6,877",
+    "timestamp": "2025-12-05T02:47:22.664290",
+    "stars_today": "58 stars this month"
+  },
+  {
+    "repo": "langchain4j/langchain4j",
+    "href": "https://github.com/langchain4j/langchain4j",
+    "about": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+    "star": "9,852",
+    "fork": "1,794",
+    "timestamp": "2025-12-05T02:47:22.664583",
+    "stars_today": "365 stars this month"
+  },
+  {
+    "repo": "cabaletta/baritone",
+    "href": "https://github.com/cabaletta/baritone",
+    "about": "google maps for block game",
+    "star": "8,417",
+    "fork": "1,728",
+    "timestamp": "2025-12-05T02:47:22.664861",
+    "stars_today": "147 stars this month"
+  },
+  {
+    "repo": "alibaba/spring-ai-alibaba",
+    "href": "https://github.com/alibaba/spring-ai-alibaba",
+    "about": "Agentic AI Framework for Java Developers",
+    "star": "7,333",
+    "fork": "1,574",
+    "timestamp": "2025-12-05T02:47:22.665137",
+    "stars_today": "560 stars this month"
+  },
+  {
+    "repo": "testcontainers/testcontainers-java",
+    "href": "https://github.com/testcontainers/testcontainers-java",
+    "about": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "star": "8,512",
+    "fork": "1,765",
+    "timestamp": "2025-12-05T02:47:22.665451",
+    "stars_today": "52 stars this month"
+  },
+  {
+    "repo": "opensearch-project/OpenSearch",
+    "href": "https://github.com/opensearch-project/OpenSearch",
+    "about": "🔎 Open source distributed and RESTful search engine.",
+    "star": "11,998",
+    "fork": "2,341",
+    "timestamp": "2025-12-05T02:47:22.665729",
+    "stars_today": "185 stars this month"
+  },
+  {
+    "repo": "apache/paimon",
+    "href": "https://github.com/apache/paimon",
+    "about": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+    "star": "3,103",
+    "fork": "1,226",
+    "timestamp": "2025-12-05T02:47:22.666009",
+    "stars_today": "55 stars this month"
+  },
+  {
+    "repo": "apache/maven",
+    "href": "https://github.com/apache/maven",
+    "about": "Apache Maven core",
+    "star": "4,862",
+    "fork": "2,799",
+    "timestamp": "2025-12-05T02:47:22.666287",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "href": "https://github.com/spring-projects/spring-framework",
+    "about": "Spring Framework",
+    "star": "59,301",
+    "fork": "38,862",
+    "timestamp": "2025-12-05T02:47:22.666576",
+    "stars_today": "247 stars this month"
+  }
+]
