@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "opencloud-eu/opencloud",
+    "href": "https://github.com/opencloud-eu/opencloud",
+    "about": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
+    "star": "4,328",
+    "fork": "153",
+    "timestamp": "2025-12-07T02:55:45.952800",
+    "stars_today": "1,726 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "60,255",
+    "fork": "5,701",
+    "timestamp": "2025-12-07T02:55:45.953151",
+    "stars_today": "2,841 stars this month"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "19,676",
+    "fork": "783",
+    "timestamp": "2025-12-07T02:55:45.953443",
+    "stars_today": "1,360 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "41,484",
+    "fork": "3,690",
+    "timestamp": "2025-12-07T02:55:45.953730",
+    "stars_today": "3,304 stars this month"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,961",
+    "fork": "3,717",
+    "timestamp": "2025-12-07T02:55:45.954018",
+    "stars_today": "455 stars this month"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript",
+    "star": "29,371",
+    "fork": "1,460",
+    "timestamp": "2025-12-07T02:55:45.954316",
+    "stars_today": "338 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "33,156",
+    "fork": "4,764",
+    "timestamp": "2025-12-07T02:55:45.954600",
+    "stars_today": "945 stars this month"
+  },
+  {
+    "repo": "google/adk-go",
+    "href": "https://github.com/google/adk-go",
+    "about": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "6,065",
+    "fork": "411",
+    "timestamp": "2025-12-07T02:55:45.954885",
+    "stars_today": "6,095 stars this month"
+  },
+  {
+    "repo": "ayn2op/discordo",
+    "href": "https://github.com/ayn2op/discordo",
+    "about": "A lightweight, secure, and feature-rich Discord terminal (TUI) client.",
+    "star": "4,693",
+    "fork": "151",
+    "timestamp": "2025-12-07T02:55:45.955185",
+    "stars_today": "1,036 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "12,455",
+    "fork": "1,533",
+    "timestamp": "2025-12-07T02:55:45.955473",
+    "stars_today": "1,011 stars this month"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "32,315",
+    "fork": "3,590",
+    "timestamp": "2025-12-07T02:55:45.955750",
+    "stars_today": "511 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "14,801",
+    "fork": "607",
+    "timestamp": "2025-12-07T02:55:45.956034",
+    "stars_today": "2,002 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "28,443",
+    "fork": "2,587",
+    "timestamp": "2025-12-07T02:55:45.956332",
+    "stars_today": "1,211 stars this month"
+  },
+  {
+    "repo": "beclab/Olares",
+    "href": "https://github.com/beclab/Olares",
+    "about": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
+    "star": "3,309",
+    "fork": "155",
+    "timestamp": "2025-12-07T02:55:45.956613",
+    "stars_today": "615 stars this month"
+  },
+  {
+    "repo": "ory/kratos",
+    "href": "https://github.com/ory/kratos",
+    "about": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+    "star": "13,075",
+    "fork": "1,077",
+    "timestamp": "2025-12-07T02:55:45.956893",
+    "stars_today": "612 stars this month"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "6,131",
+    "fork": "800",
+    "timestamp": "2025-12-07T02:55:45.957193",
+    "stars_today": "536 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "48,246",
+    "fork": "1,530",
+    "timestamp": "2025-12-07T02:55:45.957508",
+    "stars_today": "923 stars this month"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "46,905",
+    "fork": "3,370",
+    "timestamp": "2025-12-07T02:55:45.957820",
+    "stars_today": "1,255 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "39,890",
+    "fork": "3,185",
+    "timestamp": "2025-12-07T02:55:45.958152",
+    "stars_today": "2,522 stars this month"
+  },
+  {
+    "repo": "cloudreve/cloudreve",
+    "href": "https://github.com/cloudreve/cloudreve",
+    "about": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+    "star": "26,111",
+    "fork": "3,746",
+    "timestamp": "2025-12-07T02:55:45.958462",
+    "stars_today": "745 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "6,186",
+    "fork": "1,156",
+    "timestamp": "2025-12-07T02:55:45.958770",
+    "stars_today": "176 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "54,038",
+    "fork": "2,924",
+    "timestamp": "2025-12-07T02:55:45.959049",
+    "stars_today": "1,694 stars this month"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,476",
+    "fork": "621",
+    "timestamp": "2025-12-07T02:55:45.959342",
+    "stars_today": "139 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "14,981",
+    "fork": "865",
+    "timestamp": "2025-12-07T02:55:45.959623",
+    "stars_today": "607 stars this month"
+  }
+]
