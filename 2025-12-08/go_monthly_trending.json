@@ -1,0 +1,218 @@
+[
+  {
+    "repo": "google/adk-go",
+    "href": "https://github.com/google/adk-go",
+    "about": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "6,080",
+    "fork": "412",
+    "timestamp": "2025-12-08T02:48:54.636225",
+    "stars_today": "6,014 stars this month"
+  },
+  {
+    "repo": "opencloud-eu/opencloud",
+    "href": "https://github.com/opencloud-eu/opencloud",
+    "about": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
+    "star": "4,347",
+    "fork": "153",
+    "timestamp": "2025-12-08T02:48:54.636536",
+    "stars_today": "1,603 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "60,298",
+    "fork": "5,702",
+    "timestamp": "2025-12-08T02:48:54.636877",
+    "stars_today": "2,862 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "41,503",
+    "fork": "3,691",
+    "timestamp": "2025-12-08T02:48:54.637174",
+    "stars_today": "3,299 stars this month"
+  },
+  {
+    "repo": "lima-vm/lima",
+    "href": "https://github.com/lima-vm/lima",
+    "about": "Linux virtual machines, with a focus on running containers",
+    "star": "19,689",
+    "fork": "784",
+    "timestamp": "2025-12-08T02:48:54.637466",
+    "stars_today": "1,334 stars this month"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "19,964",
+    "fork": "3,717",
+    "timestamp": "2025-12-08T02:48:54.637773",
+    "stars_today": "451 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "14,836",
+    "fork": "612",
+    "timestamp": "2025-12-08T02:48:54.638066",
+    "stars_today": "2,011 stars this month"
+  },
+  {
+    "repo": "ayn2op/discordo",
+    "href": "https://github.com/ayn2op/discordo",
+    "about": "A lightweight, secure, and feature-rich Discord terminal (TUI) client.",
+    "star": "4,707",
+    "fork": "151",
+    "timestamp": "2025-12-08T02:48:54.638359",
+    "stars_today": "992 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "33,192",
+    "fork": "4,771",
+    "timestamp": "2025-12-08T02:48:54.638663",
+    "stars_today": "963 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "28,525",
+    "fork": "2,590",
+    "timestamp": "2025-12-08T02:48:54.638956",
+    "stars_today": "1,239 stars this month"
+  },
+  {
+    "repo": "filebrowser/filebrowser",
+    "href": "https://github.com/filebrowser/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "32,334",
+    "fork": "3,591",
+    "timestamp": "2025-12-08T02:48:54.639250",
+    "stars_today": "524 stars this month"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,477",
+    "fork": "622",
+    "timestamp": "2025-12-08T02:48:54.639539",
+    "stars_today": "139 stars this month"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "48,266",
+    "fork": "1,529",
+    "timestamp": "2025-12-08T02:48:54.639877",
+    "stars_today": "923 stars this month"
+  },
+  {
+    "repo": "beclab/Olares",
+    "href": "https://github.com/beclab/Olares",
+    "about": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
+    "star": "3,327",
+    "fork": "157",
+    "timestamp": "2025-12-08T02:48:54.640167",
+    "stars_today": "626 stars this month"
+  },
+  {
+    "repo": "ory/kratos",
+    "href": "https://github.com/ory/kratos",
+    "about": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+    "star": "13,080",
+    "fork": "1,077",
+    "timestamp": "2025-12-08T02:48:54.640454",
+    "stars_today": "609 stars this month"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "12,484",
+    "fork": "1,534",
+    "timestamp": "2025-12-08T02:48:54.640759",
+    "stars_today": "1,010 stars this month"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "46,938",
+    "fork": "3,371",
+    "timestamp": "2025-12-08T02:48:54.641073",
+    "stars_today": "1,250 stars this month"
+  },
+  {
+    "repo": "cloudreve/cloudreve",
+    "href": "https://github.com/cloudreve/cloudreve",
+    "about": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+    "star": "26,124",
+    "fork": "3,741",
+    "timestamp": "2025-12-08T02:48:54.641390",
+    "stars_today": "748 stars this month"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "6,136",
+    "fork": "800",
+    "timestamp": "2025-12-08T02:48:54.641688",
+    "stars_today": "541 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "54,079",
+    "fork": "2,930",
+    "timestamp": "2025-12-08T02:48:54.641975",
+    "stars_today": "1,705 stars this month"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "39,931",
+    "fork": "3,189",
+    "timestamp": "2025-12-08T02:48:54.642291",
+    "stars_today": "2,284 stars this month"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "6,187",
+    "fork": "1,156",
+    "timestamp": "2025-12-08T02:48:54.642671",
+    "stars_today": "163 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "25,864",
+    "fork": "2,983",
+    "timestamp": "2025-12-08T02:48:54.642977",
+    "stars_today": "527 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/katana",
+    "href": "https://github.com/projectdiscovery/katana",
+    "about": "A next-generation crawling and spidering framework.",
+    "star": "14,998",
+    "fork": "865",
+    "timestamp": "2025-12-08T02:48:54.643267",
+    "stars_today": "617 stars this month"
+  }
+]

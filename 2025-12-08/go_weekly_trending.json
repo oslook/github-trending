@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "23,142",
+    "fork": "754",
+    "timestamp": "2025-12-08T02:48:54.141573",
+    "stars_today": "190 stars this week"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "30,260",
+    "fork": "2,837",
+    "timestamp": "2025-12-08T02:48:54.141903",
+    "stars_today": "249 stars this week"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "59,036",
+    "fork": "6,660",
+    "timestamp": "2025-12-08T02:48:54.142209",
+    "stars_today": "428 stars this week"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "28,525",
+    "fork": "2,590",
+    "timestamp": "2025-12-08T02:48:54.142518",
+    "stars_today": "835 stars this week"
+  },
+  {
+    "repo": "psviderski/uncloud",
+    "href": "https://github.com/psviderski/uncloud",
+    "about": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+    "star": "3,972",
+    "fork": "101",
+    "timestamp": "2025-12-08T02:48:54.142866",
+    "stars_today": "1,122 stars this week"
+  },
+  {
+    "repo": "memodb-io/Acontext",
+    "href": "https://github.com/memodb-io/Acontext",
+    "about": "Context Data Platform for Self-learning Agents. One Place for Agents to Store, Observe, and Learn. Designed to simplify context engineering, improve agent reliability and task success rates.",
+    "star": "1,576",
+    "fork": "126",
+    "timestamp": "2025-12-08T02:48:54.143165",
+    "stars_today": "566 stars this week"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "16,128",
+    "fork": "1,076",
+    "timestamp": "2025-12-08T02:48:54.143494",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "14,836",
+    "fork": "612",
+    "timestamp": "2025-12-08T02:48:54.143807",
+    "stars_today": "595 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "157,240",
+    "fork": "13,857",
+    "timestamp": "2025-12-08T02:48:54.144105",
+    "stars_today": "507 stars this week"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,582",
+    "fork": "4,548",
+    "timestamp": "2025-12-08T02:48:54.144401",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "119,125",
+    "fork": "41,862",
+    "timestamp": "2025-12-08T02:48:54.144712",
+    "stars_today": "251 stars this week"
+  },
+  {
+    "repo": "base/node",
+    "href": "https://github.com/base/node",
+    "about": "Everything required to run your own Base node",
+    "star": "68,671",
+    "fork": "3,082",
+    "timestamp": "2025-12-08T02:48:54.145011",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "safing/portmaster",
+    "href": "https://github.com/safing/portmaster",
+    "about": "🏔 Love Freedom - ❌ Block Mass Surveillance",
+    "star": "11,211",
+    "fork": "392",
+    "timestamp": "2025-12-08T02:48:54.145348",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,356",
+    "fork": "879",
+    "timestamp": "2025-12-08T02:48:54.145690",
+    "stars_today": "70 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "5,197",
+    "fork": "219",
+    "timestamp": "2025-12-08T02:48:54.145999",
+    "stars_today": "259 stars this week"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "75,600",
+    "fork": "2,628",
+    "timestamp": "2025-12-08T02:48:54.146327",
+    "stars_today": "187 stars this week"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "33,192",
+    "fork": "4,771",
+    "timestamp": "2025-12-08T02:48:54.146639",
+    "stars_today": "236 stars this week"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "60,298",
+    "fork": "5,702",
+    "timestamp": "2025-12-08T02:48:54.146975",
+    "stars_today": "539 stars this week"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "131,281",
+    "fork": "18,532",
+    "timestamp": "2025-12-08T02:48:54.147271",
+    "stars_today": "264 stars this week"
+  },
+  {
+    "repo": "Adembc/lazyssh",
+    "href": "https://github.com/Adembc/lazyssh",
+    "about": "A terminal-based SSH manager inspired by lazydocker and k9s - Written in go",
+    "star": "2,668",
+    "fork": "81",
+    "timestamp": "2025-12-08T02:48:54.147576",
+    "stars_today": "389 stars this week"
+  }
+]

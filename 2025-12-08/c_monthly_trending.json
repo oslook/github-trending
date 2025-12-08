@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "57,943",
+    "fork": "27,131",
+    "timestamp": "2025-12-08T02:48:42.601204",
+    "stars_today": "826 stars this month"
+  },
+  {
+    "repo": "libretro/RetroArch",
+    "href": "https://github.com/libretro/RetroArch",
+    "about": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+    "star": "12,288",
+    "fork": "1,991",
+    "timestamp": "2025-12-08T02:48:42.601543",
+    "stars_today": "195 stars this month"
+  },
+  {
+    "repo": "redcanaryco/atomic-red-team",
+    "href": "https://github.com/redcanaryco/atomic-red-team",
+    "about": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "star": "11,363",
+    "fork": "3,021",
+    "timestamp": "2025-12-08T02:48:42.601857",
+    "stars_today": "199 stars this month"
+  },
+  {
+    "repo": "NVIDIA/open-gpu-kernel-modules",
+    "href": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+    "about": "NVIDIA Linux open GPU kernel module source",
+    "star": "16,435",
+    "fork": "1,536",
+    "timestamp": "2025-12-08T02:48:42.602150",
+    "stars_today": "141 stars this month"
+  },
+  {
+    "repo": "dayanch96/YTMusicUltimate",
+    "href": "https://github.com/dayanch96/YTMusicUltimate",
+    "about": "The best tweak for YouTube Music iOS.",
+    "star": "1,960",
+    "fork": "6,285",
+    "timestamp": "2025-12-08T02:48:42.602471",
+    "stars_today": "160 stars this month"
+  },
+  {
+    "repo": "libsdl-org/SDL",
+    "href": "https://github.com/libsdl-org/SDL",
+    "about": "Simple DirectMedia Layer",
+    "star": "14,211",
+    "fork": "2,494",
+    "timestamp": "2025-12-08T02:48:42.602777",
+    "stars_today": "270 stars this month"
+  },
+  {
+    "repo": "tmux/tmux",
+    "href": "https://github.com/tmux/tmux",
+    "about": "tmux source code",
+    "star": "39,997",
+    "fork": "2,330",
+    "timestamp": "2025-12-08T02:48:42.603097",
+    "stars_today": "554 stars this month"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "14,160",
+    "fork": "2,069",
+    "timestamp": "2025-12-08T02:48:42.603392",
+    "stars_today": "317 stars this month"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "16,771",
+    "fork": "7,998",
+    "timestamp": "2025-12-08T02:48:42.603695",
+    "stars_today": "237 stars this month"
+  },
+  {
+    "repo": "openwrt/openwrt",
+    "href": "https://github.com/openwrt/openwrt",
+    "about": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "star": "24,716",
+    "fork": "11,798",
+    "timestamp": "2025-12-08T02:48:42.603994",
+    "stars_today": "353 stars this month"
+  },
+  {
+    "repo": "xmrig/xmrig",
+    "href": "https://github.com/xmrig/xmrig",
+    "about": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+    "star": "9,630",
+    "fork": "3,753",
+    "timestamp": "2025-12-08T02:48:42.604283",
+    "stars_today": "81 stars this month"
+  },
+  {
+    "repo": "FalkorDB/FalkorDB",
+    "href": "https://github.com/FalkorDB/FalkorDB",
+    "about": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+    "star": "2,423",
+    "fork": "174",
+    "timestamp": "2025-12-08T02:48:42.604584",
+    "stars_today": "778 stars this month"
+  },
+  {
+    "repo": "n64decomp/sm64",
+    "href": "https://github.com/n64decomp/sm64",
+    "about": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "star": "8,334",
+    "fork": "1,506",
+    "timestamp": "2025-12-08T02:48:42.604873",
+    "stars_today": "82 stars this month"
+  },
+  {
+    "repo": "Waujito/youtubeUnblock",
+    "href": "https://github.com/Waujito/youtubeUnblock",
+    "about": "Bypasses YouTube detection systems that rely on SNI.",
+    "star": "1,315",
+    "fork": "116",
+    "timestamp": "2025-12-08T02:48:42.605164",
+    "stars_today": "96 stars this month"
+  },
+  {
+    "repo": "NMminer1024/NMMiner",
+    "href": "https://github.com/NMminer1024/NMMiner",
+    "about": "A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery",
+    "star": "365",
+    "fork": "56",
+    "timestamp": "2025-12-08T02:48:42.605450",
+    "stars_today": "101 stars this month"
+  },
+  {
+    "repo": "CTCaer/hekate",
+    "href": "https://github.com/CTCaer/hekate",
+    "about": "hekate - A GUI based Nintendo Switch Bootloader",
+    "star": "7,833",
+    "fork": "620",
+    "timestamp": "2025-12-08T02:48:42.605743",
+    "stars_today": "143 stars this month"
+  },
+  {
+    "repo": "moonlight-stream/moonlight-android",
+    "href": "https://github.com/moonlight-stream/moonlight-android",
+    "about": "GameStream client for Android",
+    "star": "6,018",
+    "fork": "971",
+    "timestamp": "2025-12-08T02:48:42.606040",
+    "stars_today": "201 stars this month"
+  },
+  {
+    "repo": "valinet/ExplorerPatcher",
+    "href": "https://github.com/valinet/ExplorerPatcher",
+    "about": "This project aims to enhance the working environment on Windows",
+    "star": "30,635",
+    "fork": "1,243",
+    "timestamp": "2025-12-08T02:48:42.606336",
+    "stars_today": "786 stars this month"
+  },
+  {
+    "repo": "nginx/nginx",
+    "href": "https://github.com/nginx/nginx",
+    "about": "The official NGINX Open Source repository.",
+    "star": "28,758",
+    "fork": "7,662",
+    "timestamp": "2025-12-08T02:48:42.606641",
+    "stars_today": "321 stars this month"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "href": "https://github.com/arendst/Tasmota",
+    "about": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "star": "23,916",
+    "fork": "5,027",
+    "timestamp": "2025-12-08T02:48:42.606935",
+    "stars_today": "101 stars this month"
+  },
+  {
+    "repo": "kolunmi/bazaar",
+    "href": "https://github.com/kolunmi/bazaar",
+    "about": "New App Store for GNOME",
+    "star": "1,219",
+    "fork": "91",
+    "timestamp": "2025-12-08T02:48:42.607256",
+    "stars_today": "149 stars this month"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "897",
+    "fork": "1,674",
+    "timestamp": "2025-12-08T02:48:42.607558",
+    "stars_today": "10 stars this month"
+  }
+]
