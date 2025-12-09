@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "15,993",
+    "fork": "683",
+    "timestamp": "2025-12-09T02:47:12.064190",
+    "stars_today": "4,848 stars this month"
+  },
+  {
+    "repo": "facebook/pyrefly",
+    "href": "https://github.com/facebook/pyrefly",
+    "about": "A fast type checker and language server for Python",
+    "star": "4,972",
+    "fork": "214",
+    "timestamp": "2025-12-09T02:47:12.064508",
+    "stars_today": "721 stars this month"
+  },
+  {
+    "repo": "supabase/etl",
+    "href": "https://github.com/supabase/etl",
+    "about": "Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.",
+    "star": "2,060",
+    "fork": "128",
+    "timestamp": "2025-12-09T02:47:12.064829",
+    "stars_today": "602 stars this month"
+  },
+  {
+    "repo": "casey/just",
+    "href": "https://github.com/casey/just",
+    "about": "🤖 Just a command runner",
+    "star": "29,084",
+    "fork": "624",
+    "timestamp": "2025-12-09T02:47:12.065151",
+    "stars_today": "578 stars this month"
+  },
+  {
+    "repo": "rerun-io/rerun",
+    "href": "https://github.com/rerun-io/rerun",
+    "about": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
+    "star": "9,722",
+    "fork": "590",
+    "timestamp": "2025-12-09T02:47:12.065454",
+    "stars_today": "219 stars this month"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "href": "https://github.com/pola-rs/polars",
+    "about": "Extremely fast Query Engine for DataFrames, written in Rust",
+    "star": "36,456",
+    "fork": "2,505",
+    "timestamp": "2025-12-09T02:47:12.065742",
+    "stars_today": "503 stars this month"
+  },
+  {
+    "repo": "cloudflare/pingora",
+    "href": "https://github.com/cloudflare/pingora",
+    "about": "A library for building fast, reliable and evolvable network services.",
+    "star": "25,674",
+    "fork": "1,535",
+    "timestamp": "2025-12-09T02:47:12.066029",
+    "stars_today": "296 stars this month"
+  },
+  {
+    "repo": "EasyTier/EasyTier",
+    "href": "https://github.com/EasyTier/EasyTier",
+    "about": "A simple, decentralized mesh VPN with WireGuard support.",
+    "star": "8,488",
+    "fork": "785",
+    "timestamp": "2025-12-09T02:47:12.066331",
+    "stars_today": "540 stars this month"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "href": "https://github.com/astral-sh/ruff",
+    "about": "An extremely fast Python linter and code formatter, written in Rust.",
+    "star": "44,268",
+    "fork": "1,640",
+    "timestamp": "2025-12-09T02:47:12.066618",
+    "stars_today": "706 stars this month"
+  },
+  {
+    "repo": "EFForg/rayhunter",
+    "href": "https://github.com/EFForg/rayhunter",
+    "about": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+    "star": "3,570",
+    "fork": "269",
+    "timestamp": "2025-12-09T02:47:12.066906",
+    "stars_today": "302 stars this month"
+  },
+  {
+    "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "href": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "about": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "star": "5,200",
+    "fork": "203",
+    "timestamp": "2025-12-09T02:47:12.067190",
+    "stars_today": "293 stars this month"
+  },
+  {
+    "repo": "Eventual-Inc/Daft",
+    "href": "https://github.com/Eventual-Inc/Daft",
+    "about": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
+    "star": "4,929",
+    "fork": "354",
+    "timestamp": "2025-12-09T02:47:12.067487",
+    "stars_today": "261 stars this month"
+  },
+  {
+    "repo": "HelixDB/helix-db",
+    "href": "https://github.com/HelixDB/helix-db",
+    "about": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
+    "star": "3,458",
+    "fork": "173",
+    "timestamp": "2025-12-09T02:47:12.067771",
+    "stars_today": "414 stars this month"
+  },
+  {
+    "repo": "vortex-data/vortex",
+    "href": "https://github.com/vortex-data/vortex",
+    "about": "An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",
+    "star": "2,354",
+    "fork": "102",
+    "timestamp": "2025-12-09T02:47:12.068059",
+    "stars_today": "373 stars this month"
+  },
+  {
+    "repo": "librespot-org/librespot",
+    "href": "https://github.com/librespot-org/librespot",
+    "about": "Open Source Spotify client library",
+    "star": "6,373",
+    "fork": "783",
+    "timestamp": "2025-12-09T02:47:12.068355",
+    "stars_today": "518 stars this month"
+  },
+  {
+    "repo": "apache/iggy",
+    "href": "https://github.com/apache/iggy",
+    "about": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+    "star": "3,424",
+    "fork": "225",
+    "timestamp": "2025-12-09T02:47:12.068644",
+    "stars_today": "358 stars this month"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "href": "https://github.com/dani-garcia/vaultwarden",
+    "about": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "star": "51,727",
+    "fork": "2,411",
+    "timestamp": "2025-12-09T02:47:12.068958",
+    "stars_today": "1,157 stars this month"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A markup-based typesetting system that is powerful and easy to learn.",
+    "star": "49,243",
+    "fork": "1,354",
+    "timestamp": "2025-12-09T02:47:12.069270",
+    "stars_today": "1,448 stars this month"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "99,757",
+    "fork": "3,220",
+    "timestamp": "2025-12-09T02:47:12.069598",
+    "stars_today": "1,204 stars this month"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "href": "https://github.com/DioxusLabs/dioxus",
+    "about": "Fullstack app framework for web, desktop, and mobile.",
+    "star": "32,533",
+    "fork": "1,407",
+    "timestamp": "2025-12-09T02:47:12.069909",
+    "stars_today": "896 stars this month"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "about": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "star": "11,016",
+    "fork": "903",
+    "timestamp": "2025-12-09T02:47:12.070193",
+    "stars_today": "211 stars this month"
+  }
+]
