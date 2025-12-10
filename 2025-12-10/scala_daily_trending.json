@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,457",
+    "fork": "28,965",
+    "timestamp": "2025-12-10T02:50:31.184994",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,159",
+    "fork": "1,122",
+    "timestamp": "2025-12-10T02:50:31.185270",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,485",
+    "fork": "549",
+    "timestamp": "2025-12-10T02:50:31.185529",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,940",
+    "fork": "12,634",
+    "timestamp": "2025-12-10T02:50:31.185791",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,441",
+    "fork": "2,515",
+    "timestamp": "2025-12-10T02:50:31.186042",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,060",
+    "fork": "790",
+    "timestamp": "2025-12-10T02:50:31.186297",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "softwaremill/quicklens",
+    "href": "https://github.com/softwaremill/quicklens",
+    "about": "Modify deeply nested case class fields",
+    "star": "844",
+    "fork": "54",
+    "timestamp": "2025-12-10T02:50:31.186554",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,079",
+    "fork": "258",
+    "timestamp": "2025-12-10T02:50:31.186815",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,875",
+    "fork": "957",
+    "timestamp": "2025-12-10T02:50:31.187069",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "901",
+    "fork": "215",
+    "timestamp": "2025-12-10T02:50:31.187323",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "1,137",
+    "fork": "227",
+    "timestamp": "2025-12-10T02:50:31.187574",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,778",
+    "fork": "847",
+    "timestamp": "2025-12-10T02:50:31.187837",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,835",
+    "fork": "1,217",
+    "timestamp": "2025-12-10T02:50:31.188093",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,504",
+    "fork": "640",
+    "timestamp": "2025-12-10T02:50:31.188348",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive is a Collaborative Case Management Platform, now distributed as a commercial version",
+    "star": "3,871",
+    "fork": "682",
+    "timestamp": "2025-12-10T02:50:31.188603",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,637",
+    "fork": "1,205",
+    "timestamp": "2025-12-10T02:50:31.188861",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,874",
+    "fork": "574",
+    "timestamp": "2025-12-10T02:50:31.189142",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "851",
+    "fork": "238",
+    "timestamp": "2025-12-10T02:50:31.189395",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,608",
+    "fork": "4,071",
+    "timestamp": "2025-12-10T02:50:31.189677",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "A better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE",
+    "star": "2,647",
+    "fork": "422",
+    "timestamp": "2025-12-10T02:50:31.189939",
+    "stars_today": "1 star today"
+  }
+]

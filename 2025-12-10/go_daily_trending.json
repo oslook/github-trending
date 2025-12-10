@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "KaijuEngine/kaiju",
+    "href": "https://github.com/KaijuEngine/kaiju",
+    "about": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+    "star": "1,702",
+    "fork": "61",
+    "timestamp": "2025-12-10T02:50:13.937123",
+    "stars_today": "260 stars today"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "href": "https://github.com/prometheus-operator/prometheus-operator",
+    "about": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "star": "9,776",
+    "fork": "3,823",
+    "timestamp": "2025-12-10T02:50:13.937409",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "30,353",
+    "fork": "2,846",
+    "timestamp": "2025-12-10T02:50:13.937727",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "9,570",
+    "fork": "1,341",
+    "timestamp": "2025-12-10T02:50:13.938000",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "4,330",
+    "fork": "213",
+    "timestamp": "2025-12-10T02:50:13.938259",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "36,612",
+    "fork": "5,590",
+    "timestamp": "2025-12-10T02:50:13.938517",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "31,349",
+    "fork": "2,185",
+    "timestamp": "2025-12-10T02:50:13.938781",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,756",
+    "fork": "1,698",
+    "timestamp": "2025-12-10T02:50:13.939047",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "25,933",
+    "fork": "2,996",
+    "timestamp": "2025-12-10T02:50:13.939308",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "qualifire-dev/rogue",
+    "href": "https://github.com/qualifire-dev/rogue",
+    "about": "Agents testing framework made easy",
+    "star": "581",
+    "fork": "81",
+    "timestamp": "2025-12-10T02:50:13.939567",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "8,058",
+    "fork": "743",
+    "timestamp": "2025-12-10T02:50:13.939849",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "tidwall/gjson",
+    "href": "https://github.com/tidwall/gjson",
+    "about": "Get JSON values quickly - JSON parser for Go",
+    "star": "15,356",
+    "fork": "892",
+    "timestamp": "2025-12-10T02:50:13.940110",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,490",
+    "fork": "626",
+    "timestamp": "2025-12-10T02:50:13.940366",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "google/go-containerregistry",
+    "href": "https://github.com/google/go-containerregistry",
+    "about": "Go library and CLIs for working with container registries",
+    "star": "3,632",
+    "fork": "607",
+    "timestamp": "2025-12-10T02:50:13.940621",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "9,374",
+    "fork": "752",
+    "timestamp": "2025-12-10T02:50:13.940916",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "href": "https://github.com/heroiclabs/nakama",
+    "about": "Distributed server for social and realtime games and apps.",
+    "star": "11,773",
+    "fork": "1,315",
+    "timestamp": "2025-12-10T02:50:13.941173",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "projectdiscovery/subfinder",
+    "href": "https://github.com/projectdiscovery/subfinder",
+    "about": "Fast passive subdomain enumeration tool.",
+    "star": "12,673",
+    "fork": "1,476",
+    "timestamp": "2025-12-10T02:50:13.941430",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,393",
+    "fork": "883",
+    "timestamp": "2025-12-10T02:50:13.941718",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "157,363",
+    "fork": "13,878",
+    "timestamp": "2025-12-10T02:50:13.941985",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,720",
+    "fork": "1,279",
+    "timestamp": "2025-12-10T02:50:13.942243",
+    "stars_today": "2 stars today"
+  }
+]
