@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "28,537",
+    "fork": "42,351",
+    "timestamp": "2025-12-11T02:52:19.620395",
+    "stars_today": "119 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,927",
+    "fork": "224",
+    "timestamp": "2025-12-11T02:52:19.620733",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,089",
+    "fork": "2,377",
+    "timestamp": "2025-12-11T02:52:19.621060",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,720",
+    "fork": "117",
+    "timestamp": "2025-12-11T02:52:19.621372",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,992",
+    "fork": "187",
+    "timestamp": "2025-12-11T02:52:19.621655",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,719",
+    "fork": "260",
+    "timestamp": "2025-12-11T02:52:19.621949",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "dmtrKovalenko/fff.nvim",
+    "href": "https://github.com/dmtrKovalenko/fff.nvim",
+    "about": "Finally a Fast Fuzzy File Finder for neovim",
+    "star": "1,126",
+    "fork": "53",
+    "timestamp": "2025-12-11T02:52:19.622257",
+    "stars_today": "148 stars this week"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,741",
+    "fork": "215",
+    "timestamp": "2025-12-11T02:52:19.622535",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "16,645",
+    "fork": "755",
+    "timestamp": "2025-12-11T02:52:19.622823",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "1,498",
+    "fork": "79",
+    "timestamp": "2025-12-11T02:52:19.623106",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,885",
+    "fork": "2,854",
+    "timestamp": "2025-12-11T02:52:19.623403",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "7,013",
+    "fork": "317",
+    "timestamp": "2025-12-11T02:52:19.623709",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "15,957",
+    "fork": "2,741",
+    "timestamp": "2025-12-11T02:52:19.624001",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,240",
+    "fork": "638",
+    "timestamp": "2025-12-11T02:52:19.624277",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "24,201",
+    "fork": "1,679",
+    "timestamp": "2025-12-11T02:52:19.624549",
+    "stars_today": "106 stars this week"
+  },
+  {
+    "repo": "Grokitach/Stalker_GAMMA",
+    "href": "https://github.com/Grokitach/Stalker_GAMMA",
+    "about": "S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files.",
+    "star": "999",
+    "fork": "5",
+    "timestamp": "2025-12-11T02:52:19.624833",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,816",
+    "fork": "247",
+    "timestamp": "2025-12-11T02:52:19.625140",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "5,760",
+    "fork": "336",
+    "timestamp": "2025-12-11T02:52:19.625446",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "830",
+    "fork": "63",
+    "timestamp": "2025-12-11T02:52:19.625721",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,880",
+    "fork": "132",
+    "timestamp": "2025-12-11T02:52:19.626035",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "coder/claudecode.nvim",
+    "href": "https://github.com/coder/claudecode.nvim",
+    "about": "🧩 Claude Code Neovim IDE Extension",
+    "star": "1,484",
+    "fork": "105",
+    "timestamp": "2025-12-11T02:52:19.626305",
+    "stars_today": "36 stars this week"
+  }
+]

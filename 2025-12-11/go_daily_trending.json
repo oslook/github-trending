@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "KaijuEngine/kaiju",
+    "href": "https://github.com/KaijuEngine/kaiju",
+    "about": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+    "star": "2,868",
+    "fork": "94",
+    "timestamp": "2025-12-11T02:52:09.557279",
+    "stars_today": "1,480 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,252",
+    "fork": "10,140",
+    "timestamp": "2025-12-11T02:52:09.557582",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "moby/buildkit",
+    "href": "https://github.com/moby/buildkit",
+    "about": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "star": "9,583",
+    "fork": "1,341",
+    "timestamp": "2025-12-11T02:52:09.557879",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,934",
+    "fork": "302",
+    "timestamp": "2025-12-11T02:52:09.558164",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "7,947",
+    "fork": "908",
+    "timestamp": "2025-12-11T02:52:09.558442",
+    "stars_today": "87 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "4,356",
+    "fork": "216",
+    "timestamp": "2025-12-11T02:52:09.558718",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "31,902",
+    "fork": "2,305",
+    "timestamp": "2025-12-11T02:52:09.559037",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,225",
+    "fork": "3,185",
+    "timestamp": "2025-12-11T02:52:09.559319",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,399",
+    "fork": "1,810",
+    "timestamp": "2025-12-11T02:52:09.559597",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/registry",
+    "href": "https://github.com/modelcontextprotocol/registry",
+    "about": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "star": "6,086",
+    "fork": "524",
+    "timestamp": "2025-12-11T02:52:09.559892",
+    "stars_today": "75 stars today"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "23,262",
+    "fork": "760",
+    "timestamp": "2025-12-11T02:52:09.560168",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "23,678",
+    "fork": "4,692",
+    "timestamp": "2025-12-11T02:52:09.560443",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "30,393",
+    "fork": "2,846",
+    "timestamp": "2025-12-11T02:52:09.560719",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "containers/kubernetes-mcp-server",
+    "href": "https://github.com/containers/kubernetes-mcp-server",
+    "about": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "star": "861",
+    "fork": "194",
+    "timestamp": "2025-12-11T02:52:09.561010",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "github/gh-ost",
+    "href": "https://github.com/github/gh-ost",
+    "about": "GitHub's Online Schema-migration Tool for MySQL",
+    "star": "13,089",
+    "fork": "1,342",
+    "timestamp": "2025-12-11T02:52:09.561287",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "157,422",
+    "fork": "13,887",
+    "timestamp": "2025-12-11T02:52:09.561563",
+    "stars_today": "67 stars today"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,851",
+    "fork": "2,235",
+    "timestamp": "2025-12-11T02:52:09.561850",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "anchore/grype",
+    "href": "https://github.com/anchore/grype",
+    "about": "A vulnerability scanner for container images and filesystems",
+    "star": "11,150",
+    "fork": "716",
+    "timestamp": "2025-12-11T02:52:09.562127",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "The glamourous AI coding agent for your favourite terminal 💘",
+    "star": "15,811",
+    "fork": "926",
+    "timestamp": "2025-12-11T02:52:09.562404",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,548",
+    "fork": "567",
+    "timestamp": "2025-12-11T02:52:09.562679",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "6,196",
+    "fork": "1,235",
+    "timestamp": "2025-12-11T02:52:09.562967",
+    "stars_today": "2 stars today"
+  }
+]
