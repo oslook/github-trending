@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,471",
+    "fork": "28,970",
+    "timestamp": "2025-12-12T02:51:23.070129",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,780",
+    "fork": "847",
+    "timestamp": "2025-12-12T02:51:23.070451",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,486",
+    "fork": "550",
+    "timestamp": "2025-12-12T02:51:23.070745",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,450",
+    "fork": "2,516",
+    "timestamp": "2025-12-12T02:51:23.071027",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "901",
+    "fork": "215",
+    "timestamp": "2025-12-12T02:51:23.071319",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,453",
+    "fork": "1,970",
+    "timestamp": "2025-12-12T02:51:23.071596",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,554",
+    "fork": "574",
+    "timestamp": "2025-12-12T02:51:23.071881",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,501",
+    "fork": "186",
+    "timestamp": "2025-12-12T02:51:23.072161",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,328",
+    "fork": "1,264",
+    "timestamp": "2025-12-12T02:51:23.072460",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,881",
+    "fork": "574",
+    "timestamp": "2025-12-12T02:51:23.072767",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "akka/akka-core",
+    "href": "https://github.com/akka/akka-core",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,241",
+    "fork": "3,581",
+    "timestamp": "2025-12-12T02:51:23.073044",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,875",
+    "fork": "957",
+    "timestamp": "2025-12-12T02:51:23.073334",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,837",
+    "fork": "1,217",
+    "timestamp": "2025-12-12T02:51:23.073609",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,160",
+    "fork": "1,122",
+    "timestamp": "2025-12-12T02:51:23.073886",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "firesim/firesim",
+    "href": "https://github.com/firesim/firesim",
+    "about": "FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility",
+    "star": "980",
+    "fork": "258",
+    "timestamp": "2025-12-12T02:51:23.074164",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,064",
+    "fork": "790",
+    "timestamp": "2025-12-12T02:51:23.074453",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,282",
+    "fork": "971",
+    "timestamp": "2025-12-12T02:51:23.074730",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "1,143",
+    "fork": "229",
+    "timestamp": "2025-12-12T02:51:23.075008",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "TheHive-Project/TheHive",
+    "href": "https://github.com/TheHive-Project/TheHive",
+    "about": "TheHive is a Collaborative Case Management Platform, now distributed as a commercial version",
+    "star": "3,872",
+    "fork": "682",
+    "timestamp": "2025-12-12T02:51:23.075299",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,609",
+    "fork": "4,071",
+    "timestamp": "2025-12-12T02:51:23.075606",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,949",
+    "fork": "12,638",
+    "timestamp": "2025-12-12T02:51:23.075890",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,505",
+    "fork": "641",
+    "timestamp": "2025-12-12T02:51:23.076164",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,638",
+    "fork": "1,205",
+    "timestamp": "2025-12-12T02:51:23.076455",
+    "stars_today": "1 star today"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "28,550",
+    "fork": "42,380",
+    "timestamp": "2025-12-12T02:51:12.445976",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,927",
+    "fork": "224",
+    "timestamp": "2025-12-12T02:51:12.446314",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "5,994",
+    "fork": "187",
+    "timestamp": "2025-12-12T02:51:12.446628",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,091",
+    "fork": "2,378",
+    "timestamp": "2025-12-12T02:51:12.446961",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,722",
+    "fork": "260",
+    "timestamp": "2025-12-12T02:51:12.447281",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "mrcjkb/rustaceanvim",
+    "href": "https://github.com/mrcjkb/rustaceanvim",
+    "about": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+    "star": "2,720",
+    "fork": "117",
+    "timestamp": "2025-12-12T02:51:12.447622",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "dmtrKovalenko/fff.nvim",
+    "href": "https://github.com/dmtrKovalenko/fff.nvim",
+    "about": "Finally a Fast Fuzzy File Finder for neovim",
+    "star": "1,146",
+    "fork": "53",
+    "timestamp": "2025-12-12T02:51:12.447956",
+    "stars_today": "163 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "24,207",
+    "fork": "1,680",
+    "timestamp": "2025-12-12T02:51:12.448264",
+    "stars_today": "98 stars this week"
+  },
+  {
+    "repo": "xiaorouji/openwrt-passwall",
+    "href": "https://github.com/xiaorouji/openwrt-passwall",
+    "about": "",
+    "star": "8,887",
+    "fork": "2,854",
+    "timestamp": "2025-12-12T02:51:12.448586",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "nvim-java/nvim-java",
+    "href": "https://github.com/nvim-java/nvim-java",
+    "about": "Painless Java in Neovim",
+    "star": "1,499",
+    "fork": "79",
+    "timestamp": "2025-12-12T02:51:12.448888",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,741",
+    "fork": "215",
+    "timestamp": "2025-12-12T02:51:12.449356",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,882",
+    "fork": "132",
+    "timestamp": "2025-12-12T02:51:12.449827",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "coder/claudecode.nvim",
+    "href": "https://github.com/coder/claudecode.nvim",
+    "about": "🧩 Claude Code Neovim IDE Extension",
+    "star": "1,488",
+    "fork": "106",
+    "timestamp": "2025-12-12T02:51:12.450281",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,245",
+    "fork": "638",
+    "timestamp": "2025-12-12T02:51:12.450592",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066",
+    "star": "2,251",
+    "fork": "88",
+    "timestamp": "2025-12-12T02:51:12.450894",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "15,961",
+    "fork": "2,742",
+    "timestamp": "2025-12-12T02:51:12.451287",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "Grokitach/Stalker_GAMMA",
+    "href": "https://github.com/Grokitach/Stalker_GAMMA",
+    "about": "S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly",
+    "star": "1,001",
+    "fork": "5",
+    "timestamp": "2025-12-12T02:51:12.451928",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "yetone/avante.nvim",
+    "href": "https://github.com/yetone/avante.nvim",
+    "about": "Use your Neovim like using Cursor AI IDE!",
+    "star": "16,653",
+    "fork": "755",
+    "timestamp": "2025-12-12T02:51:12.452439",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "830",
+    "fork": "63",
+    "timestamp": "2025-12-12T02:51:12.452800",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "11,546",
+    "fork": "893",
+    "timestamp": "2025-12-12T02:51:12.453099",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "4,017",
+    "fork": "390",
+    "timestamp": "2025-12-12T02:51:12.453434",
+    "stars_today": "19 stars this week"
+  }
+]
