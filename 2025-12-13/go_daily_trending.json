@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,623",
+    "fork": "4,625",
+    "timestamp": "2025-12-13T02:43:30.547066",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "8,372",
+    "fork": "926",
+    "timestamp": "2025-12-13T02:43:30.547360",
+    "stars_today": "355 stars today"
+  },
+  {
+    "repo": "KaijuEngine/kaiju",
+    "href": "https://github.com/KaijuEngine/kaiju",
+    "about": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+    "star": "3,498",
+    "fork": "110",
+    "timestamp": "2025-12-13T02:43:30.547656",
+    "stars_today": "230 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "101,949",
+    "fork": "14,717",
+    "timestamp": "2025-12-13T02:43:30.547970",
+    "stars_today": "98 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "27,140",
+    "fork": "3,874",
+    "timestamp": "2025-12-13T02:43:30.548247",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "databus23/helm-diff",
+    "href": "https://github.com/databus23/helm-diff",
+    "about": "A helm plugin that shows a diff explaining what a helm upgrade would change",
+    "star": "3,271",
+    "fork": "314",
+    "timestamp": "2025-12-13T02:43:30.548528",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "beclab/Olares",
+    "href": "https://github.com/beclab/Olares",
+    "about": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
+    "star": "3,521",
+    "fork": "172",
+    "timestamp": "2025-12-13T02:43:30.548817",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "8,091",
+    "fork": "747",
+    "timestamp": "2025-12-13T02:43:30.549095",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "24,020",
+    "fork": "1,499",
+    "timestamp": "2025-12-13T02:43:30.549368",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "memodb-io/Acontext",
+    "href": "https://github.com/memodb-io/Acontext",
+    "about": "Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io",
+    "star": "1,802",
+    "fork": "142",
+    "timestamp": "2025-12-13T02:43:30.549675",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "go-vikunja/vikunja",
+    "href": "https://github.com/go-vikunja/vikunja",
+    "about": "The to-do app to organize your life.",
+    "star": "2,845",
+    "fork": "259",
+    "timestamp": "2025-12-13T02:43:30.549954",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "akuity/kargo",
+    "href": "https://github.com/akuity/kargo",
+    "about": "Application lifecycle orchestration",
+    "star": "2,947",
+    "fork": "302",
+    "timestamp": "2025-12-13T02:43:30.550225",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "12,026",
+    "fork": "606",
+    "timestamp": "2025-12-13T02:43:30.550503",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "16,043",
+    "fork": "1,610",
+    "timestamp": "2025-12-13T02:43:30.550792",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "docker/buildx",
+    "href": "https://github.com/docker/buildx",
+    "about": "Docker CLI plugin for extended build capabilities with BuildKit",
+    "star": "4,192",
+    "fork": "611",
+    "timestamp": "2025-12-13T02:43:30.551065",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "21,111",
+    "fork": "1,058",
+    "timestamp": "2025-12-13T02:43:30.551339",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "href": "https://github.com/kubernetes-sigs/metrics-server",
+    "about": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+    "star": "6,469",
+    "fork": "1,985",
+    "timestamp": "2025-12-13T02:43:30.551610",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "kedacore/keda",
+    "href": "https://github.com/kedacore/keda",
+    "about": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "star": "9,741",
+    "fork": "1,281",
+    "timestamp": "2025-12-13T02:43:30.551896",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,270",
+    "fork": "10,141",
+    "timestamp": "2025-12-13T02:43:30.552169",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "7,179",
+    "fork": "1,159",
+    "timestamp": "2025-12-13T02:43:30.552444",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "42,615",
+    "fork": "3,028",
+    "timestamp": "2025-12-13T02:43:30.552758",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "rakyll/hey",
+    "href": "https://github.com/rakyll/hey",
+    "about": "HTTP load generator, ApacheBench (ab) replacement",
+    "star": "19,567",
+    "fork": "1,277",
+    "timestamp": "2025-12-13T02:43:30.553032",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "sqlc-dev/sqlc",
+    "href": "https://github.com/sqlc-dev/sqlc",
+    "about": "Generate type-safe code from SQL",
+    "star": "16,483",
+    "fork": "969",
+    "timestamp": "2025-12-13T02:43:30.553303",
+    "stars_today": "5 stars today"
+  }
+]

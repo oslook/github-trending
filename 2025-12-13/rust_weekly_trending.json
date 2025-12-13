@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "16,898",
+    "fork": "734",
+    "timestamp": "2025-12-13T02:43:47.988536",
+    "stars_today": "3,201 stars this week"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "24,070",
+    "fork": "2,146",
+    "timestamp": "2025-12-13T02:43:47.988850",
+    "stars_today": "1,289 stars this week"
+  },
+  {
+    "repo": "paritytech/polkadot-sdk",
+    "href": "https://github.com/paritytech/polkadot-sdk",
+    "about": "The Parity Polkadot Blockchain SDK",
+    "star": "2,607",
+    "fork": "1,095",
+    "timestamp": "2025-12-13T02:43:47.989133",
+    "stars_today": "48 stars this week"
+  },
+  {
+    "repo": "tursodatabase/turso",
+    "href": "https://github.com/tursodatabase/turso",
+    "about": "Turso is an in-process SQL database, compatible with SQLite.",
+    "star": "15,225",
+    "fork": "628",
+    "timestamp": "2025-12-13T02:43:47.989411",
+    "stars_today": "224 stars this week"
+  },
+  {
+    "repo": "cocoindex-io/cocoindex",
+    "href": "https://github.com/cocoindex-io/cocoindex",
+    "about": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+    "star": "3,709",
+    "fork": "301",
+    "timestamp": "2025-12-13T02:43:47.989705",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "about": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "star": "60,986",
+    "fork": "11,038",
+    "timestamp": "2025-12-13T02:43:47.989984",
+    "stars_today": "131 stars this week"
+  },
+  {
+    "repo": "topjohnwu/Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "about": "The Magic Mask for Android",
+    "star": "57,511",
+    "fork": "16,142",
+    "timestamp": "2025-12-13T02:43:47.990261",
+    "stars_today": "178 stars this week"
+  },
+  {
+    "repo": "yewstack/yew",
+    "href": "https://github.com/yewstack/yew",
+    "about": "Rust / Wasm framework for creating reliable and efficient web applications",
+    "star": "32,202",
+    "fork": "1,455",
+    "timestamp": "2025-12-13T02:43:47.990541",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "BloopAI/vibe-kanban",
+    "href": "https://github.com/BloopAI/vibe-kanban",
+    "about": "Kanban board to manage your AI coding agents",
+    "star": "6,482",
+    "fork": "660",
+    "timestamp": "2025-12-13T02:43:47.990831",
+    "stars_today": "292 stars this week"
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "href": "https://github.com/Zackriya-Solutions/meeting-minutes",
+    "about": "Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.",
+    "star": "8,789",
+    "fork": "725",
+    "timestamp": "2025-12-13T02:43:47.991144",
+    "stars_today": "218 stars this week"
+  },
+  {
+    "repo": "sinelaw/fresh",
+    "href": "https://github.com/sinelaw/fresh",
+    "about": "Text editor for your terminal: easy, powerful and fast",
+    "star": "1,678",
+    "fork": "55",
+    "timestamp": "2025-12-13T02:43:47.991451",
+    "stars_today": "1,244 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "104,104",
+    "fork": "15,350",
+    "timestamp": "2025-12-13T02:43:47.991772",
+    "stars_today": "638 stars this week"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "href": "https://github.com/chroma-core/chroma",
+    "about": "Open-source search and retrieval database for AI applications.",
+    "star": "24,883",
+    "fork": "1,963",
+    "timestamp": "2025-12-13T02:43:47.992052",
+    "stars_today": "132 stars this week"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "31,361",
+    "fork": "2,167",
+    "timestamp": "2025-12-13T02:43:47.992329",
+    "stars_today": "85 stars this week"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.",
+    "star": "4,568",
+    "fork": "255",
+    "timestamp": "2025-12-13T02:43:47.992603",
+    "stars_today": "83 stars this week"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "28,660",
+    "fork": "1,424",
+    "timestamp": "2025-12-13T02:43:47.992891",
+    "stars_today": "280 stars this week"
+  },
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "52,416",
+    "fork": "6,698",
+    "timestamp": "2025-12-13T02:43:47.993167",
+    "stars_today": "476 stars this week"
+  },
+  {
+    "repo": "vosen/ZLUDA",
+    "href": "https://github.com/vosen/ZLUDA",
+    "about": "CUDA on non-NVIDIA GPUs",
+    "star": "13,588",
+    "fork": "871",
+    "timestamp": "2025-12-13T02:43:47.993442",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A markup-based typesetting system that is powerful and easy to learn.",
+    "star": "49,428",
+    "fork": "1,359",
+    "timestamp": "2025-12-13T02:43:47.993753",
+    "stars_today": "373 stars this week"
+  },
+  {
+    "repo": "paradedb/paradedb",
+    "href": "https://github.com/paradedb/paradedb",
+    "about": "The transactional Elasticsearch alternative built on Postgres",
+    "star": "8,033",
+    "fork": "306",
+    "timestamp": "2025-12-13T02:43:47.994056",
+    "stars_today": "38 stars this week"
+  }
+]
