@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "24,262",
+    "fork": "2,158",
+    "timestamp": "2025-12-14T02:57:42.176968",
+    "stars_today": "1,516 stars this week"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "17,013",
+    "fork": "738",
+    "timestamp": "2025-12-14T02:57:42.177293",
+    "stars_today": "2,060 stars this week"
+  },
+  {
+    "repo": "tursodatabase/turso",
+    "href": "https://github.com/tursodatabase/turso",
+    "about": "Turso is an in-process SQL database, compatible with SQLite.",
+    "star": "15,374",
+    "fork": "630",
+    "timestamp": "2025-12-14T02:57:42.177586",
+    "stars_today": "362 stars this week"
+  },
+  {
+    "repo": "sinelaw/fresh",
+    "href": "https://github.com/sinelaw/fresh",
+    "about": "Text editor for your terminal: easy, powerful and fast",
+    "star": "1,706",
+    "fork": "56",
+    "timestamp": "2025-12-14T02:57:42.177903",
+    "stars_today": "1,019 stars this week"
+  },
+  {
+    "repo": "cocoindex-io/cocoindex",
+    "href": "https://github.com/cocoindex-io/cocoindex",
+    "about": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+    "star": "3,740",
+    "fork": "303",
+    "timestamp": "2025-12-14T02:57:42.178189",
+    "stars_today": "176 stars this week"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "href": "https://github.com/rust-lang/rustlings",
+    "about": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "star": "60,997",
+    "fork": "11,039",
+    "timestamp": "2025-12-14T02:57:42.178489",
+    "stars_today": "136 stars this week"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "href": "https://github.com/rustdesk/rustdesk",
+    "about": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "star": "104,139",
+    "fork": "15,357",
+    "timestamp": "2025-12-14T02:57:42.178802",
+    "stars_today": "648 stars this week"
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "href": "https://github.com/Zackriya-Solutions/meeting-minutes",
+    "about": "Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.",
+    "star": "8,806",
+    "fork": "725",
+    "timestamp": "2025-12-14T02:57:42.179114",
+    "stars_today": "206 stars this week"
+  },
+  {
+    "repo": "yewstack/yew",
+    "href": "https://github.com/yewstack/yew",
+    "about": "Rust / Wasm framework for creating reliable and efficient web applications",
+    "star": "32,206",
+    "fork": "1,454",
+    "timestamp": "2025-12-14T02:57:42.179410",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "paritytech/polkadot-sdk",
+    "href": "https://github.com/paritytech/polkadot-sdk",
+    "about": "The Parity Polkadot Blockchain SDK",
+    "star": "2,605",
+    "fork": "1,095",
+    "timestamp": "2025-12-14T02:57:42.179696",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "launchbadge/sqlx",
+    "href": "https://github.com/launchbadge/sqlx",
+    "about": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+    "star": "16,151",
+    "fork": "1,525",
+    "timestamp": "2025-12-14T02:57:42.179978",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "31,368",
+    "fork": "2,169",
+    "timestamp": "2025-12-14T02:57:42.180274",
+    "stars_today": "83 stars this week"
+  },
+  {
+    "repo": "iced-rs/iced",
+    "href": "https://github.com/iced-rs/iced",
+    "about": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "28,671",
+    "fork": "1,426",
+    "timestamp": "2025-12-14T02:57:42.180561",
+    "stars_today": "290 stars this week"
+  },
+  {
+    "repo": "katanemo/archgw",
+    "href": "https://github.com/katanemo/archgw",
+    "about": "Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.",
+    "star": "4,572",
+    "fork": "255",
+    "timestamp": "2025-12-14T02:57:42.180842",
+    "stars_today": "81 stars this week"
+  },
+  {
+    "repo": "BloopAI/vibe-kanban",
+    "href": "https://github.com/BloopAI/vibe-kanban",
+    "about": "Kanban board to manage your AI coding agents",
+    "star": "6,497",
+    "fork": "659",
+    "timestamp": "2025-12-14T02:57:42.181124",
+    "stars_today": "292 stars this week"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "href": "https://github.com/surrealdb/surrealdb",
+    "about": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "star": "30,543",
+    "fork": "1,084",
+    "timestamp": "2025-12-14T02:57:42.181416",
+    "stars_today": "74 stars this week"
+  },
+  {
+    "repo": "typst/typst",
+    "href": "https://github.com/typst/typst",
+    "about": "A markup-based typesetting system that is powerful and easy to learn.",
+    "star": "49,489",
+    "fork": "1,360",
+    "timestamp": "2025-12-14T02:57:42.181725",
+    "stars_today": "366 stars this week"
+  },
+  {
+    "repo": "redlib-org/redlib",
+    "href": "https://github.com/redlib-org/redlib",
+    "about": "Private front-end for Reddit",
+    "star": "2,899",
+    "fork": "202",
+    "timestamp": "2025-12-14T02:57:42.182005",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "a2x/cs2-dumper",
+    "href": "https://github.com/a2x/cs2-dumper",
+    "about": "Counter-Strike: 2 Offset Dumper",
+    "star": "1,625",
+    "fork": "252",
+    "timestamp": "2025-12-14T02:57:42.182298",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "paradedb/paradedb",
+    "href": "https://github.com/paradedb/paradedb",
+    "about": "The transactional Elasticsearch alternative built on Postgres",
+    "star": "8,044",
+    "fork": "306",
+    "timestamp": "2025-12-14T02:57:42.182604",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "topjohnwu/Magisk",
+    "href": "https://github.com/topjohnwu/Magisk",
+    "about": "The Magic Mask for Android",
+    "star": "57,519",
+    "fork": "16,149",
+    "timestamp": "2025-12-14T02:57:42.182882",
+    "stars_today": "164 stars this week"
+  }
+]
