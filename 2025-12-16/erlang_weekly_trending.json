@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,964",
+    "fork": "3,040",
+    "timestamp": "2025-12-16T02:51:53.690275",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "440",
+    "fork": "64",
+    "timestamp": "2025-12-16T02:51:53.690576",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,689",
+    "fork": "2,420",
+    "timestamp": "2025-12-16T02:51:53.690879",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "931",
+    "fork": "237",
+    "timestamp": "2025-12-16T02:51:53.691169",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "287",
+    "fork": "176",
+    "timestamp": "2025-12-16T02:51:53.691449",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,753",
+    "fork": "1,060",
+    "timestamp": "2025-12-16T02:51:53.691729",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "904",
+    "fork": "164",
+    "timestamp": "2025-12-16T02:51:53.692026",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,274",
+    "fork": "156",
+    "timestamp": "2025-12-16T02:51:53.692303",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "vernemq/vernemq",
+    "href": "https://github.com/vernemq/vernemq",
+    "about": "A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!",
+    "star": "3,501",
+    "fork": "418",
+    "timestamp": "2025-12-16T02:51:53.692610",
+    "stars_today": "8 stars this week"
+  }
+]
