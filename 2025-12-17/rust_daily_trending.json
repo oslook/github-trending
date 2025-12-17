@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "Morganamilo/paru",
+    "href": "https://github.com/Morganamilo/paru",
+    "about": "Feature packed AUR helper",
+    "star": "7,963",
+    "fork": "295",
+    "timestamp": "2025-12-17T02:48:20.100724",
+    "stars_today": "83 stars today"
+  },
+  {
+    "repo": "eudoxia0/hashcards",
+    "href": "https://github.com/eudoxia0/hashcards",
+    "about": "A plain text-based spaced repetition system.",
+    "star": "712",
+    "fork": "31",
+    "timestamp": "2025-12-17T02:48:20.101030",
+    "stars_today": "92 stars today"
+  },
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "54,090",
+    "fork": "6,836",
+    "timestamp": "2025-12-17T02:48:20.101314",
+    "stars_today": "268 stars today"
+  },
+  {
+    "repo": "reacherhq/check-if-email-exists",
+    "href": "https://github.com/reacherhq/check-if-email-exists",
+    "about": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+    "star": "6,723",
+    "fork": "483",
+    "timestamp": "2025-12-17T02:48:20.101615",
+    "stars_today": "349 stars today"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "22,366",
+    "fork": "1,674",
+    "timestamp": "2025-12-17T02:48:20.101928",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "apache/iggy",
+    "href": "https://github.com/apache/iggy",
+    "about": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+    "star": "3,554",
+    "fork": "234",
+    "timestamp": "2025-12-17T02:48:20.102210",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "orhun/git-cliff",
+    "href": "https://github.com/orhun/git-cliff",
+    "about": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
+    "star": "11,112",
+    "fork": "260",
+    "timestamp": "2025-12-17T02:48:20.102536",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "href": "https://github.com/rust-lang/rust",
+    "about": "Empowering everyone to build reliable and efficient software.",
+    "star": "108,575",
+    "fork": "14,198",
+    "timestamp": "2025-12-17T02:48:20.102820",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "7,136",
+    "fork": "1,223",
+    "timestamp": "2025-12-17T02:48:20.103108",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "tursodatabase/turso",
+    "href": "https://github.com/tursodatabase/turso",
+    "about": "Turso is an in-process SQL database, compatible with SQLite.",
+    "star": "15,725",
+    "fork": "636",
+    "timestamp": "2025-12-17T02:48:20.103400",
+    "stars_today": "63 stars today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "75,035",
+    "fork": "2,343",
+    "timestamp": "2025-12-17T02:48:20.103683",
+    "stars_today": "84 stars today"
+  },
+  {
+    "repo": "gfx-rs/wgpu",
+    "href": "https://github.com/gfx-rs/wgpu",
+    "about": "A cross-platform, safe, pure-Rust graphics API.",
+    "star": "15,833",
+    "fork": "1,171",
+    "timestamp": "2025-12-17T02:48:20.103962",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "apache/arrow-rs",
+    "href": "https://github.com/apache/arrow-rs",
+    "about": "Official Rust implementation of Apache Arrow",
+    "star": "3,278",
+    "fork": "1,063",
+    "timestamp": "2025-12-17T02:48:20.104246",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "trailbaseio/trailbase",
+    "href": "https://github.com/trailbaseio/trailbase",
+    "about": "A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.",
+    "star": "4,232",
+    "fork": "118",
+    "timestamp": "2025-12-17T02:48:20.104537",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "lance-format/lance",
+    "href": "https://github.com/lance-format/lance",
+    "about": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "5,832",
+    "fork": "500",
+    "timestamp": "2025-12-17T02:48:20.104817",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "about": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "star": "11,042",
+    "fork": "905",
+    "timestamp": "2025-12-17T02:48:20.105100",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "zellij-org/zellij",
+    "href": "https://github.com/zellij-org/zellij",
+    "about": "A terminal workspace with batteries included",
+    "star": "27,648",
+    "fork": "882",
+    "timestamp": "2025-12-17T02:48:20.105392",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "alloy-rs/alloy",
+    "href": "https://github.com/alloy-rs/alloy",
+    "about": "Transports, Middleware, and Networks for the Alloy project",
+    "star": "1,141",
+    "fork": "527",
+    "timestamp": "2025-12-17T02:48:20.105678",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "godot-rust/gdext",
+    "href": "https://github.com/godot-rust/gdext",
+    "about": "Rust bindings for Godot 4",
+    "star": "4,238",
+    "fork": "268",
+    "timestamp": "2025-12-17T02:48:20.105960",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "jj-vcs/jj",
+    "href": "https://github.com/jj-vcs/jj",
+    "about": "A Git-compatible VCS that is both simple and powerful",
+    "star": "23,135",
+    "fork": "842",
+    "timestamp": "2025-12-17T02:48:20.106241",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "cube-js/cube",
+    "href": "https://github.com/cube-js/cube",
+    "about": "📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics",
+    "star": "19,194",
+    "fork": "1,927",
+    "timestamp": "2025-12-17T02:48:20.106542",
+    "stars_today": "4 stars today"
+  }
+]

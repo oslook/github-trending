@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,503",
+    "fork": "28,974",
+    "timestamp": "2025-12-17T02:48:21.396111",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,467",
+    "fork": "1,971",
+    "timestamp": "2025-12-17T02:48:21.396435",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,790",
+    "fork": "849",
+    "timestamp": "2025-12-17T02:48:21.396772",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "67,964",
+    "fork": "12,643",
+    "timestamp": "2025-12-17T02:48:21.397062",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,071",
+    "fork": "792",
+    "timestamp": "2025-12-17T02:48:21.397346",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,164",
+    "fork": "1,125",
+    "timestamp": "2025-12-17T02:48:21.397649",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip",
+    "href": "https://github.com/chipsalliance/rocket-chip",
+    "about": "Rocket Chip Generator",
+    "star": "3,642",
+    "fork": "1,207",
+    "timestamp": "2025-12-17T02:48:21.397939",
+    "stars_today": "9 stars this week"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,465",
+    "fork": "2,519",
+    "timestamp": "2025-12-17T02:48:21.398228",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "playframework/playframework",
+    "href": "https://github.com/playframework/playframework",
+    "about": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+    "star": "12,612",
+    "fork": "4,073",
+    "timestamp": "2025-12-17T02:48:21.398559",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "mattlianje/layoutz",
+    "href": "https://github.com/mattlianje/layoutz",
+    "about": "Simple, beautiful CLI output",
+    "star": "214",
+    "fork": "6",
+    "timestamp": "2025-12-17T02:48:21.398848",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,488",
+    "fork": "552",
+    "timestamp": "2025-12-17T02:48:21.399135",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "gatling/gatling",
+    "href": "https://github.com/gatling/gatling",
+    "about": "Modern Load Testing as Code",
+    "star": "6,839",
+    "fork": "1,217",
+    "timestamp": "2025-12-17T02:48:21.399437",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,321",
+    "fork": "1,379",
+    "timestamp": "2025-12-17T02:48:21.399728",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "gitbucket/gitbucket",
+    "href": "https://github.com/gitbucket/gitbucket",
+    "about": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+    "star": "9,328",
+    "fork": "1,264",
+    "timestamp": "2025-12-17T02:48:21.400012",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "zio/zio-http",
+    "href": "https://github.com/zio/zio-http",
+    "about": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+    "star": "855",
+    "fork": "472",
+    "timestamp": "2025-12-17T02:48:21.400302",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,889",
+    "fork": "574",
+    "timestamp": "2025-12-17T02:48:21.400639",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,875",
+    "fork": "957",
+    "timestamp": "2025-12-17T02:48:21.400930",
+    "stars_today": "0 stars this week"
+  }
+]
