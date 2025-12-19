@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "32,975",
+    "fork": "1,295",
+    "timestamp": "2025-12-19T02:51:28.414515",
+    "stars_today": "130 stars today"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "7,087",
+    "fork": "924",
+    "timestamp": "2025-12-19T02:51:28.414825",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "vllm-project/semantic-router",
+    "href": "https://github.com/vllm-project/semantic-router",
+    "about": "Intelligent Router for Mixture-of-Models",
+    "star": "2,481",
+    "fork": "332",
+    "timestamp": "2025-12-19T02:51:28.415134",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "61,804",
+    "fork": "10,009",
+    "timestamp": "2025-12-19T02:51:28.415416",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,651",
+    "fork": "9,866",
+    "timestamp": "2025-12-19T02:51:28.415713",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "about": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "star": "15,718",
+    "fork": "1,517",
+    "timestamp": "2025-12-19T02:51:28.415989",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "10,891",
+    "fork": "827",
+    "timestamp": "2025-12-19T02:51:28.416265",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "21,523",
+    "fork": "6,647",
+    "timestamp": "2025-12-19T02:51:28.416560",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "kgateway-dev/kgateway",
+    "href": "https://github.com/kgateway-dev/kgateway",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "5,147",
+    "fork": "619",
+    "timestamp": "2025-12-19T02:51:28.416834",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "iyear/tdl",
+    "href": "https://github.com/iyear/tdl",
+    "about": "📥 A Telegram toolkit written in Golang",
+    "star": "6,732",
+    "fork": "662",
+    "timestamp": "2025-12-19T02:51:28.417109",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "8,211",
+    "fork": "495",
+    "timestamp": "2025-12-19T02:51:28.417386",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "href": "https://github.com/opencontainers/image-spec",
+    "about": "OCI Image Format",
+    "star": "4,062",
+    "fork": "788",
+    "timestamp": "2025-12-19T02:51:28.417673",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "12,796",
+    "fork": "1,572",
+    "timestamp": "2025-12-19T02:51:28.417957",
+    "stars_today": "67 stars today"
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "href": "https://github.com/kubernetes/minikube",
+    "about": "Run Kubernetes locally",
+    "star": "31,245",
+    "fork": "5,118",
+    "timestamp": "2025-12-19T02:51:28.418233",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "woodpecker-ci/woodpecker",
+    "href": "https://github.com/woodpecker-ci/woodpecker",
+    "about": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+    "star": "6,011",
+    "fork": "493",
+    "timestamp": "2025-12-19T02:51:28.418546",
+    "stars_today": "34 stars today"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "6,237",
+    "fork": "822",
+    "timestamp": "2025-12-19T02:51:28.418828",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "href": "https://github.com/cockroachdb/cockroach",
+    "about": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "star": "31,618",
+    "fork": "4,042",
+    "timestamp": "2025-12-19T02:51:28.419104",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "5,848",
+    "fork": "740",
+    "timestamp": "2025-12-19T02:51:28.419379",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "href": "https://github.com/junegunn/fzf",
+    "about": "🌸 A command-line fuzzy finder",
+    "star": "76,015",
+    "fork": "2,638",
+    "timestamp": "2025-12-19T02:51:28.419693",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "shirou/gopsutil",
+    "href": "https://github.com/shirou/gopsutil",
+    "about": "psutil for golang",
+    "star": "11,615",
+    "fork": "1,647",
+    "timestamp": "2025-12-19T02:51:28.419993",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "31,635",
+    "fork": "2,556",
+    "timestamp": "2025-12-19T02:51:28.420266",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "ray-project/kuberay",
+    "href": "https://github.com/ray-project/kuberay",
+    "about": "A toolkit to run Ray applications on Kubernetes",
+    "star": "2,211",
+    "fork": "669",
+    "timestamp": "2025-12-19T02:51:28.420550",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,563",
+    "fork": "715",
+    "timestamp": "2025-12-19T02:51:28.420824",
+    "stars_today": "0 stars today"
+  }
+]

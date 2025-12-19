@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "682",
+    "fork": "525",
+    "timestamp": "2025-12-19T02:51:33.268595",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "48,117",
+    "fork": "5,692",
+    "timestamp": "2025-12-19T02:51:33.268924",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaLand.jl",
+    "href": "https://github.com/CliMA/ClimaLand.jl",
+    "about": "Clima's Land Model",
+    "star": "54",
+    "fork": "14",
+    "timestamp": "2025-12-19T02:51:33.269212",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCore.jl",
+    "href": "https://github.com/CliMA/ClimaCore.jl",
+    "about": "CliMA model dycore",
+    "star": "108",
+    "fork": "17",
+    "timestamp": "2025-12-19T02:51:33.269509",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/CloudMicrophysics.jl",
+    "href": "https://github.com/CliMA/CloudMicrophysics.jl",
+    "about": "A library of cloud microphysics parameterizations",
+    "star": "45",
+    "fork": "10",
+    "timestamp": "2025-12-19T02:51:33.269798",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "aviatesk/JETLS.jl",
+    "href": "https://github.com/aviatesk/JETLS.jl",
+    "about": "A new language server for Julia, enabling modern, compiler-powered tooling.",
+    "star": "210",
+    "fork": "10",
+    "timestamp": "2025-12-19T02:51:33.270081",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
+    "star": "107",
+    "fork": "27",
+    "timestamp": "2025-12-19T02:51:33.270361",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "EnzymeAD/Reactant.jl",
+    "href": "https://github.com/EnzymeAD/Reactant.jl",
+    "about": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+    "star": "274",
+    "fork": "39",
+    "timestamp": "2025-12-19T02:51:33.270657",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,215",
+    "fork": "257",
+    "timestamp": "2025-12-19T02:51:33.270940",
+    "stars_today": "0 stars today"
+  }
+]
