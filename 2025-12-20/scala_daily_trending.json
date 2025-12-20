@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,516",
+    "fork": "28,976",
+    "timestamp": "2025-12-20T02:43:16.517677",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,801",
+    "fork": "850",
+    "timestamp": "2025-12-20T02:43:16.517990",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,472",
+    "fork": "1,974",
+    "timestamp": "2025-12-20T02:43:16.518276",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,072",
+    "fork": "793",
+    "timestamp": "2025-12-20T02:43:16.518562",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,484",
+    "fork": "2,519",
+    "timestamp": "2025-12-20T02:43:16.518863",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,781",
+    "fork": "374",
+    "timestamp": "2025-12-20T02:43:16.519149",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "digital-asset/daml",
+    "href": "https://github.com/digital-asset/daml",
+    "about": "The Daml smart contract language",
+    "star": "853",
+    "fork": "241",
+    "timestamp": "2025-12-20T02:43:16.519431",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "953",
+    "fork": "267",
+    "timestamp": "2025-12-20T02:43:16.519761",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "apache/pekko",
+    "href": "https://github.com/apache/pekko",
+    "about": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+    "star": "1,505",
+    "fork": "185",
+    "timestamp": "2025-12-20T02:43:16.520042",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "907",
+    "fork": "215",
+    "timestamp": "2025-12-20T02:43:16.520323",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,284",
+    "fork": "970",
+    "timestamp": "2025-12-20T02:43:16.520602",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,171",
+    "fork": "1,126",
+    "timestamp": "2025-12-20T02:43:16.520895",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,087",
+    "fork": "258",
+    "timestamp": "2025-12-20T02:43:16.521175",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "OpenXiangShan/CoupledL2",
+    "href": "https://github.com/OpenXiangShan/CoupledL2",
+    "about": "Open-source non-blocking L2 cache",
+    "star": "50",
+    "fork": "32",
+    "timestamp": "2025-12-20T02:43:16.521451",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,487",
+    "fork": "552",
+    "timestamp": "2025-12-20T02:43:16.521737",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "awslabs/deequ",
+    "href": "https://github.com/awslabs/deequ",
+    "about": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "star": "3,557",
+    "fork": "576",
+    "timestamp": "2025-12-20T02:43:16.522016",
+    "stars_today": "1 star today"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "microsoft/terminal",
+    "href": "https://github.com/microsoft/terminal",
+    "about": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "star": "101,121",
+    "fork": "8,977",
+    "timestamp": "2025-12-20T02:42:51.785006",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "imputnet/helium",
+    "href": "https://github.com/imputnet/helium",
+    "about": "Private, fast, and honest web browser",
+    "star": "8,710",
+    "fork": "173",
+    "timestamp": "2025-12-20T02:42:51.785301",
+    "stars_today": "86 stars today"
+  },
+  {
+    "repo": "nlohmann/json",
+    "href": "https://github.com/nlohmann/json",
+    "about": "JSON for Modern C++",
+    "star": "48,240",
+    "fork": "7,264",
+    "timestamp": "2025-12-20T02:42:51.785613",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "href": "https://github.com/LadybirdBrowser/ladybird",
+    "about": "Truly independent web browser",
+    "star": "56,807",
+    "fork": "2,557",
+    "timestamp": "2025-12-20T02:42:51.785907",
+    "stars_today": "74 stars today"
+  },
+  {
+    "repo": "opencv/opencv",
+    "href": "https://github.com/opencv/opencv",
+    "about": "Open Source Computer Vision Library",
+    "star": "85,362",
+    "fork": "56,410",
+    "timestamp": "2025-12-20T02:42:51.786211",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "hku-mars/FAST_LIO",
+    "href": "https://github.com/hku-mars/FAST_LIO",
+    "about": "A computationally efficient and robust LiDAR-inertial odometry (LIO) package",
+    "star": "4,089",
+    "fork": "1,314",
+    "timestamp": "2025-12-20T02:42:51.786486",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "praydog/REFramework",
+    "href": "https://github.com/praydog/REFramework",
+    "about": "Scripting platform, modding framework and VR support for all RE Engine games",
+    "star": "4,176",
+    "fork": "451",
+    "timestamp": "2025-12-20T02:42:51.786803",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "PaddlePaddle/Paddle",
+    "href": "https://github.com/PaddlePaddle/Paddle",
+    "about": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "star": "23,512",
+    "fork": "5,911",
+    "timestamp": "2025-12-20T02:42:51.787078",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "href": "https://github.com/fmtlib/fmt",
+    "about": "A modern formatting library",
+    "star": "23,055",
+    "fork": "2,789",
+    "timestamp": "2025-12-20T02:42:51.787365",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "rizinorg/cutter",
+    "href": "https://github.com/rizinorg/cutter",
+    "about": "Free and Open Source Reverse Engineering Platform powered by rizin",
+    "star": "18,161",
+    "fork": "1,318",
+    "timestamp": "2025-12-20T02:42:51.787671",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "facebook/react-native",
+    "href": "https://github.com/facebook/react-native",
+    "about": "A framework for building native applications using React",
+    "star": "124,836",
+    "fork": "25,021",
+    "timestamp": "2025-12-20T02:42:51.787964",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "unicode-org/icu",
+    "href": "https://github.com/unicode-org/icu",
+    "about": "The home of the ICU project source code.",
+    "star": "3,342",
+    "fork": "847",
+    "timestamp": "2025-12-20T02:42:51.788243",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ossrs/srs",
+    "href": "https://github.com/ossrs/srs",
+    "about": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+    "star": "28,198",
+    "fork": "5,625",
+    "timestamp": "2025-12-20T02:42:51.788523",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "wolfpld/tracy",
+    "href": "https://github.com/wolfpld/tracy",
+    "about": "Frame profiler",
+    "star": "14,848",
+    "fork": "970",
+    "timestamp": "2025-12-20T02:42:51.788841",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "href": "https://github.com/ocornut/imgui",
+    "about": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "star": "70,136",
+    "fork": "11,413",
+    "timestamp": "2025-12-20T02:42:51.789121",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "href": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "about": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
+    "star": "16,359",
+    "fork": "3,893",
+    "timestamp": "2025-12-20T02:42:51.789392",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "google/googletest",
+    "href": "https://github.com/google/googletest",
+    "about": "GoogleTest - Google Testing and Mocking Framework",
+    "star": "37,624",
+    "fork": "10,621",
+    "timestamp": "2025-12-20T02:42:51.789670",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "href": "https://github.com/Project-OSRM/osrm-backend",
+    "about": "Open Source Routing Machine - C++ backend",
+    "star": "7,342",
+    "fork": "3,826",
+    "timestamp": "2025-12-20T02:42:51.789950",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "openvinotoolkit/openvino",
+    "href": "https://github.com/openvinotoolkit/openvino",
+    "about": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "star": "9,375",
+    "fork": "2,894",
+    "timestamp": "2025-12-20T02:42:51.790226",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ros-navigation/navigation2",
+    "href": "https://github.com/ros-navigation/navigation2",
+    "about": "ROS 2 Navigation Framework and System",
+    "star": "3,750",
+    "fork": "1,668",
+    "timestamp": "2025-12-20T02:42:51.790495",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "google-ai-edge/mediapipe",
+    "href": "https://github.com/google-ai-edge/mediapipe",
+    "about": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "star": "32,540",
+    "fork": "5,664",
+    "timestamp": "2025-12-20T02:42:51.790782",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "NVIDIA/TensorRT",
+    "href": "https://github.com/NVIDIA/TensorRT",
+    "about": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "star": "12,486",
+    "fork": "2,293",
+    "timestamp": "2025-12-20T02:42:51.791054",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "dmlc/xgboost",
+    "href": "https://github.com/dmlc/xgboost",
+    "about": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "star": "27,762",
+    "fork": "8,827",
+    "timestamp": "2025-12-20T02:42:51.791323",
+    "stars_today": "7 stars today"
+  }
+]
