@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "9,825",
+    "fork": "1,055",
+    "timestamp": "2025-12-22T02:59:14.491552",
+    "stars_today": "2,164 stars this month"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "28,983",
+    "fork": "2,620",
+    "timestamp": "2025-12-22T02:59:14.491857",
+    "stars_today": "1,530 stars this month"
+  },
+  {
+    "repo": "microsoft/typescript-go",
+    "href": "https://github.com/microsoft/typescript-go",
+    "about": "Staging repo for development of native port of TypeScript",
+    "star": "23,443",
+    "fork": "770",
+    "timestamp": "2025-12-22T02:59:14.492148",
+    "stars_today": "632 stars this month"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "33,563",
+    "fork": "4,813",
+    "timestamp": "2025-12-22T02:59:14.492453",
+    "stars_today": "1,014 stars this month"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "15,523",
+    "fork": "652",
+    "timestamp": "2025-12-22T02:59:14.492740",
+    "stars_today": "2,367 stars this month"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "60,645",
+    "fork": "5,731",
+    "timestamp": "2025-12-22T02:59:14.493051",
+    "stars_today": "1,873 stars this month"
+  },
+  {
+    "repo": "danielmiessler/Fabric",
+    "href": "https://github.com/danielmiessler/Fabric",
+    "about": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "35,770",
+    "fork": "3,634",
+    "timestamp": "2025-12-22T02:59:14.493374",
+    "stars_today": "1,305 stars this month"
+  },
+  {
+    "repo": "schollz/croc",
+    "href": "https://github.com/schollz/croc",
+    "about": "Easily and securely send things from one computer to another 🐊 📦",
+    "star": "33,398",
+    "fork": "1,315",
+    "timestamp": "2025-12-22T02:59:14.493683",
+    "stars_today": "1,369 stars this month"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "7,033",
+    "fork": "1,161",
+    "timestamp": "2025-12-22T02:59:14.493971",
+    "stars_today": "264 stars this month"
+  },
+  {
+    "repo": "apernet/hysteria",
+    "href": "https://github.com/apernet/hysteria",
+    "about": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "star": "18,248",
+    "fork": "1,969",
+    "timestamp": "2025-12-22T02:59:14.494264",
+    "stars_today": "507 stars this month"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "102,496",
+    "fork": "14,743",
+    "timestamp": "2025-12-22T02:59:14.494578",
+    "stars_today": "1,681 stars this month"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "29,070",
+    "fork": "3,397",
+    "timestamp": "2025-12-22T02:59:14.494861",
+    "stars_today": "939 stars this month"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "54,516",
+    "fork": "2,969",
+    "timestamp": "2025-12-22T02:59:14.495141",
+    "stars_today": "1,725 stars this month"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "href": "https://github.com/milvus-io/milvus",
+    "about": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "star": "41,820",
+    "fork": "3,730",
+    "timestamp": "2025-12-22T02:59:14.495430",
+    "stars_today": "2,130 stars this month"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "star": "6,905",
+    "fork": "890",
+    "timestamp": "2025-12-22T02:59:14.495707",
+    "stars_today": "912 stars this month"
+  },
+  {
+    "repo": "ayn2op/discordo",
+    "href": "https://github.com/ayn2op/discordo",
+    "about": "A lightweight, secure, and feature-rich Discord terminal (TUI) client.",
+    "star": "4,826",
+    "fork": "162",
+    "timestamp": "2025-12-22T02:59:14.495982",
+    "stars_today": "817 stars this month"
+  },
+  {
+    "repo": "beclab/Olares",
+    "href": "https://github.com/beclab/Olares",
+    "about": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
+    "star": "3,734",
+    "fork": "182",
+    "timestamp": "2025-12-22T02:59:14.496270",
+    "stars_today": "733 stars this month"
+  },
+  {
+    "repo": "safing/portmaster",
+    "href": "https://github.com/safing/portmaster",
+    "about": "🏔 Love Freedom - ❌ Block Mass Surveillance",
+    "star": "11,451",
+    "fork": "410",
+    "timestamp": "2025-12-22T02:59:14.496579",
+    "stars_today": "454 stars this month"
+  },
+  {
+    "repo": "google/adk-go",
+    "href": "https://github.com/google/adk-go",
+    "about": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "6,431",
+    "fork": "449",
+    "timestamp": "2025-12-22T02:59:14.496854",
+    "stars_today": "2,148 stars this month"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "23,882",
+    "fork": "4,704",
+    "timestamp": "2025-12-22T02:59:14.497130",
+    "stars_today": "529 stars this month"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "26,155",
+    "fork": "3,013",
+    "timestamp": "2025-12-22T02:59:14.497458",
+    "stars_today": "582 stars this month"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "131,539",
+    "fork": "18,688",
+    "timestamp": "2025-12-22T02:59:14.497742",
+    "stars_today": "742 stars this month"
+  }
+]
