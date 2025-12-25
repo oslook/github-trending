@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "danielmiessler/Fabric",
+    "href": "https://github.com/danielmiessler/Fabric",
+    "about": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "36,551",
+    "fork": "3,674",
+    "timestamp": "2025-12-25T02:53:55.444529",
+    "stars_today": "137 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "51,136",
+    "fork": "10,256",
+    "timestamp": "2025-12-25T02:53:55.444882",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "40,699",
+    "fork": "3,288",
+    "timestamp": "2025-12-25T02:53:55.445206",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "54,606",
+    "fork": "4,827",
+    "timestamp": "2025-12-25T02:53:55.445521",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "9,489",
+    "fork": "760",
+    "timestamp": "2025-12-25T02:53:55.445852",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "29,079",
+    "fork": "2,631",
+    "timestamp": "2025-12-25T02:53:55.446138",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "33,645",
+    "fork": "4,823",
+    "timestamp": "2025-12-25T02:53:55.446423",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "21,965",
+    "fork": "537",
+    "timestamp": "2025-12-25T02:53:55.446724",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,734",
+    "fork": "8,192",
+    "timestamp": "2025-12-25T02:53:55.447011",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "memodb-io/Acontext",
+    "href": "https://github.com/memodb-io/Acontext",
+    "about": "Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io",
+    "star": "2,096",
+    "fork": "186",
+    "timestamp": "2025-12-25T02:53:55.447297",
+    "stars_today": "37 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "29,734",
+    "fork": "2,090",
+    "timestamp": "2025-12-25T02:53:55.447608",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,676",
+    "fork": "4,628",
+    "timestamp": "2025-12-25T02:53:55.447907",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "go-rod/rod",
+    "href": "https://github.com/go-rod/rod",
+    "about": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "star": "6,506",
+    "fork": "432",
+    "timestamp": "2025-12-25T02:53:55.448191",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,616",
+    "fork": "4,553",
+    "timestamp": "2025-12-25T02:53:55.448473",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "158,191",
+    "fork": "14,001",
+    "timestamp": "2025-12-25T02:53:55.448767",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "15,670",
+    "fork": "666",
+    "timestamp": "2025-12-25T02:53:55.449048",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "50,545",
+    "fork": "21,667",
+    "timestamp": "2025-12-25T02:53:55.449329",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "25,636",
+    "fork": "2,280",
+    "timestamp": "2025-12-25T02:53:55.449610",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "docker/cli",
+    "href": "https://github.com/docker/cli",
+    "about": "The Docker CLI",
+    "star": "5,624",
+    "fork": "2,073",
+    "timestamp": "2025-12-25T02:53:55.449906",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "href": "https://github.com/go-sql-driver/mysql",
+    "about": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "star": "15,358",
+    "fork": "2,341",
+    "timestamp": "2025-12-25T02:53:55.450185",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "8,766",
+    "fork": "682",
+    "timestamp": "2025-12-25T02:53:55.450462",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "26,248",
+    "fork": "3,022",
+    "timestamp": "2025-12-25T02:53:55.450766",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "kserve/kserve",
+    "href": "https://github.com/kserve/kserve",
+    "about": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+    "star": "4,938",
+    "fork": "1,325",
+    "timestamp": "2025-12-25T02:53:55.451051",
+    "stars_today": "5 stars today"
+  }
+]
