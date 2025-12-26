@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "danielmiessler/Fabric",
+    "href": "https://github.com/danielmiessler/Fabric",
+    "about": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "36,716",
+    "fork": "3,686",
+    "timestamp": "2025-12-26T02:52:22.863199",
+    "stars_today": "1,450 stars this week"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "10,217",
+    "fork": "1,099",
+    "timestamp": "2025-12-26T02:52:22.863504",
+    "stars_today": "926 stars this week"
+  },
+  {
+    "repo": "NexaAI/nexa-sdk",
+    "href": "https://github.com/NexaAI/nexa-sdk",
+    "about": "Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.",
+    "star": "7,147",
+    "fork": "914",
+    "timestamp": "2025-12-26T02:52:22.863803",
+    "stars_today": "922 stars this week"
+  },
+  {
+    "repo": "v2fly/domain-list-community",
+    "href": "https://github.com/v2fly/domain-list-community",
+    "about": "Community managed domain list. Generate geosite.dat for V2Ray.",
+    "star": "7,091",
+    "fork": "1,158",
+    "timestamp": "2025-12-26T02:52:22.864088",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "docker/compose",
+    "href": "https://github.com/docker/compose",
+    "about": "Define and run multi-container applications with Docker",
+    "star": "36,706",
+    "fork": "5,680",
+    "timestamp": "2025-12-26T02:52:22.864371",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "51,170",
+    "fork": "10,256",
+    "timestamp": "2025-12-26T02:52:22.864648",
+    "stars_today": "173 stars this week"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "40,745",
+    "fork": "3,299",
+    "timestamp": "2025-12-26T02:52:22.865000",
+    "stars_today": "565 stars this week"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,665",
+    "fork": "579",
+    "timestamp": "2025-12-26T02:52:22.865285",
+    "stars_today": "57 stars this week"
+  },
+  {
+    "repo": "qdm12/gluetun",
+    "href": "https://github.com/qdm12/gluetun",
+    "about": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+    "star": "12,186",
+    "fork": "519",
+    "timestamp": "2025-12-26T02:52:22.865597",
+    "stars_today": "140 stars this week"
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "href": "https://github.com/kubernetes/minikube",
+    "about": "Run Kubernetes locally",
+    "star": "31,302",
+    "fork": "5,133",
+    "timestamp": "2025-12-26T02:52:22.865893",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "4,506",
+    "fork": "284",
+    "timestamp": "2025-12-26T02:52:22.866174",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "54,628",
+    "fork": "4,829",
+    "timestamp": "2025-12-26T02:52:22.866483",
+    "stars_today": "584 stars this week"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "9,500",
+    "fork": "760",
+    "timestamp": "2025-12-26T02:52:22.866800",
+    "stars_today": "69 stars this week"
+  },
+  {
+    "repo": "google/pprof",
+    "href": "https://github.com/google/pprof",
+    "about": "pprof is a tool for visualization and analysis of profiling data",
+    "star": "8,959",
+    "fork": "644",
+    "timestamp": "2025-12-26T02:52:22.867082",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "4,550",
+    "fork": "234",
+    "timestamp": "2025-12-26T02:52:22.867361",
+    "stars_today": "142 stars this week"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "27,204",
+    "fork": "5,048",
+    "timestamp": "2025-12-26T02:52:22.867638",
+    "stars_today": "72 stars this week"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "href": "https://github.com/cockroachdb/cockroach",
+    "about": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "star": "31,656",
+    "fork": "4,047",
+    "timestamp": "2025-12-26T02:52:22.867931",
+    "stars_today": "48 stars this week"
+  }
+]

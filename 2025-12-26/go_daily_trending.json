@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "WCY-dt/MrRSS",
+    "href": "https://github.com/WCY-dt/MrRSS",
+    "about": "A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.",
+    "star": "936",
+    "fork": "35",
+    "timestamp": "2025-12-26T02:52:26.787266",
+    "stars_today": "172 stars today"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "3,416",
+    "fork": "351",
+    "timestamp": "2025-12-26T02:52:26.787569",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "qualifire-dev/rogue",
+    "href": "https://github.com/qualifire-dev/rogue",
+    "about": "Agents testing framework made easy",
+    "star": "678",
+    "fork": "102",
+    "timestamp": "2025-12-26T02:52:26.787869",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "FiloSottile/age",
+    "href": "https://github.com/FiloSottile/age",
+    "about": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "star": "20,471",
+    "fork": "587",
+    "timestamp": "2025-12-26T02:52:26.788184",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "29,108",
+    "fork": "2,635",
+    "timestamp": "2025-12-26T02:52:26.788465",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "rs/zerolog",
+    "href": "https://github.com/rs/zerolog",
+    "about": "Zero Allocation JSON Logger",
+    "star": "12,069",
+    "fork": "607",
+    "timestamp": "2025-12-26T02:52:26.788744",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "8,786",
+    "fork": "683",
+    "timestamp": "2025-12-26T02:52:26.789040",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "cilium/ebpf",
+    "href": "https://github.com/cilium/ebpf",
+    "about": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+    "star": "7,393",
+    "fork": "802",
+    "timestamp": "2025-12-26T02:52:26.789322",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "gofiber/fiber",
+    "href": "https://github.com/gofiber/fiber",
+    "about": "⚡️ Express inspired web framework written in Go",
+    "star": "38,827",
+    "fork": "1,929",
+    "timestamp": "2025-12-26T02:52:26.789631",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "danielmiessler/Fabric",
+    "href": "https://github.com/danielmiessler/Fabric",
+    "about": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "star": "36,716",
+    "fork": "3,686",
+    "timestamp": "2025-12-26T02:52:26.789952",
+    "stars_today": "288 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,618",
+    "fork": "4,554",
+    "timestamp": "2025-12-26T02:52:26.790234",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "16,373",
+    "fork": "1,107",
+    "timestamp": "2025-12-26T02:52:26.790543",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "coze-dev/coze-loop",
+    "href": "https://github.com/coze-dev/coze-loop",
+    "about": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.",
+    "star": "5,192",
+    "fork": "715",
+    "timestamp": "2025-12-26T02:52:26.790834",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "href": "https://github.com/XTLS/Xray-core",
+    "about": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "star": "33,669",
+    "fork": "4,825",
+    "timestamp": "2025-12-26T02:52:26.791118",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "href": "https://github.com/casdoor/casdoor",
+    "about": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "star": "12,769",
+    "fork": "1,513",
+    "timestamp": "2025-12-26T02:52:26.791424",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "memodb-io/Acontext",
+    "href": "https://github.com/memodb-io/Acontext",
+    "about": "Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io",
+    "star": "2,116",
+    "fork": "186",
+    "timestamp": "2025-12-26T02:52:26.791710",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "48,589",
+    "fork": "1,539",
+    "timestamp": "2025-12-26T02:52:26.792041",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "lejianwen/rustdesk-api",
+    "href": "https://github.com/lejianwen/rustdesk-api",
+    "about": "Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login",
+    "star": "2,440",
+    "fork": "531",
+    "timestamp": "2025-12-26T02:52:26.792319",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "go-rod/rod",
+    "href": "https://github.com/go-rod/rod",
+    "about": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "star": "6,510",
+    "fork": "432",
+    "timestamp": "2025-12-26T02:52:26.792598",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "15,704",
+    "fork": "666",
+    "timestamp": "2025-12-26T02:52:26.792888",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "29,176",
+    "fork": "3,420",
+    "timestamp": "2025-12-26T02:52:26.793169",
+    "stars_today": "33 stars today"
+  }
+]
