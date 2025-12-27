@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "semgrep/semgrep",
+    "href": "https://github.com/semgrep/semgrep",
+    "about": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "star": "13,710",
+    "fork": "843",
+    "timestamp": "2025-12-27T02:49:45.378811",
+    "stars_today": "285 stars this month"
+  },
+  {
+    "repo": "ocaml/ocaml",
+    "href": "https://github.com/ocaml/ocaml",
+    "about": "The core OCaml system: compilers, runtime system, base libraries",
+    "star": "6,101",
+    "fork": "1,194",
+    "timestamp": "2025-12-27T02:49:45.379108",
+    "stars_today": "54 stars this month"
+  },
+  {
+    "repo": "facebook/infer",
+    "href": "https://github.com/facebook/infer",
+    "about": "A static analyzer for Java, C, C++, and Objective-C",
+    "star": "15,466",
+    "fork": "2,066",
+    "timestamp": "2025-12-27T02:49:45.379401",
+    "stars_today": "31 stars this month"
+  },
+  {
+    "repo": "terrateamio/terrateam",
+    "href": "https://github.com/terrateamio/terrateam",
+    "about": "Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.",
+    "star": "1,144",
+    "fork": "55",
+    "timestamp": "2025-12-27T02:49:45.379680",
+    "stars_today": "114 stars this month"
+  },
+  {
+    "repo": "semgrep/ocaml-tree-sitter-core",
+    "href": "https://github.com/semgrep/ocaml-tree-sitter-core",
+    "about": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+    "star": "42",
+    "fork": "8",
+    "timestamp": "2025-12-27T02:49:45.379958",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "semgrep/testo",
+    "href": "https://github.com/semgrep/testo",
+    "about": "Test framework for OCaml",
+    "star": "32",
+    "fork": "3",
+    "timestamp": "2025-12-27T02:49:45.380245",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "caffeinelabs/motoko",
+    "href": "https://github.com/caffeinelabs/motoko",
+    "about": "Simple high-level language for writing Internet Computer canisters",
+    "star": "572",
+    "fork": "119",
+    "timestamp": "2025-12-27T02:49:45.380526",
+    "stars_today": "3 stars this month"
+  },
+  {
+    "repo": "bcpierce00/unison",
+    "href": "https://github.com/bcpierce00/unison",
+    "about": "Unison file synchronizer",
+    "star": "5,014",
+    "fork": "259",
+    "timestamp": "2025-12-27T02:49:45.380802",
+    "stars_today": "64 stars this month"
+  },
+  {
+    "repo": "opengrep/opengrep",
+    "href": "https://github.com/opengrep/opengrep",
+    "about": "🔎 Static code analysis engine to find security issues in code.",
+    "star": "1,978",
+    "fork": "161",
+    "timestamp": "2025-12-27T02:49:45.381076",
+    "stars_today": "84 stars this month"
+  },
+  {
+    "repo": "AeneasVerif/aeneas",
+    "href": "https://github.com/AeneasVerif/aeneas",
+    "about": "A verification toolchain for Rust programs",
+    "star": "490",
+    "fork": "38",
+    "timestamp": "2025-12-27T02:49:45.381371",
+    "stars_today": "36 stars this month"
+  },
+  {
+    "repo": "ocaml/dune",
+    "href": "https://github.com/ocaml/dune",
+    "about": "A composable build system for OCaml.",
+    "star": "1,811",
+    "fork": "456",
+    "timestamp": "2025-12-27T02:49:45.381647",
+    "stars_today": "9 stars this month"
+  }
+]
