@@ -1,0 +1,65 @@
+[
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,763",
+    "fork": "1,061",
+    "timestamp": "2025-12-29T03:05:02.392937",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "287",
+    "fork": "176",
+    "timestamp": "2025-12-29T03:05:02.393248",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,465",
+    "fork": "1,175",
+    "timestamp": "2025-12-29T03:05:02.393532",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,973",
+    "fork": "3,040",
+    "timestamp": "2025-12-29T03:05:02.393815",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,221",
+    "fork": "337",
+    "timestamp": "2025-12-29T03:05:02.394106",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,781",
+    "fork": "523",
+    "timestamp": "2025-12-29T03:05:02.394385",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "933",
+    "fork": "238",
+    "timestamp": "2025-12-29T03:05:02.394663",
+    "stars_today": "0 stars this week"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "repo": "ghostty-org/ghostty",
+    "href": "https://github.com/ghostty-org/ghostty",
+    "about": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "star": "40,242",
+    "fork": "1,345",
+    "timestamp": "2025-12-29T03:05:29.667929",
+    "stars_today": "412 stars this week"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A non-monolithic Wayland compositor",
+    "star": "3,833",
+    "fork": "160",
+    "timestamp": "2025-12-29T03:05:29.668251",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "foxnne/pixi",
+    "href": "https://github.com/foxnne/pixi",
+    "about": "Pixel art editor made with Zig.",
+    "star": "1,196",
+    "fork": "31",
+    "timestamp": "2025-12-29T03:05:29.668573",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "Moved to Codeberg",
+    "star": "42,597",
+    "fork": "3,107",
+    "timestamp": "2025-12-29T03:05:29.668889",
+    "stars_today": "39 stars this week"
+  },
+  {
+    "repo": "zigtools/zls",
+    "href": "https://github.com/zigtools/zls",
+    "about": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+    "star": "4,444",
+    "fork": "406",
+    "timestamp": "2025-12-29T03:05:29.669217",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "rockorager/libvaxis",
+    "href": "https://github.com/rockorager/libvaxis",
+    "about": "a modern tui library written in zig",
+    "star": "1,493",
+    "fork": "93",
+    "timestamp": "2025-12-29T03:05:29.669503",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "href": "https://github.com/ZigEmbeddedGroup/microzig",
+    "about": "MicroZig is a toolbox for building embedded applications in Zig.",
+    "star": "1,971",
+    "fork": "159",
+    "timestamp": "2025-12-29T03:05:29.669787",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "tigerbeetle/tigerbeetle",
+    "href": "https://github.com/tigerbeetle/tigerbeetle",
+    "about": "The financial transactions database designed for mission critical safety and performance.",
+    "star": "14,778",
+    "fork": "744",
+    "timestamp": "2025-12-29T03:05:29.670086",
+    "stars_today": "54 stars this week"
+  },
+  {
+    "repo": "PixelGuys/Cubyz",
+    "href": "https://github.com/PixelGuys/Cubyz",
+    "about": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+    "star": "2,991",
+    "fork": "187",
+    "timestamp": "2025-12-29T03:05:29.670371",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "david-vanderson/dvui",
+    "href": "https://github.com/david-vanderson/dvui",
+    "about": "",
+    "star": "1,080",
+    "fork": "87",
+    "timestamp": "2025-12-29T03:05:29.670677",
+    "stars_today": "15 stars this week"
+  },
+  {
+    "repo": "lightpanda-io/browser",
+    "href": "https://github.com/lightpanda-io/browser",
+    "about": "Lightpanda: the headless browser designed for AI and automation",
+    "star": "11,232",
+    "fork": "324",
+    "timestamp": "2025-12-29T03:05:29.670961",
+    "stars_today": "55 stars this week"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "3,237",
+    "fork": "147",
+    "timestamp": "2025-12-29T03:05:29.671257",
+    "stars_today": "18 stars this week"
+  }
+]
