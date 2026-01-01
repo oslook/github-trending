@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "48,166",
+    "fork": "5,698",
+    "timestamp": "2026-01-01T03:06:53.779411",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "682",
+    "fork": "527",
+    "timestamp": "2026-01-01T03:06:53.779748",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jump-dev/JuMP.jl",
+    "href": "https://github.com/jump-dev/JuMP.jl",
+    "about": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+    "star": "2,389",
+    "fork": "412",
+    "timestamp": "2026-01-01T03:06:53.780051",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/LabelledArrays.jl",
+    "href": "https://github.com/SciML/LabelledArrays.jl",
+    "about": "Arrays which also have a label for each element for easy scientific machine learning (SciML)",
+    "star": "122",
+    "fork": "20",
+    "timestamp": "2026-01-01T03:06:53.780390",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaCI/PkgTemplates.jl",
+    "href": "https://github.com/JuliaCI/PkgTemplates.jl",
+    "about": "Create new Julia packages, the easy way",
+    "star": "687",
+    "fork": "107",
+    "timestamp": "2026-01-01T03:06:53.780702",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/LinearSolve.jl",
+    "href": "https://github.com/SciML/LinearSolve.jl",
+    "about": "LinearSolve.jl: High-Performance Unified Interface for Linear Solvers in Julia. Easily switch between factorization and Krylov methods, add preconditioners, and all in one interface.",
+    "star": "276",
+    "fork": "80",
+    "timestamp": "2026-01-01T03:06:53.781032",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaCore.jl",
+    "href": "https://github.com/CliMA/ClimaCore.jl",
+    "about": "CliMA model dycore",
+    "star": "108",
+    "fork": "17",
+    "timestamp": "2026-01-01T03:06:53.781331",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "617",
+    "fork": "241",
+    "timestamp": "2026-01-01T03:06:53.781669",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaLang/PackageCompiler.jl",
+    "href": "https://github.com/JuliaLang/PackageCompiler.jl",
+    "about": "Compile your Julia Package",
+    "star": "1,521",
+    "fork": "198",
+    "timestamp": "2026-01-01T03:06:53.781998",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
+    "star": "108",
+    "fork": "27",
+    "timestamp": "2026-01-01T03:06:53.782300",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "FluxML/Flux.jl",
+    "href": "https://github.com/FluxML/Flux.jl",
+    "about": "Relax! Flux is the ML library that doesn't make you tensor",
+    "star": "4,692",
+    "fork": "615",
+    "timestamp": "2026-01-01T03:06:53.782618",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "SciML/NonlinearSolve.jl",
+    "href": "https://github.com/SciML/NonlinearSolve.jl",
+    "about": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+    "star": "285",
+    "fork": "61",
+    "timestamp": "2026-01-01T03:06:53.782950",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaArrays/StaticArrays.jl",
+    "href": "https://github.com/JuliaArrays/StaticArrays.jl",
+    "about": "Statically sized arrays for Julia",
+    "star": "820",
+    "fork": "153",
+    "timestamp": "2026-01-01T03:06:53.783246",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "CliMA/ClimaLand.jl",
+    "href": "https://github.com/CliMA/ClimaLand.jl",
+    "about": "Clima's Land Model",
+    "star": "54",
+    "fork": "14",
+    "timestamp": "2026-01-01T03:06:53.783549",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaSymbolics/Symbolics.jl",
+    "href": "https://github.com/JuliaSymbolics/Symbolics.jl",
+    "about": "Symbolic programming for the next generation of numerical software",
+    "star": "1,482",
+    "fork": "175",
+    "timestamp": "2026-01-01T03:06:53.783848",
+    "stars_today": "0 stars today"
+  }
+]
