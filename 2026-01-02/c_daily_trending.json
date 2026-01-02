@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "stackia/rtp2httpd",
+    "href": "https://github.com/stackia/rtp2httpd",
+    "about": "Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV",
+    "star": "919",
+    "fork": "152",
+    "timestamp": "2026-01-02T02:57:08.357872",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "erincatto/box2d",
+    "href": "https://github.com/erincatto/box2d",
+    "about": "Box2D is a 2D physics engine for games",
+    "star": "9,406",
+    "fork": "1,718",
+    "timestamp": "2026-01-02T02:57:08.358217",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "href": "https://github.com/Klipper3d/klipper",
+    "about": "Klipper is a 3d-printer firmware",
+    "star": "11,150",
+    "fork": "5,747",
+    "timestamp": "2026-01-02T02:57:08.358506",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,755",
+    "fork": "1,410",
+    "timestamp": "2026-01-02T02:57:08.358791",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "git/git",
+    "href": "https://github.com/git/git",
+    "about": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "star": "58,344",
+    "fork": "27,263",
+    "timestamp": "2026-01-02T02:57:08.359088",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "40,286",
+    "fork": "7,004",
+    "timestamp": "2026-01-02T02:57:08.359399",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "12,314",
+    "fork": "1,038",
+    "timestamp": "2026-01-02T02:57:08.359679",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mit-pdos/xv6-riscv",
+    "href": "https://github.com/mit-pdos/xv6-riscv",
+    "about": "Xv6 for RISC-V",
+    "star": "9,057",
+    "fork": "3,590",
+    "timestamp": "2026-01-02T02:57:08.359959",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "19,059",
+    "fork": "1,015",
+    "timestamp": "2026-01-02T02:57:08.360253",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Genymobile/scrcpy",
+    "href": "https://github.com/Genymobile/scrcpy",
+    "about": "Display and control your Android device",
+    "star": "133,403",
+    "fork": "12,457",
+    "timestamp": "2026-01-02T02:57:08.360532",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "29,299",
+    "fork": "10,975",
+    "timestamp": "2026-01-02T02:57:08.360841",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "open-quantum-safe/liboqs",
+    "href": "https://github.com/open-quantum-safe/liboqs",
+    "about": "C library for prototyping and experimenting with quantum-resistant cryptography",
+    "star": "2,682",
+    "fork": "669",
+    "timestamp": "2026-01-02T02:57:08.361132",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "libarchive/libarchive",
+    "href": "https://github.com/libarchive/libarchive",
+    "about": "Multi-format archive and compression library",
+    "star": "3,379",
+    "fork": "858",
+    "timestamp": "2026-01-02T02:57:08.361414",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "open5gs/open5gs",
+    "href": "https://github.com/open5gs/open5gs",
+    "about": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",
+    "star": "2,389",
+    "fork": "948",
+    "timestamp": "2026-01-02T02:57:08.361721",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "istoreos/istoreos",
+    "href": "https://github.com/istoreos/istoreos",
+    "about": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）",
+    "star": "7,103",
+    "fork": "806",
+    "timestamp": "2026-01-02T02:57:08.362013",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nicbarker/clay",
+    "href": "https://github.com/nicbarker/clay",
+    "about": "High performance UI layout library in C.",
+    "star": "16,229",
+    "fork": "630",
+    "timestamp": "2026-01-02T02:57:08.362320",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "AdAway/AdAway",
+    "href": "https://github.com/AdAway/AdAway",
+    "about": "AdAway is a free and open source ad blocker for Android.",
+    "star": "8,655",
+    "fork": "646",
+    "timestamp": "2026-01-02T02:57:08.362597",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "mattn/go-sqlite3",
+    "href": "https://github.com/mattn/go-sqlite3",
+    "about": "sqlite3 driver for go using database/sql",
+    "star": "8,893",
+    "fork": "1,156",
+    "timestamp": "2026-01-02T02:57:08.362904",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "dsp56300/gearmulator",
+    "href": "https://github.com/dsp56300/gearmulator",
+    "about": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs",
+    "star": "709",
+    "fork": "67",
+    "timestamp": "2026-01-02T02:57:08.363193",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "hufrea/byedpi",
+    "href": "https://github.com/hufrea/byedpi",
+    "about": "Bypass DPI",
+    "star": "2,822",
+    "fork": "188",
+    "timestamp": "2026-01-02T02:57:08.363474",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "14,030",
+    "fork": "8,447",
+    "timestamp": "2026-01-02T02:57:08.363754",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "FWGS/xash3d-fwgs",
+    "href": "https://github.com/FWGS/xash3d-fwgs",
+    "about": "Xash3D FWGS engine",
+    "star": "2,272",
+    "fork": "366",
+    "timestamp": "2026-01-02T02:57:08.364061",
+    "stars_today": "1 star today"
+  }
+]
