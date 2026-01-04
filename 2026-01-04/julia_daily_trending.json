@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "JuliaLang/julia",
+    "href": "https://github.com/JuliaLang/julia",
+    "about": "The Julia Programming Language",
+    "star": "48,185",
+    "fork": "5,702",
+    "timestamp": "2026-01-04T03:07:40.171803",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "JuliaRegistries/General",
+    "href": "https://github.com/JuliaRegistries/General",
+    "about": "The official registry of general Julia packages",
+    "star": "682",
+    "fork": "529",
+    "timestamp": "2026-01-04T03:07:40.172102",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/OrdinaryDiffEq.jl",
+    "href": "https://github.com/SciML/OrdinaryDiffEq.jl",
+    "about": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+    "star": "617",
+    "fork": "243",
+    "timestamp": "2026-01-04T03:07:40.172428",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/LabelledArrays.jl",
+    "href": "https://github.com/SciML/LabelledArrays.jl",
+    "about": "Arrays which also have a label for each element for easy scientific machine learning (SciML)",
+    "star": "122",
+    "fork": "20",
+    "timestamp": "2026-01-04T03:07:40.172752",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/DiffEqFlux.jl",
+    "href": "https://github.com/SciML/DiffEqFlux.jl",
+    "about": "Pre-built implicit layer architectures with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods",
+    "star": "906",
+    "fork": "159",
+    "timestamp": "2026-01-04T03:07:40.173065",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/ClimaAtmos.jl",
+    "href": "https://github.com/CliMA/ClimaAtmos.jl",
+    "about": "ClimaAtmos.jl is an atmosphere model that is designed to leverage data assimilation and machine learning tools for modeling and calibrating subgrid-scale processes.",
+    "star": "109",
+    "fork": "27",
+    "timestamp": "2026-01-04T03:07:40.173345",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "SciML/LinearSolve.jl",
+    "href": "https://github.com/SciML/LinearSolve.jl",
+    "about": "LinearSolve.jl: High-Performance Unified Interface for Linear Solvers in Julia. Easily switch between factorization and Krylov methods, add preconditioners, and all in one interface.",
+    "star": "276",
+    "fork": "81",
+    "timestamp": "2026-01-04T03:07:40.173668",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "QuantumSavory/QuantumClifford.jl",
+    "href": "https://github.com/QuantumSavory/QuantumClifford.jl",
+    "about": "Clifford circuits, graph states, and other quantum Stabilizer formalism tools.",
+    "star": "163",
+    "fork": "68",
+    "timestamp": "2026-01-04T03:07:40.173948",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "JuliaIO/JSON.jl",
+    "href": "https://github.com/JuliaIO/JSON.jl",
+    "about": "JSON parsing and printing",
+    "star": "343",
+    "fork": "106",
+    "timestamp": "2026-01-04T03:07:40.174225",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "CliMA/Oceananigans.jl",
+    "href": "https://github.com/CliMA/Oceananigans.jl",
+    "about": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+    "star": "1,218",
+    "fork": "259",
+    "timestamp": "2026-01-04T03:07:40.174517",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "JuliaSymbolics/SymbolicIntegration.jl",
+    "href": "https://github.com/JuliaSymbolics/SymbolicIntegration.jl",
+    "about": "Julia implementations of symbolic integration algorithms. Risch method, Rule-based integration (RUBI), and much more.",
+    "star": "33",
+    "fork": "5",
+    "timestamp": "2026-01-04T03:07:40.174801",
+    "stars_today": "0 stars today"
+  }
+]

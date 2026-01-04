@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "50,323",
+    "fork": "3,625",
+    "timestamp": "2026-01-04T03:07:36.222859",
+    "stars_today": "819 stars today"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "href": "https://github.com/gravitational/teleport",
+    "about": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "star": "19,610",
+    "fork": "1,968",
+    "timestamp": "2026-01-04T03:07:36.223156",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "The most advanced status page in the world",
+    "star": "9,485",
+    "fork": "635",
+    "timestamp": "2026-01-04T03:07:36.223479",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "12,111",
+    "fork": "1,093",
+    "timestamp": "2026-01-04T03:07:36.223765",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "danielpaulus/go-ios",
+    "href": "https://github.com/danielpaulus/go-ios",
+    "about": "This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.",
+    "star": "1,687",
+    "fork": "275",
+    "timestamp": "2026-01-04T03:07:36.224067",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "containers/kubernetes-mcp-server",
+    "href": "https://github.com/containers/kubernetes-mcp-server",
+    "about": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+    "star": "934",
+    "fork": "207",
+    "timestamp": "2026-01-04T03:07:36.224341",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "getsops/sops",
+    "href": "https://github.com/getsops/sops",
+    "about": "Simple and flexible tool for managing secrets",
+    "star": "20,360",
+    "fork": "996",
+    "timestamp": "2026-01-04T03:07:36.224634",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "KaijuEngine/kaiju",
+    "href": "https://github.com/KaijuEngine/kaiju",
+    "about": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+    "star": "4,032",
+    "fork": "148",
+    "timestamp": "2026-01-04T03:07:36.224912",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "autobrr/qui",
+    "href": "https://github.com/autobrr/qui",
+    "about": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.",
+    "star": "1,729",
+    "fork": "48",
+    "timestamp": "2026-01-04T03:07:36.225188",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "5,967",
+    "fork": "1,152",
+    "timestamp": "2026-01-04T03:07:36.225505",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,307",
+    "fork": "18,876",
+    "timestamp": "2026-01-04T03:07:36.225781",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "17,363",
+    "fork": "1,260",
+    "timestamp": "2026-01-04T03:07:36.226055",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "18,907",
+    "fork": "1,711",
+    "timestamp": "2026-01-04T03:07:36.226328",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "ory/hydra",
+    "href": "https://github.com/ory/hydra",
+    "about": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
+    "star": "16,802",
+    "fork": "1,601",
+    "timestamp": "2026-01-04T03:07:36.226614",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "grafana/alloy",
+    "href": "https://github.com/grafana/alloy",
+    "about": "OpenTelemetry Collector distribution with programmable pipelines",
+    "star": "2,772",
+    "fork": "494",
+    "timestamp": "2026-01-04T03:07:36.226889",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ory/kratos",
+    "href": "https://github.com/ory/kratos",
+    "about": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+    "star": "13,304",
+    "fork": "1,091",
+    "timestamp": "2026-01-04T03:07:36.227164",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,617",
+    "fork": "5,747",
+    "timestamp": "2026-01-04T03:07:36.227451",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "nginx/nginx-gateway-fabric",
+    "href": "https://github.com/nginx/nginx-gateway-fabric",
+    "about": "NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.",
+    "star": "892",
+    "fork": "160",
+    "timestamp": "2026-01-04T03:07:36.227728",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "60,865",
+    "fork": "5,761",
+    "timestamp": "2026-01-04T03:07:36.228031",
+    "stars_today": "19 stars today"
+  }
+]
