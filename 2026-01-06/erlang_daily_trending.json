@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,764",
+    "fork": "2,436",
+    "timestamp": "2026-01-06T02:56:12.350008",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "11,986",
+    "fork": "3,042",
+    "timestamp": "2026-01-06T02:56:12.350312",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,221",
+    "fork": "337",
+    "timestamp": "2026-01-06T02:56:12.350610",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "287",
+    "fork": "176",
+    "timestamp": "2026-01-06T02:56:12.350909",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,471",
+    "fork": "1,174",
+    "timestamp": "2026-01-06T02:56:12.351195",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "processone/ejabberd",
+    "href": "https://github.com/processone/ejabberd",
+    "about": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "star": "6,515",
+    "fork": "1,537",
+    "timestamp": "2026-01-06T02:56:12.351477",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "933",
+    "fork": "239",
+    "timestamp": "2026-01-06T02:56:12.351800",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,782",
+    "fork": "523",
+    "timestamp": "2026-01-06T02:56:12.352082",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "905",
+    "fork": "164",
+    "timestamp": "2026-01-06T02:56:12.352360",
+    "stars_today": "0 stars today"
+  }
+]
