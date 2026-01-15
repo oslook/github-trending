@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "41,602",
+    "fork": "3,406",
+    "timestamp": "2026-01-15T02:57:06.960381",
+    "stars_today": "64 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "25,168",
+    "fork": "3,142",
+    "timestamp": "2026-01-15T02:57:06.960686",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "11,676",
+    "fork": "1,277",
+    "timestamp": "2026-01-15T02:57:06.960993",
+    "stars_today": "114 stars today"
+  },
+  {
+    "repo": "github/gh-ost",
+    "href": "https://github.com/github/gh-ost",
+    "about": "GitHub's Online Schema-migration Tool for MySQL",
+    "star": "13,144",
+    "fork": "1,350",
+    "timestamp": "2026-01-15T02:57:06.961283",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ory/hydra",
+    "href": "https://github.com/ory/hydra",
+    "about": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
+    "star": "16,849",
+    "fork": "1,605",
+    "timestamp": "2026-01-15T02:57:06.961565",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "edoardottt/cariddi",
+    "href": "https://github.com/edoardottt/cariddi",
+    "about": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+    "star": "3,214",
+    "fork": "284",
+    "timestamp": "2026-01-15T02:57:06.961873",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,710",
+    "fork": "4,634",
+    "timestamp": "2026-01-15T02:57:06.962167",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "uber-go/fx",
+    "href": "https://github.com/uber-go/fx",
+    "about": "A dependency injection based application framework for Go.",
+    "star": "7,254",
+    "fork": "327",
+    "timestamp": "2026-01-15T02:57:06.962449",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "usememos/memos",
+    "href": "https://github.com/usememos/memos",
+    "about": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "star": "54,142",
+    "fork": "3,889",
+    "timestamp": "2026-01-15T02:57:06.962765",
+    "stars_today": "242 stars today"
+  },
+  {
+    "repo": "labstack/echo",
+    "href": "https://github.com/labstack/echo",
+    "about": "High performance, minimalist Go web framework",
+    "star": "32,037",
+    "fork": "2,309",
+    "timestamp": "2026-01-15T02:57:06.963105",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "vllm-project/semantic-router",
+    "href": "https://github.com/vllm-project/semantic-router",
+    "about": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "star": "2,814",
+    "fork": "432",
+    "timestamp": "2026-01-15T02:57:06.963421",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "livekit/livekit",
+    "href": "https://github.com/livekit/livekit",
+    "about": "End-to-end realtime stack for connecting humans and AI",
+    "star": "16,518",
+    "fork": "1,673",
+    "timestamp": "2026-01-15T02:57:06.963702",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "oauth2-proxy/oauth2-proxy",
+    "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "about": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "star": "13,639",
+    "fork": "1,981",
+    "timestamp": "2026-01-15T02:57:06.963996",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "henrygd/beszel",
+    "href": "https://github.com/henrygd/beszel",
+    "about": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+    "star": "18,627",
+    "fork": "597",
+    "timestamp": "2026-01-15T02:57:06.964279",
+    "stars_today": "39 stars today"
+  },
+  {
+    "repo": "runatlantis/atlantis",
+    "href": "https://github.com/runatlantis/atlantis",
+    "about": "Terraform Pull Request Automation",
+    "star": "8,760",
+    "fork": "1,209",
+    "timestamp": "2026-01-15T02:57:06.964570",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,496",
+    "fork": "1,832",
+    "timestamp": "2026-01-15T02:57:06.964856",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "16,268",
+    "fork": "700",
+    "timestamp": "2026-01-15T02:57:06.965158",
+    "stars_today": "111 stars today"
+  },
+  {
+    "repo": "open-policy-agent/opa",
+    "href": "https://github.com/open-policy-agent/opa",
+    "about": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "star": "11,087",
+    "fork": "1,502",
+    "timestamp": "2026-01-15T02:57:06.965442",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "containers/buildah",
+    "href": "https://github.com/containers/buildah",
+    "about": "A tool that facilitates building OCI images.",
+    "star": "8,540",
+    "fork": "869",
+    "timestamp": "2026-01-15T02:57:06.965724",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+    "about": "Collection of extensions for OpenTelemetry-Go.",
+    "star": "1,578",
+    "fork": "727",
+    "timestamp": "2026-01-15T02:57:06.966036",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "17,951",
+    "fork": "1,541",
+    "timestamp": "2026-01-15T02:57:06.966324",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "26,286",
+    "fork": "514",
+    "timestamp": "2026-01-15T02:57:06.966635",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "29,530",
+    "fork": "2,667",
+    "timestamp": "2026-01-15T02:57:06.966923",
+    "stars_today": "22 stars today"
+  }
+]

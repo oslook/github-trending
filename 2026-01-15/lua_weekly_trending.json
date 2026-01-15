@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "NickvanDyke/opencode.nvim",
+    "href": "https://github.com/NickvanDyke/opencode.nvim",
+    "about": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
+    "star": "1,736",
+    "fork": "58",
+    "timestamp": "2026-01-15T02:57:15.427001",
+    "stars_today": "288 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "24,948",
+    "fork": "1,599",
+    "timestamp": "2026-01-15T02:57:15.427306",
+    "stars_today": "107 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "5,943",
+    "fork": "355",
+    "timestamp": "2026-01-15T02:57:15.427622",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "24,632",
+    "fork": "1,707",
+    "timestamp": "2026-01-15T02:57:15.427906",
+    "stars_today": "128 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,476",
+    "fork": "254",
+    "timestamp": "2026-01-15T02:57:15.428229",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "sudo-tee/opencode.nvim",
+    "href": "https://github.com/sudo-tee/opencode.nvim",
+    "about": "neovim frontend for opencode - a terminal-based AI coding agent",
+    "star": "355",
+    "fork": "30",
+    "timestamp": "2026-01-15T02:57:15.428512",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,219",
+    "fork": "2,391",
+    "timestamp": "2026-01-15T02:57:15.428821",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "16,080",
+    "fork": "2,770",
+    "timestamp": "2026-01-15T02:57:15.429119",
+    "stars_today": "31 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "7,111",
+    "fork": "320",
+    "timestamp": "2026-01-15T02:57:15.429433",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "xmake-io/xmake",
+    "href": "https://github.com/xmake-io/xmake",
+    "about": "🔥 A cross-platform build utility based on Lua",
+    "star": "11,630",
+    "fork": "905",
+    "timestamp": "2026-01-15T02:57:15.429715",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "seblyng/roslyn.nvim",
+    "href": "https://github.com/seblyng/roslyn.nvim",
+    "about": "Roslyn LSP plugin for neovim",
+    "star": "763",
+    "fork": "46",
+    "timestamp": "2026-01-15T02:57:15.430009",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "6,141",
+    "fork": "195",
+    "timestamp": "2026-01-15T02:57:15.430292",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "greggh/claude-code.nvim",
+    "href": "https://github.com/greggh/claude-code.nvim",
+    "about": "Seamless integration between Claude Code AI assistant and Neovim",
+    "star": "1,719",
+    "fork": "54",
+    "timestamp": "2026-01-15T02:57:15.430601",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,514",
+    "fork": "164",
+    "timestamp": "2026-01-15T02:57:15.430884",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "amzxyz/rime_wanxiang",
+    "href": "https://github.com/amzxyz/rime_wanxiang",
+    "about": "Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066",
+    "star": "2,609",
+    "fork": "102",
+    "timestamp": "2026-01-15T02:57:15.431277",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "18,891",
+    "fork": "942",
+    "timestamp": "2026-01-15T02:57:15.431670",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "pterodactyl/game-eggs",
+    "href": "https://github.com/pterodactyl/game-eggs",
+    "about": "Pterodactyl Game Eggs",
+    "star": "222",
+    "fork": "57",
+    "timestamp": "2026-01-15T02:57:15.431993",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,734",
+    "fork": "510",
+    "timestamp": "2026-01-15T02:57:15.432273",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim (actively maintained version)",
+    "star": "1,434",
+    "fork": "100",
+    "timestamp": "2026-01-15T02:57:15.432553",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "beyond-all-reason/Beyond-All-Reason",
+    "href": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "about": "Main game repository for Beyond All Reason.",
+    "star": "2,703",
+    "fork": "520",
+    "timestamp": "2026-01-15T02:57:15.432832",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "3,996",
+    "fork": "229",
+    "timestamp": "2026-01-15T02:57:15.433123",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The Cloud-Native Gateway for APIs & AI",
+    "star": "42,527",
+    "fork": "5,049",
+    "timestamp": "2026-01-15T02:57:15.433401",
+    "stars_today": "41 stars this week"
+  }
+]
