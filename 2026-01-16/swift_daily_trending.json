@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "groue/GRDB.swift",
+    "href": "https://github.com/groue/GRDB.swift",
+    "about": "A toolkit for SQLite databases, with a focus on application development",
+    "star": "8,104",
+    "fork": "830",
+    "timestamp": "2026-01-16T02:58:38.946523",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "supabase/supabase-swift",
+    "href": "https://github.com/supabase/supabase-swift",
+    "about": "A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",
+    "star": "1,138",
+    "fork": "221",
+    "timestamp": "2026-01-16T02:58:38.946850",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rime/squirrel",
+    "href": "https://github.com/rime/squirrel",
+    "about": "【鼠鬚管】Rime for macOS",
+    "star": "5,638",
+    "fork": "460",
+    "timestamp": "2026-01-16T02:58:38.947136",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "onevcat/Kingfisher",
+    "href": "https://github.com/onevcat/Kingfisher",
+    "about": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "star": "24,236",
+    "fork": "2,746",
+    "timestamp": "2026-01-16T02:58:38.947435",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "Alamofire/Alamofire",
+    "href": "https://github.com/Alamofire/Alamofire",
+    "about": "Elegant HTTP Networking in Swift",
+    "star": "42,300",
+    "fork": "7,669",
+    "timestamp": "2026-01-16T02:58:38.947732",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "getsentry/sentry-cocoa",
+    "href": "https://github.com/getsentry/sentry-cocoa",
+    "about": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
+    "star": "998",
+    "fork": "375",
+    "timestamp": "2026-01-16T02:58:38.948009",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "RevenueCat/purchases-ios",
+    "href": "https://github.com/RevenueCat/purchases-ios",
+    "about": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+    "star": "2,902",
+    "fork": "411",
+    "timestamp": "2026-01-16T02:58:38.948278",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "yonaskolb/XcodeGen",
+    "href": "https://github.com/yonaskolb/XcodeGen",
+    "about": "A Swift command line tool for generating your Xcode project",
+    "star": "7,987",
+    "fork": "869",
+    "timestamp": "2026-01-16T02:58:38.948543",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "vapor/vapor",
+    "href": "https://github.com/vapor/vapor",
+    "about": "💧 A server-side Swift HTTP web framework.",
+    "star": "25,898",
+    "fork": "1,518",
+    "timestamp": "2026-01-16T02:58:38.948838",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "Clipy/Clipy",
+    "href": "https://github.com/Clipy/Clipy",
+    "about": "Clipboard extension app for macOS.",
+    "star": "8,348",
+    "fork": "714",
+    "timestamp": "2026-01-16T02:58:38.949117",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nicklockwood/SwiftFormat",
+    "href": "https://github.com/nicklockwood/SwiftFormat",
+    "about": "A command-line tool and Xcode Extension for formatting Swift code",
+    "star": "8,657",
+    "fork": "667",
+    "timestamp": "2026-01-16T02:58:38.949380",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "realm/SwiftLint",
+    "href": "https://github.com/realm/SwiftLint",
+    "about": "A tool to enforce Swift style and conventions.",
+    "star": "19,393",
+    "fork": "2,279",
+    "timestamp": "2026-01-16T02:58:38.949648",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "SnapKit/SnapKit",
+    "href": "https://github.com/SnapKit/SnapKit",
+    "about": "A Swift Autolayout DSL for iOS & OS X",
+    "star": "20,314",
+    "fork": "2,039",
+    "timestamp": "2026-01-16T02:58:38.950046",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ejbills/DockDoor",
+    "href": "https://github.com/ejbills/DockDoor",
+    "about": "Window peeking, alt-tab and other enhancements for macOS",
+    "star": "3,630",
+    "fork": "98",
+    "timestamp": "2026-01-16T02:58:38.950389",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "signalapp/Signal-iOS",
+    "href": "https://github.com/signalapp/Signal-iOS",
+    "about": "A private messenger for iOS.",
+    "star": "11,792",
+    "fork": "3,336",
+    "timestamp": "2026-01-16T02:58:38.950656",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "stripe/stripe-ios",
+    "href": "https://github.com/stripe/stripe-ios",
+    "about": "Stripe iOS SDK",
+    "star": "2,488",
+    "fork": "1,038",
+    "timestamp": "2026-01-16T02:58:38.950935",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "href": "https://github.com/apple/swift-protobuf",
+    "about": "Plugin and runtime library for using protobuf with Swift",
+    "star": "4,860",
+    "fork": "502",
+    "timestamp": "2026-01-16T02:58:38.951216",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ChartsOrg/Charts",
+    "href": "https://github.com/ChartsOrg/Charts",
+    "about": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "star": "28,004",
+    "fork": "6,042",
+    "timestamp": "2026-01-16T02:58:38.951622",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "pointfreeco/swift-snapshot-testing",
+    "href": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "about": "📸 Delightful Swift snapshot testing.",
+    "star": "4,111",
+    "fork": "641",
+    "timestamp": "2026-01-16T02:58:38.951905",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "home-assistant/iOS",
+    "href": "https://github.com/home-assistant/iOS",
+    "about": "📱 Home Assistant for Apple platforms",
+    "star": "2,071",
+    "fork": "407",
+    "timestamp": "2026-01-16T02:58:38.952169",
+    "stars_today": "1 star today"
+  }
+]
