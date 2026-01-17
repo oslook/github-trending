@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "paradigmxyz/reth",
+    "href": "https://github.com/paradigmxyz/reth",
+    "about": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "star": "5,330",
+    "fork": "2,232",
+    "timestamp": "2026-01-17T02:49:45.653991",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "foundry-rs/foundry",
+    "href": "https://github.com/foundry-rs/foundry",
+    "about": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "star": "10,035",
+    "fork": "2,341",
+    "timestamp": "2026-01-17T02:49:45.654285",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "spiceai/spiceai",
+    "href": "https://github.com/spiceai/spiceai",
+    "about": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+    "star": "2,727",
+    "fork": "164",
+    "timestamp": "2026-01-17T02:49:45.654576",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "href": "https://github.com/rustfs/rustfs",
+    "about": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "star": "19,861",
+    "fork": "854",
+    "timestamp": "2026-01-17T02:49:45.654860",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "tempoxyz/tempo",
+    "href": "https://github.com/tempoxyz/tempo",
+    "about": "the blockchain for payments",
+    "star": "677",
+    "fork": "173",
+    "timestamp": "2026-01-17T02:49:45.655147",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "href": "https://github.com/chroma-core/chroma",
+    "about": "Open-source search and retrieval database for AI applications.",
+    "star": "25,504",
+    "fork": "2,002",
+    "timestamp": "2026-01-17T02:49:45.655430",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "29,555",
+    "fork": "2,222",
+    "timestamp": "2026-01-17T02:49:45.655720",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "alloy-rs/alloy",
+    "href": "https://github.com/alloy-rs/alloy",
+    "about": "Transports, Middleware, and Networks for the Alloy project",
+    "star": "1,193",
+    "fork": "552",
+    "timestamp": "2026-01-17T02:49:45.656007",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "href": "https://github.com/astral-sh/uv",
+    "about": "An extremely fast Python package and project manager, written in Rust.",
+    "star": "77,108",
+    "fork": "2,450",
+    "timestamp": "2026-01-17T02:49:45.656285",
+    "stars_today": "83 stars today"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "7,286",
+    "fork": "1,241",
+    "timestamp": "2026-01-17T02:49:45.656579",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "farion1231/cc-switch",
+    "href": "https://github.com/farion1231/cc-switch",
+    "about": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
+    "star": "11,787",
+    "fork": "767",
+    "timestamp": "2026-01-17T02:49:45.656859",
+    "stars_today": "280 stars today"
+  },
+  {
+    "repo": "prefix-dev/pixi",
+    "href": "https://github.com/prefix-dev/pixi",
+    "about": "Package management made easy",
+    "star": "6,132",
+    "fork": "409",
+    "timestamp": "2026-01-17T02:49:45.657134",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "rolldown/rolldown",
+    "href": "https://github.com/rolldown/rolldown",
+    "about": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+    "star": "12,650",
+    "fork": "683",
+    "timestamp": "2026-01-17T02:49:45.657439",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "tikv/tikv",
+    "href": "https://github.com/tikv/tikv",
+    "about": "Distributed transactional key-value database, originally created to complement TiDB",
+    "star": "16,468",
+    "fork": "2,240",
+    "timestamp": "2026-01-17T02:49:45.657727",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "seanmonstar/reqwest",
+    "href": "https://github.com/seanmonstar/reqwest",
+    "about": "An easy and powerful Rust HTTP Client",
+    "star": "11,335",
+    "fork": "1,322",
+    "timestamp": "2026-01-17T02:49:45.658033",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "3,576",
+    "fork": "106",
+    "timestamp": "2026-01-17T02:49:45.658334",
+    "stars_today": "59 stars today"
+  },
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "56,342",
+    "fork": "7,261",
+    "timestamp": "2026-01-17T02:49:45.658622",
+    "stars_today": "119 stars today"
+  },
+  {
+    "repo": "maplibre/martin",
+    "href": "https://github.com/maplibre/martin",
+    "about": "Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.",
+    "star": "3,261",
+    "fork": "318",
+    "timestamp": "2026-01-17T02:49:45.658930",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "lance-format/lance",
+    "href": "https://github.com/lance-format/lance",
+    "about": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "star": "5,946",
+    "fork": "523",
+    "timestamp": "2026-01-17T02:49:45.659272",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "href": "https://github.com/lancedb/lancedb",
+    "about": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "star": "8,523",
+    "fork": "709",
+    "timestamp": "2026-01-17T02:49:45.659608",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "linera-io/linera-protocol",
+    "href": "https://github.com/linera-io/linera-protocol",
+    "about": "Main repository for the Linera protocol",
+    "star": "31,955",
+    "fork": "2,261",
+    "timestamp": "2026-01-17T02:49:45.659892",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "helix-editor/helix",
+    "href": "https://github.com/helix-editor/helix",
+    "about": "A post-modern modal text editor.",
+    "star": "42,450",
+    "fork": "3,261",
+    "timestamp": "2026-01-17T02:49:45.660170",
+    "stars_today": "20 stars today"
+  }
+]

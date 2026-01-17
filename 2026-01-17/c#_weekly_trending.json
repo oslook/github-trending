@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,795",
+    "fork": "1,423",
+    "timestamp": "2026-01-17T02:49:19.680453",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS",
+    "href": "https://github.com/FreeRTOS/FreeRTOS",
+    "about": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+    "star": "6,875",
+    "fork": "1,930",
+    "timestamp": "2026-01-17T02:49:19.680768",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mackron/miniaudio",
+    "href": "https://github.com/mackron/miniaudio",
+    "about": "Audio playback and capture library written in C, in a single source file.",
+    "star": "6,121",
+    "fork": "511",
+    "timestamp": "2026-01-17T02:49:19.681079",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "10,516",
+    "fork": "2,572",
+    "timestamp": "2026-01-17T02:49:19.681357",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "facebook/zstd",
+    "href": "https://github.com/facebook/zstd",
+    "about": "Zstandard - Fast real-time compression algorithm",
+    "star": "26,417",
+    "fork": "2,380",
+    "timestamp": "2026-01-17T02:49:19.681649",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "40,391",
+    "fork": "7,019",
+    "timestamp": "2026-01-17T02:49:19.681966",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "Cyan4973/xxHash",
+    "href": "https://github.com/Cyan4973/xxHash",
+    "about": "Extremely fast non-cryptographic hash algorithm",
+    "star": "10,747",
+    "fork": "878",
+    "timestamp": "2026-01-17T02:49:19.682247",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "19,302",
+    "fork": "1,027",
+    "timestamp": "2026-01-17T02:49:19.682523",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "AprilRobotics/apriltag",
+    "href": "https://github.com/AprilRobotics/apriltag",
+    "about": "AprilTag is a visual fiducial system popular for robotics research.",
+    "star": "2,082",
+    "fork": "624",
+    "timestamp": "2026-01-17T02:49:19.682844",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "14,194",
+    "fork": "8,518",
+    "timestamp": "2026-01-17T02:49:19.683132",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "screetsec/TheFatRat",
+    "href": "https://github.com/screetsec/TheFatRat",
+    "about": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+    "star": "10,914",
+    "fork": "2,498",
+    "timestamp": "2026-01-17T02:49:19.683409",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "wine-mirror/wine",
+    "href": "https://github.com/wine-mirror/wine",
+    "about": "",
+    "star": "3,811",
+    "fork": "1,224",
+    "timestamp": "2026-01-17T02:49:19.683721",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "coolsnowwolf/lede",
+    "href": "https://github.com/coolsnowwolf/lede",
+    "about": "Lean's LEDE source",
+    "star": "31,244",
+    "fork": "19,532",
+    "timestamp": "2026-01-17T02:49:19.683995",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "axboe/fio",
+    "href": "https://github.com/axboe/fio",
+    "about": "Flexible I/O Tester",
+    "star": "6,028",
+    "fork": "1,369",
+    "timestamp": "2026-01-17T02:49:19.684270",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "containers/bubblewrap",
+    "href": "https://github.com/containers/bubblewrap",
+    "about": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+    "star": "5,464",
+    "fork": "273",
+    "timestamp": "2026-01-17T02:49:19.684557",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "nginx/nginx",
+    "href": "https://github.com/nginx/nginx",
+    "about": "The official NGINX Open Source repository.",
+    "star": "29,106",
+    "fork": "7,718",
+    "timestamp": "2026-01-17T02:49:19.684834",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "mit-pdos/xv6-riscv",
+    "href": "https://github.com/mit-pdos/xv6-riscv",
+    "about": "Xv6 for RISC-V",
+    "star": "9,122",
+    "fork": "3,617",
+    "timestamp": "2026-01-17T02:49:19.685106",
+    "stars_today": "7 stars today"
+  }
+]

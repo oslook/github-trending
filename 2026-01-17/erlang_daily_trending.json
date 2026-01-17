@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,785",
+    "fork": "1,064",
+    "timestamp": "2026-01-17T02:49:26.926627",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,228",
+    "fork": "336",
+    "timestamp": "2026-01-17T02:49:26.926923",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "695",
+    "fork": "217",
+    "timestamp": "2026-01-17T02:49:26.927210",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,476",
+    "fork": "1,174",
+    "timestamp": "2026-01-17T02:49:26.927498",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "286",
+    "fork": "175",
+    "timestamp": "2026-01-17T02:49:26.927796",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,886",
+    "fork": "466",
+    "timestamp": "2026-01-17T02:49:26.928076",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/gun",
+    "href": "https://github.com/ninenines/gun",
+    "about": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+    "star": "933",
+    "fork": "239",
+    "timestamp": "2026-01-17T02:49:26.928357",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "jcomellas/getopt",
+    "href": "https://github.com/jcomellas/getopt",
+    "about": "Erlang module to parse command line arguments using the GNU getopt syntax",
+    "star": "255",
+    "fork": "80",
+    "timestamp": "2026-01-17T02:49:26.928652",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "758",
+    "fork": "158",
+    "timestamp": "2026-01-17T02:49:26.928933",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hexpm/hex_core",
+    "href": "https://github.com/hexpm/hex_core",
+    "about": "Reference implementation of Hex specifications.",
+    "star": "102",
+    "fork": "33",
+    "timestamp": "2026-01-17T02:49:26.929213",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,128",
+    "fork": "450",
+    "timestamp": "2026-01-17T02:49:26.929493",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "12,002",
+    "fork": "3,045",
+    "timestamp": "2026-01-17T02:49:26.929786",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ferd/recon",
+    "href": "https://github.com/ferd/recon",
+    "about": "Collection of functions and scripts to debug Erlang in production.",
+    "star": "1,404",
+    "fork": "278",
+    "timestamp": "2026-01-17T02:49:26.930064",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "334",
+    "fork": "113",
+    "timestamp": "2026-01-17T02:49:26.930346",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "67",
+    "fork": "39",
+    "timestamp": "2026-01-17T02:49:26.930636",
+    "stars_today": "0 stars today"
+  }
+]
