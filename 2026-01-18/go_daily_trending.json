@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "helm/helm",
+    "href": "https://github.com/helm/helm",
+    "about": "The Kubernetes Package Manager",
+    "star": "29,304",
+    "fork": "7,466",
+    "timestamp": "2026-01-18T03:05:12.769136",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "memodb-io/Acontext",
+    "href": "https://github.com/memodb-io/Acontext",
+    "about": "Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io",
+    "star": "2,669",
+    "fork": "244",
+    "timestamp": "2026-01-18T03:05:12.769434",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "23,453",
+    "fork": "3,545",
+    "timestamp": "2026-01-18T03:05:12.769719",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "29,603",
+    "fork": "2,671",
+    "timestamp": "2026-01-18T03:05:12.770015",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "42,122",
+    "fork": "3,450",
+    "timestamp": "2026-01-18T03:05:12.770324",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "juicedata/juicefs",
+    "href": "https://github.com/juicedata/juicefs",
+    "about": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "star": "13,001",
+    "fork": "1,146",
+    "timestamp": "2026-01-18T03:05:12.770602",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "16,607",
+    "fork": "719",
+    "timestamp": "2026-01-18T03:05:12.770881",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/ingress2gateway",
+    "href": "https://github.com/kubernetes-sigs/ingress2gateway",
+    "about": "Convert Ingress resources to Gateway API resources",
+    "star": "766",
+    "fork": "115",
+    "timestamp": "2026-01-18T03:05:12.771175",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "12,050",
+    "fork": "1,330",
+    "timestamp": "2026-01-18T03:05:12.771457",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "alibaba/higress",
+    "href": "https://github.com/alibaba/higress",
+    "about": "🤖 AI Gateway | AI Native API Gateway",
+    "star": "7,317",
+    "fork": "952",
+    "timestamp": "2026-01-18T03:05:12.771732",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "103,553",
+    "fork": "14,803",
+    "timestamp": "2026-01-18T03:05:12.772047",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "3,887",
+    "fork": "633",
+    "timestamp": "2026-01-18T03:05:12.772329",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "30,366",
+    "fork": "2,944",
+    "timestamp": "2026-01-18T03:05:12.772607",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "26,022",
+    "fork": "3,389",
+    "timestamp": "2026-01-18T03:05:12.772883",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "HavocFramework/Havoc",
+    "href": "https://github.com/HavocFramework/Havoc",
+    "about": "The Havoc Framework",
+    "star": "8,088",
+    "fork": "1,160",
+    "timestamp": "2026-01-18T03:05:12.773173",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "harvester/harvester",
+    "href": "https://github.com/harvester/harvester",
+    "about": "Open source hyperconverged infrastructure (HCI) software",
+    "star": "4,867",
+    "fork": "402",
+    "timestamp": "2026-01-18T03:05:12.773448",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ccfos/nightingale",
+    "href": "https://github.com/ccfos/nightingale",
+    "about": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
+    "star": "12,789",
+    "fork": "1,660",
+    "timestamp": "2026-01-18T03:05:12.773723",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "1,741",
+    "fork": "186",
+    "timestamp": "2026-01-18T03:05:12.774013",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "href": "https://github.com/jesseduffield/lazydocker",
+    "about": "The lazier way to manage everything docker",
+    "star": "49,227",
+    "fork": "1,559",
+    "timestamp": "2026-01-18T03:05:12.774317",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "grafana/loki",
+    "href": "https://github.com/grafana/loki",
+    "about": "Like Prometheus, but for logs.",
+    "star": "27,409",
+    "fork": "3,897",
+    "timestamp": "2026-01-18T03:05:12.774593",
+    "stars_today": "13 stars today"
+  }
+]
