@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "24,714",
+    "fork": "1,715",
+    "timestamp": "2026-01-20T03:00:17.944245",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,845",
+    "fork": "271",
+    "timestamp": "2026-01-20T03:00:17.944549",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,936",
+    "fork": "325",
+    "timestamp": "2026-01-20T03:00:17.944834",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nvim-lualine/lualine.nvim",
+    "href": "https://github.com/nvim-lualine/lualine.nvim",
+    "about": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+    "star": "7,669",
+    "fork": "536",
+    "timestamp": "2026-01-20T03:00:17.945129",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "4,010",
+    "fork": "232",
+    "timestamp": "2026-01-20T03:00:17.945416",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "LandSandBoat/server",
+    "href": "https://github.com/LandSandBoat/server",
+    "about": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
+    "star": "430",
+    "fork": "809",
+    "timestamp": "2026-01-20T03:00:17.945696",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "folke/tokyonight.nvim",
+    "href": "https://github.com/folke/tokyonight.nvim",
+    "about": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "star": "7,746",
+    "fork": "516",
+    "timestamp": "2026-01-20T03:00:17.945978",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "akinsho/bufferline.nvim",
+    "href": "https://github.com/akinsho/bufferline.nvim",
+    "about": "A snazzy bufferline for Neovim",
+    "star": "4,198",
+    "fork": "231",
+    "timestamp": "2026-01-20T03:00:17.946301",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "Mintimate/oh-my-rime",
+    "href": "https://github.com/Mintimate/oh-my-rime",
+    "about": "The Simple Config Template Of Rime By Mintimate.",
+    "star": "4,205",
+    "fork": "281",
+    "timestamp": "2026-01-20T03:00:17.946581",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "mikavilpas/yazi.nvim",
+    "href": "https://github.com/mikavilpas/yazi.nvim",
+    "about": "A Neovim Plugin for the yazi terminal file manager",
+    "star": "1,500",
+    "fork": "47",
+    "timestamp": "2026-01-20T03:00:17.946860",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "4,237",
+    "fork": "264",
+    "timestamp": "2026-01-20T03:00:17.947178",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "iDvel/rime-ice",
+    "href": "https://github.com/iDvel/rime-ice",
+    "about": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "star": "15,237",
+    "fork": "975",
+    "timestamp": "2026-01-20T03:00:17.947457",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "29,091",
+    "fork": "43,521",
+    "timestamp": "2026-01-20T03:00:17.947735",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "6,160",
+    "fork": "199",
+    "timestamp": "2026-01-20T03:00:17.948012",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "25,040",
+    "fork": "1,602",
+    "timestamp": "2026-01-20T03:00:17.948307",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "m4xshen/hardtime.nvim",
+    "href": "https://github.com/m4xshen/hardtime.nvim",
+    "about": "Break bad habits, master Vim motions",
+    "star": "3,633",
+    "fork": "44",
+    "timestamp": "2026-01-20T03:00:17.948586",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "5,158",
+    "fork": "275",
+    "timestamp": "2026-01-20T03:00:17.948874",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "folke/noice.nvim",
+    "href": "https://github.com/folke/noice.nvim",
+    "about": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "star": "5,550",
+    "fork": "155",
+    "timestamp": "2026-01-20T03:00:17.949167",
+    "stars_today": "2 stars today"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "70,586",
+    "fork": "12,963",
+    "timestamp": "2026-01-20T03:00:29.738845",
+    "stars_today": "2,710 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,552",
+    "fork": "1,988",
+    "timestamp": "2026-01-20T03:00:29.739151",
+    "stars_today": "90 stars this month"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,663",
+    "fork": "29,008",
+    "timestamp": "2026-01-20T03:00:29.739433",
+    "stars_today": "197 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,841",
+    "fork": "865",
+    "timestamp": "2026-01-20T03:00:29.739709",
+    "stars_today": "48 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,607",
+    "fork": "2,540",
+    "timestamp": "2026-01-20T03:00:29.739987",
+    "stars_today": "150 stars this month"
+  },
+  {
+    "repo": "akka/akka-core",
+    "href": "https://github.com/akka/akka-core",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,262",
+    "fork": "3,582",
+    "timestamp": "2026-01-20T03:00:29.740278",
+    "stars_today": "27 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,497",
+    "fork": "564",
+    "timestamp": "2026-01-20T03:00:29.740554",
+    "stars_today": "13 stars this month"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "365",
+    "fork": "97",
+    "timestamp": "2026-01-20T03:00:29.740849",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,540",
+    "fork": "646",
+    "timestamp": "2026-01-20T03:00:29.741146",
+    "stars_today": "41 stars this month"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,888",
+    "fork": "978",
+    "timestamp": "2026-01-20T03:00:29.741431",
+    "stars_today": "14 stars this month"
+  },
+  {
+    "repo": "OpenXiangShan/CoupledL2",
+    "href": "https://github.com/OpenXiangShan/CoupledL2",
+    "about": "Open-source non-blocking L2 cache",
+    "star": "52",
+    "fork": "32",
+    "timestamp": "2026-01-20T03:00:29.741706",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "2,052",
+    "fork": "477",
+    "timestamp": "2026-01-20T03:00:29.741982",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-6x faster dev workflows than other JVM build tools",
+    "star": "2,668",
+    "fork": "427",
+    "timestamp": "2026-01-20T03:00:29.742270",
+    "stars_today": "23 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,848",
+    "fork": "380",
+    "timestamp": "2026-01-20T03:00:29.742550",
+    "stars_today": "74 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "208",
+    "fork": "52",
+    "timestamp": "2026-01-20T03:00:29.742826",
+    "stars_today": "4 stars this month"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,107",
+    "fork": "804",
+    "timestamp": "2026-01-20T03:00:29.743114",
+    "stars_today": "36 stars this month"
+  }
+]
