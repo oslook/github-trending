@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "aws/aws-lc",
+    "href": "https://github.com/aws/aws-lc",
+    "about": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+    "star": "682",
+    "fork": "163",
+    "timestamp": "2026-01-22T03:03:26.537777",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "ebitengine/purego",
+    "href": "https://github.com/ebitengine/purego",
+    "about": "A library for calling C functions from Go without Cgo",
+    "star": "3,301",
+    "fork": "101",
+    "timestamp": "2026-01-22T03:03:26.538096",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "apple/swift-nio-ssl",
+    "href": "https://github.com/apple/swift-nio-ssl",
+    "about": "TLS Support for SwiftNIO, based on BoringSSL.",
+    "star": "420",
+    "fork": "158",
+    "timestamp": "2026-01-22T03:03:26.538386",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "ROCm/rocm-libraries",
+    "href": "https://github.com/ROCm/rocm-libraries",
+    "about": "monorepo for rocm libraries",
+    "star": "231",
+    "fork": "190",
+    "timestamp": "2026-01-22T03:03:26.538670",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "apple/swift-crypto",
+    "href": "https://github.com/apple/swift-crypto",
+    "about": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.",
+    "star": "1,650",
+    "fork": "197",
+    "timestamp": "2026-01-22T03:03:26.538950",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "SheerSt/pokewilds",
+    "href": "https://github.com/SheerSt/pokewilds",
+    "about": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+    "star": "2,837",
+    "fork": "215",
+    "timestamp": "2026-01-22T03:03:26.539245",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "giaf/blasfeo",
+    "href": "https://github.com/giaf/blasfeo",
+    "about": "Basic linear algebra subroutines for embedded optimization",
+    "star": "394",
+    "fork": "96",
+    "timestamp": "2026-01-22T03:03:26.539526",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "leachim6/hello-world",
+    "href": "https://github.com/leachim6/hello-world",
+    "about": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+    "star": "11,746",
+    "fork": "2,060",
+    "timestamp": "2026-01-22T03:03:26.539803",
+    "stars_today": "25 stars this week"
+  },
+  {
+    "repo": "BLAKE3-team/BLAKE3",
+    "href": "https://github.com/BLAKE3-team/BLAKE3",
+    "about": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+    "star": "6,008",
+    "fork": "424",
+    "timestamp": "2026-01-22T03:03:26.540094",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "apache/arrow-go",
+    "href": "https://github.com/apache/arrow-go",
+    "about": "Official Go implementation of Apache Arrow",
+    "star": "313",
+    "fork": "89",
+    "timestamp": "2026-01-22T03:03:26.540379",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "chrislgarry/Apollo-11",
+    "href": "https://github.com/chrislgarry/Apollo-11",
+    "about": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "star": "64,479",
+    "fork": "7,371",
+    "timestamp": "2026-01-22T03:03:26.540686",
+    "stars_today": "62 stars this week"
+  },
+  {
+    "repo": "supranational/blst",
+    "href": "https://github.com/supranational/blst",
+    "about": "Multilingual BLS12-381 signature library",
+    "star": "548",
+    "fork": "218",
+    "timestamp": "2026-01-22T03:03:26.540964",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "Rangi42/polishedcrystal",
+    "href": "https://github.com/Rangi42/polishedcrystal",
+    "about": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+    "star": "1,413",
+    "fork": "275",
+    "timestamp": "2026-01-22T03:03:26.541256",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "ucb-bar/saturn-vectors",
+    "href": "https://github.com/ucb-bar/saturn-vectors",
+    "about": "Chisel RISC-V Vector 1.0 Implementation",
+    "star": "126",
+    "fork": "22",
+    "timestamp": "2026-01-22T03:03:26.541535",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "openhwgroup/cva6",
+    "href": "https://github.com/openhwgroup/cva6",
+    "about": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+    "star": "2,758",
+    "fork": "876",
+    "timestamp": "2026-01-22T03:03:26.541809",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "lukechampine/blake3",
+    "href": "https://github.com/lukechampine/blake3",
+    "about": "An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function",
+    "star": "409",
+    "fork": "30",
+    "timestamp": "2026-01-22T03:03:26.542098",
+    "stars_today": "0 stars this week"
+  }
+]

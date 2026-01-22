@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "71,408",
+    "fork": "13,096",
+    "timestamp": "2026-01-22T03:03:56.730558",
+    "stars_today": "1,518 stars this week"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,555",
+    "fork": "1,991",
+    "timestamp": "2026-01-22T03:03:56.730856",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,889",
+    "fork": "980",
+    "timestamp": "2026-01-22T03:03:56.731159",
+    "stars_today": "6 stars this week"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,500",
+    "fork": "564",
+    "timestamp": "2026-01-22T03:03:56.731452",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,677",
+    "fork": "29,017",
+    "timestamp": "2026-01-22T03:03:56.731740",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "zio/zio-blocks",
+    "href": "https://github.com/zio/zio-blocks",
+    "about": "Powerful, joyful building blocks for modern cloud-native applications.",
+    "star": "68",
+    "fork": "100",
+    "timestamp": "2026-01-22T03:03:56.732024",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,293",
+    "fork": "981",
+    "timestamp": "2026-01-22T03:03:56.732322",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "akka/akka-core",
+    "href": "https://github.com/akka/akka-core",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,263",
+    "fork": "3,582",
+    "timestamp": "2026-01-22T03:03:56.732606",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "60",
+    "fork": "58",
+    "timestamp": "2026-01-22T03:03:56.732890",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,854",
+    "fork": "380",
+    "timestamp": "2026-01-22T03:03:56.733189",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,183",
+    "fork": "1,133",
+    "timestamp": "2026-01-22T03:03:56.733474",
+    "stars_today": "7 stars this week"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "959",
+    "fork": "270",
+    "timestamp": "2026-01-22T03:03:56.733758",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip-inclusive-cache",
+    "href": "https://github.com/chipsalliance/rocket-chip-inclusive-cache",
+    "about": "An RTL generator for a last-level shared inclusive TileLink cache controller",
+    "star": "23",
+    "fork": "26",
+    "timestamp": "2026-01-22T03:03:56.734041",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,848",
+    "fork": "865",
+    "timestamp": "2026-01-22T03:03:56.734333",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,939",
+    "fork": "576",
+    "timestamp": "2026-01-22T03:03:56.734647",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "chipsalliance/diplomacy",
+    "href": "https://github.com/chipsalliance/diplomacy",
+    "about": "",
+    "star": "22",
+    "fork": "18",
+    "timestamp": "2026-01-22T03:03:56.734949",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-6x faster dev workflows than other JVM build tools",
+    "star": "2,670",
+    "fork": "428",
+    "timestamp": "2026-01-22T03:03:56.735243",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "SpinalHDL/SpinalHDL",
+    "href": "https://github.com/SpinalHDL/SpinalHDL",
+    "about": "Scala based HDL",
+    "star": "1,910",
+    "fork": "366",
+    "timestamp": "2026-01-22T03:03:56.735524",
+    "stars_today": "5 stars this week"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,544",
+    "fork": "646",
+    "timestamp": "2026-01-22T03:03:56.735808",
+    "stars_today": "12 stars this week"
+  }
+]

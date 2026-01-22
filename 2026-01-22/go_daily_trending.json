@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "9,730",
+    "fork": "2,970",
+    "timestamp": "2026-01-22T03:03:37.787488",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "31,060",
+    "fork": "2,885",
+    "timestamp": "2026-01-22T03:03:37.787831",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "11,812",
+    "fork": "893",
+    "timestamp": "2026-01-22T03:03:37.788125",
+    "stars_today": "475 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,590",
+    "fork": "657",
+    "timestamp": "2026-01-22T03:03:37.788404",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "href": "https://github.com/Project-HAMi/HAMi",
+    "about": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+    "star": "2,926",
+    "fork": "463",
+    "timestamp": "2026-01-22T03:03:37.788678",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "19,005",
+    "fork": "1,720",
+    "timestamp": "2026-01-22T03:03:37.788953",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "href": "https://github.com/cert-manager/cert-manager",
+    "about": "Automatically provision and manage TLS certificates in Kubernetes",
+    "star": "13,494",
+    "fork": "2,300",
+    "timestamp": "2026-01-22T03:03:37.789241",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "vllm-project/aibrix",
+    "href": "https://github.com/vllm-project/aibrix",
+    "about": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+    "star": "4,573",
+    "fork": "521",
+    "timestamp": "2026-01-22T03:03:37.789550",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,831",
+    "fork": "2,526",
+    "timestamp": "2026-01-22T03:03:37.789825",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "8,252",
+    "fork": "755",
+    "timestamp": "2026-01-22T03:03:37.790111",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "maliceio/malice",
+    "href": "https://github.com/maliceio/malice",
+    "about": "VirusTotal Wanna Be - Now with 100% more Hipster",
+    "star": "1,840",
+    "fork": "289",
+    "timestamp": "2026-01-22T03:03:37.790386",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,649",
+    "fork": "5,757",
+    "timestamp": "2026-01-22T03:03:37.790648",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "21,400",
+    "fork": "1,062",
+    "timestamp": "2026-01-22T03:03:37.790921",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "24,649",
+    "fork": "1,886",
+    "timestamp": "2026-01-22T03:03:37.791207",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "39,628",
+    "fork": "6,099",
+    "timestamp": "2026-01-22T03:03:37.791481",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "coze-dev/coze-loop",
+    "href": "https://github.com/coze-dev/coze-loop",
+    "about": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.",
+    "star": "5,268",
+    "fork": "725",
+    "timestamp": "2026-01-22T03:03:37.791752",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "actions/actions-runner-controller",
+    "href": "https://github.com/actions/actions-runner-controller",
+    "about": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "star": "5,965",
+    "fork": "1,375",
+    "timestamp": "2026-01-22T03:03:37.792022",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,786",
+    "fork": "921",
+    "timestamp": "2026-01-22T03:03:37.792336",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "uber-go/zap",
+    "href": "https://github.com/uber-go/zap",
+    "about": "Blazing fast, structured, leveled logging in Go.",
+    "star": "24,155",
+    "fork": "1,499",
+    "timestamp": "2026-01-22T03:03:37.792611",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "href": "https://github.com/etcd-io/etcd",
+    "about": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "star": "51,372",
+    "fork": "10,290",
+    "timestamp": "2026-01-22T03:03:37.792882",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "sysadminsmedia/homebox",
+    "href": "https://github.com/sysadminsmedia/homebox",
+    "about": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "star": "4,963",
+    "fork": "311",
+    "timestamp": "2026-01-22T03:03:37.793173",
+    "stars_today": "20 stars today"
+  }
+]
