@@ -1,0 +1,209 @@
+[
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "11,866",
+    "fork": "901",
+    "timestamp": "2026-01-23T02:59:19.194591",
+    "stars_today": "72 stars today"
+  },
+  {
+    "repo": "dgraph-io/badger",
+    "href": "https://github.com/dgraph-io/badger",
+    "about": "Fast key-value DB in Go.",
+    "star": "15,405",
+    "fork": "1,276",
+    "timestamp": "2026-01-23T02:59:19.194898",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "13,869",
+    "fork": "1,736",
+    "timestamp": "2026-01-23T02:59:19.195199",
+    "stars_today": "144 stars today"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,840",
+    "fork": "2,527",
+    "timestamp": "2026-01-23T02:59:19.195480",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "16,385",
+    "fork": "3,459",
+    "timestamp": "2026-01-23T02:59:19.195766",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "18,349",
+    "fork": "1,535",
+    "timestamp": "2026-01-23T02:59:19.196089",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/agent-sandbox",
+    "href": "https://github.com/kubernetes-sigs/agent-sandbox",
+    "about": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+    "star": "769",
+    "fork": "94",
+    "timestamp": "2026-01-23T02:59:19.196374",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "star": "160,265",
+    "fork": "14,247",
+    "timestamp": "2026-01-23T02:59:19.196655",
+    "stars_today": "128 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,275",
+    "fork": "8,506",
+    "timestamp": "2026-01-23T02:59:19.196934",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "aldinokemal/go-whatsapp-web-multidevice",
+    "href": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+    "about": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP. Built with Golang for efficient memory use.",
+    "star": "3,392",
+    "fork": "793",
+    "timestamp": "2026-01-23T02:59:19.197256",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "grafana/mcp-grafana",
+    "href": "https://github.com/grafana/mcp-grafana",
+    "about": "MCP server for Grafana",
+    "star": "2,162",
+    "fork": "239",
+    "timestamp": "2026-01-23T02:59:19.197539",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "href": "https://github.com/golang-migrate/migrate",
+    "about": "Database migrations. CLI and Golang library.",
+    "star": "17,988",
+    "fork": "1,541",
+    "timestamp": "2026-01-23T02:59:19.197819",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/gateway-api",
+    "href": "https://github.com/kubernetes-sigs/gateway-api",
+    "about": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "star": "2,594",
+    "fork": "657",
+    "timestamp": "2026-01-23T02:59:19.198111",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "anchore/syft",
+    "href": "https://github.com/anchore/syft",
+    "about": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "star": "8,259",
+    "fork": "754",
+    "timestamp": "2026-01-23T02:59:19.198392",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "coreybutler/nvm-windows",
+    "href": "https://github.com/coreybutler/nvm-windows",
+    "about": "A node.js version management utility for Windows. Ironically written in Go.",
+    "star": "44,568",
+    "fork": "3,706",
+    "timestamp": "2026-01-23T02:59:19.198699",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "GoogleContainerTools/skaffold",
+    "href": "https://github.com/GoogleContainerTools/skaffold",
+    "about": "Easy and Repeatable Kubernetes Development",
+    "star": "15,717",
+    "fork": "1,691",
+    "timestamp": "2026-01-23T02:59:19.198978",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "20,213",
+    "fork": "1,295",
+    "timestamp": "2026-01-23T02:59:19.199270",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "href": "https://github.com/charmbracelet/glow",
+    "about": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "star": "22,389",
+    "fork": "557",
+    "timestamp": "2026-01-23T02:59:19.199552",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "31,082",
+    "fork": "2,885",
+    "timestamp": "2026-01-23T02:59:19.199833",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "gorilla/websocket",
+    "href": "https://github.com/gorilla/websocket",
+    "about": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+    "star": "24,443",
+    "fork": "3,583",
+    "timestamp": "2026-01-23T02:59:19.200125",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "amir20/dozzle",
+    "href": "https://github.com/amir20/dozzle",
+    "about": "Realtime log viewer for containers. Supports Docker, Swarm and K8s.",
+    "star": "11,157",
+    "fork": "481",
+    "timestamp": "2026-01-23T02:59:19.200407",
+    "stars_today": "45 stars today"
+  },
+  {
+    "repo": "argoproj/argo-rollouts",
+    "href": "https://github.com/argoproj/argo-rollouts",
+    "about": "Progressive Delivery for Kubernetes",
+    "star": "3,365",
+    "fork": "1,079",
+    "timestamp": "2026-01-23T02:59:19.200684",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-azurerm",
+    "href": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "about": "Terraform provider for Azure Resource Manager",
+    "star": "4,890",
+    "fork": "4,930",
+    "timestamp": "2026-01-23T02:59:19.200963",
+    "stars_today": "3 stars today"
+  }
+]
