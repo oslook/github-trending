@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+    "star": "24,574",
+    "fork": "1,010",
+    "timestamp": "2026-01-24T02:53:32.849914",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "timescale/pg_textsearch",
+    "href": "https://github.com/timescale/pg_textsearch",
+    "about": "PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.",
+    "star": "2,633",
+    "fork": "64",
+    "timestamp": "2026-01-24T02:53:32.850235",
+    "stars_today": "344 stars today"
+  },
+  {
+    "repo": "riscv-collab/riscv-gnu-toolchain",
+    "href": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+    "about": "GNU toolchain for RISC-V, including GCC",
+    "star": "4,337",
+    "fork": "1,342",
+    "timestamp": "2026-01-24T02:53:32.850545",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "u-boot/u-boot",
+    "href": "https://github.com/u-boot/u-boot",
+    "about": "\"Das U-Boot\" Source Tree",
+    "star": "4,892",
+    "fork": "4,252",
+    "timestamp": "2026-01-24T02:53:32.850867",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "href": "https://github.com/AFLplusplus/AFLplusplus",
+    "about": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "star": "6,256",
+    "fork": "1,243",
+    "timestamp": "2026-01-24T02:53:32.851200",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "6,381",
+    "fork": "961",
+    "timestamp": "2026-01-24T02:53:32.851531",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "libuv/libuv",
+    "href": "https://github.com/libuv/libuv",
+    "about": "Cross-platform asynchronous I/O",
+    "star": "26,502",
+    "fork": "3,826",
+    "timestamp": "2026-01-24T02:53:32.851848",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "libusb/hidapi",
+    "href": "https://github.com/libusb/hidapi",
+    "about": "A Simple cross-platform library for communicating with HID devices",
+    "star": "2,104",
+    "fork": "453",
+    "timestamp": "2026-01-24T02:53:32.852154",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "lmarzen/esp32-weather-epd",
+    "href": "https://github.com/lmarzen/esp32-weather-epd",
+    "about": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "star": "5,874",
+    "fork": "430",
+    "timestamp": "2026-01-24T02:53:32.852486",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,412",
+    "fork": "2,832",
+    "timestamp": "2026-01-24T02:53:32.852802",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "TelegramMessenger/MTProxy",
+    "href": "https://github.com/TelegramMessenger/MTProxy",
+    "about": "",
+    "star": "5,609",
+    "fork": "981",
+    "timestamp": "2026-01-24T02:53:32.853122",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "pymumu/smartdns",
+    "href": "https://github.com/pymumu/smartdns",
+    "about": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
+    "star": "10,491",
+    "fork": "1,215",
+    "timestamp": "2026-01-24T02:53:32.853424",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "VirtualBox/virtualbox",
+    "href": "https://github.com/VirtualBox/virtualbox",
+    "about": "Source code for Oracle VirtualBox",
+    "star": "930",
+    "fork": "110",
+    "timestamp": "2026-01-24T02:53:32.853738",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "asterisk/asterisk",
+    "href": "https://github.com/asterisk/asterisk",
+    "about": "The official Asterisk Project repository.",
+    "star": "3,018",
+    "fork": "1,178",
+    "timestamp": "2026-01-24T02:53:32.854042",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "10,540",
+    "fork": "2,574",
+    "timestamp": "2026-01-24T02:53:32.854342",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "spdk/spdk",
+    "href": "https://github.com/spdk/spdk",
+    "about": "Storage Performance Development Kit",
+    "star": "3,470",
+    "fork": "1,311",
+    "timestamp": "2026-01-24T02:53:32.854658",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "X11Libre/xserver",
+    "href": "https://github.com/X11Libre/xserver",
+    "about": "XLibre Xserver",
+    "star": "4,119",
+    "fork": "212",
+    "timestamp": "2026-01-24T02:53:32.854960",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "taosdata/TDengine",
+    "href": "https://github.com/taosdata/TDengine",
+    "about": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+    "star": "24,690",
+    "fork": "4,989",
+    "timestamp": "2026-01-24T02:53:32.855262",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mattn/go-sqlite3",
+    "href": "https://github.com/mattn/go-sqlite3",
+    "about": "sqlite3 driver for go using database/sql",
+    "star": "8,933",
+    "fork": "1,156",
+    "timestamp": "2026-01-24T02:53:32.855587",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "sqfmi/Watchy",
+    "href": "https://github.com/sqfmi/Watchy",
+    "about": "Watchy - An Open Source E-Ink Smartwatch",
+    "star": "2,648",
+    "fork": "406",
+    "timestamp": "2026-01-24T02:53:32.855894",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "TsudaKageyu/minhook",
+    "href": "https://github.com/TsudaKageyu/minhook",
+    "about": "The Minimalistic x86/x64 API Hooking Library for Windows",
+    "star": "5,478",
+    "fork": "1,029",
+    "timestamp": "2026-01-24T02:53:32.856187",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "href": "https://github.com/raspberrypi/linux",
+    "about": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+    "star": "12,446",
+    "fork": "5,350",
+    "timestamp": "2026-01-24T02:53:32.856483",
+    "stars_today": "9 stars today"
+  }
+]
