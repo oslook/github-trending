@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "timescale/pg_textsearch",
+    "href": "https://github.com/timescale/pg_textsearch",
+    "about": "PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.",
+    "star": "2,700",
+    "fork": "66",
+    "timestamp": "2026-01-25T03:10:19.087656",
+    "stars_today": "97 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,817",
+    "fork": "1,431",
+    "timestamp": "2026-01-25T03:10:19.087959",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "littlefs-project/littlefs",
+    "href": "https://github.com/littlefs-project/littlefs",
+    "about": "A little fail-safe filesystem designed for microcontrollers",
+    "star": "6,384",
+    "fork": "961",
+    "timestamp": "2026-01-25T03:10:19.088286",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "href": "https://github.com/zephyrproject-rtos/zephyr",
+    "about": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "star": "14,272",
+    "fork": "8,551",
+    "timestamp": "2026-01-25T03:10:19.088570",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "swaywm/sway",
+    "href": "https://github.com/swaywm/sway",
+    "about": "i3-compatible Wayland compositor",
+    "star": "16,494",
+    "fork": "1,231",
+    "timestamp": "2026-01-25T03:10:19.088851",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "linux-rdma/rdma-core",
+    "href": "https://github.com/linux-rdma/rdma-core",
+    "about": "RDMA core userspace libraries and daemons",
+    "star": "2,119",
+    "fork": "819",
+    "timestamp": "2026-01-25T03:10:19.089144",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "href": "https://github.com/fluent/fluent-bit",
+    "about": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+    "star": "7,590",
+    "fork": "1,856",
+    "timestamp": "2026-01-25T03:10:19.089429",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "CANopenNode/CANopenNode",
+    "href": "https://github.com/CANopenNode/CANopenNode",
+    "about": "CANopen protocol stack",
+    "star": "1,798",
+    "fork": "760",
+    "timestamp": "2026-01-25T03:10:19.089711",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "SoftEtherVPN/SoftEtherVPN",
+    "href": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+    "about": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+    "star": "12,915",
+    "fork": "2,736",
+    "timestamp": "2026-01-25T03:10:19.089990",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "foobnix/LibreraReader",
+    "href": "https://github.com/foobnix/LibreraReader",
+    "about": "Book Reader for Android",
+    "star": "4,162",
+    "fork": "385",
+    "timestamp": "2026-01-25T03:10:19.090281",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "href": "https://github.com/pgvector/pgvector",
+    "about": "Open-source vector similarity search for Postgres",
+    "star": "19,457",
+    "fork": "1,035",
+    "timestamp": "2026-01-25T03:10:19.090557",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "pgbouncer/pgbouncer",
+    "href": "https://github.com/pgbouncer/pgbouncer",
+    "about": "lightweight connection pooler for PostgreSQL",
+    "star": "3,841",
+    "fork": "532",
+    "timestamp": "2026-01-25T03:10:19.090837",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "href": "https://github.com/raspberrypi/linux",
+    "about": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+    "star": "12,454",
+    "fork": "5,351",
+    "timestamp": "2026-01-25T03:10:19.091128",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "40,503",
+    "fork": "7,040",
+    "timestamp": "2026-01-25T03:10:19.091439",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "href": "https://github.com/lvgl/lvgl",
+    "about": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "star": "22,571",
+    "fork": "4,004",
+    "timestamp": "2026-01-25T03:10:19.091748",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "href": "https://github.com/NVIDIA/cuda-samples",
+    "about": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+    "star": "8,750",
+    "fork": "2,249",
+    "timestamp": "2026-01-25T03:10:19.092028",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "AOMediaCodec/libavif",
+    "href": "https://github.com/AOMediaCodec/libavif",
+    "about": "libavif - Library for encoding and decoding .avif files",
+    "star": "1,989",
+    "fork": "269",
+    "timestamp": "2026-01-25T03:10:19.092319",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "meetecho/janus-gateway",
+    "href": "https://github.com/meetecho/janus-gateway",
+    "about": "Janus WebRTC Server",
+    "star": "9,010",
+    "fork": "2,606",
+    "timestamp": "2026-01-25T03:10:19.092603",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "documentdb/documentdb",
+    "href": "https://github.com/documentdb/documentdb",
+    "about": "MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.",
+    "star": "3,160",
+    "fork": "206",
+    "timestamp": "2026-01-25T03:10:19.092881",
+    "stars_today": "11 stars today"
+  }
+]
