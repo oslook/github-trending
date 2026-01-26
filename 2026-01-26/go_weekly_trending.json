@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "star": "160,591",
+    "fork": "14,284",
+    "timestamp": "2026-01-26T03:12:03.787795",
+    "stars_today": "865 stars this week"
+  },
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "9,769",
+    "fork": "2,990",
+    "timestamp": "2026-01-26T03:12:03.788076",
+    "stars_today": "83 stars this week"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "14,521",
+    "fork": "1,802",
+    "timestamp": "2026-01-26T03:12:03.788338",
+    "stars_today": "1,124 stars this week"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "star": "11,959",
+    "fork": "914",
+    "timestamp": "2026-01-26T03:12:03.788592",
+    "stars_today": "715 stars this week"
+  },
+  {
+    "repo": "cloudreve/cloudreve",
+    "href": "https://github.com/cloudreve/cloudreve",
+    "about": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+    "star": "26,753",
+    "fork": "3,793",
+    "timestamp": "2026-01-26T03:12:03.788888",
+    "stars_today": "149 stars this week"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "39,646",
+    "fork": "6,101",
+    "timestamp": "2026-01-26T03:12:03.789149",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "kubernetes-sigs/agent-sandbox",
+    "href": "https://github.com/kubernetes-sigs/agent-sandbox",
+    "about": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+    "star": "787",
+    "fork": "96",
+    "timestamp": "2026-01-26T03:12:03.789409",
+    "stars_today": "76 stars this week"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "26,300",
+    "fork": "3,447",
+    "timestamp": "2026-01-26T03:12:03.789665",
+    "stars_today": "267 stars this week"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,418",
+    "fork": "18,888",
+    "timestamp": "2026-01-26T03:12:03.789928",
+    "stars_today": "51 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,542",
+    "fork": "1,850",
+    "timestamp": "2026-01-26T03:12:03.790187",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "17,930",
+    "fork": "1,308",
+    "timestamp": "2026-01-26T03:12:03.790444",
+    "stars_today": "264 stars this week"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "9,236",
+    "fork": "1,136",
+    "timestamp": "2026-01-26T03:12:03.790734",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,860",
+    "fork": "2,529",
+    "timestamp": "2026-01-26T03:12:03.790991",
+    "stars_today": "41 stars this week"
+  },
+  {
+    "repo": "TwiN/gatus",
+    "href": "https://github.com/TwiN/gatus",
+    "about": "Automated developer-oriented status page with alerting and incident support",
+    "star": "9,889",
+    "fork": "649",
+    "timestamp": "2026-01-26T03:12:03.791271",
+    "stars_today": "222 stars this week"
+  },
+  {
+    "repo": "cilium/cilium",
+    "href": "https://github.com/cilium/cilium",
+    "about": "eBPF-based Networking, Security, and Observability",
+    "star": "23,535",
+    "fork": "3,569",
+    "timestamp": "2026-01-26T03:12:03.791526",
+    "stars_today": "79 stars this week"
+  },
+  {
+    "repo": "amir20/dozzle",
+    "href": "https://github.com/amir20/dozzle",
+    "about": "Realtime log viewer for containers. Supports Docker, Swarm and K8s.",
+    "star": "11,242",
+    "fork": "488",
+    "timestamp": "2026-01-26T03:12:03.791788",
+    "stars_today": "175 stars this week"
+  },
+  {
+    "repo": "micro-editor/micro",
+    "href": "https://github.com/micro-editor/micro",
+    "about": "A modern and intuitive terminal-based text editor",
+    "star": "27,794",
+    "fork": "1,274",
+    "timestamp": "2026-01-26T03:12:03.792043",
+    "stars_today": "115 stars this week"
+  },
+  {
+    "repo": "gtsteffaniak/filebrowser",
+    "href": "https://github.com/gtsteffaniak/filebrowser",
+    "about": "📂 Web File Browser",
+    "star": "6,152",
+    "fork": "276",
+    "timestamp": "2026-01-26T03:12:03.792304",
+    "stars_today": "157 stars this week"
+  },
+  {
+    "repo": "steveyegge/beads",
+    "href": "https://github.com/steveyegge/beads",
+    "about": "Beads - A memory upgrade for your coding agent",
+    "star": "12,790",
+    "fork": "770",
+    "timestamp": "2026-01-26T03:12:03.792563",
+    "stars_today": "1,804 stars this week"
+  },
+  {
+    "repo": "kgateway-dev/kgateway",
+    "href": "https://github.com/kgateway-dev/kgateway",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "5,266",
+    "fork": "655",
+    "timestamp": "2026-01-26T03:12:03.792824",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client",
+    "star": "12,764",
+    "fork": "1,154",
+    "timestamp": "2026-01-26T03:12:03.793080",
+    "stars_today": "88 stars this week"
+  }
+]
