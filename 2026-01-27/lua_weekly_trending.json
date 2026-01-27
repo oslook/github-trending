@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "24,807",
+    "fork": "1,726",
+    "timestamp": "2026-01-27T03:04:45.740744",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,736",
+    "fork": "1,386",
+    "timestamp": "2026-01-27T03:04:45.741054",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,909",
+    "fork": "249",
+    "timestamp": "2026-01-27T03:04:45.741367",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "sudo-tee/opencode.nvim",
+    "href": "https://github.com/sudo-tee/opencode.nvim",
+    "about": "neovim frontend for opencode - a terminal-based AI coding agent",
+    "star": "424",
+    "fork": "33",
+    "timestamp": "2026-01-27T03:04:45.741644",
+    "stars_today": "43 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,269",
+    "fork": "2,399",
+    "timestamp": "2026-01-27T03:04:45.741964",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "ntop/ntopng",
+    "href": "https://github.com/ntop/ntopng",
+    "about": "Web-based Traffic and Security Network Traffic Monitoring",
+    "star": "7,475",
+    "fork": "722",
+    "timestamp": "2026-01-27T03:04:45.742242",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "stevearc/conform.nvim",
+    "href": "https://github.com/stevearc/conform.nvim",
+    "about": "Lightweight yet powerful formatter plugin for Neovim",
+    "star": "4,864",
+    "fork": "274",
+    "timestamp": "2026-01-27T03:04:45.742516",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "sindrets/diffview.nvim",
+    "href": "https://github.com/sindrets/diffview.nvim",
+    "about": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+    "star": "5,274",
+    "fork": "166",
+    "timestamp": "2026-01-27T03:04:45.742827",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "nvim-orgmode/orgmode",
+    "href": "https://github.com/nvim-orgmode/orgmode",
+    "about": "Orgmode clone written in Lua for Neovim 0.11.0+.",
+    "star": "3,652",
+    "fork": "171",
+    "timestamp": "2026-01-27T03:04:45.743136",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "L3MON4D3/LuaSnip",
+    "href": "https://github.com/L3MON4D3/LuaSnip",
+    "about": "Snippet Engine for Neovim written in Lua.",
+    "star": "4,249",
+    "fork": "265",
+    "timestamp": "2026-01-27T03:04:45.743474",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "LunarVim/LunarVim",
+    "href": "https://github.com/LunarVim/LunarVim",
+    "about": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
+    "star": "19,212",
+    "fork": "1,500",
+    "timestamp": "2026-01-27T03:04:45.743755",
+    "stars_today": "21 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,531",
+    "fork": "165",
+    "timestamp": "2026-01-27T03:04:45.744050",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,508",
+    "fork": "258",
+    "timestamp": "2026-01-27T03:04:45.744357",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The API and AI Gateway",
+    "star": "42,601",
+    "fork": "5,053",
+    "timestamp": "2026-01-27T03:04:45.744634",
+    "stars_today": "46 stars this week"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,928",
+    "fork": "394",
+    "timestamp": "2026-01-27T03:04:45.744923",
+    "stars_today": "42 stars this week"
+  },
+  {
+    "repo": "windwp/nvim-ts-autotag",
+    "href": "https://github.com/windwp/nvim-ts-autotag",
+    "about": "Use treesitter to auto close and auto rename html tag",
+    "star": "2,034",
+    "fork": "107",
+    "timestamp": "2026-01-27T03:04:45.745242",
+    "stars_today": "4 stars this week"
+  },
+  {
+    "repo": "onsails/lspkind.nvim",
+    "href": "https://github.com/onsails/lspkind.nvim",
+    "about": "VS Code–style pictograms for Neovim completion items",
+    "star": "1,652",
+    "fork": "37",
+    "timestamp": "2026-01-27T03:04:45.745518",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "tukui-org/ElvUI",
+    "href": "https://github.com/tukui-org/ElvUI",
+    "about": "User Interface replacement AddOn for World of Warcraft.",
+    "star": "630",
+    "fork": "207",
+    "timestamp": "2026-01-27T03:04:45.745794",
+    "stars_today": "55 stars this week"
+  }
+]
