@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "34,139",
+    "fork": "4,523",
+    "timestamp": "2026-01-28T03:01:55.925081",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "href": "https://github.com/prometheus/prometheus",
+    "about": "The Prometheus monitoring system and time series database.",
+    "star": "62,416",
+    "fork": "10,122",
+    "timestamp": "2026-01-28T03:01:55.925351",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,744",
+    "fork": "4,636",
+    "timestamp": "2026-01-28T03:01:55.925605",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "87,816",
+    "fork": "8,548",
+    "timestamp": "2026-01-28T03:01:55.925860",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "href": "https://github.com/go-sql-driver/mysql",
+    "about": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "star": "15,403",
+    "fork": "2,341",
+    "timestamp": "2026-01-28T03:01:55.926122",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "knadh/koanf",
+    "href": "https://github.com/knadh/koanf",
+    "about": "Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.",
+    "star": "3,799",
+    "fork": "184",
+    "timestamp": "2026-01-28T03:01:55.926372",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "href": "https://github.com/ethereum/go-ethereum",
+    "about": "Go implementation of the Ethereum protocol",
+    "star": "50,735",
+    "fork": "21,756",
+    "timestamp": "2026-01-28T03:01:55.926624",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "elC0mpa/aws-doctor",
+    "href": "https://github.com/elC0mpa/aws-doctor",
+    "about": "Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️",
+    "star": "254",
+    "fork": "11",
+    "timestamp": "2026-01-28T03:01:55.926877",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "href": "https://github.com/github/github-mcp-server",
+    "about": "GitHub's official MCP Server",
+    "star": "26,387",
+    "fork": "3,470",
+    "timestamp": "2026-01-28T03:01:55.927137",
+    "stars_today": "47 stars today"
+  },
+  {
+    "repo": "fatedier/frp",
+    "href": "https://github.com/fatedier/frp",
+    "about": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "star": "103,927",
+    "fork": "14,834",
+    "timestamp": "2026-01-28T03:01:55.927416",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "12,550",
+    "fork": "1,410",
+    "timestamp": "2026-01-28T03:01:55.927671",
+    "stars_today": "123 stars today"
+  },
+  {
+    "repo": "cloudwego/eino",
+    "href": "https://github.com/cloudwego/eino",
+    "about": "The ultimate LLM/AI application development framework in Golang.",
+    "star": "9,392",
+    "fork": "729",
+    "timestamp": "2026-01-28T03:01:55.927925",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "spf13/cobra",
+    "href": "https://github.com/spf13/cobra",
+    "about": "A Commander for modern Go CLI interactions",
+    "star": "43,007",
+    "fork": "3,046",
+    "timestamp": "2026-01-28T03:01:55.928208",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "href": "https://github.com/kubernetes/kubernetes",
+    "about": "Production-Grade Container Scheduling and Management",
+    "star": "120,113",
+    "fork": "42,306",
+    "timestamp": "2026-01-28T03:01:55.928459",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "golang-jwt/jwt",
+    "href": "https://github.com/golang-jwt/jwt",
+    "about": "Go implementation of JSON Web Tokens (JWT).",
+    "star": "8,864",
+    "fork": "426",
+    "timestamp": "2026-01-28T03:01:55.928711",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "href": "https://github.com/hashicorp/consul",
+    "about": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "star": "29,690",
+    "fork": "4,556",
+    "timestamp": "2026-01-28T03:01:55.928970",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "sirupsen/logrus",
+    "href": "https://github.com/sirupsen/logrus",
+    "about": "Structured, pluggable logging for Go.",
+    "star": "25,672",
+    "fork": "2,276",
+    "timestamp": "2026-01-28T03:01:55.929221",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "6,305",
+    "fork": "730",
+    "timestamp": "2026-01-28T03:01:55.929472",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "7,150",
+    "fork": "876",
+    "timestamp": "2026-01-28T03:01:55.929723",
+    "stars_today": "1 star today"
+  }
+]
