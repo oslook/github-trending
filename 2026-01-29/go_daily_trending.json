@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "34,411",
+    "fork": "4,542",
+    "timestamp": "2026-01-29T03:25:33.563594",
+    "stars_today": "352 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,367",
+    "fork": "8,513",
+    "timestamp": "2026-01-29T03:25:33.563895",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "12,606",
+    "fork": "1,421",
+    "timestamp": "2026-01-29T03:25:33.564179",
+    "stars_today": "51 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "30,500",
+    "fork": "2,957",
+    "timestamp": "2026-01-29T03:25:33.564460",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,751",
+    "fork": "4,637",
+    "timestamp": "2026-01-29T03:25:33.564756",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "18,868",
+    "fork": "1,347",
+    "timestamp": "2026-01-29T03:25:33.565040",
+    "stars_today": "41 stars today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "6,316",
+    "fork": "731",
+    "timestamp": "2026-01-29T03:25:33.565320",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "7,031",
+    "fork": "1,532",
+    "timestamp": "2026-01-29T03:25:33.565610",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "href": "https://github.com/opentofu/opentofu",
+    "about": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "star": "27,670",
+    "fork": "1,150",
+    "timestamp": "2026-01-29T03:25:33.565920",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "star": "160,977",
+    "fork": "14,332",
+    "timestamp": "2026-01-29T03:25:33.566198",
+    "stars_today": "153 stars today"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "href": "https://github.com/charmbracelet/crush",
+    "about": "Glamourous agentic coding for all 💘",
+    "star": "19,092",
+    "fork": "1,163",
+    "timestamp": "2026-01-29T03:25:33.566473",
+    "stars_today": "92 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,664",
+    "fork": "5,762",
+    "timestamp": "2026-01-29T03:25:33.566795",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "docker/cagent",
+    "href": "https://github.com/docker/cagent",
+    "about": "Agent Builder and Runtime by Docker Engineering",
+    "star": "1,921",
+    "fork": "229",
+    "timestamp": "2026-01-29T03:25:33.567118",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "go-chi/chi",
+    "href": "https://github.com/go-chi/chi",
+    "about": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "star": "21,462",
+    "fork": "1,064",
+    "timestamp": "2026-01-29T03:25:33.567402",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "href": "https://github.com/opencontainers/runc",
+    "about": "CLI tool for spawning and running containers according to the OCI specification",
+    "star": "13,010",
+    "fork": "2,253",
+    "timestamp": "2026-01-29T03:25:33.567698",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "knadh/koanf",
+    "href": "https://github.com/knadh/koanf",
+    "about": "Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.",
+    "star": "3,809",
+    "fork": "184",
+    "timestamp": "2026-01-29T03:25:33.567977",
+    "stars_today": "20 stars today"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "38,863",
+    "fork": "1,076",
+    "timestamp": "2026-01-29T03:25:33.568253",
+    "stars_today": "50 stars today"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "href": "https://github.com/nats-io/nats.go",
+    "about": "Golang client for NATS, the cloud native messaging system.",
+    "star": "6,398",
+    "fork": "789",
+    "timestamp": "2026-01-29T03:25:33.568530",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "go-vikunja/vikunja",
+    "href": "https://github.com/go-vikunja/vikunja",
+    "about": "The to-do app to organize your life.",
+    "star": "3,152",
+    "fork": "296",
+    "timestamp": "2026-01-29T03:25:33.568825",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "27,562",
+    "fork": "2,242",
+    "timestamp": "2026-01-29T03:25:33.569103",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "87,831",
+    "fork": "8,549",
+    "timestamp": "2026-01-29T03:25:33.569383",
+    "stars_today": "15 stars today"
+  }
+]

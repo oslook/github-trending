@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,893",
+    "fork": "993",
+    "timestamp": "2026-01-29T03:25:50.755942",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,712",
+    "fork": "29,037",
+    "timestamp": "2026-01-29T03:25:50.756237",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,501",
+    "fork": "566",
+    "timestamp": "2026-01-29T03:25:50.756517",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "zio/zio",
+    "href": "https://github.com/zio/zio",
+    "about": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "star": "4,338",
+    "fork": "1,391",
+    "timestamp": "2026-01-29T03:25:50.756808",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,563",
+    "fork": "1,995",
+    "timestamp": "2026-01-29T03:25:50.757108",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "OpenXiangShan/XiangShan",
+    "href": "https://github.com/OpenXiangShan/XiangShan",
+    "about": "Open-source high-performance RISC-V processor",
+    "star": "6,857",
+    "fork": "863",
+    "timestamp": "2026-01-29T03:25:50.757386",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,185",
+    "fork": "1,138",
+    "timestamp": "2026-01-29T03:25:50.757684",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "918",
+    "fork": "216",
+    "timestamp": "2026-01-29T03:25:50.757964",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,121",
+    "fork": "277",
+    "timestamp": "2026-01-29T03:25:50.758239",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "62",
+    "fork": "60",
+    "timestamp": "2026-01-29T03:25:50.758512",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "958",
+    "fork": "271",
+    "timestamp": "2026-01-29T03:25:50.758803",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,554",
+    "fork": "647",
+    "timestamp": "2026-01-29T03:25:50.759079",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "ucb-bar/berkeley-hardfloat",
+    "href": "https://github.com/ucb-bar/berkeley-hardfloat",
+    "about": "",
+    "star": "365",
+    "fork": "98",
+    "timestamp": "2026-01-29T03:25:50.759373",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/gemmini",
+    "href": "https://github.com/ucb-bar/gemmini",
+    "about": "Berkeley's Spatial Array Generator",
+    "star": "1,202",
+    "fork": "234",
+    "timestamp": "2026-01-29T03:25:50.759662",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,953",
+    "fork": "576",
+    "timestamp": "2026-01-29T03:25:50.759966",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "zio/zio-http",
+    "href": "https://github.com/zio/zio-http",
+    "about": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+    "star": "861",
+    "fork": "479",
+    "timestamp": "2026-01-29T03:25:50.760244",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,881",
+    "fork": "381",
+    "timestamp": "2026-01-29T03:25:50.760524",
+    "stars_today": "4 stars today"
+  }
+]
