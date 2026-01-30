@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "apple/container",
+    "href": "https://github.com/apple/container",
+    "about": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "star": "23,762",
+    "fork": "608",
+    "timestamp": "2026-01-30T03:26:46.600785",
+    "stars_today": "280 stars this week"
+  },
+  {
+    "repo": "steipete/Peekaboo",
+    "href": "https://github.com/steipete/Peekaboo",
+    "about": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+    "star": "1,566",
+    "fork": "84",
+    "timestamp": "2026-01-30T03:26:46.601133",
+    "stars_today": "377 stars this week"
+  },
+  {
+    "repo": "argmaxinc/WhisperKit",
+    "href": "https://github.com/argmaxinc/WhisperKit",
+    "about": "On-device Speech Recognition for Apple Silicon",
+    "star": "5,547",
+    "fork": "497",
+    "timestamp": "2026-01-30T03:26:46.601427",
+    "stars_today": "61 stars this week"
+  },
+  {
+    "repo": "groue/GRDB.swift",
+    "href": "https://github.com/groue/GRDB.swift",
+    "about": "A toolkit for SQLite databases, with a focus on application development",
+    "star": "8,146",
+    "fork": "837",
+    "timestamp": "2026-01-30T03:26:46.601746",
+    "stars_today": "30 stars this week"
+  },
+  {
+    "repo": "lwouis/alt-tab-macos",
+    "href": "https://github.com/lwouis/alt-tab-macos",
+    "about": "Windows alt-tab on macOS",
+    "star": "14,537",
+    "fork": "472",
+    "timestamp": "2026-01-30T03:26:46.602071",
+    "stars_today": "187 stars this week"
+  },
+  {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "href": "https://github.com/pointfreeco/swift-composable-architecture",
+    "about": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "star": "14,288",
+    "fork": "1,628",
+    "timestamp": "2026-01-30T03:26:46.602357",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "hamed-elfayome/Claude-Usage-Tracker",
+    "href": "https://github.com/hamed-elfayome/Claude-Usage-Tracker",
+    "about": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
+    "star": "780",
+    "fork": "39",
+    "timestamp": "2026-01-30T03:26:46.602639",
+    "stars_today": "335 stars this week"
+  },
+  {
+    "repo": "mattt/AnyLanguageModel",
+    "href": "https://github.com/mattt/AnyLanguageModel",
+    "about": "An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.",
+    "star": "695",
+    "fork": "53",
+    "timestamp": "2026-01-30T03:26:46.602918",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "apple/containerization",
+    "href": "https://github.com/apple/containerization",
+    "about": "Containerization is a Swift package for running Linux containers on macOS.",
+    "star": "8,272",
+    "fork": "245",
+    "timestamp": "2026-01-30T03:26:46.603215",
+    "stars_today": "24 stars this week"
+  },
+  {
+    "repo": "realm/SwiftLint",
+    "href": "https://github.com/realm/SwiftLint",
+    "about": "A tool to enforce Swift style and conventions.",
+    "star": "19,418",
+    "fork": "2,279",
+    "timestamp": "2026-01-30T03:26:46.603499",
+    "stars_today": "17 stars this week"
+  },
+  {
+    "repo": "getsentry/sentry-cocoa",
+    "href": "https://github.com/getsentry/sentry-cocoa",
+    "about": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
+    "star": "1,011",
+    "fork": "376",
+    "timestamp": "2026-01-30T03:26:46.603777",
+    "stars_today": "3 stars this week"
+  },
+  {
+    "repo": "apple/swift-system",
+    "href": "https://github.com/apple/swift-system",
+    "about": "Low-level system calls and types for Swift",
+    "star": "1,358",
+    "fork": "135",
+    "timestamp": "2026-01-30T03:26:46.604067",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "jordanbaird/Ice",
+    "href": "https://github.com/jordanbaird/Ice",
+    "about": "Powerful menu bar manager for macOS",
+    "star": "25,694",
+    "fork": "567",
+    "timestamp": "2026-01-30T03:26:46.604375",
+    "stars_today": "189 stars this week"
+  },
+  {
+    "repo": "nicklockwood/SwiftFormat",
+    "href": "https://github.com/nicklockwood/SwiftFormat",
+    "about": "A command-line tool and Xcode Extension for formatting Swift code",
+    "star": "8,678",
+    "fork": "672",
+    "timestamp": "2026-01-30T03:26:46.604654",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "Ranchero-Software/NetNewsWire",
+    "href": "https://github.com/Ranchero-Software/NetNewsWire",
+    "about": "RSS reader for macOS and iOS.",
+    "star": "9,539",
+    "fork": "629",
+    "timestamp": "2026-01-30T03:26:46.604939",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "apple/swift-nio",
+    "href": "https://github.com/apple/swift-nio",
+    "about": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+    "star": "8,397",
+    "fork": "726",
+    "timestamp": "2026-01-30T03:26:46.605228",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "airbnb/lottie-ios",
+    "href": "https://github.com/airbnb/lottie-ios",
+    "about": "An iOS library to natively render After Effects vector animations",
+    "star": "26,643",
+    "fork": "3,830",
+    "timestamp": "2026-01-30T03:26:46.605506",
+    "stars_today": "20 stars this week"
+  },
+  {
+    "repo": "pointfreeco/swift-snapshot-testing",
+    "href": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "about": "📸 Delightful Swift snapshot testing.",
+    "star": "4,119",
+    "fork": "644",
+    "timestamp": "2026-01-30T03:26:46.605784",
+    "stars_today": "7 stars this week"
+  }
+]

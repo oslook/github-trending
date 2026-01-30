@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "34,641",
+    "fork": "4,559",
+    "timestamp": "2026-01-30T03:26:26.968724",
+    "stars_today": "255 stars today"
+  },
+  {
+    "repo": "autobrr/qui",
+    "href": "https://github.com/autobrr/qui",
+    "about": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+    "star": "2,490",
+    "fork": "72",
+    "timestamp": "2026-01-30T03:26:26.969041",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "59,986",
+    "fork": "6,928",
+    "timestamp": "2026-01-30T03:26:26.969330",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,406",
+    "fork": "8,517",
+    "timestamp": "2026-01-30T03:26:26.969612",
+    "stars_today": "89 stars today"
+  },
+  {
+    "repo": "looplj/axonhub",
+    "href": "https://github.com/looplj/axonhub",
+    "about": "AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API",
+    "star": "1,542",
+    "fork": "177",
+    "timestamp": "2026-01-30T03:26:26.969894",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "27,594",
+    "fork": "2,243",
+    "timestamp": "2026-01-30T03:26:26.970186",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "19,048",
+    "fork": "1,728",
+    "timestamp": "2026-01-30T03:26:26.970466",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "href": "https://github.com/glanceapp/glance",
+    "about": "A self-hosted dashboard that puts all your feeds in one place",
+    "star": "31,493",
+    "fork": "1,179",
+    "timestamp": "2026-01-30T03:26:26.970772",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
+    "star": "3,992",
+    "fork": "170",
+    "timestamp": "2026-01-30T03:26:26.971096",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kubernetes-retired/dashboard",
+    "href": "https://github.com/kubernetes-retired/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "15,446",
+    "fork": "4,298",
+    "timestamp": "2026-01-30T03:26:26.971377",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "6,326",
+    "fork": "733",
+    "timestamp": "2026-01-30T03:26:26.971656",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "href": "https://github.com/thanos-io/thanos",
+    "about": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "star": "13,936",
+    "fork": "2,248",
+    "timestamp": "2026-01-30T03:26:26.971938",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "golang/go",
+    "href": "https://github.com/golang/go",
+    "about": "The Go programming language",
+    "star": "132,190",
+    "fork": "18,781",
+    "timestamp": "2026-01-30T03:26:26.972234",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "71,359",
+    "fork": "2,470",
+    "timestamp": "2026-01-30T03:26:26.972542",
+    "stars_today": "57 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,756",
+    "fork": "4,636",
+    "timestamp": "2026-01-30T03:26:26.972819",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "containers/podman",
+    "href": "https://github.com/containers/podman",
+    "about": "Podman: A tool for managing OCI containers and pods.",
+    "star": "30,524",
+    "fork": "2,959",
+    "timestamp": "2026-01-30T03:26:26.973109",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "aldinokemal/go-whatsapp-web-multidevice",
+    "href": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+    "about": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+    "star": "3,424",
+    "fork": "798",
+    "timestamp": "2026-01-30T03:26:26.973415",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "href": "https://github.com/yorukot/superfile",
+    "about": "Pretty fancy and modern terminal file manager",
+    "star": "16,508",
+    "fork": "436",
+    "timestamp": "2026-01-30T03:26:26.973695",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "korotovsky/slack-mcp-server",
+    "href": "https://github.com/korotovsky/slack-mcp-server",
+    "about": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
+    "star": "1,227",
+    "fork": "203",
+    "timestamp": "2026-01-30T03:26:26.973974",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "16,403",
+    "fork": "3,465",
+    "timestamp": "2026-01-30T03:26:26.974262",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "31,180",
+    "fork": "2,894",
+    "timestamp": "2026-01-30T03:26:26.974539",
+    "stars_today": "25 stars today"
+  }
+]
