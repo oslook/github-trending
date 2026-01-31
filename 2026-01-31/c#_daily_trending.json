@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,435",
+    "fork": "2,834",
+    "timestamp": "2026-01-31T03:20:57.603356",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "FreeRTOS/FreeRTOS-Kernel",
+    "href": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "about": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "star": "3,835",
+    "fork": "1,433",
+    "timestamp": "2026-01-31T03:20:57.603663",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "FreeRDP/FreeRDP",
+    "href": "https://github.com/FreeRDP/FreeRDP",
+    "about": "FreeRDP is a free remote desktop protocol library and clients",
+    "star": "12,739",
+    "fork": "15,244",
+    "timestamp": "2026-01-31T03:20:57.603952",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "DaveGamble/cJSON",
+    "href": "https://github.com/DaveGamble/cJSON",
+    "about": "Ultralightweight JSON parser in ANSI C",
+    "star": "12,403",
+    "fork": "3,421",
+    "timestamp": "2026-01-31T03:20:57.604238",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "winsiderss/systeminformer",
+    "href": "https://github.com/winsiderss/systeminformer",
+    "about": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+    "star": "13,511",
+    "fork": "1,607",
+    "timestamp": "2026-01-31T03:20:57.604540",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "openssl/openssl",
+    "href": "https://github.com/openssl/openssl",
+    "about": "TLS/SSL and crypto library",
+    "star": "29,462",
+    "fork": "11,014",
+    "timestamp": "2026-01-31T03:20:57.604851",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "tsoding/nob.h",
+    "href": "https://github.com/tsoding/nob.h",
+    "about": "Header only library for writing build recipes in C.",
+    "star": "2,516",
+    "fork": "161",
+    "timestamp": "2026-01-31T03:20:57.605136",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "href": "https://github.com/eclipse-mosquitto/mosquitto",
+    "about": "Eclipse Mosquitto - An open source MQTT broker",
+    "star": "10,565",
+    "fork": "2,579",
+    "timestamp": "2026-01-31T03:20:57.605428",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "xiph/opus",
+    "href": "https://github.com/xiph/opus",
+    "about": "Modern audio compression for the internet.",
+    "star": "2,985",
+    "fork": "741",
+    "timestamp": "2026-01-31T03:20:57.605706",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ThrowTheSwitch/Unity",
+    "href": "https://github.com/ThrowTheSwitch/Unity",
+    "about": "Simple unit testing for C",
+    "star": "5,031",
+    "fork": "1,094",
+    "timestamp": "2026-01-31T03:20:57.606048",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "nrfconnect/sdk-nrf",
+    "href": "https://github.com/nrfconnect/sdk-nrf",
+    "about": "nRF Connect SDK main repository",
+    "star": "1,255",
+    "fork": "1,456",
+    "timestamp": "2026-01-31T03:20:57.606331",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+    "star": "24,626",
+    "fork": "1,014",
+    "timestamp": "2026-01-31T03:20:57.606627",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "sonic-net/sonic-buildimage",
+    "href": "https://github.com/sonic-net/sonic-buildimage",
+    "about": "Scripts which perform an installable binary image build for SONiC",
+    "star": "913",
+    "fork": "1,708",
+    "timestamp": "2026-01-31T03:20:57.606904",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "href": "https://github.com/Klipper3d/klipper",
+    "about": "Klipper is a 3d-printer firmware",
+    "star": "11,237",
+    "fork": "5,765",
+    "timestamp": "2026-01-31T03:20:57.607178",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "OP-TEE/optee_os",
+    "href": "https://github.com/OP-TEE/optee_os",
+    "about": "Trusted side of the TEE",
+    "star": "1,823",
+    "fork": "1,169",
+    "timestamp": "2026-01-31T03:20:57.607465",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "openzfs/zfs",
+    "href": "https://github.com/openzfs/zfs",
+    "about": "OpenZFS on Linux and FreeBSD",
+    "star": "11,946",
+    "fork": "1,944",
+    "timestamp": "2026-01-31T03:20:57.607741",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "mattn/go-sqlite3",
+    "href": "https://github.com/mattn/go-sqlite3",
+    "about": "sqlite3 driver for go using database/sql",
+    "star": "8,944",
+    "fork": "1,157",
+    "timestamp": "2026-01-31T03:20:57.608044",
+    "stars_today": "1 star today"
+  }
+]

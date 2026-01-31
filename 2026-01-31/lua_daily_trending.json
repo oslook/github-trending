@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "apache/apisix",
+    "href": "https://github.com/apache/apisix",
+    "about": "The Cloud-Native API Gateway and AI Gateway",
+    "star": "16,141",
+    "fork": "2,775",
+    "timestamp": "2026-01-31T03:21:13.036280",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "29,234",
+    "fork": "43,841",
+    "timestamp": "2026-01-31T03:21:13.036625",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim (actively maintained version)",
+    "star": "1,487",
+    "fork": "97",
+    "timestamp": "2026-01-31T03:21:13.036917",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "href": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "about": "Offline build planner for Path of Exile.",
+    "star": "5,093",
+    "fork": "2,240",
+    "timestamp": "2026-01-31T03:21:13.037202",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ThePrimeagen/99",
+    "href": "https://github.com/ThePrimeagen/99",
+    "about": "Neovim AI agent done right",
+    "star": "1,739",
+    "fork": "86",
+    "timestamp": "2026-01-31T03:21:13.037538",
+    "stars_today": "499 stars today"
+  },
+  {
+    "repo": "MeanderingProgrammer/render-markdown.nvim",
+    "href": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+    "about": "Plugin to improve viewing Markdown files in Neovim",
+    "star": "4,039",
+    "fork": "98",
+    "timestamp": "2026-01-31T03:21:13.037822",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "6,953",
+    "fork": "397",
+    "timestamp": "2026-01-31T03:21:13.038103",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "esmuellert/codediff.nvim",
+    "href": "https://github.com/esmuellert/codediff.nvim",
+    "about": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+    "star": "1,050",
+    "fork": "28",
+    "timestamp": "2026-01-31T03:21:13.038398",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "LuaLS/lua-language-server",
+    "href": "https://github.com/LuaLS/lua-language-server",
+    "about": "A language server that offers Lua language support - programmed in Lua",
+    "star": "4,098",
+    "fork": "400",
+    "timestamp": "2026-01-31T03:21:13.038679",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,286",
+    "fork": "2,401",
+    "timestamp": "2026-01-31T03:21:13.038990",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,621",
+    "fork": "296",
+    "timestamp": "2026-01-31T03:21:13.039300",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The API and AI Gateway",
+    "star": "42,638",
+    "fork": "5,054",
+    "timestamp": "2026-01-31T03:21:13.039591",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,340",
+    "fork": "639",
+    "timestamp": "2026-01-31T03:21:13.039872",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "4,031",
+    "fork": "231",
+    "timestamp": "2026-01-31T03:21:13.040152",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "6,043",
+    "fork": "363",
+    "timestamp": "2026-01-31T03:21:13.040470",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "mason-org/mason.nvim",
+    "href": "https://github.com/mason-org/mason.nvim",
+    "about": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "star": "9,976",
+    "fork": "326",
+    "timestamp": "2026-01-31T03:21:13.040747",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "windwp/nvim-autopairs",
+    "href": "https://github.com/windwp/nvim-autopairs",
+    "about": "autopairs for neovim written in lua",
+    "star": "3,925",
+    "fork": "134",
+    "timestamp": "2026-01-31T03:21:13.041054",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "Bob74/bob74_ipl",
+    "href": "https://github.com/Bob74/bob74_ipl",
+    "about": "Fix holes and customize the map",
+    "star": "305",
+    "fork": "251",
+    "timestamp": "2026-01-31T03:21:13.041327",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ray-x/lsp_signature.nvim",
+    "href": "https://github.com/ray-x/lsp_signature.nvim",
+    "about": "LSP signature hint as you type",
+    "star": "2,324",
+    "fork": "83",
+    "timestamp": "2026-01-31T03:21:13.041705",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "AstroNvim/astrocommunity",
+    "href": "https://github.com/AstroNvim/astrocommunity",
+    "about": "A community repository of common plugin specifications",
+    "star": "1,622",
+    "fork": "309",
+    "timestamp": "2026-01-31T03:21:13.042020",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "loki79uk/FS25_UniversalAutoload",
+    "href": "https://github.com/loki79uk/FS25_UniversalAutoload",
+    "about": "Mod for FS25. Please download latest release below.",
+    "star": "657",
+    "fork": "46",
+    "timestamp": "2026-01-31T03:21:13.042300",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "20,105",
+    "fork": "537",
+    "timestamp": "2026-01-31T03:21:13.042594",
+    "stars_today": "11 stars today"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,727",
+    "fork": "29,044",
+    "timestamp": "2026-01-31T03:21:22.192230",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "zio/zio-blocks",
+    "href": "https://github.com/zio/zio-blocks",
+    "about": "Powerful, joyful building blocks for modern cloud-native applications.",
+    "star": "74",
+    "fork": "115",
+    "timestamp": "2026-01-31T03:21:22.192542",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "958",
+    "fork": "271",
+    "timestamp": "2026-01-31T03:21:22.192827",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,501",
+    "fork": "566",
+    "timestamp": "2026-01-31T03:21:22.193112",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,123",
+    "fork": "278",
+    "timestamp": "2026-01-31T03:21:22.193412",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,681",
+    "fork": "2,553",
+    "timestamp": "2026-01-31T03:21:22.193695",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "scalameta/scalafmt",
+    "href": "https://github.com/scalameta/scalafmt",
+    "about": "Code formatter for Scala",
+    "star": "1,483",
+    "fork": "284",
+    "timestamp": "2026-01-31T03:21:22.193978",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,296",
+    "fork": "985",
+    "timestamp": "2026-01-31T03:21:22.194259",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "hyperledger-labs/splice",
+    "href": "https://github.com/hyperledger-labs/splice",
+    "about": "Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",
+    "star": "62",
+    "fork": "60",
+    "timestamp": "2026-01-31T03:21:22.194553",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "chipsalliance/chisel",
+    "href": "https://github.com/chipsalliance/chisel",
+    "about": "Chisel: A Modern Hardware Design Language",
+    "star": "4,554",
+    "fork": "646",
+    "timestamp": "2026-01-31T03:21:22.194833",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "delta-io/delta-sharing",
+    "href": "https://github.com/delta-io/delta-sharing",
+    "about": "An open protocol for secure data sharing",
+    "star": "918",
+    "fork": "217",
+    "timestamp": "2026-01-31T03:21:22.195113",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ucb-bar/chipyard",
+    "href": "https://github.com/ucb-bar/chipyard",
+    "about": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+    "star": "2,127",
+    "fork": "806",
+    "timestamp": "2026-01-31T03:21:22.195406",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,886",
+    "fork": "380",
+    "timestamp": "2026-01-31T03:21:22.195690",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "com-lihaoyi/mill",
+    "href": "https://github.com/com-lihaoyi/mill",
+    "about": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools",
+    "star": "2,679",
+    "fork": "429",
+    "timestamp": "2026-01-31T03:21:22.195970",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ucb-bar/riscv-sodor",
+    "href": "https://github.com/ucb-bar/riscv-sodor",
+    "about": "educational microarchitectures for risc-v isa",
+    "star": "732",
+    "fork": "160",
+    "timestamp": "2026-01-31T03:21:22.196254",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rtyley/bfg-repo-cleaner",
+    "href": "https://github.com/rtyley/bfg-repo-cleaner",
+    "about": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "star": "11,960",
+    "fork": "576",
+    "timestamp": "2026-01-31T03:21:22.196571",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip-inclusive-cache",
+    "href": "https://github.com/chipsalliance/rocket-chip-inclusive-cache",
+    "about": "An RTL generator for a last-level shared inclusive TileLink cache controller",
+    "star": "24",
+    "fork": "27",
+    "timestamp": "2026-01-31T03:21:22.196848",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "scala/scala",
+    "href": "https://github.com/scala/scala",
+    "about": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+    "star": "14,433",
+    "fork": "3,100",
+    "timestamp": "2026-01-31T03:21:22.197133",
+    "stars_today": "0 stars today"
+  }
+]
