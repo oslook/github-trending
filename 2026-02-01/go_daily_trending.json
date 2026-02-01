@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "AlexanderGrooff/mermaid-ascii",
+    "href": "https://github.com/AlexanderGrooff/mermaid-ascii",
+    "about": "Render Mermaid graphs inside your terminal",
+    "star": "864",
+    "fork": "37",
+    "timestamp": "2026-02-01T03:47:37.040324",
+    "stars_today": "74 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "31,204",
+    "fork": "2,900",
+    "timestamp": "2026-02-01T03:47:37.040613",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "7,038",
+    "fork": "1,533",
+    "timestamp": "2026-02-01T03:47:37.040871",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "34,912",
+    "fork": "4,577",
+    "timestamp": "2026-02-01T03:47:37.041126",
+    "stars_today": "164 stars today"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "27,704",
+    "fork": "2,252",
+    "timestamp": "2026-02-01T03:47:37.041388",
+    "stars_today": "52 stars today"
+  },
+  {
+    "repo": "NoFxAiOS/nofx",
+    "href": "https://github.com/NoFxAiOS/nofx",
+    "about": "AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.",
+    "star": "10,280",
+    "fork": "2,730",
+    "timestamp": "2026-02-01T03:47:37.041676",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "grafana/k6",
+    "href": "https://github.com/grafana/k6",
+    "about": "A modern load testing tool, using Go and JavaScript",
+    "star": "29,816",
+    "fork": "1,487",
+    "timestamp": "2026-02-01T03:47:37.041944",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,891",
+    "fork": "8,229",
+    "timestamp": "2026-02-01T03:47:37.042201",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "9,803",
+    "fork": "3,011",
+    "timestamp": "2026-02-01T03:47:37.042463",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/adk-go",
+    "href": "https://github.com/google/adk-go",
+    "about": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "star": "6,810",
+    "fork": "511",
+    "timestamp": "2026-02-01T03:47:37.042723",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "1,983",
+    "fork": "212",
+    "timestamp": "2026-02-01T03:47:37.042979",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "24,482",
+    "fork": "4,777",
+    "timestamp": "2026-02-01T03:47:37.043236",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "getarcaneapp/arcane",
+    "href": "https://github.com/getarcaneapp/arcane",
+    "about": "Modern Docker Management, Designed for Everyone",
+    "star": "4,303",
+    "fork": "130",
+    "timestamp": "2026-02-01T03:47:37.043528",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "goharbor/harbor",
+    "href": "https://github.com/goharbor/harbor",
+    "about": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "star": "27,470",
+    "fork": "5,082",
+    "timestamp": "2026-02-01T03:47:37.043785",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "href": "https://github.com/gohugoio/hugo",
+    "about": "The world’s fastest framework for building websites.",
+    "star": "86,365",
+    "fork": "8,184",
+    "timestamp": "2026-02-01T03:47:37.044040",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "cloudnative-pg/cloudnative-pg",
+    "href": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "about": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "star": "7,918",
+    "fork": "606",
+    "timestamp": "2026-02-01T03:47:37.044305",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "href": "https://github.com/zitadel/zitadel",
+    "about": "ZITADEL - Identity infrastructure, simplified for you.",
+    "star": "12,873",
+    "fork": "927",
+    "timestamp": "2026-02-01T03:47:37.044594",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "32,032",
+    "fork": "2,585",
+    "timestamp": "2026-02-01T03:47:37.044853",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "looplj/axonhub",
+    "href": "https://github.com/looplj/axonhub",
+    "about": "AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API",
+    "star": "1,567",
+    "fork": "183",
+    "timestamp": "2026-02-01T03:47:37.045116",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "6,100",
+    "fork": "1,176",
+    "timestamp": "2026-02-01T03:47:37.045401",
+    "stars_today": "5 stars today"
+  }
+]
