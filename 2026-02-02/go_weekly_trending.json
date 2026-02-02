@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "34,929",
+    "fork": "4,578",
+    "timestamp": "2026-02-02T03:39:52.388554",
+    "stars_today": "1,061 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "star": "161,377",
+    "fork": "14,384",
+    "timestamp": "2026-02-02T03:39:52.388867",
+    "stars_today": "910 stars this week"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,422",
+    "fork": "8,519",
+    "timestamp": "2026-02-02T03:39:52.389156",
+    "stars_today": "154 stars this week"
+  },
+  {
+    "repo": "kyverno/kyverno",
+    "href": "https://github.com/kyverno/kyverno",
+    "about": "Cloud Native Policy Management",
+    "star": "7,346",
+    "fork": "1,221",
+    "timestamp": "2026-02-02T03:39:52.389443",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "href": "https://github.com/gin-gonic/gin",
+    "about": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "star": "87,865",
+    "fork": "8,548",
+    "timestamp": "2026-02-02T03:39:52.389743",
+    "stars_today": "112 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,723",
+    "fork": "9,928",
+    "timestamp": "2026-02-02T03:39:52.390028",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "6,336",
+    "fork": "735",
+    "timestamp": "2026-02-02T03:39:52.390311",
+    "stars_today": "47 stars this week"
+  },
+  {
+    "repo": "navidrome/navidrome",
+    "href": "https://github.com/navidrome/navidrome",
+    "about": "🎧☁️ Your Personal Streaming Service",
+    "star": "18,959",
+    "fork": "1,354",
+    "timestamp": "2026-02-02T03:39:52.390604",
+    "stars_today": "203 stars this week"
+  },
+  {
+    "repo": "redis/go-redis",
+    "href": "https://github.com/redis/go-redis",
+    "about": "Redis Go client",
+    "star": "21,882",
+    "fork": "2,534",
+    "timestamp": "2026-02-02T03:39:52.390889",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "charmbracelet/bubbletea",
+    "href": "https://github.com/charmbracelet/bubbletea",
+    "about": "A powerful little TUI framework 🏗",
+    "star": "38,996",
+    "fork": "1,081",
+    "timestamp": "2026-02-02T03:39:52.391171",
+    "stars_today": "319 stars this week"
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "href": "https://github.com/ArvinLovegood/go-stock",
+    "about": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+    "star": "4,236",
+    "fork": "698",
+    "timestamp": "2026-02-02T03:39:52.391452",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "kubernetes-retired/dashboard",
+    "href": "https://github.com/kubernetes-retired/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "15,448",
+    "fork": "4,299",
+    "timestamp": "2026-02-02T03:39:52.391743",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "24,503",
+    "fork": "4,779",
+    "timestamp": "2026-02-02T03:39:52.392021",
+    "stars_today": "146 stars this week"
+  },
+  {
+    "repo": "free5gc/free5gc",
+    "href": "https://github.com/free5gc/free5gc",
+    "about": "Open source 5G core network based on 3GPP R15",
+    "star": "2,239",
+    "fork": "705",
+    "timestamp": "2026-02-02T03:39:52.392302",
+    "stars_today": "37 stars this week"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-go",
+    "href": "https://github.com/open-telemetry/opentelemetry-go",
+    "about": "OpenTelemetry Go API and SDK",
+    "star": "6,257",
+    "fork": "1,249",
+    "timestamp": "2026-02-02T03:39:52.392591",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "27,749",
+    "fork": "2,255",
+    "timestamp": "2026-02-02T03:39:52.392872",
+    "stars_today": "301 stars this week"
+  },
+  {
+    "repo": "gravitl/netmaker",
+    "href": "https://github.com/gravitl/netmaker",
+    "about": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+    "star": "11,358",
+    "fork": "630",
+    "timestamp": "2026-02-02T03:39:52.393153",
+    "stars_today": "152 stars this week"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,757",
+    "fork": "4,634",
+    "timestamp": "2026-02-02T03:39:52.393436",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "evcc-io/evcc",
+    "href": "https://github.com/evcc-io/evcc",
+    "about": "solar charging ☀️🚘",
+    "star": "6,105",
+    "fork": "1,176",
+    "timestamp": "2026-02-02T03:39:52.393757",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "openbao/openbao",
+    "href": "https://github.com/openbao/openbao",
+    "about": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "star": "5,316",
+    "fork": "325",
+    "timestamp": "2026-02-02T03:39:52.394035",
+    "stars_today": "48 stars this week"
+  }
+]
