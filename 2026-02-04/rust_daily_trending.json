@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "4,869",
+    "fork": "135",
+    "timestamp": "2026-02-04T03:30:42.503599",
+    "stars_today": "46 stars today"
+  },
+  {
+    "repo": "casey/just",
+    "href": "https://github.com/casey/just",
+    "about": "🤖 Just a command runner",
+    "star": "30,809",
+    "fork": "664",
+    "timestamp": "2026-02-04T03:30:42.503937",
+    "stars_today": "99 stars today"
+  },
+  {
+    "repo": "Pumpkin-MC/Pumpkin",
+    "href": "https://github.com/Pumpkin-MC/Pumpkin",
+    "about": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "star": "6,779",
+    "fork": "410",
+    "timestamp": "2026-02-04T03:30:42.504225",
+    "stars_today": "35 stars today"
+  },
+  {
+    "repo": "uutils/coreutils",
+    "href": "https://github.com/uutils/coreutils",
+    "about": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "22,658",
+    "fork": "1,752",
+    "timestamp": "2026-02-04T03:30:42.504534",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "102,245",
+    "fork": "3,353",
+    "timestamp": "2026-02-04T03:30:42.504854",
+    "stars_today": "42 stars today"
+  },
+  {
+    "repo": "cloudflare/pingora",
+    "href": "https://github.com/cloudflare/pingora",
+    "about": "A library for building fast, reliable and evolvable network services.",
+    "star": "26,034",
+    "fork": "1,565",
+    "timestamp": "2026-02-04T03:30:42.505130",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "memvid/memvid",
+    "href": "https://github.com/memvid/memvid",
+    "about": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+    "star": "12,909",
+    "fork": "1,088",
+    "timestamp": "2026-02-04T03:30:42.505410",
+    "stars_today": "93 stars today"
+  },
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "58,801",
+    "fork": "7,656",
+    "timestamp": "2026-02-04T03:30:42.505685",
+    "stars_today": "258 stars today"
+  },
+  {
+    "repo": "katanemo/plano",
+    "href": "https://github.com/katanemo/plano",
+    "about": "Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).",
+    "star": "4,941",
+    "fork": "278",
+    "timestamp": "2026-02-04T03:30:42.505974",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "farion1231/cc-switch",
+    "href": "https://github.com/farion1231/cc-switch",
+    "about": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+    "star": "15,912",
+    "fork": "988",
+    "timestamp": "2026-02-04T03:30:42.506249",
+    "stars_today": "260 stars today"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "29,720",
+    "fork": "2,239",
+    "timestamp": "2026-02-04T03:30:42.506524",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "href": "https://github.com/spacedriveapp/spacedrive",
+    "about": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "star": "36,867",
+    "fork": "1,192",
+    "timestamp": "2026-02-04T03:30:42.506814",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "href": "https://github.com/kata-containers/kata-containers",
+    "about": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "star": "7,367",
+    "fork": "1,255",
+    "timestamp": "2026-02-04T03:30:42.507097",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "href": "https://github.com/bevyengine/bevy",
+    "about": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "44,481",
+    "fork": "4,366",
+    "timestamp": "2026-02-04T03:30:42.507374",
+    "stars_today": "30 stars today"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "href": "https://github.com/firecracker-microvm/firecracker",
+    "about": "Secure and fast microVMs for serverless computing.",
+    "star": "32,219",
+    "fork": "2,238",
+    "timestamp": "2026-02-04T03:30:42.507647",
+    "stars_today": "43 stars today"
+  },
+  {
+    "repo": "embassy-rs/embassy",
+    "href": "https://github.com/embassy-rs/embassy",
+    "about": "Modern embedded framework, using Rust and async.",
+    "star": "8,724",
+    "fork": "1,350",
+    "timestamp": "2026-02-04T03:30:42.507960",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "href": "https://github.com/cloudflare/quiche",
+    "about": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "star": "11,218",
+    "fork": "940",
+    "timestamp": "2026-02-04T03:30:42.508239",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "sharkdp/fd",
+    "href": "https://github.com/sharkdp/fd",
+    "about": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "41,452",
+    "fork": "971",
+    "timestamp": "2026-02-04T03:30:42.508542",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "rust-lang/mdBook",
+    "href": "https://github.com/rust-lang/mdBook",
+    "about": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "star": "21,099",
+    "fork": "1,812",
+    "timestamp": "2026-02-04T03:30:42.508830",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "apache/datafusion",
+    "href": "https://github.com/apache/datafusion",
+    "about": "Apache DataFusion SQL Query Engine",
+    "star": "8,355",
+    "fork": "1,933",
+    "timestamp": "2026-02-04T03:30:42.509103",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "href": "https://github.com/vectordotdev/vector",
+    "about": "A high-performance observability data pipeline.",
+    "star": "21,260",
+    "fork": "1,993",
+    "timestamp": "2026-02-04T03:30:42.509378",
+    "stars_today": "10 stars today"
+  }
+]

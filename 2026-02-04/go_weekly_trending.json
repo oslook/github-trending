@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "hashicorp/vault",
+    "href": "https://github.com/hashicorp/vault",
+    "about": "A tool for secrets management, encryption as a service, and privileged access management",
+    "star": "34,953",
+    "fork": "4,584",
+    "timestamp": "2026-02-04T03:30:26.033110",
+    "stars_today": "973 stars this week"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
+    "href": "https://github.com/kubernetes/ingress-nginx",
+    "about": "Ingress NGINX Controller for Kubernetes",
+    "star": "19,424",
+    "fork": "8,521",
+    "timestamp": "2026-02-04T03:30:26.033418",
+    "stars_today": "156 stars this week"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "star": "161,600",
+    "fork": "14,428",
+    "timestamp": "2026-02-04T03:30:26.033723",
+    "stars_today": "880 stars this week"
+  },
+  {
+    "repo": "autobrr/qui",
+    "href": "https://github.com/autobrr/qui",
+    "about": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+    "star": "3,042",
+    "fork": "83",
+    "timestamp": "2026-02-04T03:30:26.034027",
+    "stars_today": "607 stars this week"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "href": "https://github.com/tailscale/tailscale",
+    "about": "The easiest, most secure way to use WireGuard and 2FA.",
+    "star": "27,860",
+    "fork": "2,266",
+    "timestamp": "2026-02-04T03:30:26.034315",
+    "stars_today": "346 stars this week"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "22,131",
+    "fork": "1,080",
+    "timestamp": "2026-02-04T03:30:26.034629",
+    "stars_today": "826 stars this week"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "href": "https://github.com/nats-io/nats-server",
+    "about": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "star": "19,086",
+    "fork": "1,729",
+    "timestamp": "2026-02-04T03:30:26.034923",
+    "stars_today": "56 stars this week"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-aws",
+    "href": "https://github.com/hashicorp/terraform-provider-aws",
+    "about": "The AWS Provider enables Terraform to manage AWS resources.",
+    "star": "10,729",
+    "fork": "9,932",
+    "timestamp": "2026-02-04T03:30:26.035204",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "href": "https://github.com/k3s-io/k3s",
+    "about": "Lightweight Kubernetes",
+    "star": "32,069",
+    "fork": "2,586",
+    "timestamp": "2026-02-04T03:30:26.035493",
+    "stars_today": "77 stars this week"
+  },
+  {
+    "repo": "XIU2/CloudflareSpeedTest",
+    "href": "https://github.com/XIU2/CloudflareSpeedTest",
+    "about": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "star": "24,536",
+    "fork": "4,785",
+    "timestamp": "2026-02-04T03:30:26.035794",
+    "stars_today": "159 stars this week"
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "href": "https://github.com/cloudflare/cloudflared",
+    "about": "Cloudflare Tunnel client",
+    "star": "12,909",
+    "fork": "1,165",
+    "timestamp": "2026-02-04T03:30:26.036076",
+    "stars_today": "111 stars this week"
+  },
+  {
+    "repo": "chaitin/SafeLine",
+    "href": "https://github.com/chaitin/SafeLine",
+    "about": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "star": "20,532",
+    "fork": "1,323",
+    "timestamp": "2026-02-04T03:30:26.036356",
+    "stars_today": "223 stars this week"
+  },
+  {
+    "repo": "kubernetes-retired/dashboard",
+    "href": "https://github.com/kubernetes-retired/dashboard",
+    "about": "General-purpose web UI for Kubernetes clusters",
+    "star": "15,447",
+    "fork": "4,301",
+    "timestamp": "2026-02-04T03:30:26.036633",
+    "stars_today": "8 stars this week"
+  },
+  {
+    "repo": "opencost/opencost",
+    "href": "https://github.com/opencost/opencost",
+    "about": "Cost monitoring for Kubernetes workloads and cloud costs",
+    "star": "6,353",
+    "fork": "736",
+    "timestamp": "2026-02-04T03:30:26.036927",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "korotovsky/slack-mcp-server",
+    "href": "https://github.com/korotovsky/slack-mcp-server",
+    "about": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
+    "star": "1,266",
+    "fork": "217",
+    "timestamp": "2026-02-04T03:30:26.037208",
+    "stars_today": "64 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "href": "https://github.com/projectdiscovery/nuclei",
+    "about": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "star": "26,837",
+    "fork": "3,093",
+    "timestamp": "2026-02-04T03:30:26.037492",
+    "stars_today": "141 stars this week"
+  },
+  {
+    "repo": "gravitl/netmaker",
+    "href": "https://github.com/gravitl/netmaker",
+    "about": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+    "star": "11,375",
+    "fork": "632",
+    "timestamp": "2026-02-04T03:30:26.037790",
+    "stars_today": "166 stars this week"
+  },
+  {
+    "repo": "projectdiscovery/naabu",
+    "href": "https://github.com/projectdiscovery/naabu",
+    "about": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "star": "5,728",
+    "fork": "658",
+    "timestamp": "2026-02-04T03:30:26.038071",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "18,427",
+    "fork": "1,547",
+    "timestamp": "2026-02-04T03:30:26.038378",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+    "star": "14,818",
+    "fork": "738",
+    "timestamp": "2026-02-04T03:30:26.038685",
+    "stars_today": "45 stars this week"
+  }
+]
