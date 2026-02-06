@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "31,389",
+    "fork": "2,912",
+    "timestamp": "2026-02-06T03:30:37.357020",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "href": "https://github.com/Tencent/WeKnora",
+    "about": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "star": "12,899",
+    "fork": "1,468",
+    "timestamp": "2026-02-06T03:30:37.357341",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "21,899",
+    "fork": "6,793",
+    "timestamp": "2026-02-06T03:30:37.357633",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "href": "https://github.com/trufflesecurity/trufflehog",
+    "about": "Find, verify, and analyze leaked credentials",
+    "star": "24,432",
+    "fork": "2,216",
+    "timestamp": "2026-02-06T03:30:37.357927",
+    "stars_today": "27 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "about": "Contrib repository for the OpenTelemetry Collector",
+    "star": "4,382",
+    "fork": "3,305",
+    "timestamp": "2026-02-06T03:30:37.358212",
+    "stars_today": "49 stars today"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "href": "https://github.com/putyy/res-downloader",
+    "about": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+    "star": "15,040",
+    "fork": "1,869",
+    "timestamp": "2026-02-06T03:30:37.358514",
+    "stars_today": "117 stars today"
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "href": "https://github.com/seaweedfs/seaweedfs",
+    "about": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "star": "29,967",
+    "fork": "2,688",
+    "timestamp": "2026-02-06T03:30:37.358799",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "0xJacky/nginx-ui",
+    "href": "https://github.com/0xJacky/nginx-ui",
+    "about": "Yet another WebUI for Nginx",
+    "star": "10,559",
+    "fork": "774",
+    "timestamp": "2026-02-06T03:30:37.359081",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "samber/lo",
+    "href": "https://github.com/samber/lo",
+    "about": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "star": "20,914",
+    "fork": "932",
+    "timestamp": "2026-02-06T03:30:37.359402",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "href": "https://github.com/argoproj/argo-workflows",
+    "about": "Workflow Engine for Kubernetes",
+    "star": "16,433",
+    "fork": "3,471",
+    "timestamp": "2026-02-06T03:30:37.359686",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "kagent-dev/kagent",
+    "href": "https://github.com/kagent-dev/kagent",
+    "about": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+    "star": "2,130",
+    "fork": "395",
+    "timestamp": "2026-02-06T03:30:37.359978",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "href": "https://github.com/crossplane/crossplane",
+    "about": "The Cloud Native Control Plane",
+    "star": "11,372",
+    "fork": "1,131",
+    "timestamp": "2026-02-06T03:30:37.360276",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,919",
+    "fork": "2,359",
+    "timestamp": "2026-02-06T03:30:37.360559",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grafana/tempo",
+    "href": "https://github.com/grafana/tempo",
+    "about": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "star": "5,045",
+    "fork": "657",
+    "timestamp": "2026-02-06T03:30:37.360840",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "googleapis/google-cloud-go",
+    "href": "https://github.com/googleapis/google-cloud-go",
+    "about": "Google Cloud Client Libraries for Go.",
+    "star": "4,409",
+    "fork": "1,510",
+    "timestamp": "2026-02-06T03:30:37.361119",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "siderolabs/talos",
+    "href": "https://github.com/siderolabs/talos",
+    "about": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "star": "9,823",
+    "fork": "780",
+    "timestamp": "2026-02-06T03:30:37.361444",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "gdy666/lucky",
+    "href": "https://github.com/gdy666/lucky",
+    "about": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
+    "star": "7,288",
+    "fork": "680",
+    "timestamp": "2026-02-06T03:30:37.361722",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "steveyegge/beads",
+    "href": "https://github.com/steveyegge/beads",
+    "about": "Beads - A memory upgrade for your coding agent",
+    "star": "15,099",
+    "fork": "883",
+    "timestamp": "2026-02-06T03:30:37.361989",
+    "stars_today": "230 stars today"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
+    "star": "4,093",
+    "fork": "175",
+    "timestamp": "2026-02-06T03:30:37.362310",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "61,464",
+    "fork": "5,800",
+    "timestamp": "2026-02-06T03:30:37.362624",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "href": "https://github.com/pingcap/tidb",
+    "about": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "star": "39,695",
+    "fork": "6,109",
+    "timestamp": "2026-02-06T03:30:37.362908",
+    "stars_today": "12 stars today"
+  }
+]
