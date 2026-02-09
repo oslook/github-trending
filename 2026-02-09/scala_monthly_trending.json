@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "twitter/the-algorithm",
+    "href": "https://github.com/twitter/the-algorithm",
+    "about": "Source code for the X Recommendation Algorithm",
+    "star": "72,656",
+    "fork": "13,273",
+    "timestamp": "2026-02-09T03:42:01.389785",
+    "stars_today": "3,589 stars this month"
+  },
+  {
+    "repo": "zio/zio-blocks",
+    "href": "https://github.com/zio/zio-blocks",
+    "about": "Powerful, joyful building blocks for modern cloud-native applications.",
+    "star": "82",
+    "fork": "121",
+    "timestamp": "2026-02-09T03:42:01.390058",
+    "stars_today": "26 stars this month"
+  },
+  {
+    "repo": "scala/scala3",
+    "href": "https://github.com/scala/scala3",
+    "about": "The Scala 3 compiler, also known as Dotty.",
+    "star": "6,188",
+    "fork": "1,141",
+    "timestamp": "2026-02-09T03:42:01.390321",
+    "stars_today": "21 stars this month"
+  },
+  {
+    "repo": "lichess-org/lila",
+    "href": "https://github.com/lichess-org/lila",
+    "about": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "star": "17,715",
+    "fork": "2,559",
+    "timestamp": "2026-02-09T03:42:01.390580",
+    "stars_today": "180 stars this month"
+  },
+  {
+    "repo": "apache/spark",
+    "href": "https://github.com/apache/spark",
+    "about": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "star": "42,781",
+    "fork": "29,059",
+    "timestamp": "2026-02-09T03:42:01.390837",
+    "stars_today": "219 stars this month"
+  },
+  {
+    "repo": "delta-io/delta",
+    "href": "https://github.com/delta-io/delta",
+    "about": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+    "star": "8,574",
+    "fork": "2,001",
+    "timestamp": "2026-02-09T03:42:01.391092",
+    "stars_today": "71 stars this month"
+  },
+  {
+    "repo": "akka/akka-core",
+    "href": "https://github.com/akka/akka-core",
+    "about": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+    "star": "13,260",
+    "fork": "3,579",
+    "timestamp": "2026-02-09T03:42:01.391351",
+    "stars_today": "15 stars this month"
+  },
+  {
+    "repo": "apache/kyuubi",
+    "href": "https://github.com/apache/kyuubi",
+    "about": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+    "star": "2,299",
+    "fork": "986",
+    "timestamp": "2026-02-09T03:42:01.391605",
+    "stars_today": "13 stars this month"
+  },
+  {
+    "repo": "joernio/joern",
+    "href": "https://github.com/joernio/joern",
+    "about": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+    "star": "2,919",
+    "fork": "382",
+    "timestamp": "2026-02-09T03:42:01.391860",
+    "stars_today": "99 stars this month"
+  },
+  {
+    "repo": "sbt/sbt",
+    "href": "https://github.com/sbt/sbt",
+    "about": "sbt, the interactive build tool",
+    "star": "4,898",
+    "fork": "998",
+    "timestamp": "2026-02-09T03:42:01.392110",
+    "stars_today": "16 stars this month"
+  },
+  {
+    "repo": "apache/datafusion-comet",
+    "href": "https://github.com/apache/datafusion-comet",
+    "about": "Apache DataFusion Comet Spark Accelerator",
+    "star": "1,130",
+    "fork": "283",
+    "timestamp": "2026-02-09T03:42:01.392372",
+    "stars_today": "34 stars this month"
+  },
+  {
+    "repo": "firesim/firesim",
+    "href": "https://github.com/firesim/firesim",
+    "about": "FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility",
+    "star": "993",
+    "fork": "260",
+    "timestamp": "2026-02-09T03:42:01.392622",
+    "stars_today": "10 stars this month"
+  },
+  {
+    "repo": "ucb-bar/testchipip",
+    "href": "https://github.com/ucb-bar/testchipip",
+    "about": "",
+    "star": "87",
+    "fork": "69",
+    "timestamp": "2026-02-09T03:42:01.392892",
+    "stars_today": "0 stars this month"
+  },
+  {
+    "repo": "chipsalliance/rocket-chip-inclusive-cache",
+    "href": "https://github.com/chipsalliance/rocket-chip-inclusive-cache",
+    "about": "An RTL generator for a last-level shared inclusive TileLink cache controller",
+    "star": "24",
+    "fork": "27",
+    "timestamp": "2026-02-09T03:42:01.393145",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "riscv-boom/riscv-boom",
+    "href": "https://github.com/riscv-boom/riscv-boom",
+    "about": "SonicBOOM: The Berkeley Out-of-Order Machine",
+    "star": "2,071",
+    "fork": "479",
+    "timestamp": "2026-02-09T03:42:01.393401",
+    "stars_today": "28 stars this month"
+  },
+  {
+    "repo": "apache/incubator-gluten",
+    "href": "https://github.com/apache/incubator-gluten",
+    "about": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+    "star": "1,510",
+    "fork": "570",
+    "timestamp": "2026-02-09T03:42:01.393649",
+    "stars_today": "17 stars this month"
+  },
+  {
+    "repo": "NVIDIA/spark-rapids",
+    "href": "https://github.com/NVIDIA/spark-rapids",
+    "about": "Spark RAPIDS plugin - accelerate Apache Spark with GPUs",
+    "star": "961",
+    "fork": "274",
+    "timestamp": "2026-02-09T03:42:01.393899",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-sodor",
+    "href": "https://github.com/ucb-bar/riscv-sodor",
+    "about": "educational microarchitectures for risc-v isa",
+    "star": "734",
+    "fork": "160",
+    "timestamp": "2026-02-09T03:42:01.394149",
+    "stars_today": "7 stars this month"
+  },
+  {
+    "repo": "chipsalliance/diplomacy",
+    "href": "https://github.com/chipsalliance/diplomacy",
+    "about": "",
+    "star": "24",
+    "fork": "20",
+    "timestamp": "2026-02-09T03:42:01.394425",
+    "stars_today": "2 stars this month"
+  },
+  {
+    "repo": "ucb-bar/riscv-torture",
+    "href": "https://github.com/ucb-bar/riscv-torture",
+    "about": "RISC-V Torture Test",
+    "star": "213",
+    "fork": "52",
+    "timestamp": "2026-02-09T03:42:01.394677",
+    "stars_today": "8 stars this month"
+  }
+]

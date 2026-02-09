@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "wavetermdev/waveterm",
+    "href": "https://github.com/wavetermdev/waveterm",
+    "about": "An open-source, cross-platform terminal for seamless workflows",
+    "star": "17,251",
+    "fork": "771",
+    "timestamp": "2026-02-09T03:41:43.833754",
+    "stars_today": "148 stars today"
+  },
+  {
+    "repo": "meshery/meshery",
+    "href": "https://github.com/meshery/meshery",
+    "about": "Meshery, the cloud native manager",
+    "star": "9,866",
+    "fork": "3,033",
+    "timestamp": "2026-02-09T03:41:43.834036",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "71,943",
+    "fork": "2,491",
+    "timestamp": "2026-02-09T03:41:43.834331",
+    "stars_today": "60 stars today"
+  },
+  {
+    "repo": "github/gh-aw",
+    "href": "https://github.com/github/gh-aw",
+    "about": "GitHub Agentic Workflows",
+    "star": "530",
+    "fork": "58",
+    "timestamp": "2026-02-09T03:41:43.834593",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "wailsapp/wails",
+    "href": "https://github.com/wailsapp/wails",
+    "about": "Create beautiful applications using Go",
+    "star": "32,639",
+    "fork": "1,582",
+    "timestamp": "2026-02-09T03:41:43.834850",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "infracost/infracost",
+    "href": "https://github.com/infracost/infracost",
+    "about": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+    "star": "12,113",
+    "fork": "656",
+    "timestamp": "2026-02-09T03:41:43.835111",
+    "stars_today": "21 stars today"
+  },
+  {
+    "repo": "ollama/ollama",
+    "href": "https://github.com/ollama/ollama",
+    "about": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "star": "162,186",
+    "fork": "14,509",
+    "timestamp": "2026-02-09T03:41:43.835375",
+    "stars_today": "106 stars today"
+  },
+  {
+    "repo": "ramonvermeulen/whosthere",
+    "href": "https://github.com/ramonvermeulen/whosthere",
+    "about": "Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪",
+    "star": "1,630",
+    "fork": "43",
+    "timestamp": "2026-02-09T03:41:43.835664",
+    "stars_today": "23 stars today"
+  },
+  {
+    "repo": "external-secrets/external-secrets",
+    "href": "https://github.com/external-secrets/external-secrets",
+    "about": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "star": "6,373",
+    "fork": "1,201",
+    "timestamp": "2026-02-09T03:41:43.835947",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "href": "https://github.com/mudler/LocalAI",
+    "about": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "star": "42,680",
+    "fork": "3,539",
+    "timestamp": "2026-02-09T03:41:43.836240",
+    "stars_today": "26 stars today"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "href": "https://github.com/aquasecurity/trivy",
+    "about": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "star": "31,792",
+    "fork": "2,938",
+    "timestamp": "2026-02-09T03:41:43.836497",
+    "stars_today": "149 stars today"
+  },
+  {
+    "repo": "dlvhdr/gh-dash",
+    "href": "https://github.com/dlvhdr/gh-dash",
+    "about": "A rich terminal UI for GitHub that doesn't break your flow.",
+    "star": "10,096",
+    "fork": "330",
+    "timestamp": "2026-02-09T03:41:43.836780",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "AlistGo/alist",
+    "href": "https://github.com/AlistGo/alist",
+    "about": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+    "star": "48,977",
+    "fork": "7,989",
+    "timestamp": "2026-02-09T03:41:43.837036",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "loft-sh/vcluster",
+    "href": "https://github.com/loft-sh/vcluster",
+    "about": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+    "star": "10,930",
+    "fork": "554",
+    "timestamp": "2026-02-09T03:41:43.837302",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
+    "star": "4,247",
+    "fork": "176",
+    "timestamp": "2026-02-09T03:41:43.837584",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "SagerNet/sing-box",
+    "href": "https://github.com/SagerNet/sing-box",
+    "about": "The universal proxy platform",
+    "star": "30,415",
+    "fork": "3,570",
+    "timestamp": "2026-02-09T03:41:43.837841",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "href": "https://github.com/pocketbase/pocketbase",
+    "about": "Open Source realtime backend in 1 file",
+    "star": "55,963",
+    "fork": "3,096",
+    "timestamp": "2026-02-09T03:41:43.838096",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "ViRb3/wgcf",
+    "href": "https://github.com/ViRb3/wgcf",
+    "about": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
+    "star": "7,663",
+    "fork": "777",
+    "timestamp": "2026-02-09T03:41:43.838386",
+    "stars_today": "9 stars today"
+  }
+]
