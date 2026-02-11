@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "X11Libre/xserver",
+    "href": "https://github.com/X11Libre/xserver",
+    "about": "XLibre Xserver",
+    "star": "4,192",
+    "fork": "216",
+    "timestamp": "2026-02-11T03:46:10.585518",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "apache/nuttx",
+    "href": "https://github.com/apache/nuttx",
+    "about": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+    "star": "3,691",
+    "fork": "1,483",
+    "timestamp": "2026-02-11T03:46:10.585807",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "href": "https://github.com/espressif/esp-idf",
+    "about": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "star": "17,301",
+    "fork": "8,105",
+    "timestamp": "2026-02-11T03:46:10.586082",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "Mbed-TLS/mbedtls",
+    "href": "https://github.com/Mbed-TLS/mbedtls",
+    "about": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "star": "6,463",
+    "fork": "2,840",
+    "timestamp": "2026-02-11T03:46:10.586352",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "stackia/rtp2httpd",
+    "href": "https://github.com/stackia/rtp2httpd",
+    "about": "Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV",
+    "star": "1,261",
+    "fork": "217",
+    "timestamp": "2026-02-11T03:46:10.586636",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "href": "https://github.com/wazuh/wazuh",
+    "about": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+    "star": "14,688",
+    "fork": "2,152",
+    "timestamp": "2026-02-11T03:46:10.586906",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "nanopb/nanopb",
+    "href": "https://github.com/nanopb/nanopb",
+    "about": "Protocol Buffers with small code size",
+    "star": "5,202",
+    "fork": "990",
+    "timestamp": "2026-02-11T03:46:10.587174",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "redis/redis",
+    "href": "https://github.com/redis/redis",
+    "about": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+    "star": "72,870",
+    "fork": "24,480",
+    "timestamp": "2026-02-11T03:46:10.587449",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "iovisor/bcc",
+    "href": "https://github.com/iovisor/bcc",
+    "about": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+    "star": "22,226",
+    "fork": "4,041",
+    "timestamp": "2026-02-11T03:46:10.587719",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "olikraus/u8g2",
+    "href": "https://github.com/olikraus/u8g2",
+    "about": "U8glib library for monochrome displays, version 2",
+    "star": "6,253",
+    "fork": "1,183",
+    "timestamp": "2026-02-11T03:46:10.587986",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "remzi-arpacidusseau/ostep-code",
+    "href": "https://github.com/remzi-arpacidusseau/ostep-code",
+    "about": "Code from various chapters in OSTEP (http://www.ostep.org)",
+    "star": "4,117",
+    "fork": "1,517",
+    "timestamp": "2026-02-11T03:46:10.588257",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "curl/curl",
+    "href": "https://github.com/curl/curl",
+    "about": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "star": "40,656",
+    "fork": "7,059",
+    "timestamp": "2026-02-11T03:46:10.588559",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "href": "https://github.com/valkey-io/valkey",
+    "about": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+    "star": "24,774",
+    "fork": "1,022",
+    "timestamp": "2026-02-11T03:46:10.588828",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "microsoft/mimalloc",
+    "href": "https://github.com/microsoft/mimalloc",
+    "about": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "star": "12,463",
+    "fork": "1,053",
+    "timestamp": "2026-02-11T03:46:10.589101",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "VirusTotal/yara",
+    "href": "https://github.com/VirusTotal/yara",
+    "about": "The pattern matching swiss knife",
+    "star": "9,400",
+    "fork": "1,553",
+    "timestamp": "2026-02-11T03:46:10.589376",
+    "stars_today": "9 stars today"
+  }
+]

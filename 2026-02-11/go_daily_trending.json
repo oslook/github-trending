@@ -1,0 +1,173 @@
+[
+  {
+    "repo": "github/gh-aw",
+    "href": "https://github.com/github/gh-aw",
+    "about": "GitHub Agentic Workflows",
+    "star": "1,393",
+    "fork": "109",
+    "timestamp": "2026-02-11T03:46:19.959700",
+    "stars_today": "496 stars today"
+  },
+  {
+    "repo": "alireza0/s-ui",
+    "href": "https://github.com/alireza0/s-ui",
+    "about": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "star": "7,393",
+    "fork": "1,179",
+    "timestamp": "2026-02-11T03:46:19.960016",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "AnalogJ/scrutiny",
+    "href": "https://github.com/AnalogJ/scrutiny",
+    "about": "Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",
+    "star": "7,357",
+    "fork": "249",
+    "timestamp": "2026-02-11T03:46:19.960313",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "google/syzkaller",
+    "href": "https://github.com/google/syzkaller",
+    "about": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+    "star": "6,048",
+    "fork": "1,368",
+    "timestamp": "2026-02-11T03:46:19.960586",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "m1k1o/neko",
+    "href": "https://github.com/m1k1o/neko",
+    "about": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "star": "17,088",
+    "fork": "1,166",
+    "timestamp": "2026-02-11T03:46:19.960879",
+    "stars_today": "44 stars today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,650",
+    "fork": "10,209",
+    "timestamp": "2026-02-11T03:46:19.961145",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "href": "https://github.com/gitleaks/gitleaks",
+    "about": "Find secrets with Gitleaks 🔑",
+    "star": "24,855",
+    "fork": "1,910",
+    "timestamp": "2026-02-11T03:46:19.961417",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "12,876",
+    "fork": "1,184",
+    "timestamp": "2026-02-11T03:46:19.961681",
+    "stars_today": "33 stars today"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "href": "https://github.com/kubernetes-sigs/kustomize",
+    "about": "Customization of kubernetes YAML configurations",
+    "star": "11,936",
+    "fork": "2,363",
+    "timestamp": "2026-02-11T03:46:19.961946",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "href": "https://github.com/vmware-tanzu/velero",
+    "about": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "star": "9,804",
+    "fork": "1,510",
+    "timestamp": "2026-02-11T03:46:19.962211",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "spf13/viper",
+    "href": "https://github.com/spf13/viper",
+    "about": "Go configuration with fangs",
+    "star": "29,979",
+    "fork": "2,098",
+    "timestamp": "2026-02-11T03:46:19.962508",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "majd/ipatool",
+    "href": "https://github.com/majd/ipatool",
+    "about": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+    "star": "8,542",
+    "fork": "717",
+    "timestamp": "2026-02-11T03:46:19.962776",
+    "stars_today": "40 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "13,128",
+    "fork": "2,599",
+    "timestamp": "2026-02-11T03:46:19.963041",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "2,181",
+    "fork": "228",
+    "timestamp": "2026-02-11T03:46:19.963307",
+    "stars_today": "38 stars today"
+  },
+  {
+    "repo": "nats-io/nats.go",
+    "href": "https://github.com/nats-io/nats.go",
+    "about": "Golang client for NATS, the cloud native messaging system.",
+    "star": "6,429",
+    "fork": "788",
+    "timestamp": "2026-02-11T03:46:19.963577",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "bluenviron/mediamtx",
+    "href": "https://github.com/bluenviron/mediamtx",
+    "about": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "star": "17,885",
+    "fork": "2,121",
+    "timestamp": "2026-02-11T03:46:19.963842",
+    "stars_today": "16 stars today"
+  },
+  {
+    "repo": "rivo/tview",
+    "href": "https://github.com/rivo/tview",
+    "about": "Terminal UI library with rich, interactive widgets — written in Golang",
+    "star": "13,533",
+    "fork": "662",
+    "timestamp": "2026-02-11T03:46:19.964133",
+    "stars_today": "14 stars today"
+  },
+  {
+    "repo": "projectcalico/calico",
+    "href": "https://github.com/projectcalico/calico",
+    "about": "Cloud native networking and network security",
+    "star": "7,058",
+    "fork": "1,540",
+    "timestamp": "2026-02-11T03:46:19.964406",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,780",
+    "fork": "4,643",
+    "timestamp": "2026-02-11T03:46:19.964671",
+    "stars_today": "4 stars today"
+  }
+]
