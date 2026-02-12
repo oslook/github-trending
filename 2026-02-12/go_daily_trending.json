@@ -1,0 +1,182 @@
+[
+  {
+    "repo": "github/gh-aw",
+    "href": "https://github.com/github/gh-aw",
+    "about": "GitHub Agentic Workflows",
+    "star": "1,785",
+    "fork": "125",
+    "timestamp": "2026-02-12T03:41:38.779209",
+    "stars_today": "390 stars today"
+  },
+  {
+    "repo": "moby/moby",
+    "href": "https://github.com/moby/moby",
+    "about": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "star": "71,468",
+    "fork": "18,904",
+    "timestamp": "2026-02-12T03:41:38.779506",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "abiosoft/colima",
+    "href": "https://github.com/abiosoft/colima",
+    "about": "Container runtimes on macOS (and Linux) with minimal setup",
+    "star": "26,863",
+    "fork": "529",
+    "timestamp": "2026-02-12T03:41:38.779885",
+    "stars_today": "32 stars today"
+  },
+  {
+    "repo": "rclone/rclone",
+    "href": "https://github.com/rclone/rclone",
+    "about": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "star": "55,530",
+    "fork": "4,903",
+    "timestamp": "2026-02-12T03:41:38.780859",
+    "stars_today": "36 stars today"
+  },
+  {
+    "repo": "binwiederhier/ntfy",
+    "href": "https://github.com/binwiederhier/ntfy",
+    "about": "Send push notifications to your phone or desktop using PUT/POST",
+    "star": "28,698",
+    "fork": "1,177",
+    "timestamp": "2026-02-12T03:41:38.781359",
+    "stars_today": "17 stars today"
+  },
+  {
+    "repo": "go-git/go-git",
+    "href": "https://github.com/go-git/go-git",
+    "about": "A highly extensible Git implementation in pure Go.",
+    "star": "7,187",
+    "fork": "880",
+    "timestamp": "2026-02-12T03:41:38.782525",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "3,821",
+    "fork": "351",
+    "timestamp": "2026-02-12T03:41:38.782800",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "href": "https://github.com/jaegertracing/jaeger",
+    "about": "CNCF Jaeger, a Distributed Tracing Platform",
+    "star": "22,451",
+    "fork": "2,783",
+    "timestamp": "2026-02-12T03:41:38.783228",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "mayswind/ezbookkeeping",
+    "href": "https://github.com/mayswind/ezbookkeeping",
+    "about": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "star": "4,232",
+    "fork": "431",
+    "timestamp": "2026-02-12T03:41:38.784240",
+    "stars_today": "25 stars today"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "href": "https://github.com/prometheus/node_exporter",
+    "about": "Exporter for machine metrics",
+    "star": "13,134",
+    "fork": "2,598",
+    "timestamp": "2026-02-12T03:41:38.784657",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "href": "https://github.com/jesseduffield/lazygit",
+    "about": "simple terminal UI for git commands",
+    "star": "72,185",
+    "fork": "2,503",
+    "timestamp": "2026-02-12T03:41:38.785112",
+    "stars_today": "93 stars today"
+  },
+  {
+    "repo": "gotenberg/gotenberg",
+    "href": "https://github.com/gotenberg/gotenberg",
+    "about": "A developer-friendly API for converting numerous document formats into PDF files, and more!",
+    "star": "11,230",
+    "fork": "738",
+    "timestamp": "2026-02-12T03:41:38.785434",
+    "stars_today": "31 stars today"
+  },
+  {
+    "repo": "go-playground/validator",
+    "href": "https://github.com/go-playground/validator",
+    "about": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "star": "19,695",
+    "fork": "1,404",
+    "timestamp": "2026-02-12T03:41:38.785709",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "href": "https://github.com/grpc/grpc-go",
+    "about": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "star": "22,783",
+    "fork": "4,641",
+    "timestamp": "2026-02-12T03:41:38.785981",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "href": "https://github.com/argoproj/argo-cd",
+    "about": "Declarative Continuous Deployment for Kubernetes",
+    "star": "21,962",
+    "fork": "6,811",
+    "timestamp": "2026-02-12T03:41:38.786264",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "asheshgoplani/agent-deck",
+    "href": "https://github.com/asheshgoplani/agent-deck",
+    "about": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+    "star": "748",
+    "fork": "66",
+    "timestamp": "2026-02-12T03:41:38.786538",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "2,223",
+    "fork": "230",
+    "timestamp": "2026-02-12T03:41:38.786815",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "20,238",
+    "fork": "3,798",
+    "timestamp": "2026-02-12T03:41:38.787102",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "mikefarah/yq",
+    "href": "https://github.com/mikefarah/yq",
+    "about": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+    "star": "14,869",
+    "fork": "741",
+    "timestamp": "2026-02-12T03:41:38.787449",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "about": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "star": "19,811",
+    "fork": "2,370",
+    "timestamp": "2026-02-12T03:41:38.787772",
+    "stars_today": "3 stars today"
+  }
+]
