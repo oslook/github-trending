@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "github/gh-aw",
+    "href": "https://github.com/github/gh-aw",
+    "about": "GitHub Agentic Workflows",
+    "star": "2,035",
+    "fork": "142",
+    "timestamp": "2026-02-13T03:39:29.373907",
+    "stars_today": "405 stars today"
+  },
+  {
+    "repo": "traefik/traefik",
+    "href": "https://github.com/traefik/traefik",
+    "about": "The Cloud Native Application Proxy",
+    "star": "61,611",
+    "fork": "5,827",
+    "timestamp": "2026-02-13T03:39:29.374242",
+    "stars_today": "24 stars today"
+  },
+  {
+    "repo": "inngest/inngest",
+    "href": "https://github.com/inngest/inngest",
+    "about": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "star": "4,820",
+    "fork": "250",
+    "timestamp": "2026-02-13T03:39:29.374531",
+    "stars_today": "12 stars today"
+  },
+  {
+    "repo": "coder/coder",
+    "href": "https://github.com/coder/coder",
+    "about": "Secure environments for developers and their agents",
+    "star": "12,228",
+    "fork": "1,167",
+    "timestamp": "2026-02-13T03:39:29.374833",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "go-vikunja/vikunja",
+    "href": "https://github.com/go-vikunja/vikunja",
+    "about": "The to-do app to organize your life.",
+    "star": "3,322",
+    "fork": "306",
+    "timestamp": "2026-02-13T03:39:29.375122",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "href": "https://github.com/temporalio/temporal",
+    "about": "Temporal service",
+    "star": "18,293",
+    "fork": "1,347",
+    "timestamp": "2026-02-13T03:39:29.375406",
+    "stars_today": "15 stars today"
+  },
+  {
+    "repo": "containerd/containerd",
+    "href": "https://github.com/containerd/containerd",
+    "about": "An open and reliable container runtime",
+    "star": "20,244",
+    "fork": "3,799",
+    "timestamp": "2026-02-13T03:39:29.375688",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "href": "https://github.com/influxdata/telegraf",
+    "about": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "star": "16,691",
+    "fork": "5,762",
+    "timestamp": "2026-02-13T03:39:29.375984",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "18,482",
+    "fork": "1,544",
+    "timestamp": "2026-02-13T03:39:29.376294",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "dolthub/dolt",
+    "href": "https://github.com/dolthub/dolt",
+    "about": "Dolt – Git for Data",
+    "star": "19,770",
+    "fork": "623",
+    "timestamp": "2026-02-13T03:39:29.376605",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "juanfont/headscale",
+    "href": "https://github.com/juanfont/headscale",
+    "about": "An open source, self-hosted implementation of the Tailscale control server",
+    "star": "35,286",
+    "fork": "1,899",
+    "timestamp": "2026-02-13T03:39:29.376900",
+    "stars_today": "91 stars today"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaLogs",
+    "href": "https://github.com/VictoriaMetrics/VictoriaLogs",
+    "about": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs",
+    "star": "1,488",
+    "fork": "97",
+    "timestamp": "2026-02-13T03:39:29.377179",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "href": "https://github.com/kubevirt/kubevirt",
+    "about": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "star": "6,650",
+    "fork": "1,603",
+    "timestamp": "2026-02-13T03:39:29.377458",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "href": "https://github.com/caddyserver/caddy",
+    "about": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "star": "69,827",
+    "fork": "4,638",
+    "timestamp": "2026-02-13T03:39:29.377749",
+    "stars_today": "28 stars today"
+  },
+  {
+    "repo": "gruntwork-io/terragrunt",
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "about": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "star": "9,299",
+    "fork": "1,138",
+    "timestamp": "2026-02-13T03:39:29.378063",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "2,296",
+    "fork": "234",
+    "timestamp": "2026-02-13T03:39:29.378345",
+    "stars_today": "78 stars today"
+  },
+  {
+    "repo": "google/osv-scanner",
+    "href": "https://github.com/google/osv-scanner",
+    "about": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "star": "8,442",
+    "fork": "524",
+    "timestamp": "2026-02-13T03:39:29.378628",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "bia-pain-bache/BPB-Wizard",
+    "href": "https://github.com/bia-pain-bache/BPB-Wizard",
+    "about": "A wizard to facilitate BPB Panel deployment and management.",
+    "star": "364",
+    "fork": "117",
+    "timestamp": "2026-02-13T03:39:29.378919",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "href": "https://github.com/asdf-vm/asdf",
+    "about": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "star": "25,056",
+    "fork": "917",
+    "timestamp": "2026-02-13T03:39:29.379185",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "obot-platform/obot",
+    "href": "https://github.com/obot-platform/obot",
+    "about": "Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client",
+    "star": "606",
+    "fork": "129",
+    "timestamp": "2026-02-13T03:39:29.379463",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "href": "https://github.com/hashicorp/terraform",
+    "about": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "star": "47,658",
+    "fork": "10,211",
+    "timestamp": "2026-02-13T03:39:29.379752",
+    "stars_today": "12 stars today"
+  }
+]
