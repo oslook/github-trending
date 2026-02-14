@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "12,029",
+    "fork": "3,048",
+    "timestamp": "2026-02-14T03:26:58.342879",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "906",
+    "fork": "164",
+    "timestamp": "2026-02-14T03:26:58.343187",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rustyio/sync",
+    "href": "https://github.com/rustyio/sync",
+    "about": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+    "star": "757",
+    "fork": "158",
+    "timestamp": "2026-02-14T03:26:58.343492",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "atomvm/AtomVM",
+    "href": "https://github.com/atomvm/AtomVM",
+    "about": "Tiny Erlang VM",
+    "star": "2,018",
+    "fork": "141",
+    "timestamp": "2026-02-14T03:26:58.343861",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "kivra/restclient",
+    "href": "https://github.com/kivra/restclient",
+    "about": "Erlang Rest Client",
+    "star": "96",
+    "fork": "49",
+    "timestamp": "2026-02-14T03:26:58.344148",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "832",
+    "fork": "229",
+    "timestamp": "2026-02-14T03:26:58.344475",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "289",
+    "fork": "175",
+    "timestamp": "2026-02-14T03:26:58.344760",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "334",
+    "fork": "113",
+    "timestamp": "2026-02-14T03:26:58.345043",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,474",
+    "fork": "1,173",
+    "timestamp": "2026-02-14T03:26:58.345333",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlef/oidcc",
+    "href": "https://github.com/erlef/oidcc",
+    "about": "OpenId Connect client library in Erlang & Elixir",
+    "star": "224",
+    "fork": "61",
+    "timestamp": "2026-02-14T03:26:58.345616",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "novaframework/nova",
+    "href": "https://github.com/novaframework/nova",
+    "about": "Web framework for Erlang.",
+    "star": "280",
+    "fork": "30",
+    "timestamp": "2026-02-14T03:26:58.345901",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/ranch",
+    "href": "https://github.com/ninenines/ranch",
+    "about": "Socket acceptor pool for TCP protocols.",
+    "star": "1,233",
+    "fork": "336",
+    "timestamp": "2026-02-14T03:26:58.346185",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "vernemq/vernemq",
+    "href": "https://github.com/vernemq/vernemq",
+    "about": "A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!",
+    "star": "3,527",
+    "fork": "424",
+    "timestamp": "2026-02-14T03:26:58.346503",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang-lager/lager",
+    "href": "https://github.com/erlang-lager/lager",
+    "about": "A logging framework for Erlang/OTP",
+    "star": "1,128",
+    "fork": "448",
+    "timestamp": "2026-02-14T03:26:58.346783",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "uwiger/gproc",
+    "href": "https://github.com/uwiger/gproc",
+    "about": "Extended process registry for Erlang",
+    "star": "1,097",
+    "fork": "232",
+    "timestamp": "2026-02-14T03:26:58.347090",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "msgpack/msgpack-erlang",
+    "href": "https://github.com/msgpack/msgpack-erlang",
+    "about": "MessagePack (de)serializer implementation for Erlang / msgpack.org[Erlang]",
+    "star": "218",
+    "fork": "81",
+    "timestamp": "2026-02-14T03:26:58.347382",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,294",
+    "fork": "160",
+    "timestamp": "2026-02-14T03:26:58.347661",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "talentdeficit/jsx",
+    "href": "https://github.com/talentdeficit/jsx",
+    "about": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+    "star": "695",
+    "fork": "217",
+    "timestamp": "2026-02-14T03:26:58.347938",
+    "stars_today": "0 stars today"
+  }
+]

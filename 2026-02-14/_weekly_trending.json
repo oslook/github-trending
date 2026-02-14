@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "KeygraphHQ/shannon",
+    "href": "https://github.com/KeygraphHQ/shannon",
+    "about": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+    "star": "21,677",
+    "fork": "2,178",
+    "timestamp": "2026-02-14T03:26:44.253565",
+    "stars_today": "16,589 stars this week"
+  },
+  {
+    "repo": "google/langextract",
+    "href": "https://github.com/google/langextract",
+    "about": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "star": "32,024",
+    "fork": "2,136",
+    "timestamp": "2026-02-14T03:26:44.253892",
+    "stars_today": "7,832 stars this week"
+  },
+  {
+    "repo": "github/gh-aw",
+    "href": "https://github.com/github/gh-aw",
+    "about": "GitHub Agentic Workflows",
+    "star": "2,196",
+    "fork": "155",
+    "timestamp": "2026-02-14T03:26:44.254198",
+    "stars_today": "1,750 stars this week"
+  },
+  {
+    "repo": "openai/skills",
+    "href": "https://github.com/openai/skills",
+    "about": "Skills Catalog for Codex",
+    "star": "8,380",
+    "fork": "466",
+    "timestamp": "2026-02-14T03:26:44.254509",
+    "stars_today": "3,747 stars this week"
+  },
+  {
+    "repo": "Jeffallan/claude-skills",
+    "href": "https://github.com/Jeffallan/claude-skills",
+    "about": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "star": "2,218",
+    "fork": "149",
+    "timestamp": "2026-02-14T03:26:44.254803",
+    "stars_today": "1,711 stars this week"
+  },
+  {
+    "repo": "virattt/dexter",
+    "href": "https://github.com/virattt/dexter",
+    "about": "An autonomous agent for deep financial research",
+    "star": "15,038",
+    "fork": "1,801",
+    "timestamp": "2026-02-14T03:26:44.255090",
+    "stars_today": "4,352 stars this week"
+  },
+  {
+    "repo": "badlogic/pi-mono",
+    "href": "https://github.com/badlogic/pi-mono",
+    "about": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "star": "11,682",
+    "fork": "1,162",
+    "timestamp": "2026-02-14T03:26:44.255420",
+    "stars_today": "4,044 stars this week"
+  },
+  {
+    "repo": "hsliuping/TradingAgents-CN",
+    "href": "https://github.com/hsliuping/TradingAgents-CN",
+    "about": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "star": "17,215",
+    "fork": "3,702",
+    "timestamp": "2026-02-14T03:26:44.255710",
+    "stars_today": "1,568 stars this week"
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "href": "https://github.com/thedotmack/claude-mem",
+    "about": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "star": "27,937",
+    "fork": "1,868",
+    "timestamp": "2026-02-14T03:26:44.256025",
+    "stars_today": "3,745 stars this week"
+  },
+  {
+    "repo": "EveryInc/compound-engineering-plugin",
+    "href": "https://github.com/EveryInc/compound-engineering-plugin",
+    "about": "Official Claude Code compound engineering plugin",
+    "star": "8,801",
+    "fork": "683",
+    "timestamp": "2026-02-14T03:26:44.256321",
+    "stars_today": "1,457 stars this week"
+  },
+  {
+    "repo": "chenyme/grok2api",
+    "href": "https://github.com/chenyme/grok2api",
+    "about": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
+    "star": "1,406",
+    "fork": "449",
+    "timestamp": "2026-02-14T03:26:44.256609",
+    "stars_today": "323 stars this week"
+  },
+  {
+    "repo": "linshenkx/prompt-optimizer",
+    "href": "https://github.com/linshenkx/prompt-optimizer",
+    "about": "一款提示词优化器，助力于编写高质量的提示词",
+    "star": "20,979",
+    "fork": "2,546",
+    "timestamp": "2026-02-14T03:26:44.256897",
+    "stars_today": "1,329 stars this week"
+  },
+  {
+    "repo": "tobi/qmd",
+    "href": "https://github.com/tobi/qmd",
+    "about": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "star": "8,325",
+    "fork": "442",
+    "timestamp": "2026-02-14T03:26:44.257183",
+    "stars_today": "1,539 stars this week"
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "href": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "about": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "star": "94,809",
+    "fork": "13,736",
+    "timestamp": "2026-02-14T03:26:44.257484",
+    "stars_today": "2,326 stars this week"
+  },
+  {
+    "repo": "likec4/likec4",
+    "href": "https://github.com/likec4/likec4",
+    "about": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "star": "2,623",
+    "fork": "173",
+    "timestamp": "2026-02-14T03:26:44.257803",
+    "stars_today": "941 stars this week"
+  },
+  {
+    "repo": "microsoft/RD-Agent",
+    "href": "https://github.com/microsoft/RD-Agent",
+    "about": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+    "star": "11,118",
+    "fork": "1,282",
+    "timestamp": "2026-02-14T03:26:44.258098",
+    "stars_today": "293 stars this week"
+  }
+]
