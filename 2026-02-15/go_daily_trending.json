@@ -1,0 +1,155 @@
+[
+  {
+    "repo": "minio/minio",
+    "href": "https://github.com/minio/minio",
+    "about": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "star": "60,284",
+    "fork": "7,015",
+    "timestamp": "2026-02-15T03:40:38.762676",
+    "stars_today": "29 stars today"
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "href": "https://github.com/netbirdio/netbird",
+    "about": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "star": "22,479",
+    "fork": "1,098",
+    "timestamp": "2026-02-15T03:40:38.763000",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "maximhq/bifrost",
+    "href": "https://github.com/maximhq/bifrost",
+    "about": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "star": "2,341",
+    "fork": "241",
+    "timestamp": "2026-02-15T03:40:38.763281",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "href": "https://github.com/rcourtman/Pulse",
+    "about": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
+    "star": "4,542",
+    "fork": "189",
+    "timestamp": "2026-02-15T03:40:38.763601",
+    "stars_today": "65 stars today"
+  },
+  {
+    "repo": "tmrts/go-patterns",
+    "href": "https://github.com/tmrts/go-patterns",
+    "about": "Curated list of Go design patterns, recipes and idioms",
+    "star": "27,702",
+    "fork": "2,335",
+    "timestamp": "2026-02-15T03:40:38.763877",
+    "stars_today": "61 stars today"
+  },
+  {
+    "repo": "googleapis/genai-toolbox",
+    "href": "https://github.com/googleapis/genai-toolbox",
+    "about": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "star": "12,976",
+    "fork": "1,194",
+    "timestamp": "2026-02-15T03:40:38.764151",
+    "stars_today": "53 stars today"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "href": "https://github.com/open-telemetry/opentelemetry-collector",
+    "about": "OpenTelemetry Collector",
+    "star": "6,605",
+    "fork": "1,873",
+    "timestamp": "2026-02-15T03:40:38.764437",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "modelcontextprotocol/go-sdk",
+    "href": "https://github.com/modelcontextprotocol/go-sdk",
+    "about": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+    "star": "3,846",
+    "fork": "352",
+    "timestamp": "2026-02-15T03:40:38.764716",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "dapr/dapr",
+    "href": "https://github.com/dapr/dapr",
+    "about": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+    "star": "25,498",
+    "fork": "2,038",
+    "timestamp": "2026-02-15T03:40:38.764991",
+    "stars_today": "6 stars today"
+  },
+  {
+    "repo": "php/frankenphp",
+    "href": "https://github.com/php/frankenphp",
+    "about": "🧟 The modern PHP app server",
+    "star": "10,768",
+    "fork": "429",
+    "timestamp": "2026-02-15T03:40:38.765268",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "fleetdm/fleet",
+    "href": "https://github.com/fleetdm/fleet",
+    "about": "Open device management",
+    "star": "6,039",
+    "fork": "780",
+    "timestamp": "2026-02-15T03:40:38.765556",
+    "stars_today": "11 stars today"
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "href": "https://github.com/AlexxIT/go2rtc",
+    "about": "Ultimate camera streaming application",
+    "star": "12,308",
+    "fork": "949",
+    "timestamp": "2026-02-15T03:40:38.765835",
+    "stars_today": "22 stars today"
+  },
+  {
+    "repo": "rancher/rancher",
+    "href": "https://github.com/rancher/rancher",
+    "about": "Complete container management platform",
+    "star": "25,354",
+    "fork": "3,169",
+    "timestamp": "2026-02-15T03:40:38.766108",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "href": "https://github.com/golangci/golangci-lint",
+    "about": "Fast linters runner for Go",
+    "star": "18,493",
+    "fork": "1,546",
+    "timestamp": "2026-02-15T03:40:38.766420",
+    "stars_today": "7 stars today"
+  },
+  {
+    "repo": "google/gvisor",
+    "href": "https://github.com/google/gvisor",
+    "about": "Application Kernel for Containers",
+    "star": "17,716",
+    "fork": "1,511",
+    "timestamp": "2026-02-15T03:40:38.766706",
+    "stars_today": "10 stars today"
+  },
+  {
+    "repo": "istio/istio",
+    "href": "https://github.com/istio/istio",
+    "about": "Connect, secure, control, and observe services.",
+    "star": "37,926",
+    "fork": "8,241",
+    "timestamp": "2026-02-15T03:40:38.766982",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "href": "https://github.com/AdguardTeam/AdGuardHome",
+    "about": "Network-wide ads & trackers blocking DNS server",
+    "star": "32,563",
+    "fork": "2,243",
+    "timestamp": "2026-02-15T03:40:38.767253",
+    "stars_today": "20 stars today"
+  }
+]

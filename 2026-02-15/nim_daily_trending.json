@@ -1,0 +1,83 @@
+[
+  {
+    "repo": "nim-lang/Nim",
+    "href": "https://github.com/nim-lang/Nim",
+    "about": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+    "star": "17,698",
+    "fork": "1,507",
+    "timestamp": "2026-02-15T03:40:46.813114",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "logos-messaging/logos-messaging-nim",
+    "href": "https://github.com/logos-messaging/logos-messaging-nim",
+    "about": "Logos Messaging protocols implemented in Nim",
+    "star": "235",
+    "fork": "78",
+    "timestamp": "2026-02-15T03:40:46.813433",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-stew",
+    "href": "https://github.com/status-im/nim-stew",
+    "about": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+    "star": "148",
+    "fork": "20",
+    "timestamp": "2026-02-15T03:40:46.813723",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "arnetheduck/nim-results",
+    "href": "https://github.com/arnetheduck/nim-results",
+    "about": "Friendly value-or-error type",
+    "star": "167",
+    "fork": "13",
+    "timestamp": "2026-02-15T03:40:46.814012",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-chronos",
+    "href": "https://github.com/status-im/nim-chronos",
+    "about": "Chronos - An efficient library for asynchronous programming",
+    "star": "394",
+    "fork": "53",
+    "timestamp": "2026-02-15T03:40:46.814293",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "nim-lang/packages",
+    "href": "https://github.com/nim-lang/packages",
+    "about": "List of packages for Nimble",
+    "star": "477",
+    "fork": "742",
+    "timestamp": "2026-02-15T03:40:46.814588",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "cheatfate/nimcrypto",
+    "href": "https://github.com/cheatfate/nimcrypto",
+    "about": "Nim cryptographic library",
+    "star": "213",
+    "fork": "28",
+    "timestamp": "2026-02-15T03:40:46.814872",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-serialization",
+    "href": "https://github.com/status-im/nim-serialization",
+    "about": "A modern and extensible serialization framework for Nim",
+    "star": "74",
+    "fork": "12",
+    "timestamp": "2026-02-15T03:40:46.815152",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "status-im/nim-faststreams",
+    "href": "https://github.com/status-im/nim-faststreams",
+    "about": "Nearly zero-overhead input/output streams for Nim",
+    "star": "131",
+    "fork": "14",
+    "timestamp": "2026-02-15T03:40:46.815445",
+    "stars_today": "0 stars today"
+  }
+]
