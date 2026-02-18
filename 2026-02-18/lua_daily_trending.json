@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "5,138",
+    "fork": "312",
+    "timestamp": "2026-02-18T03:36:40.092008",
+    "stars_today": "19 stars today"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "25,429",
+    "fork": "1,625",
+    "timestamp": "2026-02-18T03:36:40.092320",
+    "stars_today": "9 stars today"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "29,470",
+    "fork": "44,356",
+    "timestamp": "2026-02-18T03:36:40.092609",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "carlos-algms/agentic.nvim",
+    "href": "https://github.com/carlos-algms/agentic.nvim",
+    "about": "Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent",
+    "star": "206",
+    "fork": "13",
+    "timestamp": "2026-02-18T03:36:40.092906",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "esmuellert/codediff.nvim",
+    "href": "https://github.com/esmuellert/codediff.nvim",
+    "about": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+    "star": "1,111",
+    "fork": "31",
+    "timestamp": "2026-02-18T03:36:40.093214",
+    "stars_today": "8 stars today"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "7,198",
+    "fork": "325",
+    "timestamp": "2026-02-18T03:36:40.093534",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "LandSandBoat/server",
+    "href": "https://github.com/LandSandBoat/server",
+    "about": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
+    "star": "442",
+    "fork": "825",
+    "timestamp": "2026-02-18T03:36:40.093818",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,361",
+    "fork": "2,407",
+    "timestamp": "2026-02-18T03:36:40.094147",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "20,282",
+    "fork": "546",
+    "timestamp": "2026-02-18T03:36:40.094436",
+    "stars_today": "13 stars today"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "25,091",
+    "fork": "1,738",
+    "timestamp": "2026-02-18T03:36:40.094723",
+    "stars_today": "18 stars today"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,374",
+    "fork": "637",
+    "timestamp": "2026-02-18T03:36:40.095024",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "ntop/ntopng",
+    "href": "https://github.com/ntop/ntopng",
+    "about": "Web-based Traffic and Security Network Traffic Monitoring",
+    "star": "7,542",
+    "fork": "725",
+    "timestamp": "2026-02-18T03:36:40.095318",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "href": "https://github.com/ThePrimeagen/init.lua",
+    "about": "",
+    "star": "3,955",
+    "fork": "691",
+    "timestamp": "2026-02-18T03:36:40.095654",
+    "stars_today": "4 stars today"
+  },
+  {
+    "repo": "ellisonleao/gruvbox.nvim",
+    "href": "https://github.com/ellisonleao/gruvbox.nvim",
+    "about": "Lua port of the most famous vim colorscheme",
+    "star": "2,465",
+    "fork": "241",
+    "timestamp": "2026-02-18T03:36:40.095992",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "joshuacant/ProjectTitle",
+    "href": "https://github.com/joshuacant/ProjectTitle",
+    "about": "UI Plugin for KOReader by @elfbutt and @joshuacant",
+    "star": "712",
+    "fork": "32",
+    "timestamp": "2026-02-18T03:36:40.096294",
+    "stars_today": "5 stars today"
+  },
+  {
+    "repo": "opentibiabr/otclient",
+    "href": "https://github.com/opentibiabr/otclient",
+    "about": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
+    "star": "438",
+    "fork": "370",
+    "timestamp": "2026-02-18T03:36:40.096614",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "zbirenbaum/copilot.lua",
+    "href": "https://github.com/zbirenbaum/copilot.lua",
+    "about": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+    "star": "3,961",
+    "fork": "152",
+    "timestamp": "2026-02-18T03:36:40.096900",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "LazyVim/starter",
+    "href": "https://github.com/LazyVim/starter",
+    "about": "Starter template for LazyVim",
+    "star": "1,772",
+    "fork": "1,419",
+    "timestamp": "2026-02-18T03:36:40.097204",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "folke/sidekick.nvim",
+    "href": "https://github.com/folke/sidekick.nvim",
+    "about": "Your Neovim AI sidekick",
+    "star": "2,296",
+    "fork": "98",
+    "timestamp": "2026-02-18T03:36:40.097494",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "josean-dev/dev-environment-files",
+    "href": "https://github.com/josean-dev/dev-environment-files",
+    "about": "",
+    "star": "3,931",
+    "fork": "886",
+    "timestamp": "2026-02-18T03:36:40.097802",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim (actively maintained version)",
+    "star": "1,550",
+    "fork": "104",
+    "timestamp": "2026-02-18T03:36:40.098104",
+    "stars_today": "6 stars today"
+  }
+]

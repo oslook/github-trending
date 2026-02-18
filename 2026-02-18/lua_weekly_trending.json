@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,361",
+    "fork": "2,407",
+    "timestamp": "2026-02-18T03:36:40.631033",
+    "stars_today": "40 stars this week"
+  },
+  {
+    "repo": "sudo-tee/opencode.nvim",
+    "href": "https://github.com/sudo-tee/opencode.nvim",
+    "about": "neovim frontend for opencode - a terminal-based AI coding agent",
+    "star": "536",
+    "fork": "40",
+    "timestamp": "2026-02-18T03:36:40.631340",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "29,470",
+    "fork": "44,356",
+    "timestamp": "2026-02-18T03:36:40.631634",
+    "stars_today": "124 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,568",
+    "fork": "265",
+    "timestamp": "2026-02-18T03:36:40.631966",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "Stephan-S/FS25_AutoDrive",
+    "href": "https://github.com/Stephan-S/FS25_AutoDrive",
+    "about": "FS25 version of the AutoDrive mod",
+    "star": "582",
+    "fork": "33",
+    "timestamp": "2026-02-18T03:36:40.632259",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "5,138",
+    "fork": "312",
+    "timestamp": "2026-02-18T03:36:40.632581",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "folke/snacks.nvim",
+    "href": "https://github.com/folke/snacks.nvim",
+    "about": "🍿 A collection of QoL plugins for Neovim",
+    "star": "7,082",
+    "fork": "407",
+    "timestamp": "2026-02-18T03:36:40.632870",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "bol-van/zapret-win-bundle",
+    "href": "https://github.com/bol-van/zapret-win-bundle",
+    "about": "zapret and blockcheck binary bundle for windows",
+    "star": "1,386",
+    "fork": "233",
+    "timestamp": "2026-02-18T03:36:40.633170",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "19,068",
+    "fork": "943",
+    "timestamp": "2026-02-18T03:36:40.633457",
+    "stars_today": "49 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The API and AI Gateway",
+    "star": "42,785",
+    "fork": "5,072",
+    "timestamp": "2026-02-18T03:36:40.633745",
+    "stars_today": "73 stars this week"
+  },
+  {
+    "repo": "Courseplay/Courseplay_FS25",
+    "href": "https://github.com/Courseplay/Courseplay_FS25",
+    "about": "Courseplay for Farming Simulator 2025",
+    "star": "857",
+    "fork": "65",
+    "timestamp": "2026-02-18T03:36:40.634046",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,952",
+    "fork": "250",
+    "timestamp": "2026-02-18T03:36:40.634360",
+    "stars_today": "19 stars this week"
+  },
+  {
+    "repo": "esmuellert/codediff.nvim",
+    "href": "https://github.com/esmuellert/codediff.nvim",
+    "about": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+    "star": "1,111",
+    "fork": "31",
+    "timestamp": "2026-02-18T03:36:40.634644",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "folke/which-key.nvim",
+    "href": "https://github.com/folke/which-key.nvim",
+    "about": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+    "star": "6,939",
+    "fork": "244",
+    "timestamp": "2026-02-18T03:36:40.634926",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "LunarVim/LunarVim",
+    "href": "https://github.com/LunarVim/LunarVim",
+    "about": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
+    "star": "19,226",
+    "fork": "1,498",
+    "timestamp": "2026-02-18T03:36:40.635228",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "4,066",
+    "fork": "233",
+    "timestamp": "2026-02-18T03:36:40.635511",
+    "stars_today": "13 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "6,153",
+    "fork": "375",
+    "timestamp": "2026-02-18T03:36:40.635821",
+    "stars_today": "50 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim (actively maintained version)",
+    "star": "1,550",
+    "fork": "104",
+    "timestamp": "2026-02-18T03:36:40.636119",
+    "stars_today": "33 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 15.00 for OpenTibia community.",
+    "star": "537",
+    "fork": "793",
+    "timestamp": "2026-02-18T03:36:40.636430",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "20,282",
+    "fork": "546",
+    "timestamp": "2026-02-18T03:36:40.636712",
+    "stars_today": "88 stars this week"
+  },
+  {
+    "repo": "mistweaverco/kulala.nvim",
+    "href": "https://github.com/mistweaverco/kulala.nvim",
+    "about": "A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
+    "star": "1,896",
+    "fork": "88",
+    "timestamp": "2026-02-18T03:36:40.637006",
+    "stars_today": "7 stars this week"
+  }
+]
