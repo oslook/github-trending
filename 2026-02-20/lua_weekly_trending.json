@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,367",
+    "fork": "2,408",
+    "timestamp": "2026-02-20T03:31:20.623733",
+    "stars_today": "38 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "29,493",
+    "fork": "44,421",
+    "timestamp": "2026-02-20T03:31:20.624045",
+    "stars_today": "117 stars this week"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "5,154",
+    "fork": "312",
+    "timestamp": "2026-02-20T03:31:20.624386",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "bol-van/zapret-win-bundle",
+    "href": "https://github.com/bol-van/zapret-win-bundle",
+    "about": "zapret and blockcheck binary bundle for windows",
+    "star": "1,392",
+    "fork": "233",
+    "timestamp": "2026-02-20T03:31:20.624702",
+    "stars_today": "18 stars this week"
+  },
+  {
+    "repo": "sudo-tee/opencode.nvim",
+    "href": "https://github.com/sudo-tee/opencode.nvim",
+    "about": "neovim frontend for opencode - a terminal-based AI coding agent",
+    "star": "548",
+    "fork": "41",
+    "timestamp": "2026-02-20T03:31:20.624985",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,575",
+    "fork": "265",
+    "timestamp": "2026-02-20T03:31:20.625312",
+    "stars_today": "27 stars this week"
+  },
+  {
+    "repo": "Stephan-S/FS25_AutoDrive",
+    "href": "https://github.com/Stephan-S/FS25_AutoDrive",
+    "about": "FS25 version of the AutoDrive mod",
+    "star": "583",
+    "fork": "33",
+    "timestamp": "2026-02-20T03:31:20.625623",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "19,083",
+    "fork": "943",
+    "timestamp": "2026-02-20T03:31:20.625914",
+    "stars_today": "59 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 15.00 for OpenTibia community.",
+    "star": "536",
+    "fork": "795",
+    "timestamp": "2026-02-20T03:31:20.626237",
+    "stars_today": "0 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,652",
+    "fork": "298",
+    "timestamp": "2026-02-20T03:31:20.626572",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The API and AI Gateway",
+    "star": "42,799",
+    "fork": "5,076",
+    "timestamp": "2026-02-20T03:31:20.626867",
+    "stars_today": "63 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "25,461",
+    "fork": "1,625",
+    "timestamp": "2026-02-20T03:31:20.627153",
+    "stars_today": "108 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-dap",
+    "href": "https://github.com/mfussenegger/nvim-dap",
+    "about": "Debug Adapter Protocol client implementation for Neovim",
+    "star": "6,954",
+    "fork": "251",
+    "timestamp": "2026-02-20T03:31:20.627482",
+    "stars_today": "22 stars this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "5,246",
+    "fork": "278",
+    "timestamp": "2026-02-20T03:31:20.627784",
+    "stars_today": "26 stars this week"
+  },
+  {
+    "repo": "esmuellert/codediff.nvim",
+    "href": "https://github.com/esmuellert/codediff.nvim",
+    "about": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+    "star": "1,114",
+    "fork": "31",
+    "timestamp": "2026-02-20T03:31:20.628073",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "olimorris/codecompanion.nvim",
+    "href": "https://github.com/olimorris/codecompanion.nvim",
+    "about": "✨ AI Coding, Vim Style",
+    "star": "6,166",
+    "fork": "375",
+    "timestamp": "2026-02-20T03:31:20.628391",
+    "stars_today": "45 stars this week"
+  },
+  {
+    "repo": "stevearc/oil.nvim",
+    "href": "https://github.com/stevearc/oil.nvim",
+    "about": "Neovim file explorer: edit your filesystem like a buffer",
+    "star": "6,260",
+    "fork": "207",
+    "timestamp": "2026-02-20T03:31:20.628690",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim (actively maintained version)",
+    "star": "1,558",
+    "fork": "104",
+    "timestamp": "2026-02-20T03:31:20.628975",
+    "stars_today": "29 stars this week"
+  },
+  {
+    "repo": "mason-org/mason-lspconfig.nvim",
+    "href": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "about": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+    "star": "3,819",
+    "fork": "220",
+    "timestamp": "2026-02-20T03:31:20.629259",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "CopilotC-Nvim/CopilotChat.nvim",
+    "href": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "about": "Chat with GitHub Copilot in Neovim",
+    "star": "3,562",
+    "fork": "168",
+    "timestamp": "2026-02-20T03:31:20.629553",
+    "stars_today": "10 stars this week"
+  },
+  {
+    "repo": "nvim-tree/nvim-tree.lua",
+    "href": "https://github.com/nvim-tree/nvim-tree.lua",
+    "about": "A file explorer tree for neovim written in lua",
+    "star": "8,371",
+    "fork": "638",
+    "timestamp": "2026-02-20T03:31:20.629842",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "folke/lazy.nvim",
+    "href": "https://github.com/folke/lazy.nvim",
+    "about": "💤 A modern plugin manager for Neovim",
+    "star": "20,295",
+    "fork": "546",
+    "timestamp": "2026-02-20T03:31:20.630128",
+    "stars_today": "77 stars this week"
+  }
+]

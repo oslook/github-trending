@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "erlang/rebar3",
+    "href": "https://github.com/erlang/rebar3",
+    "about": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+    "star": "1,794",
+    "fork": "524",
+    "timestamp": "2026-02-20T03:31:10.340245",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "seriyps/mtproto_proxy",
+    "href": "https://github.com/seriyps/mtproto_proxy",
+    "about": "High performance Erlang MTProto proxy that powers https://t.me/socksy_bot",
+    "star": "693",
+    "fork": "117",
+    "timestamp": "2026-02-20T03:31:10.340597",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "proper-testing/proper",
+    "href": "https://github.com/proper-testing/proper",
+    "about": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+    "star": "906",
+    "fork": "165",
+    "timestamp": "2026-02-20T03:31:10.340877",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "mochi/mochiweb",
+    "href": "https://github.com/mochi/mochiweb",
+    "about": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+    "star": "1,886",
+    "fork": "466",
+    "timestamp": "2026-02-20T03:31:10.341163",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "ninenines/cowlib",
+    "href": "https://github.com/ninenines/cowlib",
+    "about": "Support library for manipulating Web protocols.",
+    "star": "290",
+    "fork": "175",
+    "timestamp": "2026-02-20T03:31:10.341462",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-delayed-message-exchange",
+    "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+    "about": "Delayed Messaging for RabbitMQ",
+    "star": "2,294",
+    "fork": "160",
+    "timestamp": "2026-02-20T03:31:10.341751",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "blt/port_compiler",
+    "href": "https://github.com/blt/port_compiler",
+    "about": "A rebar3 port compiler",
+    "star": "67",
+    "fork": "40",
+    "timestamp": "2026-02-20T03:31:10.342039",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "vernemq/vernemq",
+    "href": "https://github.com/vernemq/vernemq",
+    "about": "A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!",
+    "star": "3,529",
+    "fork": "426",
+    "timestamp": "2026-02-20T03:31:10.342350",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "emqx/emqx",
+    "href": "https://github.com/emqx/emqx",
+    "about": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+    "star": "15,938",
+    "fork": "2,458",
+    "timestamp": "2026-02-20T03:31:10.342647",
+    "stars_today": "2 stars today"
+  },
+  {
+    "repo": "WhatsApp/erlfmt",
+    "href": "https://github.com/WhatsApp/erlfmt",
+    "about": "An automated code formatter for Erlang",
+    "star": "445",
+    "fork": "64",
+    "timestamp": "2026-02-20T03:31:10.342931",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "ninenines/cowboy",
+    "href": "https://github.com/ninenines/cowboy",
+    "about": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "star": "7,476",
+    "fork": "1,172",
+    "timestamp": "2026-02-20T03:31:10.343213",
+    "stars_today": "1 star today"
+  },
+  {
+    "repo": "eproxus/meck",
+    "href": "https://github.com/eproxus/meck",
+    "about": "A mocking library for Erlang",
+    "star": "832",
+    "fork": "229",
+    "timestamp": "2026-02-20T03:31:10.343598",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "potatosalad/erlang-jose",
+    "href": "https://github.com/potatosalad/erlang-jose",
+    "about": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
+    "star": "334",
+    "fork": "113",
+    "timestamp": "2026-02-20T03:31:10.343896",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "apache/couchdb",
+    "href": "https://github.com/apache/couchdb",
+    "about": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+    "star": "6,817",
+    "fork": "1,066",
+    "timestamp": "2026-02-20T03:31:10.344187",
+    "stars_today": "3 stars today"
+  },
+  {
+    "repo": "msgpack/msgpack-erlang",
+    "href": "https://github.com/msgpack/msgpack-erlang",
+    "about": "MessagePack (de)serializer implementation for Erlang / msgpack.org[Erlang]",
+    "star": "218",
+    "fork": "81",
+    "timestamp": "2026-02-20T03:31:10.344488",
+    "stars_today": "0 stars today"
+  },
+  {
+    "repo": "erlang/otp",
+    "href": "https://github.com/erlang/otp",
+    "about": "Erlang/OTP",
+    "star": "12,028",
+    "fork": "3,049",
+    "timestamp": "2026-02-20T03:31:10.344771",
+    "stars_today": "0 stars today"
+  }
+]
