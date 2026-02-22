@@ -1,0 +1,191 @@
+[
+  {
+    "repo": "nvim-telescope/telescope.nvim",
+    "href": "https://github.com/nvim-telescope/telescope.nvim",
+    "about": "Find, Filter, Preview, Pick. All lua, all the time.",
+    "star": "19,090",
+    "fork": "943",
+    "timestamp": "2026-02-22T03:35:18.486368",
+    "stars_today": "58 stars this week"
+  },
+  {
+    "repo": "lewis6991/gitsigns.nvim",
+    "href": "https://github.com/lewis6991/gitsigns.nvim",
+    "about": "Git integration for buffers",
+    "star": "6,585",
+    "fork": "267",
+    "timestamp": "2026-02-22T03:35:18.486706",
+    "stars_today": "28 stars this week"
+  },
+  {
+    "repo": "koreader/koreader",
+    "href": "https://github.com/koreader/koreader",
+    "about": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "star": "25,489",
+    "fork": "1,624",
+    "timestamp": "2026-02-22T03:35:18.486991",
+    "stars_today": "106 stars this week"
+  },
+  {
+    "repo": "neovim/nvim-lspconfig",
+    "href": "https://github.com/neovim/nvim-lspconfig",
+    "about": "Quickstart configs for Nvim LSP",
+    "star": "13,378",
+    "fork": "2,409",
+    "timestamp": "2026-02-22T03:35:18.487300",
+    "stars_today": "44 stars this week"
+  },
+  {
+    "repo": "NeogitOrg/neogit",
+    "href": "https://github.com/NeogitOrg/neogit",
+    "about": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+    "star": "5,163",
+    "fork": "312",
+    "timestamp": "2026-02-22T03:35:18.487616",
+    "stars_today": "67 stars this week"
+  },
+  {
+    "repo": "nvim-lua/kickstart.nvim",
+    "href": "https://github.com/nvim-lua/kickstart.nvim",
+    "about": "A launch point for your personal nvim configuration",
+    "star": "29,519",
+    "fork": "44,468",
+    "timestamp": "2026-02-22T03:35:18.487897",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "href": "https://github.com/LazyVim/LazyVim",
+    "about": "Neovim config for the lazy",
+    "star": "25,133",
+    "fork": "1,741",
+    "timestamp": "2026-02-22T03:35:18.488175",
+    "stars_today": "103 stars this week"
+  },
+  {
+    "repo": "Stephan-S/FS25_AutoDrive",
+    "href": "https://github.com/Stephan-S/FS25_AutoDrive",
+    "about": "FS25 version of the AutoDrive mod",
+    "star": "583",
+    "fork": "33",
+    "timestamp": "2026-02-22T03:35:18.488453",
+    "stars_today": "1 star this week"
+  },
+  {
+    "repo": "nvim-neo-tree/neo-tree.nvim",
+    "href": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "about": "Neovim plugin to manage the file system and other tree like structures.",
+    "star": "5,254",
+    "fork": "279",
+    "timestamp": "2026-02-22T03:35:18.488743",
+    "stars_today": "35 stars this week"
+  },
+  {
+    "repo": "3rd/image.nvim",
+    "href": "https://github.com/3rd/image.nvim",
+    "about": "🖼️ Bringing images to Neovim.",
+    "star": "1,886",
+    "fork": "88",
+    "timestamp": "2026-02-22T03:35:18.489020",
+    "stars_today": "14 stars this week"
+  },
+  {
+    "repo": "esmuellert/codediff.nvim",
+    "href": "https://github.com/esmuellert/codediff.nvim",
+    "about": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+    "star": "1,125",
+    "fork": "32",
+    "timestamp": "2026-02-22T03:35:18.489296",
+    "stars_today": "34 stars this week"
+  },
+  {
+    "repo": "obsidian-nvim/obsidian.nvim",
+    "href": "https://github.com/obsidian-nvim/obsidian.nvim",
+    "about": "Obsidian 🤝 Neovim (actively maintained version)",
+    "star": "1,565",
+    "fork": "106",
+    "timestamp": "2026-02-22T03:35:18.489586",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "sudo-tee/opencode.nvim",
+    "href": "https://github.com/sudo-tee/opencode.nvim",
+    "about": "neovim frontend for opencode - a terminal-based AI coding agent",
+    "star": "555",
+    "fork": "41",
+    "timestamp": "2026-02-22T03:35:18.489863",
+    "stars_today": "32 stars this week"
+  },
+  {
+    "repo": "coder/claudecode.nvim",
+    "href": "https://github.com/coder/claudecode.nvim",
+    "about": "🧩 Claude Code Neovim IDE Extension",
+    "star": "2,074",
+    "fork": "143",
+    "timestamp": "2026-02-22T03:35:18.490138",
+    "stars_today": "53 stars this week"
+  },
+  {
+    "repo": "lukas-reineke/indent-blankline.nvim",
+    "href": "https://github.com/lukas-reineke/indent-blankline.nvim",
+    "about": "Indent guides for Neovim",
+    "star": "4,861",
+    "fork": "116",
+    "timestamp": "2026-02-22T03:35:18.490441",
+    "stars_today": "11 stars this week"
+  },
+  {
+    "repo": "mfussenegger/nvim-lint",
+    "href": "https://github.com/mfussenegger/nvim-lint",
+    "about": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "star": "2,654",
+    "fork": "298",
+    "timestamp": "2026-02-22T03:35:18.490759",
+    "stars_today": "12 stars this week"
+  },
+  {
+    "repo": "Kong/kong",
+    "href": "https://github.com/Kong/kong",
+    "about": "🦍 The API and AI Gateway",
+    "star": "42,806",
+    "fork": "5,079",
+    "timestamp": "2026-02-22T03:35:18.491034",
+    "stars_today": "52 stars this week"
+  },
+  {
+    "repo": "ibhagwan/fzf-lua",
+    "href": "https://github.com/ibhagwan/fzf-lua",
+    "about": "Improved fzf.vim written in lua",
+    "star": "4,080",
+    "fork": "236",
+    "timestamp": "2026-02-22T03:35:18.491496",
+    "stars_today": "16 stars this week"
+  },
+  {
+    "repo": "catppuccin/nvim",
+    "href": "https://github.com/catppuccin/nvim",
+    "about": "🍨 Soothing pastel theme for (Neo)vim",
+    "star": "7,213",
+    "fork": "325",
+    "timestamp": "2026-02-22T03:35:18.491842",
+    "stars_today": "23 stars this week"
+  },
+  {
+    "repo": "opentibiabr/canary",
+    "href": "https://github.com/opentibiabr/canary",
+    "about": "Canary Server 15.00 for OpenTibia community.",
+    "star": "538",
+    "fork": "798",
+    "timestamp": "2026-02-22T03:35:18.492144",
+    "stars_today": "2 stars this week"
+  },
+  {
+    "repo": "beyond-all-reason/Beyond-All-Reason",
+    "href": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "about": "Main game repository for Beyond All Reason.",
+    "star": "2,786",
+    "fork": "540",
+    "timestamp": "2026-02-22T03:35:18.492421",
+    "stars_today": "16 stars this week"
+  }
+]

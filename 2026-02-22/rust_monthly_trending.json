@@ -1,0 +1,200 @@
+[
+  {
+    "repo": "openai/codex",
+    "href": "https://github.com/openai/codex",
+    "about": "Lightweight coding agent that runs in your terminal",
+    "star": "61,357",
+    "fork": "8,133",
+    "timestamp": "2026-02-22T03:35:27.404023",
+    "stars_today": "4,938 stars this month"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "href": "https://github.com/gitbutlerapp/gitbutler",
+    "about": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "star": "19,490",
+    "fork": "848",
+    "timestamp": "2026-02-22T03:35:27.404325",
+    "stars_today": "2,037 stars this month"
+  },
+  {
+    "repo": "j178/prek",
+    "href": "https://github.com/j178/prek",
+    "about": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "star": "6,347",
+    "fork": "169",
+    "timestamp": "2026-02-22T03:35:27.404663",
+    "stars_today": "2,575 stars this month"
+  },
+  {
+    "repo": "block/goose",
+    "href": "https://github.com/block/goose",
+    "about": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "star": "30,868",
+    "fork": "2,802",
+    "timestamp": "2026-02-22T03:35:27.404952",
+    "stars_today": "4,328 stars this month"
+  },
+  {
+    "repo": "vercel/turborepo",
+    "href": "https://github.com/vercel/turborepo",
+    "about": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "star": "29,841",
+    "fork": "2,263",
+    "timestamp": "2026-02-22T03:35:27.405235",
+    "stars_today": "308 stars this month"
+  },
+  {
+    "repo": "screenpipe/screenpipe",
+    "href": "https://github.com/screenpipe/screenpipe",
+    "about": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
+    "star": "16,950",
+    "fork": "1,414",
+    "timestamp": "2026-02-22T03:35:27.405527",
+    "stars_today": "557 stars this month"
+  },
+  {
+    "repo": "casey/just",
+    "href": "https://github.com/casey/just",
+    "about": "🤖 Just a command runner",
+    "star": "31,508",
+    "fork": "676",
+    "timestamp": "2026-02-22T03:35:27.405840",
+    "stars_today": "1,664 stars this month"
+  },
+  {
+    "repo": "nautechsystems/nautilus_trader",
+    "href": "https://github.com/nautechsystems/nautilus_trader",
+    "about": "A high-performance algorithmic trading platform and event-driven backtester",
+    "star": "20,207",
+    "fork": "2,370",
+    "timestamp": "2026-02-22T03:35:27.406121",
+    "stars_today": "1,924 stars this month"
+  },
+  {
+    "repo": "qarmin/czkawka",
+    "href": "https://github.com/qarmin/czkawka",
+    "about": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "star": "29,391",
+    "fork": "971",
+    "timestamp": "2026-02-22T03:35:27.406426",
+    "stars_today": "1,230 stars this month"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "href": "https://github.com/tauri-apps/tauri",
+    "about": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "star": "103,069",
+    "fork": "3,405",
+    "timestamp": "2026-02-22T03:35:27.406748",
+    "stars_today": "1,577 stars this month"
+  },
+  {
+    "repo": "wezterm/wezterm",
+    "href": "https://github.com/wezterm/wezterm",
+    "about": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "star": "24,380",
+    "fork": "1,216",
+    "timestamp": "2026-02-22T03:35:27.407032",
+    "stars_today": "827 stars this month"
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "href": "https://github.com/tokio-rs/tokio",
+    "about": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "31,228",
+    "fork": "2,940",
+    "timestamp": "2026-02-22T03:35:27.407338",
+    "stars_today": "445 stars this month"
+  },
+  {
+    "repo": "signalapp/libsignal",
+    "href": "https://github.com/signalapp/libsignal",
+    "about": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+    "star": "5,477",
+    "fork": "675",
+    "timestamp": "2026-02-22T03:35:27.407629",
+    "stars_today": "190 stars this month"
+  },
+  {
+    "repo": "matrix-construct/tuwunel",
+    "href": "https://github.com/matrix-construct/tuwunel",
+    "about": "Official successor to conduwuit",
+    "star": "1,497",
+    "fork": "98",
+    "timestamp": "2026-02-22T03:35:27.407909",
+    "stars_today": "389 stars this month"
+  },
+  {
+    "repo": "ankitects/anki",
+    "href": "https://github.com/ankitects/anki",
+    "about": "Anki is a smart spaced repetition flashcard program",
+    "star": "26,532",
+    "fork": "2,821",
+    "timestamp": "2026-02-22T03:35:27.408186",
+    "stars_today": "728 stars this month"
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "href": "https://github.com/Zackriya-Solutions/meeting-minutes",
+    "about": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+    "star": "9,922",
+    "fork": "905",
+    "timestamp": "2026-02-22T03:35:27.408505",
+    "stars_today": "588 stars this month"
+  },
+  {
+    "repo": "git-ai-project/git-ai",
+    "href": "https://github.com/git-ai-project/git-ai",
+    "about": "A Git extension for tracking the AI-generated code in your repos",
+    "star": "1,100",
+    "fork": "76",
+    "timestamp": "2026-02-22T03:35:27.408786",
+    "stars_today": "777 stars this month"
+  },
+  {
+    "repo": "biomejs/biome",
+    "href": "https://github.com/biomejs/biome",
+    "about": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+    "star": "23,767",
+    "fork": "867",
+    "timestamp": "2026-02-22T03:35:27.409092",
+    "stars_today": "595 stars this month"
+  },
+  {
+    "repo": "Pumpkin-MC/Pumpkin",
+    "href": "https://github.com/Pumpkin-MC/Pumpkin",
+    "about": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "star": "7,016",
+    "fork": "447",
+    "timestamp": "2026-02-22T03:35:27.409369",
+    "stars_today": "507 stars this month"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "href": "https://github.com/zed-industries/zed",
+    "about": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "star": "75,749",
+    "fork": "7,040",
+    "timestamp": "2026-02-22T03:35:27.409686",
+    "stars_today": "2,240 stars this month"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "href": "https://github.com/fish-shell/fish-shell",
+    "about": "The user-friendly command line shell.",
+    "star": "32,709",
+    "fork": "2,227",
+    "timestamp": "2026-02-22T03:35:27.409963",
+    "stars_today": "630 stars this month"
+  },
+  {
+    "repo": "leptos-rs/leptos",
+    "href": "https://github.com/leptos-rs/leptos",
+    "about": "Build fast web applications with Rust.",
+    "star": "20,155",
+    "fork": "841",
+    "timestamp": "2026-02-22T03:35:27.410237",
+    "stars_today": "390 stars this month"
+  }
+]

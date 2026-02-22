@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "ghostty-org/ghostty",
+    "href": "https://github.com/ghostty-org/ghostty",
+    "about": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "star": "44,261",
+    "fork": "1,696",
+    "timestamp": "2026-02-22T03:35:33.059851",
+    "stars_today": "2,585 stars this month"
+  },
+  {
+    "repo": "ziglang/zig",
+    "href": "https://github.com/ziglang/zig",
+    "about": "Moved to Codeberg",
+    "star": "42,787",
+    "fork": "3,080",
+    "timestamp": "2026-02-22T03:35:33.060183",
+    "stars_today": "276 stars this month"
+  },
+  {
+    "repo": "PixelGuys/Cubyz",
+    "href": "https://github.com/PixelGuys/Cubyz",
+    "about": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+    "star": "3,214",
+    "fork": "192",
+    "timestamp": "2026-02-22T03:35:33.060484",
+    "stars_today": "184 stars this month"
+  },
+  {
+    "repo": "pedropark99/zig-book",
+    "href": "https://github.com/pedropark99/zig-book",
+    "about": "An open, technical and introductory book for the Zig programming language 📚📖",
+    "star": "2,374",
+    "fork": "140",
+    "timestamp": "2026-02-22T03:35:33.060779",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "mitchellh/libxev",
+    "href": "https://github.com/mitchellh/libxev",
+    "about": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "star": "3,347",
+    "fork": "151",
+    "timestamp": "2026-02-22T03:35:33.061062",
+    "stars_today": "66 stars this month"
+  },
+  {
+    "repo": "dmtrKovalenko/odiff",
+    "href": "https://github.com/dmtrKovalenko/odiff",
+    "about": "A very fast SIMD-first image comparison library (with nodejs API)",
+    "star": "2,817",
+    "fork": "98",
+    "timestamp": "2026-02-22T03:35:33.061372",
+    "stars_today": "73 stars this month"
+  },
+  {
+    "repo": "riverwm/river",
+    "href": "https://github.com/riverwm/river",
+    "about": "[mirror] A non-monolithic Wayland compositor",
+    "star": "3,934",
+    "fork": "161",
+    "timestamp": "2026-02-22T03:35:33.061670",
+    "stars_today": "71 stars this month"
+  },
+  {
+    "repo": "david-vanderson/dvui",
+    "href": "https://github.com/david-vanderson/dvui",
+    "about": "Immediate Zig GUI for Apps and Games",
+    "star": "1,226",
+    "fork": "98",
+    "timestamp": "2026-02-22T03:35:33.061957",
+    "stars_today": "92 stars this month"
+  },
+  {
+    "repo": "zml/zml",
+    "href": "https://github.com/zml/zml",
+    "about": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+    "star": "3,174",
+    "fork": "118",
+    "timestamp": "2026-02-22T03:35:33.062246",
+    "stars_today": "115 stars this month"
+  },
+  {
+    "repo": "capy-ui/capy",
+    "href": "https://github.com/capy-ui/capy",
+    "about": "💻Build one codebase and get native UI on Windows, Linux and Web",
+    "star": "2,545",
+    "fork": "93",
+    "timestamp": "2026-02-22T03:35:33.062540",
+    "stars_today": "58 stars this month"
+  },
+  {
+    "repo": "neurocyte/flow",
+    "href": "https://github.com/neurocyte/flow",
+    "about": "Flow Control: a programmer's text editor",
+    "star": "1,685",
+    "fork": "88",
+    "timestamp": "2026-02-22T03:35:33.062822",
+    "stars_today": "104 stars this month"
+  },
+  {
+    "repo": "jetzig-framework/jetzig",
+    "href": "https://github.com/jetzig-framework/jetzig",
+    "about": "Jetzig is a web framework written in Zig",
+    "star": "1,426",
+    "fork": "53",
+    "timestamp": "2026-02-22T03:35:33.063100",
+    "stars_today": "37 stars this month"
+  },
+  {
+    "repo": "zigtools/zls",
+    "href": "https://github.com/zigtools/zls",
+    "about": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+    "star": "4,567",
+    "fork": "413",
+    "timestamp": "2026-02-22T03:35:33.063409",
+    "stars_today": "68 stars this month"
+  },
+  {
+    "repo": "rockorager/libvaxis",
+    "href": "https://github.com/rockorager/libvaxis",
+    "about": "a modern tui library written in zig",
+    "star": "1,639",
+    "fork": "110",
+    "timestamp": "2026-02-22T03:35:33.063702",
+    "stars_today": "87 stars this month"
+  },
+  {
+    "repo": "karlseguin/http.zig",
+    "href": "https://github.com/karlseguin/http.zig",
+    "about": "An HTTP/1.1 server for zig",
+    "star": "1,387",
+    "fork": "98",
+    "timestamp": "2026-02-22T03:35:33.063979",
+    "stars_today": "42 stars this month"
+  },
+  {
+    "repo": "cztomsik/tokamak",
+    "href": "https://github.com/cztomsik/tokamak",
+    "about": "Web framework for Zig that leverages dependency injection for clean, modular application development.",
+    "star": "581",
+    "fork": "19",
+    "timestamp": "2026-02-22T03:35:33.064261",
+    "stars_today": "17 stars this month"
+  },
+  {
+    "repo": "rockorager/prise",
+    "href": "https://github.com/rockorager/prise",
+    "about": "a terminal multiplexer for modern terminals",
+    "star": "281",
+    "fork": "22",
+    "timestamp": "2026-02-22T03:35:33.064552",
+    "stars_today": "32 stars this month"
+  },
+  {
+    "repo": "tonybanters/oxwm",
+    "href": "https://github.com/tonybanters/oxwm",
+    "about": "",
+    "star": "475",
+    "fork": "44",
+    "timestamp": "2026-02-22T03:35:33.064853",
+    "stars_today": "158 stars this month"
+  }
+]
